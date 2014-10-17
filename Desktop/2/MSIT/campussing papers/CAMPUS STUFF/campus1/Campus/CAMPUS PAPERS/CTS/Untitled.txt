@@ -1,0 +1,1 @@
+ (Graphic Interchange Format) - A common format for image files, especially suitable for images containing large areas of the same colour. GIF format files of simple images are often smaller than the same file would be if stored in JPEG format, but GIF format does not store photographic images as well as JPEG. See Also: JPEG Go to top

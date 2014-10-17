@@ -1,0 +1,160 @@
+hi 
+This is Birlasoft paper at nit jaipur  16/8/03
+TEST - RDBMS, JAVAS RELATED QUES (PGM OUTPUTS ),
+LINUX
+	 DIRECTORY  MOVING COIMMANDS ans cd../.. ,
+	  CHANGE MODE COMMANDS)
+	 SEARCH  FILES WITH THE  WORD "CALL"-specify commands for that ans a&c 	both
+	 CONCATENATION OF TWO FILES. ans using cat command
+	tar command mean to uncompress what wld u use
+	what will command if u want to move in /home/abc from current directory
+WHAT IS GPF IN WINDOWS 95?
+WHAT IS CODE COVERING?
+WHAT DOES SCM IN SDLC STAND FOR?
+WHAT IS A STUB?
+keyword in java(option sizeof,null,friend,synchronized)
+which is inbuild function in c used to free memory (option dalloct ,free,.. )
+question based on ER diagram
+which is wrong (if u r crating array of object of string class)
+	ans String [s]
+Highest Integer stored in  Stand. C Compiler 
+RDBMS 3/4 q's quite difficult
+
+
+Aptitute Test in 25 min u have to do 35 questions
+	here aptitute section was quite time consuming  but no need  ...
+Logical question & data sufficiency q's 
+in 5 q some diagram were given choose what will next
+5 q were fill the blanks 
+	what is angle at 1:05
+	if 15 august 1947 in monday than what day will om 15/8/1987
+	if a watch get 6 min slower in each half an hour than at which time it shows correct time (10 pm)
+	q's on comparision of two watch (one get slower and other one fast)
+
+
+
+
+------------------------
+
+if u get around 35 out of 65 u get shortlisted for GD 
+No indiviual cut off 
+GD topic were 
+(1)After 56 year of indepedence of India
+(2)How Indian IT company can improve Indian IT rural Infrastructure
+(3)Should India -Pak Cricket  match start again
+---------
+candidate sit for apti 88 
+shortlisted for GD 30 
+for Interview 13 
+finally 8 
+-----
+bye 
+Abhishek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

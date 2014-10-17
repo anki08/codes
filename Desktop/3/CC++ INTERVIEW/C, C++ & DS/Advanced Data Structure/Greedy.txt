@@ -1,0 +1,60 @@
+Greedy Algorithms 
+This is another approach that is often used to design algorithms for solving 
+
+Optimisation Problems 
+In contrast to dynamic programming, however, 
+Greedy algorithms do not always yield a genuinely optimal solution. In such cases the greedy method is frequently the basis of a heuristic approach. 
+Even for problems which can be solved exactly by a greedy algorithm, establishing the correctness of the method may be a non-trivial process. 
+In order to give a precise description of the greedy paradigm we must first consider a more detailed definition of the environment in which typical optimisation problems occur. Thus in an optimisation problem, one will have, in the context of greedy algorithms, the following: 
+A collection (set, list, etc) of candidates, e.g. nodes, edges in a graph, etc. 
+A set of candidates which have already been `used'. 
+A predicate (solution) to test whether a given set of candidates give a solution (not necessarily optimal). 
+A predicate (feasible) to test if a set of candidates can be extended to a (not necessarily optimal) solution. 
+A selection function (select) which chooses some candidate which h as not yet been used. 
+An objective function which assigns a value to a solution. 
+In other words: An optimisation problem involves finding a subset, S, from a collection of candidates, C; the subset, S, must satisfy some specified criteria, i.e. be a solution and be such that the objective function is optimised by S. `Optimised' may mean 
+
+Minimised or Maximised 
+depending on the precise problem being solved. Greedy methods are distinguished by the fact that the selection function assigns a numerical value to each candidate, x, and chooses that candidate for which: 
+
+
+SELECT( x ) is largest 
+or SELECT( x ) is smallest 
+All Greedy Algorithms have exactly the same general form. A Greedy Algorithm for a particular problem is specified by describing the predicates `solution' and `feasible'; and the selection function `select'. 
+
+Consequently, Greedy Algorithms are often very easy to design for optimisation problems. 
+
+The General Form of a Greedy Algorithm is 
+
+
+
+function select (C : candidate_set) return candidate;
+function solution (S : candidate_set) return 
+boolean;
+function feasible (S : candidate_set) return 
+boolean;
+--***************************************************
+function greedy (C : candidate_set) return candidate_set is
+x : candidate;
+S : candidate_set;
+begin
+   S := {};
+   while (not solution(S)) and C /= {} loop
+     x := select( C );
+     C := C - {x};
+     if feasible( S union {x} ) then
+        S := S union { x };
+     end if;
+   end loop;
+   if solution( S ) then
+     return S;
+   else
+     return es;
+   end if;
+end greedy;
+
+As illustrative examples of the greedy paradigm we shall describe algorithms for the following problems: 
+
+Minimal Spanning Tree. 
+Integer Knapsack. 
+For the first of these, the algorithm always returns an optimal solution.

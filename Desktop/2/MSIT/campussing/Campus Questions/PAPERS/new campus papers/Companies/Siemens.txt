@@ -1,0 +1,126 @@
+Siemens Aptitude Test
+---------------------------------------------------------
+Siemens Public Communication Software
+*************************************
+* 70% in each semester or 74% + in 4th semester with 70% aggregate.
+* Only E&C,cs and ee
+* Salary 18k
+* 50 wrote test
+* 9 selected for GD (topic:"Is Jayalalitha justified in her actions?")
+* Technical, personal interviews followed.(CC favourite in tech)
+* All 9 selected.
+---------------------------------------------------------
+Totally 3 different tests)****NO PAPERWORK ALLOWED FOR ALL 3 TESTS!!!!!!*****
+
+test 1:
+	30 problems on days of the week                 time : 17 minutes
+	a)when counted normally
+	b)when counted in reverse
+	c)when counted with 1 day skip forward
+	d)when counted with 1 day skip backward
+Answer "Mo" for "Monday","Tu" for Tuesday and so on in the box provided by the
+side of every question.Assume normal counting sequence if nothing is specified
+And remeber NO paperwork!!
+-------------------------
+1.If today is Tuesday what is the third day before the day after tomorrow? mo
+
+2.If Wednesday is the last day of the week whats the third day before the 
+first day of the week. mo
+
+3.If the day before the day after tomorrow is Friday whats the day after the 
+day after tomorrow? su
+
+4.If the  day before the second day of the week is Friday whats the day after 
+the 5th day of the week?  wed
+
+5.If days are counted skipping 1 day forward whats the 3rd day from Thursday?
+mo
+
+6.If days are counted in reverse  whats the day before yesterday if tomorrow 
+is Friday?  mo
+
+7.If days are counted 1 day skipped reverse and the 4th day of the week is 
+saturday then what is the day after the 1st day of the week? thu(wed)
+
+8.Days are counted in reverse, last day of the week is Sunday ,whats the 4th 
+day after the 3rd day of the week?  su
+
+(All questions are just like this .All people who got through the test had 
+solved all 30 questions.I managed only 23.Solve many more questions like this)
+
+ 
+-----------------------------------------------------------------------------
+test 2:             10 questions        	time:15 minutes
+A numerical problem is given here.5 correct steps to solve the problem are 
+given in random order.5 answer choices are given.You should choose the correct
+order of steps for solving the problem and the numerical answer which you can
+eliminate after each step.
+Ex:
+---------------------------------------------------------------------------
+" 10 printers along with the package weighs 400 kg.Each package weighs 5 kg.
+Find the weight of all the printers ."
+
+STEPS:
+a)Weight of 10 printers must be 400 - weight of packages  = 350 kg.
+b)10 packages must weigh 50 kg if each weighs 5 kg.
+c)Weight of all printers must be less than 400 kg.
+
+Answer choices:
+1.300  
+2.350
+3.325
+4.450
+5.400
+------------------------------------------------------------------------------
+in the above problem "c" is the first step.Write "c" in the 1st block.
+answer choices 4 and 5 get eliminated write 4,5 in 2nd block.
+"b" is the second step.write b in the third block.
+you cant eliminate any answer at this stage proceed to find the next step.
+next step is "a" write "a" in the 4th block
+answer choices 1 and 3 are eliminated after this .write 1,3 in 5th block.
+
+
+p.s.:All steps have to be taken up and all wrong answer choices are to be 
+eliminated.
+	All 10 problems are of the above type but number of steps could be as
+high as 5.You have only 15 minutes .8 correct answers should be nice (i got 7)
+
+
+------------------------------------------------------------------------------
+test 3:
+------------------------------------------------------------------------------
+	Alphabets are coded as shown
+A 0
+B +1
+C -1
+D +2
+E -2
+F +3
+G -3
+H +4
+I -4
+J +5
+K -5
+L +6
+M -6
+N +7
+O -7
+P +8
+Q -8
+R +9
+S -9
+
+Ex: A C L K P = ?
+write the alphabetic equivalent of the above equation which translates to
+0 -1 +6 -5 +8 = 8 = P
+
+50such equations are to be solved (i guess coz' there was no numbering ,but 
+there were 5 columns of equations) and time duration is not specified
+(i had enough time for about 2 and a half columns;the guy who got selected 
+did  nearly 3 and a half columns;i guess i got chucked out here!)
+P.S.: Answers are all of  1 digit .No sweat.
+
+the question paper will look something like 
+A N B C K = 
+Q P R A C = 
+I J S 0 A = 

@@ -1,0 +1,117 @@
+De Shaw Paper:
+hi friends hr i am enclosing deshaw paper in IT-BHU....04-08-2004
+tOTAL QUESTIONS R ...     20 APTI(20 MINS)
+   + 20 TECHNICAL(C,C++,JAVA,DS)(30 mins)
+   + ONE c ALGORITHM + C code(15 mins)
+                                                                                                                             
+                                                                                                                             
+seciton 1....apti common as other paprers
+1.two walls of 100 m height .a thread of length 150 m was held in b/w their tops.the thread at centre came to 25 m
+height.what is distance b/w walls.
+ans: zero
+2.two scientist sit in a room.for one scientist product of two integers is given.for  othere sum of same integers is
+given.one scientist came to know the number given to othere scientist ...then he told two integers.what r those integers..
+  a.4 and 6
+  b. 3 and 5
+  c. 2 and 7
+  d.noen of the above
+3. SOME quantity increased by 25% and other is decreased by 15 %of first quantity. then what must be the change in selling
+rate to cancel loss-------one question of this type
+4. there are 10 coins . if they tossed 10 coins what is the probability of third coin getting head ?
+5.A's share is 1/7 of b and B's share is 5/6 of c then what is the actual share of A if total amount is 1200.  ( dayta is
+not exact)
+6. in a railwat track X stations are added then 46 new tickets are printed then what are the actual stations
+                                                                                                                             
+7.   A+B+C=C+D+E=E+F+G=G+H+I ,all alphabets are assigned values 1 to 9.
+       then value of E?
+        a) 4
+        b) 6
+ c) 9
+ d) 1.
+8. a temple has 3 gates. a person going through them the flowers he had wil be doubeled. before each gate there is an idol.
+he offers same number of flowers at eaxch idol. at the end he have  zero flowers. how many did he have initially    ans=  7
+and he offers   8 at each idol.
+                                                                                                                             
+                                                                                                                             
+section2......
+----2 quesions on extern variable.
+1. int m=30
+  main()
+ {  int m=20;
+    {
+      int m=10;
+      {
+   extern int m;
+  printf("%d",m);
+       }
+    }
+  }
+2.  extern variable's charector
+    a. global scope   b. no necessity to define c.none of the above
+-----3 questions on costructors and destructors and parent and child classes.
+---2 questions on sorting techniqe
+7. fastest search algorithm
+   a.bubble  b. quick sort   c. merge sort  d.depends
+8. given sequence 5 4 1 7 9 11 10 14 in quick sort after 1 st iteration
+   a.7 or 9 r pivot elements
+   b.7 is pivot element
+   c.9 is pivot element
+   d.neither 7 nor 9 is pivot element
+  ---5 questions on java
+---8 questions on c
+15.define MAX(i,j)  { (i<j)?j:i; }
+  main()
+   {
+     int i=0,j=1;
+     printf("%d",MAX(i++,j++));
+ printf("%d%d",i,j);
+   }
+   what is output?
+  a.2,1,3    b.1,1,2   c.2,2,3 d.none
+                                                                                                                             
+18. In the following code segment what will be the result of the function,
+value of x , value of y
+{unsigned int x=-1;
+int y;
+y = ~0;
+if(x == y)
+printf("same");
+else
+printf("not same");
+}
+a) same, MAXINT, -1
+b) not same, MAXINT, -MAXINT
+c) same , MAXUNIT, -1
+d) same, MAXUNIT, MAXUNIT
+e) not same, MAXINT, MAXUNIT
+Ans. (a)
+19. a member function can call another member func of same class then
+ a.  in case of private functions only
+                            b.  in case of public functions only
+ c.  none of the above
+ d.  both a and b
+20. enum var={a,b,c,d,e,f=-1,g}
+                                                                                                                             
+printf("%d%d%d",a,b,c);
+                                                                                                                             
+                                                                                                                             
+                                                                                                                             
+                                                                                                                             
+                                                                                                                             
+---ALGORITHM SECTION(15 mins)
+                                                                                                                             
+  given a MxN grid(n>m).write an algorithm and c code for finding number of squares
+ans:(not sure)
+   main()
+   {   int m,n,count=0;
+     for (int row=0;row<m;row++)
+        for (int col=0;col<n;col++)
+      for (int i=0,j=0;(i<(m-row))&&(j<(n-col));i++,j++)
+   count++;
+     printf("%d",count);
+    }
+   
+                                                                                                                          
+
+                                                                                                                             
+                                                                                                

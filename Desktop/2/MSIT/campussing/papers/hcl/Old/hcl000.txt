@@ -1,0 +1,251 @@
+
+
+
+
+
+
+   Dear friends,
+		I am sending u the ques  of HCL Info system &  M.B.T.
+			
+
+		please send me the ques of A.B.B & I.B.P.
+		these are comming in the 1st week of november .
+		please send me as early as possible ..
+		                          		
+                                           best of luck...
+
+
+                                                       ------ from B.E College.
+
+                            HCL-Infosystem
+                         ----------------------
+
+               Developer Section:
+     For developer section there was two parts-software section and aptitude section
+     In each section there were 40 qs. in 30min. Total 1 hrs.
+     
+   software section: please cheeck the answer.
+   -----------------
+     1) isascii(int c) this function is available in which header file?
+        ans- ctype.h
+      2) which is wrong?
+         a. int person_of_age
+         b. int age
+	 c. int age of person - >>Ans.
+	 
+       3) for(i=1;i<10;i)
+	  the loop is count for 
+           Ans>> infinite times.
+	4) int k
+            main()
+	     {
+	       printf("%d",++k)
+	      }
+	    output of this program is
+              a. compilation error.
+    	      b. run time error.
+	      c. 1
+	      d. 0
+	5) declearation of link list:
+		Ans>> struct node
+			{
+			  int i;
+		          struct node *next;
+			};
+	6)scope resolution used in c++
+		Ans>>::
+	7)which is fully object oriented language ?
+		Ans>> c++.
+	8) which is not avaliable in  c?
+		Ans>> iostream.h.
+	9) main()
+		{
+		  int a=5,b=6,c;
+		  b=a++;
+	          b=++a;
+		  c=--b-++a;
+		}
+		output? Ans>>-2.(cheeck);	 			 
+	10)which is main interface java?
+		a. inheretance
+		b. multiple inheretance
+			ans is not known.
+	11)full form of XML
+		Ans>> xtensible markup language.
+	12) main()
+		{
+		  int a;
+		  a=2&3;
+		printf("%d",a);
+		}
+		Ans>>2.
+	13) inventer of c++?
+		Ans>> stroughstroph(cheeck).
+	14) inventer of java?
+	15 which point is not avaliable 
+		Ans>> far;
+	16)the return type of constructor is
+		Ans >>void.
+	17) NULL is in c program?
+		a.constant
+		b.variable
+		c. macro.
+		d.
+	18)auto default initial value?
+		a.garbauge
+		b.zero.
+	19)characteristic of  override function?
+	20)the character of c function
+		Ans>>8bit.
+	21) in c language  range of signed integer
+		Ans>> one more negative value than (+)ve value
+	22) which is meta language?
+	23)which is not used in oracle?
+		Ans pointer.
+	24)particular operating system made for java?
+		Ans.solaries.
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	aptitude  section
+	-----------------
+	1)a man buys 100 apples at 50p each and 50 orange at 60p each . 10%of appales are spoiled
+	the man sales the remaining  apples at 70p each and orangesat Rs1 each. the profit made as %
+        of cost is ? ans>>35%
+        2) A invest 30000 ,after two months B joins with 45000 .after complition of year profit 
+        54000 .what is the share of A of profit? ans>>24000
+        3)cost of 2ball=cost of 3bat
+	.........................
+	ANS 16
+	4)1QUES of simple interest
+	some amount at 5% interest  for 1year stored at the end of year 100/- return .then what 
+	dues have to be paid after 2 years  .  ans 115.5/-
+	5)decreasing the price 27.5%  price is 87 .what is actual price.
+	ans 120/-
+	6)one ans. is  1 1/4
+	7)average age of 3 boys is 25.the ratio of the boys 3:5:7.whatb is the age of youngest?
+	ans  15
+	8)one boy goes to school 3kmph and returns with 2kmph .total time taken 5hrs .what is the distence of the school
+	ans :  6km
+	9)
+
+
+
+
+
+
+
+	Reasoining(question no 25 to 34)
+	------------------------------
+		in a board there are 1 president ,2 vice president and 2 secratries from
+		P,Q,R,S,T,U,V,W
+		where P orQ->president
+		      R,S orT->V.P.
+		      U,V or W ->sec.
+		conditions given:
+			1)U & T never work together.
+			2)U & W  ,,     ,,   ,,
+			3)if Q present then only S present
+		to solve construct the diagram below and impose the conditions in the diagram.			
+               		            P	
+				  / 
+  			president/   or
+				\
+				 \
+				   Q		
+			      R  	     	
+		             /
+			    /	
+			V.P/-----S
+			   \
+			    \
+			     \T
+				
+			     U	
+			    /		
+			sec/----V
+          		   \
+			    \ 	
+			     \W	
+
+
+
+
+
+		Last section(Data interpritation)
+		-----------------------------------
+		1) ques no 39 --> ans>>e
+                2) ques no  40--> ans>> a
+         
+
+
+
+
+
+
+
+
+
+				M.B.T
+    THERE ARE 3 SETS OF QUESTIONS
+       I AM GIVING ALL THE QUESTION AT ONE PLACE
+         (APPIT)
+     1)N/ 1/N=? ANS >>N*N
+      2) FOR A TRINGLE A> B,B>C, 
+         ANS >>A Should >90
+      3)3 pt given (3,8),(3,4),(8,3)
+        find area ans>>8
+      4)a man give 1/2 of his salary as rent of house 1/3 for marketing
+       1/4 for sth than save 60/-
+        what is salary ?
+      5) 120 /0.11*( sth)=?
+      6)M age is less than 2 year than N if present age of N is 28 5yr ago  what is age of M? 
+      7)prob on velocity 
+       a car goes from A to B in 30 min .dis bet A to b given .what is vel of car?
+      2ND PART OF SERIES     						  	  			   
+      ******************
+      10 qu  5min 
+      a, d,h,o,   ....? 
+      a,y,d, v,.......?
+      3)there are  2 consequitive qu where a common letter u is found 
+      both ans >>u
+	4) 2.5 ,2.25, 2, 1.75       next term?
+	
+
+	3rd part   analytical reasoning
+	-------------------------------
+	barrons guide  12 edition    
+	1)page no 400  :ques 29-31  4 ques 
+			 (a certain city served by 6 subway lanes.............)
+	2)page no 396  ques 1-4 
+	(allen ,braun ,green)
+	3)page 443  model test 1 17-22
+	4)ppage no 628 ques 1-4 
+	(f,g,h,j,k,l,m,n,o,p,q,r)		
+	
+
+
+	Flow chart  from TATA Info tech question paper (any 3 from 9 flow charts in each set)
+	
+
+
+
+
+
+	passage 
+	--------
+	on  socrecatish  life history
+	(time of born ,death ,doctrine ,conspiracy against him,follower of him with B.C) 
+	  	     				

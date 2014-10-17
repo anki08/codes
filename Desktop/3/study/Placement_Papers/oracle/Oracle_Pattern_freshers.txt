@@ -1,0 +1,58 @@
+
+___________________________________________________________________________________
+
+COMPANY NAME : Oracle
+------------------------------------------------------------
+DATE OF TEST : 
+------------------------------------------------------------
+PLACE OF TEST: 
+------------------------------------------------------------
+MODE 	   : Off-campus
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+
+-----Original Message-----
+From: ARUN DAWSON 
+Sent: Thursday, May 15, 2003 9:25 PM
+To: CHETANA-JOBS@yahoogroups.com;
+Subject: [CHETANA] (freshers) Oracle Paper Pattern...
+
+
+ORACLE written will be of 60 questions.
+
+30 Technical + 30 objective type (GRE pattern)
+
+TEchnical part
+===========
+Mainly of C, C++, ORACLE SQL, PL/SQL, DBMS, RDBMS and
+symbolic representation of tables, column and its
+relationship(its in our DBMS syllabus).
+
+30 objective
+=========
+GRE pattern. All analytical & mathematical oriented
+problems. Also comprehensions and little bit of verbal
+ability.
+
+all the best to all u have been shortlisted.
+arun
+
+
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

@@ -1,0 +1,81 @@
+
+
+
+whole of the paper is a verbal one and prepare for vocabus only..forwardinh you the messege i got from 
+my frnd.
+  1. Find the odd man out
+          a) entice,lure,allure,alarm.
+                 select the odd one out.
+             b) evince,press,exort,spur.
+
+  2.synonyms
+          Vivacious.
+coerce
+abysmal
+sensation
+
+
+
+
+
+  3.Analogies.
+         If symphony : compose then
+                 a) playwrite : play
+                 b) child : mother
+                  .....
+  
+  4.Four sentences will be given.For example, a).... 
+b)....c)...d)....
+            You have to arrange them in such a way that they form a 
+meaningful paragraph.
+
+  5.Question related to alphabets.
+          A F G T
+          E G W O +
+          -------
+          1 2 3 0
+          ------- 
+       the above is just an example and not a question appeared in 
+the test.
+
+  6.Antonyms.
+         Placate 
+           a)abet
+           b)enrage
+           c)witness
+           d).....
+
+  7.Questions from 'C' language(only 2 to 3 of them)
+          int x = 10,y=15,z = 5;  
+          int i;
+          i = x<y<z;
+          printf("%d",i); 
+    
+      
+                 There will be no problem with the written test if 
+yo
+                        important::::There will be no questions from 11th and 12th 
+standard subjects as it was in the previous year.
+                       Regarding the interview,there will be a 
+compulsory HR and Technical interview(in any order) for all the 
+short listed candidates.Be strong in your 'C' programming 
+skills.Also,make sure that you take with you your project reports(if 
+you have done any).This might be useful to impress the 
+interviewers.Then be strong in Operating Systems,if you had that in 
+your academics.Do not ever say that,"I will be able to write down 
+the logic,but not the program".Two of my friends told this and they 
+were not selected.be confident and clear cut,..
+                        Be careful while filling in the resume given 
+by them.The columns in the resume are,for example
+
+1.Where do you think you have to improve yourself?
+2.Why have you chosen WIPRO?
+3.Your strengths and weaknesses.
+                        HR questions will be from your resume.
+
+INTERVIEW DURATION WILL BE MINIMUM 1 HOUR(HR + TECHNICAL) for each 
+person.
+                        Also,in my department only those who have 
+got CGPA more than 8/10 were selected.
+
+ 

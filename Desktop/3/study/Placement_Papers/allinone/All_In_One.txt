@@ -1,0 +1,132 @@
+STM came for both IC design and embedded system
+groups. The paper for embedded systems group is
+already posted.
+
+TI came to iitm only for Analog jobs..though they
+allowed CSE ppl also to the test, they didnt take any.
+The written test consisted of 3 sections. We have to
+answer any two. One on analog design, two on digital
+design and third on Data structures and algos. As i am
+from CSE, i can tell u only Data Structure and Algo
+questions.
+
+1) Some OS related question..what signal to caputure
+Ctrl+C in some application.
+Ans: SIGINT not SIGKILL
+
+2) Some code for transposing a matrix is given..we
+have to answer what it does.
+
+3) One tree is given. Write the topological sort
+output.
+
+4) Some code with ANDing operation and right shift.
+The ans is it prints the binary equivalent of the
+number.
+
+5) Inorder traversal on binary search tree gives what?
+ans: the sorted order as the output.
+
+There are 5 more and all are very simple. To my
+knowledge, the above questions are the only toughest.
+
+Next was an aptitude test. All the questions are very
+easy but time consuming..I remember a little about it
+since i didnt write it seriously.
+
+Good luck.
+The pay for STM was 4.35 Gross and 5L CTC.
+For TI, some 4.5 Gross.
+
+*************************************************************
+
+ I am frm IIT Bombay . In IITb no test was taken for M.tech and DDs B.tech had a test. Around 40 ppls weree shortlisted from Mtech dds, there were 5 panels each panel had a pesron from different grps in Intel like testing , designing ect. Mine was testing panel I was asked simple questions as below. Other panel disscused MTech projects, or areas of working of that panel.
+q1 intel which gruop u would like to join and why
+ans manfact and automation grp. coz i have bacgnd in inst and automation
+q1 which other grp (as he is frm testing validation gr.)
+I told testing .
+q2  Asked me do I know VLSi design I told little bit gave cmos dig for 
+and asked me to find exp (AB+C)'.
+q3 asked me do I know bollean algerbra,switchong theory ?  gave me exp a=b
+exor c athen what is (a exor b exor c)
+q4 which courses related with sys des I have taken?
+q5 what are embeded sys?
+q6 what is comp architechture
+ans blk dig of comp ie cpu mem etc. and explained it.
+q7 about project like what motivation for VlBR coding? what lang and  and
+whow real time  DSp implementation will be done ect.
+q8 What do you know about spice ? how does a spice pgm looks like? Whay it
+is used? What is significance of spice library file say 18 micron tech
+file ?
+anms I told abt spice pgms sign. Purpose dev and ckt simulation. of
+library files I said Dont know?
+Q9 What kind of job are you interested wether u would like to design H/W
+or software?
+Ans I told him I would like to do Firmware dev. ie s/w for some dedicated
+h/w. like pgmimng ctrllers, dsps ect.
+q10what do you think a  testing job means I told him it may involve FPGA 
+implementation and testing of ckts .
+Q11 Do you have any que
+Ans yes what kind of work is done in testing and validation gr he told
+basicaly they simulate the variuos designed ckts using s/w like spice ect.
+
+
+Finally  he told me that his gr doesnt work in area in which I am
+interested but threre are other grps which do so he'll pass my info to
+them.  Interview lasted for about 30 mins
+
+
+*************************************************************
+Hi friends,
+I got slected for STM(embedded software design
+division).
+I should say thanx to all the members of this group
+and modarator for ur nice help.
+
+Here is the pattern:
+
+First of all they put cut of as 8.0(cgpa).
+There were two tests, one for IC Design another for
+Embedded software design. My specilasation here is
+communications that's why I wrote test in Embedded
+software section.
+
+Test duration was one hour.
+There were three(A,B,C) sections.
+Section A contained 11 questions.
+Among those 11 few questions were on C.
+All C questions were standard question which generally
+appear in all placement papers.
+Two questions were on aptitude.
+those were also very easy...
+
+Section B:
+It contained 13 Q's
+It contained questions basically from comupter science
+engg.
+few questions on OS, few on computer architecture, one
+on java few on microprocessor.
+
+Section C:
+It contained 13 Q's
+Most of the questions in this section were from
+communication engg, based on sampling, bitrate, BW,
+SNR etc...
+few questions were also there on A/D and D/A
+converters.
+
+All three sections are compulsary.
+They gave one very good option here. U have choose a
+section among B and C, sothat marks obtained in that
+section will be doubled. Be careful there is negative
+marking...
+
+It is all about the paper.
+
+so guys...
+Prepare well and attempt confidently that will bring u
+success.
+
+Wish u all godd luck.
+
+

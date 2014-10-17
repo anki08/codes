@@ -1,0 +1,194 @@
+GeeksforGeeks
+A computer science portal for geeks
+Register  |  Login
+HomeQ&AInterview CornerLinksAsk a question
+FeedbackContributeAbout usSubscribe
+Arrays Articles Bit Magic C/C++ Puzzles GFacts Linked Lists MCQ Misc Output Strings Trees
+Browsing the topic Linked Lists
+
+XOR Linked List – A Memory Efficient Doubly Linked List | Set 1
+9 Comments | Filed under Linked Lists May 23, 2011
+An ordinary Doubly Linked List requires space for two address fields to store the addresses of previous and next nodes.
+
+Read More »
+Detect and Remove Loop in a Linked List
+18 Comments | Filed under Linked Lists May 9, 2011
+Write a function detectAndRemoveLoop() that checks whether a given Linked List contains loop and if loop is present then removes the loop and returns true.
+
+Read More »
+Segregate even and odd nodes in a Linked List
+29 Comments | Filed under Linked Lists April 22, 2011
+Given a Linked List of integers, write a function to modify the linked list such that all even numbers appear before all the odd numbers in the modified linked list.
+
+Read More »
+Delete nodes which have a greater value on right side
+23 Comments | Filed under Linked Lists March 22, 2011
+Given a singly linked list, remove all the nodes which have a greater value on right side.
+
+Read More »
+Reverse alternate K nodes in a Singly Linked List
+3 Comments | Filed under Linked Lists March 14, 2011
+Given a linked list, write a function to reverse every alternate k nodes (where k is an input to the function) in an efficient way. Give the complexity of your algorithm.
+
+Read More »
+Sorted insert for circular linked list
+4 Comments | Filed under Linked Lists February 25, 2011
+Difficulty Level: Rookie Write a C function to insert a new value in a sorted Circular Linked List (CLL). For example, if the input CLL is following.
+
+Read More »
+Linked List vs Array
+6 Comments | Filed under Arrays Linked Lists January 24, 2011
+Difficulty Level: Rookie Both Arrays and Linked List can be used to store linear data of similar types, but they both have some advantages and disadvantages over each other.
+
+Read More »
+Reverse a Linked List in groups of given size
+13 Comments | Filed under Linked Lists June 14, 2010
+Given a linked list, write a function to reverse every k nodes (where k is an input to the function).
+
+Read More »
+Merge Sort for Linked Lists
+11 Comments | Filed under Linked Lists June 6, 2010
+Merge sort is often preferred for sorting a linked list. The slow random-access performance of a linked list makes some other algorithms (such as quicksort) perform poorly, and others (such as heapsort) completely impossible.
+
+Read More »
+Identical Linked Lists
+4 Comments | Filed under Linked Lists June 3, 2010
+Two Linked Lists are identical when they have same data and arrangement of data is also same. For example Linked lists a (1->2->3) and b(1->2->3) are identical.
+
+Read More »
+Merge two sorted linked lists
+12 Comments | Filed under Linked Lists May 27, 2010
+Write a SortedMerge() function that takes two lists, each of which is sorted in increasing order, and merges the two together into one list which is in increasing order. SortedMerge() should return the new list.
+
+Read More »
+Alternating split of a given Singly Linked List
+15 Comments | Filed under Linked Lists May 23, 2010
+Write a function AlternatingSplit() that takes one list and divides up its nodes to make two smaller lists ‘a’ and ‘b’. The sublists should be made from alternating elements in the original list. So if the original list is 0->1->0->1->0->1 then one sublist should be 0->0->0 and the other should be 1->1->1.
+
+Read More »
+Delete alternate nodes of a Linked List
+8 Comments | Filed under Linked Lists May 20, 2010
+Given a Singly Linked List, starting from the second node delete all alternate nodes of it. For example, if the given linked list is 1->2->3->4->5 then your function should convert it to 1->3->5, and if the given linked list is 1->2->3->4 then convert it to 1->3.
+
+Read More »
+Intersection of two Sorted Linked Lists
+7 Comments | Filed under Linked Lists May 17, 2010
+Given two lists sorted in increasing order, create and return a new list representing the intersection of the two lists. The new list should be made with its own memory — the original lists should not be changed.
+
+Read More »
+Delete a node in a Doubly Linked List
+2 Comments | Filed under Linked Lists May 8, 2010
+Write a function to delete a given node in a doubly linked list.
+
+Read More »
+Pairwise swap elements of a given linked list
+10 Comments | Filed under Linked Lists April 29, 2010
+Given a singly linked list, write a function to swap elements pairwise. For example, if the linked list is 1->2->3->4->5 then the function should change it to 2->1->4->3->5, and if the linked list is 1->2->3->4->5->6 then the function should change it to 2->1->4->3->6->5.
+
+Read More »
+Move last element to front of a given Linked List
+3 Comments | Filed under Linked Lists April 22, 2010
+Write a C function that moves last element to front in a given Singly Linked List. For example, if the given Linked List is 1->2->3->4->5, then the function should change the list to 5->1->2->3->4.
+
+Read More »
+Practice questions for Linked List and Recursion
+2 Comments | Filed under Linked Lists
+Assume the structure of a Linked List node is as follows.
+
+Read More »
+Split a Circular Linked List into two halves
+8 Comments | Filed under Linked Lists March 28, 2010
+Asked by Bharani
+
+Read More »
+Reverse a Doubly Linked List
+3 Comments | Filed under Linked Lists March 22, 2010
+Write a C function to reverse a given Doubly Linked List See below diagrams for example.
+
+Read More »
+Pages:12»
+		 
+   Subscribe
+GATE
+Java
+Dynamic Programming
+Recursion
+Divide and Conquer
+Backtracking
+Pattern Searching
+
+Forum Latest Discussion
+amazon Interview Question for Software Engineer/Developer (Fresher) about Strings
+Last Post By: kartik
+Inside: Interview Questions
+Infosys Interview Question for Software Engineer/Developer (Fresher) about Puzzle
+Last Post By: Rajat
+Inside: Interview Questions
+Google Interview Question for Software Engineer/Developer (Fresher)
+Last Post By: neeraj
+Inside: Interview Questions
+TCS Interview Question for Software Engineer/Developer (Fresher) about Aptitiude
+Last Post By: sai
+Inside: Interview Questions
+interview
+Last Post By: shivam
+Inside: Interview Questions
+Interview Questions
+Last Post By: Agniswar
+Inside: Interview Questions
+Confused
+Last Post By: anonymizer
+Inside: Interview Questions
+diff b/w function pointer and pointer to functions
+Last Post By: Ravi
+Inside: Interview Questions
+Forum Categories
+Interview Questions (9210)
+C/C++ Programming Questions (1295)
+Algorithms (820)
+Trees specific questions (262)
+Linked List specific questions (123)
+Multiple Choice Questions (58)
+Object oriented queries (70)
+GPuzzles (203)
+Operating Systems (85)
+Miscellaneous (339)
+Java specific Questions (120)
+Perl specific Questions (15)
+Popular Posts
+Print a given matrix in spiral form
+Check if a binary tree is subtree of another binary tree
+Write a C program to print all permutations of a given string
+Are array members deeply copied?
+Inorder Tree Traversal without recursion and without stack!
+Decision Trees - Fake (Counterfeit) Coin Puzzle
+Find the minimum distance between two numbers
+Write a C program to reverse digits of a number
+Recent Comments
+GeeksforGeeks: @rajcools: Apologies for the delayed reply. The code...
+student: what about this solution? [sourcecode language="c"] int...
+viji: [sourcecode language="C"] #include "malloc.h&qu...
+Sandeep: We don’t know the looping node before calling the...
+Vijay Nag: Why is removeLoop(node) required when we know the...
+Featured Posts
+Structure Member Alignment, Padding and Data Packing
+k largest(or smallest) elements in an array | added Min Heap method
+A program to check if a binary tree is BST or not
+Write a function to get the intersection point of two Linked Lists.
+Median of two sorted arrays
+Understanding “extern” keyword in C
+Ugly Numbers
+How will you show memory representation of C variables?
+Condition To Print “HelloWord”
+Largest Sum Contiguous Subarray
+Write an Efficient Method to Check if a Number is Multiple of 3
+Add Interview Questions
+If you have attended an interview recently or have good interview questions to share with the fellow geeks and get the best solution, please add it to Add Interview Question page 
+
+
+
+@geeksforgeeks, Some rights reserved Powered by WordPress & MooTools, customized by geeksforgeeks team
+
+     
+
+

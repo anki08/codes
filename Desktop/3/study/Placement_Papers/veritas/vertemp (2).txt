@@ -1,0 +1,103 @@
+1.Can there be virtual constructors/distructors? why would one use it?
+
+2. Can constructors/distructors be overriddent? why would one do that?
+
+3. compare LFU vs. LRU.. what are the overheads, anomalies, if any.
+
+4. What is thrashing? how would you try to ensure that system does not 
+thrash?
+
+5. What is a clustered file system? what r the issues therein?
+
+6. How do you ensure ACID properties in a Distributed Real time 
+environment? don't take any assumptions regarding reliability of the 
+any component in the system.
+
+7. Explain IPC and various mechanisms for implementing IPC.
+
+8. How do you pass a file descriptor from a parent process to a child 
+process?
+
+9. Can a child process use file descriptor of a file opened by the 
+parent, if it passes it?
+
+10. If you are required to find all palindromes from the english 
+dictionary, what kind of data structures and algorithms would you choose?
+
+11. How do you keep backups efficiently on say twice per day basis? 
+Backups being expensive can we come up with some tricky thing which can 
+elimiate copying the entire thing to one or more disks?
+
+12. something abt a project you have done..
+
+13. General questions on background, why do you want to join Veritas, 
+etc..
+----------------------------------------------------------------------------------
+
+Architecture  :
+
+   Whats the effect of increasing pipeline length ...
+ 
+   Inverted page table ... describe ... 
+
+   Do u always flush TLB on context switch 
+
+   When do u flush TLBs other than context switch     
+
+   ( few other questions on paging ) 
+
+  
+
+Compilers 
+
+    What optimizations can u think od doing on pointer manipulatioj in a
+strongly typed language like C . 
+
+    Explain 'aliasing'      
+
+    ( some simple compiler optimization questions ) 
+          
+Algorithms 
+
+    Given an unordered array and a sum S , how can u find efficiently
+whether there are two elkements in the array which add to S.   
+
+    Sorting .. complexity ( space and time ) ...  why quick sort is
+preferred to merge sort  .. etc  
+OS 
+     Whats a semaphore 
+
+     Whats the difference bewteeb a mutex and a semaphore  
+      
+     ( some more questions on synchronization ) 
+----------------------------------------------------------------------------------
+1.what r the design issues when developing a os for multiprocessor systems
+2.how are locks (in fact semophores implemented ) particularly for 
+multiprocessor systems.
+3.given a file which is constantly being appended by few writer user 
+processes and read by large number of reader processes,how do u 
+efficiently ensure that no reader reads a partly written content by a 
+writer (ie once a writer starts writing ,either the reader should be shown 
+what was there before the writer writes or should be shown after the 
+writes entire content )
+4. how does one determine the size of a structure without using sizeof 
+operator.
+5.The most ultimate question ever -write a C program to find the nth 
+fibonacci number .
+-------------------------------------------------------------------------
+os
+--
+1. fundas about different sized pages in memory management
+2. segmentation against paging
+3. mutual exclusion
+4. implementation of semaphore using TSL and swap instructions 
+5. deadlocks
+
+
+networks
+--------
+1. bridges v/s routers
+2. how to simulate a duplex connection given a simplex connection
+3. effect of packet size on communication with respect to error etc..
+
+------------------------------------------------------------------------

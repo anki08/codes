@@ -1,0 +1,67 @@
+                                  BHEL 2003 (IIT ROORKEE)
+SUGGESTIONS:
+1) Read R.K.Jain (mechanical engineering objective book) chapters on
+a) General engineering - chapter 17
+b) Strength of materials and engineering mechanics- chapter 10
+c) Fluid mechanics and etc.
+Most of the bits were from mechanical and electrical and civil only
+Toatal 100 bits- 75 bits (engineering)- 25 bits (english and aptitude)
+Check the following questions from R.K.jain, we r giving number of the question in that book (10.337 means 10th chapter 337 th question)
+1) 10.337
+2) 10.319
+3) 10.119
+4) 10.196
+5) 10.194
+6) 10.56
+7) 10.369
+8) 8.275
+9) 8.143
+10) 8.228
+11) 8.153
+12) 8.247
+13) 8.363
+14) 17.49
+15) 17.66
+16) 17.79
+17) 17.119
+18) 17.127
+19) 17.144
+20) 17.173
+21) 17.91
+22) 17.110
+23) 17.123
+24) A block has weight of 1000 kg and friction coef of 0.33 and acted up on by a horizontal force of 200 kg what is the frictional force developed?
+ 0.33*1000=330 kg
+25) Moment of inertia of circle
+26) polar Moment of inertia of circle
+27) Bar chart is used for_______________projects
+28) Couplea is the product of which steel____________
+29) Brass composition---70%Cu and 30%Zn
+30) An aeroplane is moving with an acce (a) and a man tries to move a body of a mass(m) towards cock pit with acc (f),what is the force required to move?
+31) A plate is acted upon by a pure comp force(S),shear stress----? 0
+32) What is the ratio of torque carried by rods of dia "d" and "0.5d"?
+33) Hydro meter is used to measure----Sp.gravity of liquids
+34) Submarine velocity is measured by --a) venturi meter b) roatmeter
+      c)hot wire anemometer
+35) define Center of buoyancy?
+36) maximum moment in simply supported beam with udl "w"?
+37) shear force diagram of a cantilever with point load at end? Triangle
+     38) If the depth of section is doubled deflection of a cantilever with point 
+            load at end? What is the ratio of deflection? 1/8
+     39) Which cycle gives maximum effecincy?-- carnot cycle
+    40) Compression ratio?( give mechanical engg def.)
+     41) To prevent corrosion which preservative should be applied? Nickel and chromium
+     42) Why do u  choose 4 jaws instead of 3 jaws? (ask mech, fellows)
+     43) Remember this formula for one question T22     = T1*T3
+     44) N1=200 rpm and N2=300 rpm which has less dia.?
+    45) Which of the following is odd among ignition process?
+a) carbotartor b) governor c) flywheel may be answer is b
+     46) Centrifugal acc developed when a body moves in a circular path?
+47) V= 60 km/hr and energy = 5*105 joules what is the mass?
+48) 1000 kg lift is going upwards and attained a velocity 4m/sec in 2 sec. Then what is the tension developed in the rope?
+49) angle between reference plane to tool place is ----side clearance angle?
+50) units of surface tension? N/m
+51) Volatile fluid ?---- gasoline
+52) Problems related thin shells in strength of materials (2 bits)--hoop stress etc. 
+REMEMBER R.K.JAIN IS IMP 
+                                  

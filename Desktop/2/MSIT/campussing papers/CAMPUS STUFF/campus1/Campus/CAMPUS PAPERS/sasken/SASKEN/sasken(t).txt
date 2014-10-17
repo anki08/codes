@@ -1,0 +1,316 @@
+from:<susi_vij@yahoo.co.in>
+hai friend  !
+          i am sending the paper of saken just go thru it, if u have any doubt reg this just mail i can provide u answers.
+this was  which i have given in my college.
+ 
+ 
+ iam from rect-trichy
+ 
+ i am need of latest papers of birlasoft ,and intrview experience ,if u r having it r any of friends gone thru it,kindly fwd it to me, r give info
+ 
+ 
+***     digital globalsoft, mindtree ,birlasoft this three companies r comming intially.....****
+ 
+ 
+enjoy it , dont forget to mail , whether u r having them r not.
+just mail from which campus r u   ie.. college name and place
+ 
+ 
+  i wish u good luck
+ 
+ 
+ susithra......
+
+
+                                            sasken at  rect in october
+
+
+THE PATTERN IS LIKE APPTI 10 QUES AND OS conspects 10 and C 10 ques  
+total 30ques ......time 60 min..
+
+ all of them are objective 
+
+ the apti  paper goes like this....they r in serial order at my level 
+best i have   noted for u , and remaining  i am not sure.
+ in apti the answers  having five choices, just work out  and all the 
+best.
+
+ i am not providing my  answers ... solve them..
+
+
+
+1.  how many 2 digit number  satisfy the following... that last digit 
+of the square of the 2 digit number is 8
+    A. none   B. 1     C.  2       D. 3      E  more than three
+
+Ans: A. none
+
+ 2. city  B is 8 miles east of A,
+    city  C is 6  miles north of B
+    city  B is 16 miles east of C 
+    city  E  is 12  miles north of D 
+ which of the distance from city A to E 
+   A. 10   B. 20  C . 24    D .30     E .42 
+
+
+3 if  X+Y=Z  and  X and Y are  +ve , which of the follwing statement 
+can be true
+     i) x < y
+   ii) x <2
+   iii) x <2z
+ 
+   A . only (i )    B. only( ii)  C . both 1 &2      D .  2&3     E  
+.1,2,3
+
+ANS: E
+
+4. if X is  a number satisying 2< X <3    Y  is a number   satisying 
+7<Y<8  which of hte following expressions will have the largest value 
+ a.  x square y
+ b.  x ysquare
+ c.  5xy
+ d   (4 x square y) /3
+ e.  ( x square )/y
+
+ 5.  IRA is taler than SAM , ELLIOT is taller than HAROLD ,HAROLD  is 
+shoter than GENE  , SAM and GENE are of the same height 
+
+          ANS : a.  IRA  is tall than SAM  ,  b.  ELLIOT is taller than 
+ERA,  c. SAM is shoter than ELLIOT .,d. IRA is taller than HAROLD ,                       
+e. SAM is shoter than  HAROLD
+
+6.. some what big ...
+
+7. 
+
+8 . which of hte following are possible values for the angle of a 
+parrelogram
+     
+            90 ,90,90,90                  all in degress
+            40,70,50,140                      "
+            50,130,50,130                 "
+
+                 a 1            b2,         c. 1,2         d 2,3         
+e. 1,2,3
+
+ANS : opposite angles are same
+
+9. for every novel in the school library there are 2 science books 
+there 7 economics books . express the ratio  of the economics        books  
+to science books to novels in the school library as triple ratio 
+
+         a.7:2:1   b.7:1:2         c. 14:7:2          d. 14:2:1     e . 
+14:2:7
+                                                                             
+
+                                                                                                                                                 
+2
+ 10.The entry an in a followng secequence is deterimined by the rule(a       
+)   if 1 is entry in the sequence the next five enteries are.
+                                                                                                                                         
+n-1
+      A.0,1,2    B0,-1,1    C. 0,1,2   D.2,3,4   E.  0,1,0
+
+      ( a base  (n-1) and )square.
+
+
+
+                                          computer  science - questions
+
+  just iam giveng the question  find the answers ,as their was 
+provided, idint find time to copy it sorry for that
+
+ 1.  dead lock in an os occurs when
+ANS:mutual exclusion,circular wait,no preemption ,hold and wait.
+
+ 2  the string got by reversing the postfix form of an expression 
+(binary operator only) will be given  ti the prefix form of the same number 
+only it is
+
+ANS  :operands are in palindrome
+and operators are in same precedence
+
+ 3.
+        this  is a pascal programe
+  procedure p(y:int);
+  begin
+ if y>0
+p(y-1)
+  write ln("xyz" )
+p(y-1)
+ end
+end
+
+ how many time will p(4) write    
+       A .4    ,B 15,       C . 8     D. 3
+
+4. MAX NO OF NODES IN A  BINARY  tree of depth (k>=1)
+
+        A . 2 raised to power k
+        B.   2 raised to power (k-1)
+        C . (2 raised power k)-1
+        D . 2 raised power (k-2)
+
+ANS : C
+
+5  A complete graph has
+     a. n vertices and (n-1)edges
+     b.        "                    n(n-1)/2
+     c.        "                   2n(n-1)/3
+     d. n vertices and n edges
+
+ANS :B
+
+6 . If  d is degree of the vertex   i  in a graph  G  with n vertices 
+and  e   edges then 
+             (E : is sigma in the answer)
+a . E(dpower n    -1)
+b . 0.5(Ed power n ) 
+c . 0.5 (E d base i)
+d . 0.25 (Edi) 
+
+7. 
+
+8. what is the error handling in the OSI model 
+   a. data layer    b.network layer   c. transport layer         d. 
+both 
+
+ANS :A.data link layer
+
+9. consider the grammar 
+   s->iCtS
+   s-> iCtSes
+   s->a
+   s-> b
+   
+ A .ibtaea     B . ibtitbtaeaea    C. ibteaeaea   D. ibta 
+
+10. consider  1000 km round turn route with a transmission rate of 100 
+mbps. assume a propagation time of  5m/s . consider a      packet size 
+of 1000 bits how many packets are nedded to fill up the lines along the 
+rate.
+
+ a. 5000   b.1000 c . cannot estimated the data   d. 1000
+
+ANS: 
+dist = ....
+prop speed =....
+time taken by first transmitted bit to cover the whole path=.../...
+
+bit rate=...
+no of bits trnsmitted in that time= bit rate * time
+
+pack size=....
+no of pack=bits transmitted/pack size
+
+
+ANS: 2*10^4 packets
+                                                                 and 
+finally the c ques
+
+1.  given the folloeing defination
+                 char const *p='p'
+which of the following operations are  not permissible
+   A.p++          B.*p++   C. (*p)++    d.all
+
+ANS : a
+
+2. What is the out put of the following program
+
+  void print_arr(float **arr)
+     {
+       printf("0,%f1,%f2,%f\n",arr[0][0],arr[0][1],arr[0][2]);
+      }
+         void main()
+            {
+              float  **arr,otr[2][3] = {{1,2,3} , {2,1,0}};
+              arr= (float**)otr;
+              print_arr(arr);
+              arr++;
+              print_arr(arr);
+             return;
+            }
+ 
+    A. 0,2 1,11,2,0   B .   0,1 1,2,2,3     C. 0,1 1,2,2,2     D. 
+defalut value  
+
+3. what does the following code fragmanted  to
+
+   #define putchar(c) printf("%c",c)
+  int c='d'
+ putchar(c);
+
+  A.prints d  B. prints n     C.compile error    d. ----
+ANS: A
+
+
+6. 
+        int compute(int n)
+        {
+         static int result ;
+               if(n<=1)
+                  result=1
+                else
+          result =compute(n-3)+compute(n-1);
+          return result;
+        }
+
+                             A. 8            B. - 9              C. - 6                
+D. - 12
+
+7. out put of the programme
+
+
+
+
+   main()
+    {
+      int i=3
+        while(i - -)
+        {
+          int i=100;
+                 i - - ;
+          printf("%d",i)
+         }
+      }
+
+        A. infinite loop      B .    3... 2...  1           C .  99... 
+99.. 99                     D.       2... 1... 0 
+
+
+ANS: C
+
+8. #include <stdio.h>
+void main(void)
+{
+  printf("%d", printf("AB\\"));
+}
+
+ a. ABC\       b.\       c.AB\3       d.ABC\\\
+
+ANS:c (\\ escape sequence)
+
+9.  #include <stdio.h>
+   void main(void)
+   {
+     int a[10], i;
+     int *b ;
+     b=( int*) maloc(10* size of int))
+     *b =&a[3];
+    for(i=0;i<10;i++)
+   a[i] =i+10;
+    printf("%d",b[-1]);
+}
+
+ANS:  12  (b[-1]=a[2],b[-1] =*(b-1) )
+
+                     ALL TH BEST MY FRIEND ,  AND I WISH U GOOD LUCK 
+
+                                                                                                                                          
+TRULY
+                                                                                                                                         
+Kiran
+============================================================================================================
+  kiran_rect@hotmail.com
+  kiran_nitt@yahoo.com
+  kiran.m@sify.com

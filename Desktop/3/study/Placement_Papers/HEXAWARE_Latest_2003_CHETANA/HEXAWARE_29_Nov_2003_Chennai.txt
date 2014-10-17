@@ -1,0 +1,186 @@
+___________________________________________________________________________________
+
+COMPANY NAME : HEXAWARE
+------------------------------------------------------------
+DATE OF TEST : 29 Nov 2003
+------------------------------------------------------------
+PLACE OF TEST: Chennai
+------------------------------------------------------------
+MODE 	   : Off-Campus
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+-----Original Message-----
+From: yogesh s 
+Sent: Sunday, November 30, 2003 11:49 AM
+To: chetana-jobs@yahoogroups.com
+Subject: [CHETANA] (info + paper) about HEXAWARE exam at chennai on 29-11-2003
+
+
+Hai Friends,
+I am S.Yogesh from chennai.
+This is my Third mail to chetana.
+I attended the HEXAWARE written test at chennai on 29-11-2003.
+
+SELECTION PROCEDURE:
+********************
+1) Written Test - 100 questions - 100 marks - 1 Hour
+2) Group Discussion.
+3) Technical Interview.
+4) HR Interview.
+
+DETAILS OF THE TEST:
+********************
+Total candidates written the exam : 1500
+Total no.of Batches : 3
+Exam duration : 1 Hour.
+Total Questions : 100
+Total Marks : 100
+Each question carries 1 mark.
+Written test results were announced within 45 minutes.
+GD results were announced within 2 minutes.
+
+TEST PATTERN:
+*************
+Synonyms  -  10 questions.
+Find the misspelled words - 5 questions.
+Find the correct meaning of the phrases - 5 questions.
+Analytical Questions - 30 Questions.
+Quantitative Aptitude - 30 Questions.
+Match the following - 20 Questions.
+
+1) Go through the Old Question papers of HEXAWARE. Mostly 10 - 15 questions asked from Old papers (Quantitative Aptitude).
+
+2) Since Match the following is in a group, time taken for selecting the appropriate answer is high. So, Whatever you know in match the following, first write the answers.
+(Questions from 81 to 100 with A to T on the opposite side in a continuous series.)
+Match the following is the easiest part, if you know the opposite matches. Otherwise, you need to traverse the entire block once again.
+
+3) Then, go for the questions you know very well, since old questions are also featured the exam.
+
+4) Don't mug the answers of old papers.
+   Solve it on your own and check the answers.Then, you can get a good idea of attending other questions in the exam.
+
+5) Easily you can answer 40 - 50 questions within 30 minutes.
+
+GD Topics:
+**********
+1) What Should India do to win a gold medal in the Olympics?
+2) Will India need a Dictatorship / Democratic rule now?
+
+Overview of GD:
+***************
+My GD topic is "What Should India do to win a gold medal in the Olympics?".
+My Batch consists of 11 members.
+4 to 5 of them are shouting, right from beginning.
+They never gave the chance to others.
+The persons who are shouted during the GD are asked to present a Stage performance by the GD judges.
+At last 3 got selected from the Shouted list.
+So, if you enter GD , look-at what others do.
+If they shout, then you also start to shout.Otherwise you may not be noticed by others.
+I gave 3 to 4 points during the GD and didn't get more chance.
+
+Technical Interview:
+********************
+My friend attended Technical Interview and she got selected in that and cleared the HR Interview too.
+She was asked to write a program for Fibonacci series using pointers in C.
+HR Interview will be very formal only.
+
+**********************************************************************************************
+Herewith I give the match the following questions asked in the exam.
+Remaining questions are bit difficult to remember. Please excuse.
+If you go through the old papers, it will be easy.
+
+Match:
+======
+1) Select       -  Having
+2) Sun          -  Solaris
+3) Unix 
+4) ERP          -  BAAN
+5) Linux        -  Redhat
+6) HEXADECIMAL  -  ABCDEF
+7) Java         _  Beans
+8) g            -  
+9) IP           -  192.168.77.122
+10) Repeat      -  Until
+11) qwerty      -
+12) Rational    -
+13) UML         -
+14) RDBMS       -  Codds rule
+15) C           -  Ritchie
+16)             -  BSD
+17)             -  Penguin
+18)             -  9.81
+19)Acer         -  Keyboard
+20)PC           -  
+
+The items which exist on both sides are correct, upto my knowledge.
+Remaining items I am unable to remeber. Sorry, yaar.
+
+Questions asked in the exam:
+============================
+1)Find the reminder when 333666777888999 divided by 3 or 9 or 11 ? (2 Questions like this)
+2)Which is the biggest perfect square amongst the following?
+  15129, 12348, 23716, 20736 ans:23716
+3)The area of the maximum size of the circle described from the 10 inch square?
+4) In the series 0, 3, 8, 15,__ What is the next number? Ans:24
+5) X < 0, Y <> 0 then what is the possibility that the result is always positive?
+Ans. (x + y)^2
+6) 3 red and 4 blue balls are in a basket. A member of PPTeam is drawing balls from the basket. What is the probablity of getting the 3 red balls simultaneously?
+7) Let ax2 + bx + c = 0
+If the sum of the equal roots is equal to the product of the same roots.Then which of the following hold true
+(a) a + b = 0
+(b) a = 0
+(c) c = 0
+(d) b + c = 0
+8) Find the value of (1.99)2 Ans:3.9601                    
+9)There is a room with 6' x 8'. A 1' tile is fixed along the 4 walls in one row. How many 1" tiles require to finish the work. Ans. 24 (Question with different value asked).
+10)2 persons can finish a job in 8 days. First person alone can finish the work in 24 days. How many days does the second person take to finish the job? Ans. 12 days
+11)In a car wheel, two spokes cover 15 degree. Then for the entire car,how many spokes are there?
+Ans. 24.
+12)What is the angle of degree suspended when two hands of clock showing the time 2.30.
+Ans. 105 degrees
+13)A person's salary is getting reduced by 20%. What percentage should be added to get back his
+original salary?
+Ans. 25%
+14)Two persons start at the same point, walk in opposite directions with 5km/hr and 5.5km/hr respectively. What is the distance separated after 2 and half hrs? Ans:26.25 (approx)
+15)A person starts walking at a speed of 5km/hr through half the distance, rest of the distance he covers with a speed 4km/hr. Total time of travel is 9 hours. What is the maximum distance he can cover? Ans: 40.5km.
+16)In a rectangle the length is increased by of the original length . By what proportion should the width be reduced so that the area will be the same? Ans: 33
+17)Find the nth number in the series is 1, -3, 5, -7.___ Ans: (-1)*(2n-1)
+18)If a square is formed by the diagonal of the square as an edge, what is the ratio between the area? Ans: 2
+19)A cubical rectangular bar has the dimensions with the ratio 5 : 4 : 3. Its volume is 7500. What is the surface area of the bar? Ans: 2350
+20)In a class total 34 students, 16 are have a brother,  15 are have sisters, 9 students don't have either brothers or sisters.Find the number of students having both brother and sisters.
+21)A batsman scored 1 runs in his 18th innings and that makes his average 18. Find his average upto the 17th innings? Ans: 19
+22)The ratio of the length : breadth : height of a cuboid is 5 : 4: 3, and the volume is 7500. What will be its surface area ?
+23)3 persons started placementpapers with a capital of Rs.3000 . B invest Rs.600 less than A, C invest Rs.300 less than B. Then what is the share amount of B in a profit of Rs.886 ?
+Ans: Rs.265.8
+24) If 38473ABC(This was not the exact no given) is divisible by 75 what is ABC in the same order.
+------------------------------------------------------------------------------------------------
+
+The questions given above are asked in the exam at chennai on 29-11-2003.
+
+So, Prepare well using the old papers.
+
+Go Ahead with your career.
+
+Wishing you all for a Enlightening IT Career,
+
+S.Yogesh.
+
+___________________________________________________________________________________
+Visit: "www.chetana-jobs.com" for Previous Papers
+--------------------------------------------------------------------
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+
+

@@ -1,0 +1,47 @@
+DCMDS C questions 1998
+
+1. What is the output of the following program:
+ 
+void swap(int a, int b)
+{
+    a=a+b;
+    b=a-b;
+    a=a-b;
+}
+
+void main()
+{
+    int x=3,y=4;
+    swap(x,y);
+    printf("%d %d",x,y);
+    getch();
+}
+
+
+2. What is the output of the following program:
+
+void main()
+{
+    char *ptr1="DCM0DAT\0ASYSTEMS";
+    clrscr();
+    printf("%d %s ",strlen(ptr1),ptr1);
+    printf("%d %s ",strlen(ptr1+8),ptr1+8);
+    getch();
+}
+
+3. What is the output of the following program:
+
+int f1(int a, int b, int c)
+{
+    return ( (a>>(b+1-c)) & (~ (~0<<c) ) );
+}
+
+void main()
+{
+    int a=3, b=4, c=5, d;
+    clrscr();
+    d=f1(a,b,c);
+    printf("%d",d);
+    getch();
+}
+

@@ -1,0 +1,99 @@
+I don't remember all the question  and i am sending questions what ever 
+i remembered
+ toally 40 questions and duration is one hour no negative marking
+  question paper is very easy try to score more marks..
+  they selected 11 memebers from my college
+
+   B.tech/mca : 2.75 lakhs per anuum
+   M.tech :3.20
+   
+   interview HR and Technical both r easy 
+    mostly asking from question paper itself
+      
+  be confident for each answer and do well ... 
+                             
+   
+
+ 
+1. six squares kept side by side and formed as rectangle and perimeter 
+of the rectangle 182cm is given..
+   find the side of the square.
+
+2. a cube of 3 units is painted on all sides. If this cube is divided 
+into cubes of 1 unit how many cube have none of thier faces painted.
+
+3. if a person sells a prouduct for 141/- he sufferes a loss of 6% if 
+he has to have a profit of 10%.. at what price should he sell it.
+
+4. a ball falls from a height of 8ft bounces bace to half the distance 
+and continue till it comes to rest. what is the toatl distance 
+travelled by the ball?
+    
+5. which of the follwoing is the sum of 3 consecutive prime nos.?
+   a. 49 b.59 c. both a and b d.5
+6. if the area of a square has increased by 60% by what % has its side 
+increased?
+
+7. in a class the average age is 16 years. if the teacher who is 40 
+years of ages is also included, the average raises to 17 years how many 
+stuents were there?
+
+8. if 3 houses are to be painted. A can print a house in 6 days and B 
+can do in 8 days and c in 12 days. if A does the work for 8 days and 
+leaves for vocation and B continues the work for the next 6 days for how 
+many days should mr c work?
+  ans: 11 check
+9. 4 theives rob a bakery of the breadone after the other each thier 
+takes half of what is present and half a bread.. if at the end 3 bread 
+remains, what is the no. of bread that was present initally.
+   ans 63 check
+10.if the 1st day of 1999 is a sunday what is the last day ?
+
+11. speed of boat in still water is 10kmph . downstream 16 and upstream 
+14 what is the speed of stream.
+12. if a driver drives a car four time a lap 10,20,30,60 kmph what is 
+his average speed.
+13. intially there r some bulltes and 3 memebers shared equally and 
+shot 4 bullets infosys question
+          ans" x-4+x-4+x-4=x x=18;
+....
+
+ In a group there are two kinds of people type A and type B. A people 
+answer for any question as Yes and B says No. if they can not answer to 
+these questions then they remain silent. the mayor askes questions to 
+them as follows
+     (GRE barrons books)
+    they asked some 10 questions on this
+
+  I don't remember these questions
+
+1. what is trigger?
+2. int(*a)[4] what it reprensents
+3.best method to find out whether a given arrya already sorted  or not 
+in min time
+    Insertion sort
+4.a primary key in one table also present in some other table is called
+    foriegn key
+5. which of the follwoing is realtime system
+  a.robotics control b. airline ticket reservation c..
+6. x-=y+1 expand this x=x-y-1
+7. given a relation like account type,account numberm,customer name, 
+bank name  and account decide the primary key
+8. vector processing means
+9. let assume that u r n/w cards keep on transmitting data.. how will u 
+check status of n/w card
+    1. snmp
+    2. protocol anaylzer
+    3. vot-ohmeter
+    4. ..
+10.which of the follwoing is spooling device ans: line printer
+11. (  )8 =(  )10 given octal number convert it into decimal
+12. if a file is opend in r+ mode in c it means
+13. what is the difference 123 and 0123 in c
+14. software configuration management process is
+15. data integerity constraint is ...
+16. which of the following uses the minimum lenght of cable
+    a bus b mesh c star d all of the above
+17. how will u append 'ls' and 'who' to certain exisiting file
+    ans:(ls;who)>>filename
+18.  

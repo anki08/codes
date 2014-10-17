@@ -1,0 +1,115 @@
+*****Subject: TCS C Questions--------------------------
+1) Which of these is an invalid dataname?   a) wd-count          b) wd_count
+   c) w4count           d) wdcountabcd
+
+2) What is the output of the following program
+   main ()   {
+      unsigned int i;
+      for (i = 10; i >= 0; i--)
+         printf ("%d", i);
+   }   a) prints numbers 10 - 0     b) prints nos 10 - 1
+   c)                           d) goes into infinite loop
+11) What is the value of the following expression?    i = 1;    i << 1 % 2
+    a) 2        b)     c) 1        d) 0
+12) What is the value of the following expression?    i = 1;
+    i = (i <<= 1 % 2)    a) 2        b)    c) 0        d) erroneous syntax
+What is the result?
+13) *A + 1 - *A + 3    a) -        b) -2
+    c) 4        d) none of the above14) &A[5] - &A[1]?    a)          b)
+    c) 4        d)15) C allows     a) only call by value
+    b) only call by reference    c) both
+    d) only call by value and sometimes call by reference
+16) The following statement is
+    " The size of a struct is always equal to the sum 
+        of the sizes of its members"    a) valid    b) invalid      c) can't say
+17) How many x's are printed?    for (i = 0, j = 10; i < j; i++, j--)
+       printf ("x");    a) 10       b) 5    c) 4    d) none18) output?
+    main ()    {       int i = 2, j = 3, k = 1;       swap (i, j)
+       printf ("%d %d", i, j);    }    swap (int i, int j)    {       int temp;
+       temp = i; i = j; j = temp;    }    YOU KNOW THE ANSWER19) main ()    {
+       int i = 2;       twice (2);       printf ("%d", i);    }    twice (int i)
+    {    bullshit    }int i, b[] = {1, 2, 3, 4, 5}, *p;    p = b;    ++*p;
+    p += 2;20) What is the value of *p;    a) 2 b) 3  c) 4  d) 5
+21) What is the value of (p - (&p - 2))?    a)   b) 2  c)    d)  
+23) x = fopen (b, c)    what is b?
+    a) pointer to a character array which contains the filename
+    b) filename whithin double quotes    c) can be anyone of the above
+    d) none24) x = malloc (y).  Which of the following statements is correct.
+    a) x is the size of the memory allocated
+    b) y points to the memory allocated    c) x points to the memory allocated
+    d) none of the above25) which is the valid declaration?
+    a) #typedef struct { int i;}in;    b) typedef struct in {int i;};
+    c) #typedef struct int {int i;};    d) typedef struct {int i;} in;
+26) union {       int no;       char ch;    }  u;    What is the output?
+    u.ch = '2';    u.no = 0;    printf ("%d", u.ch);
+    a) 2        b) 0    c) null character       d) none
+27) Which of these are valid declarations?
+    i) union {          ii) union u_tag   {
+          int i;                int i;          int j;                int j;
+       };                  };    iii) union {        iv) union {
+          int i;                int i;          int j;                int j;
+          FILE k;               }u;       };                 
+    a) all correct      b) i, ii, iv    c) ii & iv          d) 
+28) p and q are pointers to the same type of dataitems. 
+    Which of these are valid?      i) *(p+q)     ii) *(p-q)    iii) *p - *q
+    a) all     b)    c) iii is valid sometimes29) which are valid?
+      i) pointers can be added     ii) pointers can be subtracted
+    iii) integers can be added to pointers
+    a) all correct      b) only i and ii30) int *i;    float *f;    char *c;
+    which are the valid castings?    i) (int *) &c    ii) (float *) &c
+    iii) (char *) &i31) int i = 20;    printf ("%x", i);    what is the output?
+    a) x14      b) 14   c) 20   d) none of the above32) main ()    {
+       char *name = "name";       change (name);       printf ("%s", name);    }
+    change (char *name)    {       char *nm = "newname";       name = nm;    }
+    what is the output?    a) name     b) newname      c) name = nm not valid
+    d) function call invalid33) char name[] = {'n', 'a', 'm', 'e'}
+    printf ("name = \n%s", name);    a) name =       name    b) name =
+       followed by funk characters    c) name = \nname    d) none
+34) int a = 0, b = 2;        if (a = 0)           b = 0;        else
+           b *= 10;    what is the value of b?
+    a) 0        b) 20   c) 2    d) none35) int x = 2, y = 2, z = 1;
+    what is the value of x afterh the following statmements?    if (x = y%2)
+       z = crap    else       crap    a) 0 b) 2 c)1 d)none37) output?
+    initially n = -24;    printd (int n)    {       if (n < 0)       {
+          printf ("-");          n = -n;       }       if (n % 10)
+          printf ("%d", n);       else          printf ("%d", n/10);
+       printf ("%d", n);    }    a. -24      b.24    c.      d.-224
+38) float x, y, z;    scanf ("%f %f", &x, &y);
+    if input stream contains "4.2 3 2.3 ..." what will x and y contain
+    after scanf?    a. 4.2, 3.0    b. 4.2, 2.3    c.    d.
+39) #define max(a,b) (a>b?b:a)    #define squre(x) x*x
+    int i = 2, j = 3, k = 1;    printf ("%d %d", max(i,j), squre(k));    output?
+    a.32  b.23  c.31  d.1340) struct adr {       char *name;       char *city;
+       int zip;    };    struct adr *adradr;    which are valid references?
+    i) adr->name   X    ii) adradr->name    iii) adr.zip   X    iv) adradr.zip
+41) main (x, y)    int x, char *y[];    {       printf ("%d %s", x, y[1]);    }
+    output when invoked as       prog arg1
+    a. 1 prog b. 1 arg1 c. 2 prog d. 2 arg142) extern int s;    int t;
+    static int u;    main ()    {    }
+    which of s, t and u are availeble to a function present in another    file
+    a. only s     b. s & t     c. s, t, u    d. none43) main ()    {    }
+    int a;    f1(){}    f2(){}    which of the functions is int a available for?
+    a. all of them    b. only f2    c. only f1    d. f1 and f2 only
+    int a = 'a', d = 'd';    char b = "b", c = "cr";    main ()    {
+       mixup (a, b, &c);    }    mixup (int p1, char *p2, char **p3)    { 
+       int *temp;       ....doesnt matter.....    }
+44) what is the value of a after mixup?
+    a. a        b.b     c.c     d.none of the above
+45) what is the value of b after mixup?
+    a. a        b.b     c.c     d.none of the above46) main ()    {
+       char s[] = "T.C.S", *A;       print(s);    }    print (char *p)    {
+       while (*p != '\0')       {          if (*p != ".")
+             printf ("%s", *p);          p++;       }    }    output?   a.T.C.S
+    b.TCS    c.    d. none of the above47) a question on do ... while
+48) a question on % operator49) main ()    {
+       int ones, twos, threes, others;       int c;
+       ones = twos = threes = others = 0;       while ((c = getchar ()) != EOF)
+       {          switch (c)          {             case '1': ++ones;
+             case '2': ++twos;             case '3': ++threes;
+                       break;             default: ++others;
+                       break;          }       }
+       printf ("%d %d", ones, others);    }
+    if the input is "1a1b1c" what is the output?    a. 13    b.     c. 33
+    d~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                                     ..::''''::..
+                                           .:::.   .;''        ``;.

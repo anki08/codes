@@ -1,0 +1,45 @@
+DCMDS Objective questions 1998
+
+OS Section
+1. List the following in the sequence in which they occur in a DOS disk. 
+(a)  FAT      (b) Boot Sector     (c) Partition Table     (d) Root Directory 
+2. List the following in the sequence in which they occur.
+(a) Parser     (b) Lexical Analysis   (c) Symbol Table  (d) Code Generation
+3. fork() does what in UNIX?
+(a) Shared memory   (b) New copy of memory  (c) New memory  (d) …….
+4. When does 'nop' happen
+(a) push ax      (b) pop ax       (c) xor ax,ax    (d) ……..
+      pop ax             push ax
+5. What does the following result in A xor (B xor A)?
+(a)  A       (b) B       (c) …….      (d) ……
+6. What is the frame size of X.25?
+(a) 256    (b) 128     (c) 1024       (d) 53
+7. In 80x86, where does a function return it's value?
+(a) AX    (b) BX      (c) Stack      (d) None of these.
+8. When is swapping used?
+(a) When memory is less              (b) When hard disk space is less
+(c) When memory is high             (d) None of these
+9. Thrashing shows:
+(a) System is over utilized            (b) System is under utilized
+(c) System is optimally utilized     (d) None of the these 
+10. How do you rename a file in UNIX?
+(a) cp <file1> <file2>                   (b) mv <file1> <file2>
+(c) ren <file1> <file2>                  (d) None of these
+
+Communication and Networking section
+1. Which of the statements is true
+(a) Internet is a packet switched n/w and telephone is a packet switched n/w
+(b) Internet is a packet switched n/w and telephone is a circuit switched n/w
+(c) Both are packet switched 
+(d) Both are circuit switched
+(e) Internet is frame-switched and telephone is circuit switched
+
+2. On which protocol is the internet based
+      (a) IPX/SPX and SMTP               (b) TCP/IP and X.400
+      (c) TCP/IP and SMTP                  (d) HTTP
+
+3. What is IEEE 802.5?
+(a) CSMA/CD       (b) Token bus     (c) Token ring    (d) None of these                       
+4. What is the full form of SMTP?
+(a) Simple mail transfer protocol       (b) Simplified mail transfer protocol
+(c) ...                                            (d) ...

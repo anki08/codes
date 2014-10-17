@@ -1,0 +1,91 @@
+Given a string, u need to print all cases of letters without changing the order
+
+eg:-
+ABC,Abc,ABc,aBC,abC etc...........
+
+
+kapil 
+guest	
+Posted 3 months ago # 
+
+
+#include<stdio.h>
+#include<string.h>
+#include<ctype.h>
+
+void printPerm(char* str, int n)
+{
+    if (n == 0)
+    {
+        printf("%s\n", str);
+        return;
+    }
+
+    str[n-1] = toupper(str[n-1]);
+    printPerm(str, n-1);
+    str[n-1] = tolower(str[n-1]);
+    printPerm(str, n-1);
+
+    return;
+}
+
+int main(void)
+{
+    char str[] = "ABC";
+    int n = strlen(str);
+    printPerm(str, n);
+    return 0;
+}
+
+rahuk 
+guest	
+Posted 2 months ago # 
+
+
+plz elaborat using recursion tree if u can..it would be a gr8 help...thnx in advance
+
+
+Dixit Sethi 
+guest	
+Posted 2 months ago # 
+
+
+Recursion used. If ABCD is string, level denotes the element no. after which recursion is done. For ex when ABCD passed, level=0, when BCD passed level=1 etc. First while loop converts the whole string into upper case for the first time it is passed to the function. The rest is the simple recursion.
+
+void fn(char * s, int n, int level)
+{
+int i=0,j=0, k=0;
+
+if(level==0)
+while(*(s+i)!='')
+{
+if(*(s+i)>96)
+*(s+i) -= 32;
+i++;
+}
+
+if(*(s+1)==0)
+{
+printf("%s\t",s-n+1);
+*s+=32;
+printf("%s\t",s-n+1);
+*s-=32;
+}
+else
+{
+level++;
+fn(s+1,n,level);
+*s+=32;
+fn(s+1,n,level);
+level--;
+*s-=32;
+}
+}
+
+
+Dixit Sethi 
+guest	
+Posted 2 months ago # 
+
+
+Sorry, I forgot to mention, in upper solution n is the string length which stays unvaried during whole recursion. The string is printed when last level is reached i.e the last element of the string. (In case if some newbie like me need to know. But I am sure all here are geeks and so will make out this simple question.)

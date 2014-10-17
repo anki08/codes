@@ -1,0 +1,209 @@
+SYNTEL QUESTIONS SHREDS COCHIN 23RD AUGUST
+
+SECTION I: 25 QUESTIONS (ENGLISH) IN 15 MINUTES
+SECTION II: 45 QUESTIONS (QUANTITATIVE) IN 45 MINUTES
+SECTION III: 30 QUESTONS (REASONING) IN 30 MINUTES
+
+
+            SECTION II
+            QUANTITATIVE
+(TIME IS A SEVERE CONSTRAINT)
+
+ 
+
+Qn 1.) (this was the first question)
+Maximum numbers that can be formed using all the 4 digits 6 4 8 1 
+without repetition and which is divisible by 9.( ans none)
+
+2.) Find the number of sides of a regular convex polygon whose angle 
+is 40degrees.
+
+3.) a+b+c=0, then roots of ax^2+bx+c=0 is
+1.imag    2.real   3.coincidental  4.zero
+
+4.) Difference b/w the compound interest and simple interest for 
+Rs.2500  for 2 years is given-----. find the rate of interest.
+
+5.) there was one more question on S.I and C.I
+
+6.) the minimum number by which 60 is to be multiplied to generate a 
+square.
+ans 15
+
+7.)  A monkey climbs 6 mts  and falls 3mts in alternate minutes.Then 
+time taken to climb a tree 60metres high?
+a. 35   b.37  c.32   d.34 (think the answer is 37)
+
+8.) (This was the second last question) A bucket contains z drops. 
+and it leaks x drops in t secs.then the time required to empty the 
+bucket(in minutes)?
+
+9.) 6 pipes fill or empty the cistern. find the number of emptying 
+pipes iff it takes 18hrs to fill and 18 hrs to empty.... (don't 
+remember the question exactly)
+
+10.)  the largest no: which is a factor of 1080 and 729
+
+11.) No: of spheres of radius 1 that can be got from sphere of radius 
+(or diameter don't recall) 8
+
+12.) (think the last but three question)Travelling at 3/4th the speed 
+a man is 20 minutes later then speed is??
+
+13.) there are 6 keys and 6 locks. then number of combinations to be 
+tried out to get the actual solution
+a. 5^6  b.6^5 (don't remember the rest)
+
+14.) choosing 2 people out of 10 in how many combinations can a 
+particular person(some name) be always included....
+
+15.) from  6 white balls and 7 black balls probability that 2 balls 
+drawn at random are of the same color?
+
+16.) if a sales man gets successive gain of 15% and 20% then his 
+actual gain? 
+ans.  38
+
+17.) a string of pearls such that 1/3 is lost  and of that 1/4th is 
+missing, remaining is 20 then actual number of pearls? 
+ans.  40
+
+18.) a man gets a gain of x%. but if he had sold at twice the cost 
+price, what will be his gain?(question not sure)
+a. 2x     b.200-2x   c.100+x (not sure of the options)
+
+19.) a clock was 7mts behind the actual time on 3 p.m. on wednesday 
+and 8 mts ahead of actual time on (not sure) 4 p.m. friday. when will 
+it show the correct time?
+
+20.) boat moves upstream in 6 hrs and covers the same distance 
+downstream in 5 hrs. then speed of a raft floating?(accuracy of 
+question not sure)
+
+21.) (this was the last question)  no idea what it stands for........ 
+some kind of notation like S(P(M((D(a,b),2))):P(M(S(D(a,b),........
+options were
+1. ab         2.(a-b)^2           3.(a+b)^2           4.none
+
+22.) if x men working x hrs per day can do x units of work in x days, 
+then y men working y hrs/day would be able to complete how many units 
+of work i y  days?
+ans.  y^3/x^2 (question in R.S. Agarwal)
+
+23.) ( this was a question in the first page of the section II 
+booklet) a cone with radius----- and height -----. a hemisphere 
+covers the cone such that base of hemisphere meets that of the cone. 
+then the enclose volume.....(R.S. Agarwal consists of similar 
+questions)
+
+24.) there was one more question on volume and surface area.....
+
+25.)  1 Rs, 50 ps , 25 ps coins are in the ratio ---------, then the 
+number of 50 ps coins if they sum to ------Rs. (similar question in 
+R.S.Agarwal)
+
+26.)  there was one more question on coins i.e. abt getting a change 
+of 10ps and 25 coins for ------Rs.(how many possible combinations or 
+so possible)
+
+27.) x/y+y/x=40/21(don't remember the exact value, believe this is 
+the one) find x and y
+
+there were 2 questions on train and one was like:
+28.)  a goods train starts and after 2 hrs a passenger train at 
+4km/hr starts and overtakes the goods train after 4 hrs, then the 
+speed of goods train?
+
+29.) 15hrs of boys work=6 hrs of women's work.  3/5 of the work is 
+done by -----boys and -----women. How much time would be
+the question)
+
+32.) there was one question on triangle
+
+33.) a figure was given a square with four corners shaded and asked 
+to find the area of the shaded portion.... ie area of square-area of 
+the regular octagon.....
+
+This is all i can remember from section II
+
+
+                        SECTION I
+                        ENGLISH
+(EASY)
+PATTERN:
+
+
+      1.)    few questions on finding out the segment of sentence 
+which is wrong....
+
+                  2.)    analogy.
+                       (few i can remember)
+                       1.)   celebrate::marriage 
+                                    ans.  lament::bereavement
+                        2.)   bouquet::flowers
+                                      ans.    chain::link
+                        3.)    germ::disease
+                                     ans.     war::destruction
+                       4.)   (remember only the answer)  
+                                  ans.       book::pages
+
+      3.)     to fill up the blanks in the sentences with the most 
+appropriate words.....
+
+        4.)    to find the word opposite in meaning
+                     (few qns i can remember)
+                                1.)       equanamity
+                                2.)       sequester
+                                3.)      dormant
+                              4.)      apathetic
+            
+
+
+                        SECTION III
+                        REASONING
+
+(TIME IS A CONSTRAINT)
+
+
+1.) (last question and the easiest) a simple flowchart whose steps 
+are as follows. value of r and h are given, a and b=0 m=pi*r*r*h  
+n=(pi*r*r*h)/3  if (m==n) do ------else b=4*pi*r*h print a and b
+[DON'T REMEMBER IF conditon is m==n or m<n]
+
+2.) (second last question this was also easy) it was abt a set of 
+people talking 4 languages and then qns were abt who could act as a 
+translator to whom ........
+
+3.) there were 3 questions based on an argument given... questions 
+were to find out which statement in the objectives given could 
+strengthen the argument or to weaken the argument....(bit confusing)
+
+4.) blood relationship question( i remember all the statements given, 
+though  not the question)
+    10 people in a family A B C are husbands D E F are wives 
+altogether there are only 4 women. each family can have atmost 2 
+children and C has atleast 1 child. D and G are related to A. E 
+cannot be related to H and I and J are not related.....
+
+5.) (this consists of the most confusing set of questions)
+     a set of statements are given and then questions were asked, the 
+statements were like
+   All A B C D E F are  Q's
+   All A's are B's
+  -----
+---------(better leave this question for the last)
+
+6.) Alice works on Monday, Wednesday and Friday
+     B  does not work on Wed
+    C   works only on Tuesday and someotherday(don't remember)
+    D   does not work on Friday
+    E    works on all days except on  the first Monday and Thursday
+     then questions like who all will be available on which days .....
+
+7.) question based on venn diagram given ......read the question 
+properly and then answer
+
+8.) (first question) abt 4 buses with different seating capacity.and 
+different charges. and questions were to find out the minimum number 
+of trips required, the maximum charge, the second highest charge 
+etc.... 

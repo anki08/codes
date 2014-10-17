@@ -1,0 +1,16 @@
+#include<iostream>
+#include<iomanip>
+using namespace std;
+int main(void){
+    int i;
+    for(i=1;i<6;i++){
+        cout<<setfill(' ')<<setw(5-i)<<"";
+        cout<<setfill('*')<<setw(2*i)<<" "<<endl;
+        }
+    i-=2;
+    for(;i>0;i--){
+        cout<<setfill(' ')<<setw(5-i)<<"";
+        cout<<setfill('*')<<setw(2*i)<<" "<<endl;
+        }
+    return 0;
+}

@@ -1,0 +1,145 @@
+
+
+                  			      CTS - 2000
+				             ------------
+
+				             INSTRUCTIONS
+				            --------------
+
+    	  1) There are altogether 40 questions that you have to answer in 60 minutes.
+	  2) There are 10 sections, each containing 4 questions of similar type.
+	  3) There is NEGATIVE MARKING.
+
+			                    QUESTION PAPER
+			                   ----------------
+
+	  Questions 1-4:
+	  --------------
+	       Let us consider that L represents a list of items like (a,b,c), i.e. 
+	  L=(a,b,c). Let A(L) denotes the first item of L, i.e. A(L)=a. Also let B(L) 
+	  denotes the list of items obtained from L by deleting its first item, i.e. 
+	  B(L)=(b,c). Now, C(L) and D(L) are two operations performed on L which are 
+	  defined as follows:-
+		
+		  C(L) =   *      if L=()
+		       =  A(L)    if L/=() and B(L)=() ['/=' denotes 'not equal to']
+	               = C(B(L))  otherwise
+
+		  D(L) =   * *    if L=()
+		       =    *     if L/=() and B(L)=()
+		       =   A(L)   if L/=(), B(L)/=() and B(B(L))=()
+		       = D(B(L))  otherwise.
+
+	  1. If L=(a,(a,b),(b,b)), the value of C(L) is
+	     (A) a             (B) (a,b)          (C) b             (D) none of A,B,C
+	  2. If L=(a,(a,b),(b,b)), the value of D(L) is 
+	     (A) a             (B) (a,b)          (C) (b,b)         (D) none of A,B,C
+	  3. If L=(a,(a,b),(b,(b)),(b)), the value of C(L) is
+	     (A) b             (B) (b,(b))        (C) (b)           (D) none of A,B,C
+	  4. If L=(a,(a,b),(b,(b)),(b)), the value of D(L) is
+	     (A) (a,b)         (B) (b,(b))        (C) (b)           (D) none of A,B,C
+
+	  Questions 5-8:
+	  ---------------------
+	       In this part, there are much more complicated questions of same kind as 
+	  that of the first part. Here also some items and operations are predefined 
+	  as before and then four questions follow which are also of similar type like 
+	  questions 1-4.
+
+	  Questions 9-12:
+	  ----------------------
+	       In the following questions, four words are given. You have to make the
+	  appropriate anagrams from the given words, meanings of which have been 
+	  supplied in the alternatives. Choose the correct alternative.
+
+	  9.  The given word is SPARED. The meaning of its anagram is
+	      (A) ............  (B) distribute     (C) ............  (D) ............
+	  10. The given word is LATTER. The meaning of its anagram is
+	      (A) clatter       (B) tortoise       (C) ............  (D) ............
+	  11. The given word is RISQUE. The meaning of its anagram is
+	      (A) ............  (B) ............   (C) ............  (D) ............
+	  12. The given word is       . The meaning of its anagram is
+	      (A) ............  (B) ............   (C) ............  (D) ............
+
+	  Questions 13-16:
+	  -----------------------
+	       Here four words are given which are the second parts of some compound 
+	  words. In the alternatives, meanings of first parts of the compound words 
+	  are provided. You have to select the right one.
+
+	  13. The given word is HEAD. Meaning of the first part is
+	      (A) ............  (B) ............   (C) ............  (D) obstacle
+	  14. The given word is STREAM. Meaning of the first part is
+	      (A) ............  (B) chief          (C) ............  (D) ............
+	  15. The given word is PLAN. Meaning of the first part is
+	      (A) play          (B) ............   (C) ............  (D) ............
+	  16. The given word is DUST. Meaning of the first part is
+	      (A) ............  (B) ............   (C) celestial body(D) ............
+
+	  Questions 17-20:
+	  ------------------------
+	       In this section, four series of numbers are provided. You have to choose 
+	  the next term of each given series from the supplied alternatives.
+
+	  17. There is a series of numbers as 102,210,1020,1121,... . The next term is
+	      (A) ............  (B) ............   (C) ............  (D) none of A,B,C
+	  18. There is a series of numbers as 110,122,1021,1110,... . The next term is
+	      (A) ............  (B) ............   (C) ............  (D) none of A,B,C
+	  19. There is a series of numbers as 2,11,22,121,... . The next term is
+	      (A) ............  (B) ............   (C) ............  (D) none of A,B,C
+	  20. There is a series of numbers as                  . The next term is
+	      (A) ............  (B) ............   (C) ............  (D) none of A,B,C
+
+	  Questions 21-24:
+	  ------------------------
+	       Let us consider a set of strings such as S=aabcab. We now consider two
+	  more sets P and Q which also contain strings. An operation P->Q is defined in
+	  such a manner that if P is a subset of S, then P is to be replaced by Q. In 
+	  the following questions, you are given various sets of strings on which you 
+	  have to perform certain operations as defined above. Choose the correct
+	  alternative as your answer.
+
+	  21. Let S=abcabc, P=bc, Q=bb and R=ba. Then P->Q, Q->R, R->P changes S to
+	      (A) ............  (B) abcabc         (C) ............  (D) none of A,B,C
+	  22. Let S=aabbcc, P=ab, Q=bc and R=cc. Then P->Q, Q->R, R->P changes S to
+	      (A) ababab        (B) ............   (C) ............  (D) none of A,B,C
+	  23. Let S=bcacbc, P=ac, Q=ca and R=ba. Then P->Q, Q->R, P->R changes S to
+	      (A) ............  (B) ............   (C) bcbabc        (D) none of A,B,C
+	  24. Let S=caabcb, P=aa, Q=ca and R=bcb. Then P->Q, P->R, R->Q changes S to
+	      (A) ............  (B) ............   (C) ............  (D) none of A,B,C
+
+	  Questions 25-28:
+	  ------------------------
+	       Here some figures will be provided which contain arrows oriented in 
+	  different directions. If we represent the figures by A, B and C then they 
+	  will be in the following form in the questions:-
+
+	          	                A : B :: C : ?
+
+	  Four alternatives will be given there out of which you have to select the 
+	  unknown figure that bears the same relation with C as A shares with B. In
+	  general, the figures A and B are related as follows-
+	  i)   the columns of A are interchanged to form B;
+	  ii)  the rows of A are interchanged to form B;
+	  iii) the elements of A are rotated clockwise or counterclockwise to form B;
+	  iv)  the elements of A are reversed in direction to form B.
+	       You have to perform the similar operations on C accordingly to find 
+	  out the appropriate alternative.
+
+	  Questions 29-32:
+	  ------------------------
+	       In this section, eight to nine figures are provided, each of which 
+	  comprise of four small squares arranged in various fashions adjacent to each 
+	  other. These small squares form square, T-shape, step like figure and so on.
+	  Moreover, these figures are named as P,Q,R,M,L,N,O,etc. In the questions,
+	  you will be asked to make certain new figures of given dimensions using the
+	  above ones. You will also be told in the question how many and which of the
+	  given shapes you can use to derive the new figures.
+
+	  Questions 33-36:
+	  ------------------------
+	       This section contains questions of mapping from one set to another. Let
+	  us consider a set L1=(8,0,7,3,3,9) and another set L2=(79,71,36). The set L2
+	  has been derived from L1 by doing certain operations with the elements of L1.
+	  By doing similar operations with the elements of the given set L1 in the
+	  question, you have to determine the correct alternative that represents L2.

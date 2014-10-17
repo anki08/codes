@@ -1,0 +1,157 @@
+X-Apparently-To: abhishekpandey@yahoo.com via web311.mail.yahoo.com
+X-Track: 1: 40
+Received: from csa.iisc.ernet.in (144.16.67.8)
+  by mta130.mail.yahoo.com with SMTP; 22 Jul 2000 01:34:25 -0700 (PDT)
+Received: from topaz.csa.iisc.ernet.in (IDENT:root@topaz.csa.iisc.ernet.in [144.16.67.33])
+	by csa.iisc.ernet.in (8.9.3/8.9.3) with ESMTP id OAA20513;
+	Sat, 22 Jul 2000 14:04:40 +0530
+Received: from localhost (satya@localhost)
+	by topaz.csa.iisc.ernet.in (8.9.3/8.9.3) with ESMTP id OAA11600;
+	Sat, 22 Jul 2000 14:04:04 +0530
+X-Authentication-Warning: topaz.csa.iisc.ernet.in: satya owned process doing -bs
+Date: Sat, 22 Jul 2000 14:04:04 +0530 (IST)
+From: satya <satya@csa.iisc.ernet.in>
+To: abhishek <abhishekpandey@yahoo.com>
+cc: Dinesh Parikh <dineshp@newgen.co.in>
+Subject: another paper(for sudhir)
+Message-ID: <Pine.LNX.4.10.10007221359550.11593-100000@topaz.csa.iisc.ernet.in>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3861
+
+
+This is another paper that i got in mail. It may be same as the previous
+one. Please check for that. 
+
+Plz dont blindly follow the ans. 
+
+regards,
+satya
+
+
+############################################################################
+
+
+
+INFOSYS -2000 IISC CAMPUS SELECTION:
+Attended candidates:150
+Shortlisted for Interview:49
+Full selected:22
+________________________________________________________________________________
+(6 marks)
+[Q:1] Find a five digit number subject to following conditions
+	a. It contains 2 prime no digits
+	b. 3 rd digit is the lagest
+	c. 1st digit = (3 rd digit - 1)
+	c. sum of 4 th digit and 5 th digit is less than 1 st digit and
+	d. Value of the 5 th digit lies between the value of 1 st digit
+and 
+	   2 nd digit,
+	    5 th digit is one half of the 4 rh digit
+ ANS: 71842
+
+________________________________________________________________________________
+ [Q:2] 1, 2 , 3, 4 digits are available.How many no of 4 digited numbers
+which 
+     are  divisible by 4 (There should be no repetition of digits in the
+nos)can 
+     be formed?
+     
+ANS: 6 nos
+
+________________________________________________________________________________
+[q:3] 
+
+Conversation between two employees is as follows
+
+EMPLOYEE-1: Hellow! Now your experience is twice the my experience
+
+EMPLOYEE-2: EXACTLY TWO TIMES
+
+EMPLOYEE-1: But at the last meet, you said that your experience is thrice
+of 
+	    my experience
+	    
+EMPLOYEE-2: That is when we met at 2 years back, your experience is thrice
+that of 
+	    yours	         
+	    
+	    Tell experience of two employess with the company?
+	    
+ANS: EMPLOYEE-1: 4 years
+     EMPLOYEE-2: 8 years
+     
+________________________________________________________________________________
+
+[q:4] A hill of 440 yards is there. Two competetors JACK and JILL go up
+the
+    	hill, first JACK reaches the topmost and immediatly starts back
+and meet 
+    	JILL 20 yards from the topmost point. Finally JACK reaches the
+starting 
+    	point 0.5 minutes earler than JILL.Speed while coming down is 1.5
+times
+	the speed of going up.Find the time taken by JACK for whole
+journey(880 yards)?
+	
+ANS: 6.3 minutes
+
+________________________________________________________________________________
+[Q:5] A merchant in the last day sells	2 lamps for Rs. 12 price.He finds
+that he
+	has got 25 % gain on one and 20% lost on the other.Did he loose or
+gain overall?
+	If so how much?
+	
+ANS: 60 paise LOSS
+
+________________________________________________________________________________
+
+[Q:6] 4 persons are there caledd JOHN, JACOB, PITER, and WILLIAMS
+
+	4 laungages are there	named ENGLISH, ITALIAN, GERMAN, FRENCH
+	
+	CONDITIONS:
+	
+	a. There is no common language for all
+	b. Except one language, no language is spoken by more than two
+	c. One can know either German or FRENCH but not both 
+	d. John can't speak ENGLISH But John can act as interpreter
+between JACOB and
+	   PITER. Jacob knows GERMAN but he can tailk with WILLIAM who
+doesn't know a word
+	   of GERMAN
+	e. No common language between JOHN, PITER, and WILLIAMS
+	
+	WHich two languages does each person speaks?
+	
+				(8 marks)
+				
+ANS: YOU FIND IT IS EASY
+
+hint: ITALIAN IS SPOKEN BY THREE PERSONS( This hint is given in Question
+paper)
+
+________________________________________________________________________________
+
+[Q:7] 5 couples are there.
+	MEN: L, M, N, O, P
+	WOMEN: S, T, U, V, W
+	
+	10 seats are in one row.Odd numberd seats are reserved for MEN
+only
+	
+	Like that many conditions are there. This problem from GRE-BARRONS
+BOOK
+	SO search for this problem
+	
+________________________________________________________________________________
+
+ESSAY WRITING: EASE MACHINE SOON REPLACES MAN
+	       In what way Industry helps socity positively
+	       
+	       These are 2 essays
+	       	
+_______________________________________________________________________________
+_	
+

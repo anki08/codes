@@ -1,0 +1,56 @@
+Q1-Q8 & Q9-Q16 these questions were very
+tough,noone couldn't answer these.forget about
+these.
+
+Q17-Q20
+
+let a string of letter S='aaabbba'
+another P='ab' & Q='ba'
+now P->Q means
+the first occurence of p in string will be
+replaced by Q
+for above P='ab' occur in S
+so new S will be S='aababba'.Only first
+occurence should be changed.
+If P doesn't occur in S then S will be
+unchanged.Let S='aaaaab' P='ba' Q="ab"
+here P doesn't occur in S. So S will be
+unchanged .New s='aaaaab"
+4 Questions wrer there.
+
+
+Q21-Q28
+sample question
+
+a series of no. were given 12 21 30 22 *
+choose one from below in place of *
+a)31 b)14 c)56 d)none of these
+another three questions were there.
+
+Q25-Q28
+three figures were given and you have to choose
+fourth one from 4 alternatives.
+
+Q29-Q32
+Let L1={2,3,6,7,8,9}& corresponding L2={23,67,89}
+now L3={1,2,9,0,7,5}
+
+what will be L4 crresponding to L3 from 4
+alternatives.
+for Q21-Q32 for preparation you can read ARUN's
+guide for NATIONAL TALENT SEARCH or
+TEST OF REASONING BY KHANNA or
+MENTAL ABILITY TEST FROM TATA M'CGRAWHILL
+
+Q33-Q36
+there were 4 questions on jumble word.
+
+Q37-Q40
+second part of some compound word were given
+like previous paper of CTS
+sample swan-----
+a)word b)music c)hardy d)talk
+ans) b)music
+compound word swansong and music is synonim of
+song.like this 4 questions were there.
+

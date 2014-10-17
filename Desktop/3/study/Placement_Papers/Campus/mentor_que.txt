@@ -1,0 +1,260 @@
+
+
+---------- Forwarded message ----------
+Date: Tue,  5 Aug 2003 20:03:52 +051800
+From: ramana@cse.iitk.ac.in
+To: Ashvin Agrawal <ashvinag@cse.iitk.ac.in>
+Subject: Re: From UR Beloved juniors
+
+Hi Ashwin,
+    If mentor graphics has not visited out campus yet, this year, you may find 
+the following list useful. These are some of the questions that I faced at a 
+recent interview at mentor graphics.
+
+1). virtual function in C++
+2). friend functions
+3). the sequence in which constructors of classes A, B and C are called when
+class A is inherited from class B which is inherited from class C.
+4). semaphores and mutexes.
+5) what is that we can't do with boolean variables that can be done with
+semaphores.
+6). differences between/advantages and disadvantages of #define and inline
+functions.
+
+>>> Macro (# define) are a fraction of nano second faster but the disadv. of using macros
+is difficulty in debugging program. The code is literally copied wherever macros are refered. 
+so if user passes 'double' instead of 'int', there could be problem in execution. where as using inline function 
+in this case compiler will give error. Note to C++ programmers: When declaring and defining a function within a class,
+the function is automatically inlined so there is no need for the extra inline request.
+
+7). steps in the compilation of a C program. or steps in preprocessing in sequence.
+
+8). question about UNIX file system.
+9). inode number 0 corresponds to what.
+
+10). name few compiler optimizations (little more about compiler optimizations
+11). differences between typedef and #define
+12). differences between a reference and a pointer in C++.
+13). what is LALR parser.
+14). A question on unions: If we have a union with three variables int i,
+char c, float f; and we store a value in say the variable c now. and we
+forget what is the variable of the union that holds a value currently, after
+some time. for this is there any mechanism provided by the language using
+which we can find out whether it is i or c or f that currently holds a
+value.
+15). padding bytes for structures: suppose there is structure struct x{ int
+x, char c}; and the com   If mentor graphics has not visited out campus yet, this year, you may find 
+the following list useful. These are some of the questions that I faced at a 
+recent interview at mentor graphics.
+
+1). virtual function in C++
+2). friend functions
+3). the sequence in which constructors of classes A, B and C are called when
+class A is inherited from class B which is inherited from class C.
+4). semaphores and mutexes.
+5) what is that we can't do with boolean variables that can be done with
+semaphores.
+6). differences between/advantages and disadvantages of #define and inline
+functions
+7). steps in the compilation of a C program. or steps in preprocessing in
+sequence.
+8). question about UNIX file system.
+9). inode number 0 corresponds to what.
+10). name few compiler optimizations (little more about compiler
+optimizations)
+11). differences between typedef and #define
+12). differences between a reference and a pointer in C++.
+13). what is LALR parser.
+14). A question on unions: If we have a union with three variables int i,
+char c, float f; and we store a value in say the variable c now. and we
+forget what is the variable of the union that holds a value currently, after
+some time. for this is there any mechanism provided by the language using
+which we can find out whether it is i or c or f that currently holds a
+value.
+15). padding bytes for structures: suppose there is structure struct x{ int
+x, char c}; and the compiler is a four byte compiler. then what is memory
+allocated to variable of this struct type. if the structure definition is
+struct y{char x; int y;}; then what is the memory allocated for a variable
+of this type.
+16). prototype definition of the printf() function.
+17). how do you dynamically allocate a two dimensional array of size a by b.
+ans: int **x;
+x = (int**)malloc(sizeof(int*)*a);
+for(int i=0;i<a;i++)
+   x[i] = (int*)malloc(sizeof(int)*b);
+Q:then what if it is assigned as: int *y = (int*)x;
+18). differences between 'extern' and 'static'
+19) question on declarations of function pointers in C(it seems that mentor
+graphics people will ask this question everybody)
+20). differences between Java and C++.
+21). inorder, preorder, and post order traversals.
+22). how do you find out if a loop(cycle) exists in a linked list,
+efficiently.
+23) name the oo concepts.
+24) 
+-----------
+Artificial Intelligence
+1). what is hill climbing?
+2). what is simulated annealing?
+----------
+Computer Networks
+1). what is piggybacking?
+2). tell some differences between congestion control and flow control?
+--------
+Theory of computations
+1) about various complexity classes;
+2). NP-hard  and NP-copmleteness,
+examples;
+3). what is universal Turing machine?
+-------
+puzzle type:
+1). suppose there is a big rectangle. and suppose that a small rectangular
+area is cut from the big rectangle, somewhere inside it, the sides of the
+spiler is a four byte compiler. then what is memory
+allocated to variable of this struct type. if the structure definition is
+struct y{char x; int y;}; then what is the memory allocated for a variable
+of this type.
+16). prototype definition of the printf() function.
+17). how do you dynamically allocate a two dimensional array of size a by b.
+ans: int **x;
+x = (int**)malloc(sizeof(int*)*a);
+for(int i=0;i<a;i++)
+   x[i] = (int*)malloc(sizeof(int)*b);
+Q:then what if it is assigned as: int *y = (int*)x;
+18). differences between 'extern' and 'static'
+19) question on declarations of function pointers in C(it seems that mentor
+graphics people will ask this question everybody)
+20). differences between Java and C++.
+21). inorder, preorder, and post order traversals.
+22). how do you find out if a loop(cycle) exists in a linked list,
+efficiently.
+23) name the oo concepts.
+24) 
+-----------
+Artificial Intelligence
+1). what is hill climbing?
+2). what is simulated annealing?
+----------
+Computer Networks
+1). what is piggybacking?
+2). tell some differences between congestion control and flow control?
+--------
+Theory of computations
+1) about various complexity classes;
+2). NP-hard  and NP-copmleteness,
+examples;
+3). what is universal Turing machine?
+-------
+puzzle type:
+1). suppose there is a big rectangle. and suppose that a small rectangular
+area is cut from the big rectangle, somewhere inside it, the sides of the
+smaller rectangle being parallel to the sides of the big rectangle. Now,
+draw a sinlge straight line so that the area of the remaining rectangle is
+divided in to exactly two halves.
+
+(some questions may not have been framed properly, they are to be
+interpreted properly)
+
+D Venkat Ramana Reddy
+(dvrreddy@quark.co.in)
+
+
+
+
+
+Quoting Ashvin Agrawal <ashvinag@cse.iitk.ac.in>:
+
+> 
+> Hi all,
+> 
+> Hope that all of you might have joined the companies n might be 
+> working well so that ur HR may get impressed n thnk of recruiting 
+> us too:))
+> 
+> Some serious talks. We do need a small favor from all of u. I wud expect 
+> all of you to respond. Our campus might be starting in fst week of 
+> August. Ankur met with SPO regarding this n there r some queries need 
+> to be sought out. SPO says we can recommend companies but with full 
+> details thats why next 5 questions.
+> 
+> 1. Which companies do u thnk shud have come last year but didn't.
+> 2. Which companies are more interested in MTechs from last 3 yrs 
+>    experience.
+> 3. If anybody went offcampus then let us know about that.
+> 4. Which companies are recruiting heavily these days.
+> 5. If you know companies which come to other IITs/IISC n not here.
+> 
+> Now comes most imp thng "How to prepare for campus placements" bcoz many 
+> of us might be having queries.
+> 
+> 1. Which company emphasizes on which area(both in written n interview)
+> 2. Your personal expermaller rectangle being parallel to the sides of the big rectangle. Now,
+draw a sinlge straight line so that the area of the remaining rectangle is
+divided in to exactly two halves.
+
+(some questions may not have been framed properly, they are to be
+interpreted properly)
+
+D Venkat Ramana Reddy
+(dvrreddy@quark.co.in)
+
+
+
+
+
+Quoting Ashvin Agrawal <ashvinag@cse.iitk.ac.in>:
+
+> 
+> Hi all,
+> 
+> Hope that all of you might have joined the companies n might be 
+> working well so that ur HR may get impressed n thnk of recruiting 
+> us too:))
+> 
+> Some serious talks. We do need a small favor from all of u. I wud expect 
+> all of you to respond. Our campus might be starting in fst week of 
+> August. Ankur met with SPO regarding this n there r some queries need 
+> to be sought out. SPO says we can recommend companies but with full 
+> details thats why next 5 questions.
+> 
+> 1. Which companies do u thnk shud have come last year but didn't.
+> 2. Which companies are more interested in MTechs from last 3 yrs 
+>    experience.
+> 3. If anybody went offcampus then let us know about that.
+> 4. Which companies are recruiting heavily these days.
+> 5. If you know companies which come to other IITs/IISC n not here.
+> 
+> Now comes most imp thng "How to prepare for campus placements" bcoz many 
+> of us might be having queries.
+> 
+> 1. Which company emphasizes on which area(both in written n interview)
+> 2. Your personal experience of interview u faced.
+> 3. Which subjects shud be given preference in general.
+> 
+> There are lots of question in this mail, but our beloved snrs will reply 
+> soon (mtech2002@cse.iitk.ac.in) aakhir unke junis ke career ka sawal hai 
+> kyun ???
+> 
+> Its been long we had no common thread. So let this thread continue till
+> we all get jobs. So please reply to all. And obviously no junks :-}.
+> You know how busy we people are :-)).
+> 
+> Please spare some time for all of us.
+> Sorry for this loooooooooooooong mail.
+> 
+> Regards
+> MTech2002 Batch
+> --------------------------------------------------------------------------
+> 
+> PS: We do not have addresses of others. Kapil please forward this mail to
+> them also and also on your egroup if any. The following is the name list
+> of the missing addresses
+> 
+> Vaibhav, Dheeraj, Chiruku Shrinivas, Lakshmipati, vamsi etc
+> 
+
+
+
+
+-------------------------------------------------
+This mail sent through IMP: http://webmail.cse.iitk.ac.in/ 

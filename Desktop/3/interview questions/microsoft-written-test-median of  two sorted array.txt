@@ -1,0 +1,631 @@
+
+  Freshers Interviews <http://placementsindia.blogspot.com/>
+
+Technical & HR Interview Questions of Google,Microsoft,Yahoo and many
+more Companies.
+
+  * Resume Tips <http://placementsindia.blogspot.com/search/label/Resume>
+  * Puzzles <http://placementsindia.blogspot.com/search/label/puzzles>
+  * Crack The Interview
+    <http://placementsindia.blogspot.com/search/label/CrackTheInterview>
+  * Amazon Interviews
+    <http://placementsindia.blogspot.com/search/label/Amazon>
+  * Algorithms
+    <http://placementsindia.blogspot.com/search/label/Algorithm%20Analysis>
+  * Data Structures
+    <http://placementsindia.blogspot.com/search/label/Data%20Structures>
+  * ECE Interviews <http://placementsindia.blogspot.com/search/label/ECE>
+  * Home <http://placementsindia.blogspot.com/>
+
+
+    Microsoft Written Test Questions
+    <http://placementsindia.blogspot.com/2007/09/microsoft-written-test-questions.html>
+
+
+
+
+Microsoft visited our campus for recruitment. Here are the 3 questions
+<http://placementsindia.blogspot.com/2007/09/microsoft-written-test-questions.html>
+asked for us in written round. Unfortunately, i couldn't clear the
+written round
+<http://placementsindia.blogspot.com/2007/09/microsoft-written-test-questions.html>.
+Anyone, please post the answers if you know them.
+
+
+ 1. There are 2 sorted arrays A and B of size n each. Write an algorithm
+    to find the median of the array obtained after merging the above 2
+    arrays(i.e. array of length 2n). Full points are given for the
+    solution bearing efficiency O(log n). Partial points for the
+    efficiency O(n).
+
+
+ 2. Given a string *Str of ASCII characters, write the pseudo code to
+    remove the duplicate elements present in them. For example, if the
+    given string is "Potato", then, the output has to be "Pota".
+    Additional constraint is, the algorithm has to be in-place( no extra
+    data structures allowed) . Extend your algorithm to remove
+    duplicates in the string which consisted of UNICODE characters.
+
+
+ 3. Given that, there are 2 linked lists L1 and L2. The algorithm finds
+    the intersection of the two linked lists. i.e' "L1 intersection L2 "
+    ( similar to intersection of 2 sets ). Write all the possible test
+    cases involved in the above given problem
+    <http://placementsindia.blogspot.com/2007/09/microsoft-written-test-questions.html>.
+
+Please, post the answer if you know them.
+
+Posted in Microsoft
+<http://placementsindia.blogspot.com/search/label/Microsoft> » Email
+Post »
+<http://www.blogger.com/email-post.g?blogID=32064785&postID=5968724039166120082>
+
+
+AddThis Social Bookmark Button
+<http://www.addthis.com/bookmark.php?pub=magznetwork&url=http://placementsindia.blogspot.com/2007/09/microsoft-written-test-questions.html&title=Microsoft
+Written Test Questions>
+
+
+        Post a Comment
+
+<http://www.blogger.com/comment-iframe.g?blogID=32064785&postID=5968724039166120082&blogspotRpcToken=6918758>
+
+
+Subscribe to: Post Comments (Atom)
+<http://placementsindia.blogspot.com/feeds/5968724039166120082/comments/default>
+
+
+
+      *13 comments *
+
+  * anantharam  
+    <http://www.blogger.com/delete-comment.g?blogID=32064785&postID=8502634491244933958>
+
+    February 07, 2008 1:19 AM <#comment-8502634491244933958>
+
+    The median can be obtained recursively as follows. Pick the median
+    of the sorted array A. This is just O(1) time as median is the n/2th
+    element in the sorted array. Now compare the median of A, call is
+    a with median of B, b. We have two cases.
+    • a < b : In this case, the elements in B[n
+    2 · · · n] are also
+    greater than a. So the median cannot lie in either A[1 · · · n
+    2 ]
+    or B[n
+    2 · · · n]. So we can just throw these away and recursively
+    solve a subproblem with A[n
+    2 · · · n] and B[1 · · · n
+    2 ].
+    • a > b : In this case, we can still throw away B[1 · · · n
+    2 ] and
+    also A[n
+    2 · · · n] and solve a smaller subproblem recursively.
+    In either case, our subproblem size reduces by a factor of half and
+    we spend only constant time to compare the medians of A and B.
+    So the recurrence relation would be T(n) = T(n/2) + O(1) which
+    has a solution T(n) = O(log n).
+
+  * anantharam  
+    <http://www.blogger.com/delete-comment.g?blogID=32064785&postID=7701884995669131231>
+
+    February 07, 2008 2:59 AM <#comment-7701884995669131231>
+
+    2.
+    main()
+    {
+    char *str = "Potato";
+    char *temp,*cur,*loop;
+    temp = str;
+    cur = temp;
+    int flag;
+    while (*cur !='\0')
+    {
+    loop = str;
+    flag =0;
+    while(loop<=temp)
+    {
+    if(*loop == *cur)
+    {
+    flag = 1;
+    break;
+    }
+    loop++;
+    }
+    if (flag ==0)
+    {
+    temp++;
+    str[temp-str]=*cur;
+    }
+    cur++;
+    }
+    temp++;
+    str[temp-str]='\0';
+    printf("\n\n %s",str);
+    }
+
+  * andy <http://www.blogger.com/profile/15066306220902559126>  
+    <http://www.blogger.com/delete-comment.g?blogID=32064785&postID=5972413559559726066>
+
+    June 02, 2008 3:05 PM <#comment-5972413559559726066>
+    /This post has been removed by the author./
+  * andy <http://www.blogger.com/profile/15066306220902559126>  
+    <http://www.blogger.com/delete-comment.g?blogID=32064785&postID=1888691322158388571>
+
+    June 02, 2008 3:49 PM <#comment-1888691322158388571>
+
+    int mergeStep(int * & a, int * aEnd, int * & b, int * bEnd) {
+    if (a == aEnd) {
+    return *b++;
+    }
+    if (b == bEnd) {
+    return *a++;
+    }
+    if (a < aEnd && b < bEnd) {
+    return (*a < *b) ? *(a++) : *(b++);
+    }
+    throw runtime_error("can't progress merge");
+    }
+
+    /*
+    * O(size) solution.
+    */
+    double findMedianLinear(int * a, int * b, int size) {
+    int * aEnd = a + size, * bEnd = b + size;
+    for (int i = 0; i < size - 1; i++ ) {
+    mergeStep(a, aEnd, b, bEnd);
+    }
+    return (mergeStep(a, aEnd, b, bEnd) + mergeStep(a, aEnd, b, bEnd)) /
+    2.0;
+    }
+
+  * andy <http://www.blogger.com/profile/15066306220902559126>  
+    <http://www.blogger.com/delete-comment.g?blogID=32064785&postID=2044514015045271964>
+
+    June 05, 2008 11:36 PM <#comment-2044514015045271964>
+
+    anantharam,
+    could you explain how your algorithm of finding. will work on the
+    following input:
+    a = {1, 3};
+    b = {2, 2);
+
+  * andy <http://www.blogger.com/profile/15066306220902559126>  
+    <http://www.blogger.com/delete-comment.g?blogID=32064785&postID=5905251152406789926>
+
+    June 06, 2008 12:55 PM <#comment-5905251152406789926>
+
+    double findMedianLog(int * a, int * b, int size) {
+    int m1 = a[size / 2];
+    int m2 = b[size / 2];
+
+    if (size == 2) {
+    return (max(a[0], b[0]) + min(a[1], b[1])) / 2;
+    }
+    if (m1 < m2) {
+    return findMedianLog(a + size / 2, b, size - size / 2);
+    }
+    return findMedianLog(b + size / 2, a, size - size / 2);
+    }
+
+  * Anonymous  
+    <http://www.blogger.com/delete-comment.g?blogID=32064785&postID=2826701743929280534>
+
+    January 16, 2009 8:08 PM <#comment-2826701743929280534>
+
+    For 1st qns think on these lines for a logn algorithm:
+    compare the medians of both arrays (in O(1) since it is sorted). The
+    problem size will be reduced to n elements by this single
+    comparison. Then continue
+
+  * Gopal  
+    <http://www.blogger.com/delete-comment.g?blogID=32064785&postID=5867332020490106168>
+
+    January 29, 2009 5:13 PM <#comment-5867332020490106168>
+
+    main()
+    {
+    char *str = "abababababcdefefefefefegyuiopl";
+    char *p = str;
+    char *q = p + 1;
+    char *check = str;
+
+    while (*p != '\0')
+    {
+    if (*q == '\0')
+    {
+    p++;
+    q = p + 1;
+    }
+    while (( *q != *p ) && (*q != '\0'))
+    q++;
+
+    if (*p == *q)
+    {
+    check = q + 1;
+    if (*check == '\0')
+    *q ='\0';
+    strcpy(q,check);
+    q = p + 1;
+    }
+    }
+
+    printf ("\n%s",str);
+    }
+
+  * Anonymous  
+    <http://www.blogger.com/delete-comment.g?blogID=32064785&postID=2406202164995450228>
+
+    July 21, 2010 1:04 PM <#comment-2406202164995450228>
+
+    For Question 2:
+
+
+
+    * Arrays
+    * Articles
+    * Bit Magic
+    * C/C++ Puzzles
+    * GFacts
+    * Linked Lists
+    * MCQ
+    * Misc
+    * Output
+    * Strings
+    * Trees
+
+    Print all the duplicates in the input string.
+    March 22, 2009
+
+    Write an efficient C program to print all the duplicates and their
+    counts in the input string
+
+    Algorithm: Let input string be “geeksforgeeks”
+    1: Construct character count array from the input string.
+
+    count['e'] = 4
+    count['g'] = 2
+    count['k'] = 2
+    ……
+
+    2: Print all the indexes from the constructed array which have value
+    greater than 0.
+
+    Solution
+    view source
+    print?
+    # include
+    # include
+    # define NO_OF_CHARS 256
+
+    /* Returns an array of size 256 containg count
+    of characters in the passed char array */
+    int *getCharCountArray(char *str)
+    {
+    int *count = (int *)calloc(sizeof(int), NO_OF_CHARS);
+    int i;
+
+    for (i = 0; *(str+i); i++)
+    count[*(str+i)]++;
+
+    return count;
+    }
+
+    /* Print duplicates present in the passed string */
+    void printDups(char *str)
+    {
+    int *count = getCharCountArray(str);
+    int i;
+    char temp;
+
+    for (i = 0; i < NO_OF_CHARS; i++)
+    if(count[i] > 1)
+    printf("%c, count = %d \n", i, count[i]);
+    }
+
+    /* Driver program to test to pront printDups*/
+    int main()
+    {
+    char str[] = "test string";
+    printDups(str);
+    getchar();
+    return 0;
+
+    }
+    NOTE: Copied from geeksforgeeks.org site....
+
+  * Anonymous  
+    <http://www.blogger.com/delete-comment.g?blogID=32064785&postID=8011250760661248802>
+
+    July 24, 2010 10:51 PM <#comment-8011250760661248802>
+
+    char *remove_duplicates(char *str)
+    {
+    char *str1, *str2;
+
+    if(!str)
+    return str;
+
+    str1 = str2 = str;
+
+    while(*str2)
+    {
+    if(strchr(str, *str2)<str2)
+    {
+    str2++;
+    continue;
+    }
+
+    *str1++ = *str2++;
+    }
+    *str1 = '\0';
+
+    return str;
+    }
+
+  * Anonymous  
+    <http://www.blogger.com/delete-comment.g?blogID=32064785&postID=3898892352735056328>
+
+    August 22, 2010 7:43 PM <#comment-3898892352735056328>
+
+    Can anyone please give the solution for the last problem.
+
+  * Anonymous  
+    <http://www.blogger.com/delete-comment.g?blogID=32064785&postID=4510524466660125554>
+
+    July 20, 2011 11:34 PM <#comment-4510524466660125554>
+
+    for the first question the method is very easy actually:
+
+    we can do it using a recursive function:
+    find the median of both the arrays:
+    suppose m1 is the median of the first array
+    m2 is the median of the second array
+
+    then if m1 > m2 then again call that recursive function in the right
+    part of the second array and in the left part of the first array.
+
+    continue this step until the number of elements in the array is not two
+
+    when the number of elements in both the arrays are two then do the
+    following:
+
+    suppose in the first array the elements are :
+
+    f1 f2
+
+    and in the second the elements are
+
+    s1 s2
+
+    then if
+
+    f1 < s2
+    return (f2+s1)/2
+
+    else
+    return (f1+s2)/2
+
+  * Anonymous  
+    <http://www.blogger.com/delete-comment.g?blogID=32064785&postID=7256117850622397815>
+
+    July 20, 2011 11:58 PM <#comment-7256117850622397815>
+
+    #include
+    #include
+    #include
+    main(){
+    char s[100] = "aabcdeefgghijjkllllmnooo";
+    int l = strlen(s);
+    int i;
+    int count[226] = {0};
+    for(i=0;i1){
+    count[s[i]] = -1;
+    i++;
+    }
+    else if(count[s[i]]==-1){
+    int j;
+    for(j=i+1;j<l;j++){
+    s[j-1] = s[j];
+    }
+    l--;
+    }
+    else
+    i++;
+    }
+    s[l] = '\0';
+    printf("%s\n",s);
+    system("pause");
+    }
+
+Post a Comment
+<http://placementsindia.blogspot.com/2007/09/microsoft-written-test-questions.html#comments>
+
+
+
+      *0 Links to this post *
+
+Create a Link <http://www.blogger.com/blog-this.g>
+
+<< Newer Post
+<http://placementsindia.blogspot.com/2007/09/sorting-mergesort.html>
+Older Post >>
+<http://placementsindia.blogspot.com/2007/09/microsoft-freshers-interview-questions.html>
+
+Home <http://placementsindia.blogspot.com/>
+
+
+    Share & Subscribe
+
+<http://feeds.feedburner.com/blogspot/placements>
+
+or Via email
+<http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1086707&loc=en_US>:
+
+
+
+    Blog Archives
+
+  * adobe <http://placementsindia.blogspot.com/search/label/adobe> (2)
+  * Algorithm Analysis
+    <http://placementsindia.blogspot.com/search/label/Algorithm%20Analysis>
+    (13)
+  * Amazon <http://placementsindia.blogspot.com/search/label/Amazon> (5)
+  * C Interview Questions
+    <http://placementsindia.blogspot.com/search/label/C%20Interview%20Questions>
+    (17)
+  * C++ Interviews
+    <http://placementsindia.blogspot.com/search/label/C%2B%2B%20Interviews>
+    (21)
+  * Cisco <http://placementsindia.blogspot.com/search/label/Cisco> (3)
+  * Computer Network Questions
+    <http://placementsindia.blogspot.com/search/label/Computer%20Network%20Questions>
+    (13)
+  * CrackTheInterview
+    <http://placementsindia.blogspot.com/search/label/CrackTheInterview>
+    (5)
+  * Data Structures
+    <http://placementsindia.blogspot.com/search/label/Data%20Structures>
+    (13)
+  * ECE <http://placementsindia.blogspot.com/search/label/ECE> (8)
+  * Google <http://placementsindia.blogspot.com/search/label/Google> (6)
+  * Group Discussions
+    <http://placementsindia.blogspot.com/search/label/Group%20Discussions>
+    (9)
+  * HR Interviews
+    <http://placementsindia.blogspot.com/search/label/HR%20Interviews> (7)
+  * intel <http://placementsindia.blogspot.com/search/label/intel> (1)
+  * Internships
+    <http://placementsindia.blogspot.com/search/label/Internships> (1)
+  * Interviews
+    <http://placementsindia.blogspot.com/search/label/Interviews> (31)
+  * Java Interview Questions
+    <http://placementsindia.blogspot.com/search/label/Java%20Interview%20Questions>
+    (16)
+  * Microsoft
+    <http://placementsindia.blogspot.com/search/label/Microsoft> (17)
+  * Network Interview Questions
+    <http://placementsindia.blogspot.com/search/label/Network%20Interview%20Questions>
+    (3)
+  * Number theory
+    <http://placementsindia.blogspot.com/search/label/Number%20theory> (3)
+  * Operating Systems
+    <http://placementsindia.blogspot.com/search/label/Operating%20Systems>
+    (2)
+  * Placement Papers
+    <http://placementsindia.blogspot.com/search/label/Placement%20Papers> (1)
+
+  * Programming
+    <http://placementsindia.blogspot.com/search/label/Programming> (23)
+  * puzzles <http://placementsindia.blogspot.com/search/label/puzzles> (28)
+  * Resources
+    <http://placementsindia.blogspot.com/search/label/Resources> (9)
+  * Resume <http://placementsindia.blogspot.com/search/label/Resume> (5)
+  * Solutions
+    <http://placementsindia.blogspot.com/search/label/Solutions> (29)
+  * SQL Interview Questions
+    <http://placementsindia.blogspot.com/search/label/SQL%20Interview%20Questions>
+    (9)
+  * Visual Basic Interview Questions
+    <http://placementsindia.blogspot.com/search/label/Visual%20Basic%20Interview%20Questions>
+    (8)
+  * yahoo <http://placementsindia.blogspot.com/search/label/yahoo> (4)
+
+
+    Google Interviews
+
+  * Google Interview Questions
+    <http://placementsindia.blogspot.com/2007/09/google-interview-questions.html>
+  * Google Top Interview Puzzles
+    <http://placementsindia.blogspot.com/2007/09/google-top-interview-puzzles.html>
+  * "Google Top Interview Puzzles" Solutions
+    <http://placementsindia.blogspot.com/2007/12/solutions-to-few-google-top-interview.html>
+  * Google Freshers Latest Interview
+    <http://placementsindia.blogspot.com/2007/08/google-freshers-latest-interview.html>
+  * Ten Things You Can Brush up On For Google
+    <http://placementsindia.blogspot.com/2007/08/ten-things-you-can-brush-up-on-for.html>
+  * <--- More From Google --->
+    <http://placementsindia.blogspot.com/search/label/Google>
+
+
+    Yahoo Interviews
+
+  * Yahoo Interview Questions
+    <http://placementsindia.blogspot.com/2007/09/yahoo-interview-questions.html>
+  * Yahoo Job Interview
+    <http://placementsindia.blogspot.com/2007/09/yahoo-interview.html>
+
+
+    Microsoft Interviews
+
+  * Latest Microsoft Job Interview
+    <http://placementsindia.blogspot.com/2008/02/latest-microsoft-interview-questions.html>
+  * Microsoft IDC Interview Experience
+    <http://placementsindia.blogspot.com/2007/10/microsoft-idc-interview-experience.html>
+  * Microsoft Written Test Questions
+    <http://placementsindia.blogspot.com/2007/09/microsoft-written-test-questions.html>
+  * Microsoft Freshers Interview Questions
+    <http://placementsindia.blogspot.com/2007/09/microsoft-freshers-interview-questions.html>
+  * Microsoft Interview Questions
+    <http://placementsindia.blogspot.com/2007/09/microsoft-interview-questions.html>
+  * Microsoft Interview Process
+    <http://placementsindia.blogspot.com/2007/08/microsoft-interview-process.html>
+  * <--- More From Microsoft --->
+    <http://placementsindia.blogspot.com/search/label/Microsoft>
+
+
+    Human Resource Interview Questions
+
+  * Most Common HR Interview Questions
+    <http://placementsindia.blogspot.com/2007/08/most-common-interview-questions.html>
+  * Questions To Ask HR During Interview
+    <http://placementsindia.blogspot.com/2007/08/questions-to-ask-during-hr-interviews.html>
+  * Questions to ask HR between the interviews
+    <http://placementsindia.blogspot.com/2007/08/questions-to-ask-hr-between-interviews.html>
+  * Questions to ask HR before getting Hired
+    <http://placementsindia.blogspot.com/2007/08/questions-to-ask-hr-before-getting.html>
+  * Contact details of the software Companies
+    <http://placementsindia.blogspot.com/2006/09/contactscompanies.html>
+
+
+    Group Discussions
+
+  * Group Discussion Topics with answers
+    <http://placementsindia.blogspot.com/2006/08/gd.html>
+  * Common mistakes in Group Discussion's
+    <http://placementsindia.blogspot.com/2006/09/gd-mistakes.html>
+  * Group Discussion tips
+    <http://placementsindia.blogspot.com/2006/09/gd-tips.html>
+  * About Group Discussions
+    <http://placementsindia.blogspot.com/2006/09/gd-about.html>
+  * How is evaluation done in Group Discussion's
+    <http://placementsindia.blogspot.com/2006/09/evaluation.html>
+
+
+    C Programming Questions
+
+  * Gowri Kumar C Puzzles <http://www.gowrikumar.com/c/index.html>
+  * Basic C interview Questions
+    <http://placementsindia.blogspot.com/2007/10/basic-c-interview-questions.html>
+  * C Programming Questions
+    <http://placementsindia.blogspot.com/2007/10/c-programming-questions.html>
+  * C Puzzles Part - 6
+    <http://placementsindia.blogspot.com/2007/10/c-programming-puzzles-6.html>
+  * C Puzzles Part - 5
+    <http://placementsindia.blogspot.com/2007/10/c-programming-puzzles-5.html>
+  * C Puzzles Part - 4
+    <http://placementsindia.blogspot.com/2007/10/c-programming-puzzles-4.html>
+  * C Puzzles Part - 3
+    <http://placementsindia.blogspot.com/2007/10/c-programming-puzzles-3.html>
+  * C Puzzles Part - 2
+    <http://placementsindia.blogspot.com/2007/10/c-programming-puzzles-2.html>
+  * C Puzzles Part - 1
+    <http://placementsindia.blogspot.com/2007/09/programming-puzzles-1_29.html>
+
+
+
+
+Freshers Interviews <http://placementsindia.blogspot.com/> is proudly
+powered by Blogger <http://www.blogger.com/>. TypoXP 2.1
+<http://www.sunaryohadi.info/typoxp-2.htm> by BlackQuanta
+<http://ustadz.net/> and BloggerMagz <http://bloggermagz.blogspot.com>.
+StatCounter - Free Web Tracker and Counter <http://www.statcounter.com>

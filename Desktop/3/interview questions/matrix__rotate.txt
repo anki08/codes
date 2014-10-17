@@ -1,0 +1,62 @@
+uppose a matrix A (M*N) is given …. And A’ is defined as …..
+
+A
+1 2 3
+4 5 6
+
+A'
+3 6
+2 5
+1 4
+
+Means Matrix A’ is formed when Matrix A is rotated in anticlockwise direction.
+So find …… A’[j] corresponds to ….. A[_?_][_?_] Solution should be in terms of M, N, i, j only.
+
+
+smallsofa 
+guest	
+Posted 7 months ago # 
+
+
+A[i][j] = A'[j][M-i]; ?
+
+
+rajcools 
+Member	
+Posted 7 months ago # 
+
+
+it fails at a[i][j] = 3
+
+
+rajcools 
+Member	
+Posted 7 months ago # 
+
+
+for A[M][N]
+
+A'[N][M] will be build by equation
+here N and M are already swapped ie for A[2][3] and A'[3][2]
+
+for(int i=0;i<N;i++)
+for(j=0;j<M;j++)
+A'[i][j] = A[j][N-i-1]
+
+@smallsofa - buddy maybe i was not able to understand your ans
+
+
+koolAjay 
+Member	
+Posted 5 months ago # 
+
+
+smallsofa is right..
+a'[0][0]=a[0][2]
+a'[0][1]=a[1][2]
+a'[1][0]=a[0][1]
+a'[1][1]=a[1][1]
+a'[2][0]=a[0][0]
+a'[2][1]=a[1][0]
+Clearly..
+a'[i][j]=a[j][M-i]

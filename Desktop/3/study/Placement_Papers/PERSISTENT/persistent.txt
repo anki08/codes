@@ -1,0 +1,135 @@
+
+2 Sections :
+ I : 30 obj ,60 min (no -ve marking)
+     5 from each of Data Structs, programming,os,database,Theory,general
+ II: 2 sub ,60 min
+
+
+
+-------------------------------------------------------------------------------
+
+
+Data Structures:
+ 1. which sort of the foll is O(nlog(n)) in both avg , worst case...
+    a. selection b. quick c. insertion d.merge
+ 2. we have a hash table of 11 size and the foll positions are filled 
+    0,1,2,4,5,9,10 . for an nsuccessful search ( for an elmt which is not in table)
+    atmost how many queries u need ?
+    a. 1 b.2 c.4 d.6
+ 3. If you have two linked list & you want to fin dthe union of the two lists which of the following methods is good.
+	a. Copy one list & 
+ 4. Find the shortest path given an Adjacency matrix.
+
+Programming
+ 1. Consider the foolowing code
+
+	for(i = 0; i < N; i ++)
+		for(j = i; j < N; i++)
+			A[i] = A[j];
+
+	How many times the assignment has been done.
+
+	a. N		b. N^2/2	c. (N^2 - N)/2		d. N^2 - N
+
+ 2. int (*(*ptr)(int))(void);
+	What is ptr (define it)?
+
+ 3. 	fun(int x, int n)
+	{
+		value = 1;
+		if(n%2) value *= x;
+		value = value + fun(x*x, n/2);
+		return(value);
+	}
+	find the value fun(4, 9).
+	a. 36		b. 13		c. etc ......
+
+ 4. 
+	fun(int A, int B)
+	{
+		if(B == 0) return 0;
+		if(A < B) return 1;
+		else
+			return (fun(A - 1, B) + fun(A - B, B - 1));
+	}
+	find fun(5, 2) (it seems :-))
+
+5. The foll. code is to implement the string Concatenate for two strings using strcat
+
+	char *Concatenate(char *s1, char *s2)
+	{
+		char buff[1000];
+		buff[0] = '\0';
+		strcat(buff, s1);
+		strcat(buff, s2);
+		return(buff);
+	}
+
+	1. It won't work if the length of the concatenated string exceeeds 1000 chars.
+	2. Should not return pointer to local variables.
+	3. Code doesn't work.
+	4. Nothing wrong in the function.
+
+	Which of the above is/are correct .
+	a. 1&2 etc ..............
+
+Operating Systems
+ 1. One ques on finding the number of page faults(implemented using LRU)
+
+ 2. A cache access takes 100ns & a memory access takes 1200 ns. What should be the hit 
+ratio of the cache, if the avg. access should be at most 20% extra than cache access.
+	a. 80%		b. 90%		c. 98%		d. 99%
+
+ 3.Match the foll.
+   
+   critical section 		
+-  circular wait
+   dead lock			-  Harore's algo 
+   mutual exclusion		-  
+   wait/signal			-
+
+General
+ 1. What is the prob. of finding a number between 100 to 999 which doesn't contain a
+    digit 7
+	a. 9/10		b. 16/25	c. 18/25	d. 729/1000
+
+ 2. Find the prefix & postfix notation for a given infix expression
+	(a + b - c) * (e / f) - ( g - h/i)
+
+ 3. A code having letters a,b,c,d,e,f with given  freq.(i don't remember)
+  of strings with length 1,3,3,3,3,4,4. 
+   How many bits are saved using this decoding ?
+ 
+Theory
+ 1. Mapping is given below.
+	S --> 1S1
+	S --> 11
+	S --> 0S0
+	S --> 00
+
+  Which of the following sequence match the mapping
+	Some binary sequences were given like 1011 etc.
+
+ 2. which of the foll.  is true
+    a. (a and b) -> (b or c)
+    b. (a ->b) -> (b->a)
+    c. 
+
+ 3.
+
+
+ 
+II Subjective
+
+	1. Write a function to clone a DAG, which has the node defined by the foll. structure.
+
+	typedef struct Emuls
+	{
+		int value;
+		int N;		//outdegree 
+		NodePtr children[100];	// Children
+	}Node, *NodePtr, *GraphPtr;
+
+	Write a function GraphPtr Clone(GraphPtr G) where G root of the DAG. It should have one to one mapping.
+	2. Write a C function to find a sub-rectangle which has maximum sum of its 
+	elements, given a rectangle A[M][N].

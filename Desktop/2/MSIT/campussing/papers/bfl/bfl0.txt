@@ -1,0 +1,331 @@
+   
+ 
+ 
+
+   
+
+BFL Sample Test Paper
+ 
+
+All the following questions are memory-based and provided by students who have given this paper.
+
+COMPUTER AWARENESS TEST
+
+1.What is a semaphore
+Ans. A method synchronization of multiple processes
+
+2.A process is defined as 
+Ans. Program in execution
+
+3. What is the efficiency of merge sort
+Ans. O(n log n) 
+
+4.What is the essential feature of inheritance
+Ans. All properties of existing class are derived
+
+5.How is memory management done in Win95
+Ans. Through paging and segmentation
+
+6.What is meant by polymorphism
+Ans. Redefinition of a base class method in a derived class
+
+7.In the command scanf, h is used for 
+Ans. Short int
+
+8.What does the protocol FTP do
+Ans. Transfer a file b/w stations with user authentication
+
+9.In the transport layer ,TCP is what type of protocol
+Ans. Connection oriented
+
+10.Why is a gateway used
+Ans. To connect incompatible networks
+
+11.How is linked list implemented
+Ans. By referential structures
+
+12.What method is used in Win95 in multitasking
+Ans. Non preemptive check
+ 
+13.A thread is 
+Ans. Detachable unit of executable code)
+
+14.What is the precedence order from high to low ,of the symbols ( ) ++ /
+Ans.( ) , ++, /
+
+15.Preorder of A*(B+C)/D-G
+Ans.*+ABC/-DG
+
+16. B-tree (failure nodes at same level)
+
+17. Dense index (index record appears for every search -key in file)
+
+18.What is the advantage of Win NT over Win 95
+Ans. Robust and secure
+
+19. In which layer are routers used
+Ans. In network layer
+
+20.In binary search tree which traversal is used for getting ascending order values--In order ,post order, pre order 
+Ans. In order
+
+21.What are device drivers used for
+Ans. To provide software for enabling the hardware
+
+22.In binary search tree which traversal is used for getting ascending order values--In order ,post order, pre order 
+Ans. In ordercopy constructor ( constant reference )
+
+23.Which of the following sorting algorithm has average sorting behavior --  Bubble sort, merge sort, heap sort, exchange sort
+Ans. Heap sort
+
+24.In unix .profile contains
+Ans. Start up program
+
+25. In unix 'ls 'stores contents in
+Ans. inode block
+
+26.What is fork command in unix
+Ans. System call used to create process
+
+27.What is make command in unix
+Ans. Used for creation of more than one file
+
+28.Irrelevant to unix command ( getty)
+
+29.In unix echo is used for ( answer C)
+
+30.What is meant by functional dependency 
+
+31. A program on swapping ( 10,5 )was given (I cannot remember)
+
+32. heap ( priority queue )
+
+33. In which layer are packets formed ( in network layer )
+
+
+QUANTITATIVE SECTION
+
+
+1.In a class composed of x girls and y boys what part of the class is composed of girls
+
+A.y/(x + y)
+B.x/xy
+C.x/(x + y)
+D.y/xy
+Ans.C
+
+
+2.What is the maximum number of half-pint bottles of cream that can be filled with a 4-gallon can of cream(2 pt.=1 qt. and 4 qt.=1 gal)
+
+A.16
+B.24
+C.30
+D.64
+Ans.D
+
+
+3.If the operation,^ is defined by the equation x ^ y = 2x + y,what is the value of a in 2 ^ a = a ^ 3
+
+A.0
+B.1
+C.-1
+D.4
+Ans.B
+
+
+4.A coffee shop blends 2 kinds of coffee, putting in 2 parts of a 33p. a gm. grade to 1 part of a 24p. a gm.If the mixture is changed to 1 part of the 33p. a gm. to 2 parts of the less expensive grade, how much will the shop save in blending 100 gms.
+
+A.Rs.90
+B.Rs.1.00
+C.Rs.3.00
+D.Rs.8.00
+Ans.C
+
+
+5.There are 200 questions on a 3 hr examination. Among these questions are 50 mathematics problems. It is suggested that twice as much time be spent on each maths problem as for each other question. How many minutes should be spent on mathematics problems
+
+A.36
+B.72
+C.60
+D.100
+Ans.B
+
+
+6.In a group of 15,7 have studied Latin, 8 have studied Greek, and 3 have not studied either. How many of these studied both Latin and Greek
+
+A.0
+B.3
+C.4
+D.5
+Ans.B
+
+
+7.If 13 = 13w/(1-w) ,then (2w)2 =
+
+A.1/4
+B.1/2
+C.1
+D.2
+Ans.C
+
+
+8. If a and b are positive integers and (a-b)/3.5 = 4/7, then
+
+(A) b < a
+(B) b > a
+(C) b = a
+(D) b >= a
+Ans. A
+
+
+9. In June a baseball team that played 60 games had won 30% of its game played. After a phenomenal winning streak this team raised its average to 50% .How many games must the team have won in a row to attain this average?
+
+A. 12
+B. 20
+C. 24
+D. 30
+Ans. C
+
+
+10. M men agree to purchase a gift for Rs. D. If three men drop out how much more will each have to contribute towards the purchase of the gift/
+
+A. D/(M-3)
+B. MD/3
+C. M/(D-3)
+D. 3D/(M2-3M)
+Ans. D
+
+
+11. A company contracts to paint 3 houses. Mr.Brown can paint a house in 6 days while Mr.Black would take 8 days and Mr.Blue 12 days. After 8 days Mr.Brown goes on vacation and Mr. Black begins to work for a period of 6 days. How many days will it take Mr.Blue to complete the contract?
+
+A. 7
+B. 8
+C. 11
+D. 12
+Ans.C
+
+
+12. 2 hours after a freight train leaves Delhi a passenger train leaves the same station traveling in the same direction at an average speed of 16 km/hr. After traveling 4 hrs the passenger train overtakes the freight train. The average speed of the freight train was?
+
+A. 30
+B. 40
+C.58
+D. 60
+Ans. B
+
+
+13. If 9x-3y=12 and 3x-5y=7 then 6x-2y = ?
+
+A.-5
+B. 4
+C. 2
+D. 8
+Ans. D
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+  
+ 
+       
+  

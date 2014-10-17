@@ -1,0 +1,69 @@
+#include <iostream.h>
+#include <conio.h>
+#include <stdio.h>
+#include <string.h>
+
+#define depart 2
+
+typedef struct Stu
+                 {
+                   int roll_no , marks;
+                   char name[25],dept[30];
+                 }stud;   
+                         
+int main()
+ {
+    stu *d[2],top[2];
+    int i,c;
+    char dp[30];
+     
+    cout<<"\nEnter the information below:";
+    for(i=0;i<dep;i++)
+      {
+        cout<<"\n\nFor department "<<i+1
+            <<"\n\tDepartment name \t: ";
+        fflush(stdin);
+        gets(dp);
+            
+        cout<<"\n\tEnter number of students\t:";
+        cin>>c;
+        d[i]=new stu[c];
+        top[i].marks=0;
+        strcpy(top[i].dept,dp);
+                        
+        for(int j=0;j<c;j++)
+            {
+              strcpy(d[i][j].dept,dp);
+              cout<<"\n\n\tFor student, "<<j+1<<" enter name, roll no and marks :";
+              fflush(stdin);
+              gets(d[i][j].name);
+              cin>>d[i][j].roll>>d[i][j].marks;
+                    
+                if(d[i][j].marks>top[i].marks)
+                    {
+                       top[i].marks=d[i][j].marks;
+                       top[i].roll=d[i][j].roll;
+                       strcpy(top[i].name,d[i][j].name);
+                    }
+                    
+            }
+       }        
+    
+     cout<<"\n\nThe information of the toppers: \n";
+    
+     for(i=0;i<dep;i++)
+         {
+            cout<<"\n\nTopper of department ";
+            puts(top[i].dept);
+            cout<<"\n\tName \t: ";
+            puts(top[i].name);
+            cout<<"\n\tRoll Number \t: "<<top[i].roll
+                <<"\n\tMarks \t: "<<top[i].marks;
+         }    
+    
+    getch();
+    return 1;
+
+}        
+            
+               

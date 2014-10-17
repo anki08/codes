@@ -1,0 +1,44 @@
+TOROLA 99 (46 questions , no -ve marking)
+
+1. out of 1800 coins one is lighter than others and in howmany attempts u can find that 
+odd one? ans:7
+2.  out of 52 cards two are drawn consecutively. what is the probablility to get black king & 
+      black queen ? ans: 2/663
+
+3.  1,2,3,5,8,   ..?   ans: 13
+4. out of 100 students in the class 60 take hindi ,55 social, 65 english. Howmany 
+     students passed in atleast 2 subjects? 
+5.  3	4	13
+      -	?	-
+      6	7	16
+  ANS: ? = 1
+6.  h  i   n  d          find the odd man out ? ans: i (vowel)
+7.  word1: word2   then motorola: ?      ans: replace m  o  r  l by respective letters in word2.
+8.   6	1	2	7
+             12		            ?	
+      2	3	11	1
+ans: add 1+2+11+7
+9.   O(n), O(n2), O(n3),  O(n4)  what is the overall   complexity ?
+Ans:  orde of n power 4 O(n4).
+10.for(i=0:!<m;i++)  what is the expression to access the array from last element ?
+ans:  a[m-i+1]
+11. 2	4	6
+            6              10
+	 ?                          ans: 16
+12.  queston on floors in building. srinivas lives on .....
+  ans: 11 th floor.
+13. BIRD:HIPK::EMCR: ?  ANS:ZLUP ( SEE THE VALUE IN WORD2.)
+          -        -               -                      -
+14-16.   There are 2 analytic questions (6marks each)
+         There are 3 drink items (c m t )& 5 food items (p q r s t u). one has to take 
+          2 drink items and 3 food items. The pairs that shuld not be taken are given.
+	(cp ps  pt  etc)
+            Q1) if he takes c    what others can be taken ?
+              Q6)what he can take  ? ans: u  (no condition is given on u)
+20-25)  Analytic question based on positions .
+	A  is above c&d,  Q is below c, Q is middle of r&c   etc.
+   now u can answer the 6 questions once u find the corresponding positions of letters.
+	   
+          	
+
+

@@ -1,0 +1,219 @@
+BOI Objective questions 1998
+
+
+The 1998 BOI Technical paper consisted of three parts.
+#1> Proficiency in C. 
+       Number of questions: 20. Time: 40 minutes.
+#2> Proficiency in Database Management. 
+       Number of questions: 15. Time: 20 minutes.
+#3> Proficiency in Object Oriented Concepts 
+       Number of questions: 15. Time: 15 minutes.
+
+Proficiency in Database Management
+
+Note: One or more than one options can be correct for all the questions below. Select all      correct options. 
+
+1. In the three level architecture proposal for a DBMS, which schema describes all the records and relationships in the database.
+A. External Schema                          
+B. Conceptual Schema 
+C. Internal Schema
+D. None of these
+
+2. IS_A relationship is used in establishing one of the following relationships. Which one is that
+A. Specialization 
+B. Aggregation
+C. Generalization
+D. None of theses
+
+3. In which data model, data is organized in an ordered tree structure
+A. RDBMS
+B. Network
+C. Hierarchical
+D. None of these
+ 
+4. There may be more than one key in a relation to identify a tuple uniquely. These keys are called
+A. Candidate Key
+B. Primary Key
+C. Foreign Key
+D. None of these
+
+5. If one deletes a tuple that is a target of a foreign key reference, then there are some possibilities to maintain database integrity. Which of the following possibility violates the rules of database integrity   
+A. All tuples that contain references to the deleted tuple should also be deleted.
+B. Only tuples that are not referenced by any other tuple can be deleted. A tuple referred by other tuples in the database cannot be deleted.
+C. The tuple is deleted and the pertinent foreign key attributes of all referencing tuples are set to null.
+D. None of these.
+
+6. Give a relation scheme R with functional dependencies F defined on the attributes of R and K as a candidate key, if X is a proper subset of K and if F |= X->A, then A is said to be
+A. Fully dependent on K
+B. Partially dependent on K
+C. Not dependent 
+D. None of these
+
+7. Given R(A,B,C,D) and F={AB->C, B->D}, the key of this relation is
+A. A
+B. B
+C. AB
+D. None of these
+
+8. Given R(A,B,C,D) with functional dependencies F={A->B,A->C,A->D}, R is decomposed into R(A,B,D) with functional dependencies F1={A->B,A->D} and R2(B,C) with functional dependencies F2={}. This decomposition is
+A. Lossless
+B. Both lossless and dependency preserving
+C. Lossy
+D. Lossy and also not dependency preserving
+
+9.  Consider the scheme STUDENT(SID,NAME,PHONE_NO,MAJOR)
+SID, NAME and PHONE_NO are unique for each student.
+The Functional dependencies satisfied on this relation are
+SID->MAJOR
+NAME->MAJOR
+PHONE_NO->MAJOR
+SID->NAME 
+SID->PHONE_NO
+NAME->SID
+NAME->PHONE_NO
+PHONE_NO->SID
+PHONE->NAME
+
+This relation is in
+A. 1NF
+B. 2NF
+C. 3NF
+D. BCNF
+
+10. Which of the following include all of the records from the second (right) of the two tables, even when there are no matching values for records in the first (left table)?
+A. Inner Join.
+B. Left Outer Join
+C. Right Outer Join
+D. None of these
+
+11. Which constraint would normally be used to enforce entity integrity?
+A. Primary Key
+B. Foreign Key
+C. Unique Key
+D. Integrity Key
+
+12. Which of the following statements are true of primary and foreign keys?
+A. A foreign key must be unique within it's own table.
+B. Every non-null foreign key value should have a matching primary key value.
+C. Primary keys can contain null values.
+D. Primary keys must be unique within their own table columns.
+ 
+13. Which of the following represent a many-to-many relationship in the entity-relationship (ER) model?
+A. A college course is offered during a variety of time periods. Several classes are in session during any given time period during the day.
+B. The order table has many orders, each of which has been placed by any one of the many customers in the customer table.
+C. Each department has many employees. Even though each employee is assigned to a single department, there are no departments with less than two employees.
+D. For any one of the many parts in the warehouse, there can be more than one vendor. Each vendor 
+      may supply one or more parts to the warehouse. 
+
+14. Use the following table to answer this question
+
+Student
+           (
+                    Student ID     Integer,
+                    Age                Integer,
+                    Score             Integer,   
+                    Sex                Char(1)*
+           ); 
+           *M->Male, F->Female
+
+Write a SQL statement to select a female student who has scored second highest score among females.
+
+15. Use the following tables to answer this question
+
+Employee
+                 (
+                    Employee ID  Integer,
+                    Age                Integer,
+                    Designation    Char(30),   
+                    Sex                Char(1)*
+                 );
+          *M->Male, F->Female
+
+Account
+          (
+                    Employee ID  Integer,
+                    Account ID    Integer, 
+          ); 
+
+      You are working on an employee management system. You have already moved all the employees who have left the organization into history table. Now you want to delete from Account table all the records pertaining to these employees.
+      Write a SQL statement to implement this.
+        
+Proficiency in Object Oriented Concepts 
+
+1. Select all the correct statements about "Abstraction"
+A. Assumes essential characteristics of an object to distinguish it from other kinds of objects. 
+B. Provides a simplified view of the object.
+C. It separates the implementation from its interface.
+D. It is the enforcement of the type class of an object.
+
+2. The behavior of a class is decided by
+A. Data members.
+B. Methods.
+C. Access permissions.
+D. All of the above.
+
+3. Which statement(s) is/are true about "Static Typing"?
+A. Refers to Types declared at compile time.
+B. More efficient and reliable than Dynamic typing.
+C. Can be used to implement polymorphism.
+D. Refers to all static data/methods in your classes.
+
+4. Which statements(s) is/are true about Dynamic binding?
+A. The correct function to call is resolved at run-time.
+B. These functions are statically typed.
+C. These functions are dynamically typed.
+D. Refers to all dynamically allocated data in your classes. 
+
+5. Reusability of objects is achieved by
+A. Inheritance.
+B. Aggregation.
+C. Polymorphism.
+D. All of the above.
+
+6. Which statements(s) is/are true about "Hierarchy" of objects?
+A. It is an ordering of abstractions. 
+B. It refers to "is a " relationship expressed by inheritance.
+C. It refers to "has a" relationship expressed by aggregation.
+D. It refers to access permissions on the aggregated object within an object.
+
+7. What are "Generic classes"? (Select all that are correct)
+A. A universal base class to cater to a wide range of derived classes.
+B. A parameterized class, which is reusable across, types.
+C. Used where implementation and behavior is independent of type.
+D. Also known as abstract classes.    
+      
+8. A language is "Object Base" if  (Select all that are correct)
+A. It supports abstraction.
+B. It has a concept of class.
+C. It provides direct support for inheritance.
+D. All of the above.
+ 
+9. "Object Persistence" covers which of the following (Select all that are correct)
+A. Global variables & heap items.
+B. Object data storage.
+C. Object type storage.
+D. All of the above.
+
+10. Which statement(s) is/are true about shared inheritance? 
+A. All base classes are by default example of shared inheritance.
+B. In multiple inheritance the derived classes share a single instance of the Base Class.
+C. The base class is declared dynamically & there can be only one instance of it.
+D. It allows distributed objects to share remote object and treat it as their own.
+
+For questions 11 To 15:
+
+Following is the list of all relationships that multiple classes can have
+
+A. Association.
+B. Inheritance.
+C. Aggregation
+D. Using.
+E. Instantiation.
+
+For Questions 11 to 15, select the correct relationship (A-E) among the mentioned pairs.
+
+11. Product, Sales.
+12. Rose, Flower.
+13. Petal, Flower.
+14. Temperature Controller, Temperature Ramp.
+15. Generic Queue class. Integer, Custom data types.

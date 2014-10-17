@@ -1,0 +1,69 @@
+___________________________________________________________________________________
+
+COMPANY NAME : ACCENTURE
+------------------------------------------------------------
+DATE OF TEST : 2003
+------------------------------------------------------------
+PLACE OF TEST: 
+------------------------------------------------------------
+MODE 	   : Off-Campus
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+-----Original Message-----
+From: m k 
+Sent: Wednesday, September 24, 2003 8:12 PM
+To: chetana-jobs@yahoogroups.com
+Subject: [CHETANA] (Pattern) Accenture - Paper N Interview Pattern
+
+
+Hi all,
+
+I attended the walk-in of Accenture this Sunday in Bangalore. I cleared all the rounds and awaiting the final interview. Here is the pattern: (for the JAVA people. There was separate process for .Net and Mainframe people).
+
+The process consisted of:
+1. Written Test 
+2. GD
+3. HR Interview
+4. Tech Interview
+5. Final Interview
+6. Offer
+
+1. The written was purel technical (as it was for exp people). Consisted of 30 ques. in 30 min. Qoes. from EJB (5-6 ques), JSP/servelts (3-4 ques), UML (2 ques),sql/database(2-3ques) and rest core java. Be prepared as the test is tough. Prepare the basics well......
+
+2. GD was coool. They from groups of 12 people. Topics are common like shud internet chatting in IT companies be allowed, Shud ragging be  banned etc... No need o shout, just make sure that your point gets noticed by the group.
+
+3. This one is real hard. You gotta have ur basics of JAVA and J2EE crystal clear. The person was though cool and gave u ample time to answer. Asked tricky questions related to basics of EJB, servlets etc. 
+
+4. The HR interview is a breeze. They just ask usual questions like your career objectives, why u want to change, why Accenture, weakness, strengths etc... Speak well and with confidence.
+
+5. The final interview is with a  manager. Have no idea about it as i'm still waiting for it to be held. Though the process was supposed to be completed on Sunday itself, too many people turned up.... and the process got delayed. All those who cleared the first 4 rounds were told to go back...... said that they will take telephonic interviews........still aiting for it.......
+
+
+Also, you have to fill Employee App. Form if u clear the GD... Make sure u have atleast 2 referecnes handy....
+
+Hope this helps u all. Accenture is recruiting big way. Make sure u don't miss it out.
+
+regards,
+Mrityunjay
+
+
+
+
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

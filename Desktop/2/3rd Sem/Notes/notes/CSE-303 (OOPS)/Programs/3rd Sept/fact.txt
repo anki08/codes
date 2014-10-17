@@ -1,0 +1,94 @@
+#include<iostream>
+using namespace std;
+string add(string s1,string s2){
+  int car=0,i,j,ad=0;
+  string max,min,sum="";
+  if(s1.length()>s2.length()){
+    max=s1;
+    min=s2;
+  }
+  else{
+    max=s2;
+    min=s1;
+  }
+  for(i=min.length()-1,j=max.length()-1;i>=0;i--,j--){
+    ad=min[i]-'0'+max[j]-'0'+car;
+    car=ad/10;
+    ad=ad%10;
+    sum=(char)(ad+'0')+sum;
+  }
+  for(;j>=0;j--){
+    ad=max[j]+car-'0';
+    car=ad/10;
+    ad=ad%10;
+    sum=(char)(ad+'0')+sum;
+  }
+  if(car!=0){
+    sum=(char)(car+'0')+sum;
+  }
+  return sum;
+}
+//////////////////////////////////////////////
+string mul(string s1,string s2){
+  string big,sma,res="";
+  int a=0,car=0,m=0,i,j,p=0;
+  if(s1.length()>s2.length()){
+    big=s1;
+    sma=s2;
+  }
+  else{
+    big=s2;
+    sma=s1;
+  }
+  for(i=sma.length()-1;i>=0;i--){
+    string temp="";
+    for(j=big.length()-1;j>=0;j--){
+      m=(big[j]-'0')*(sma[i]-'0')+car;
+      car=m/10;
+      m=m%10;
+      temp=(char)(m+'0')+temp;
+    }
+    if(car!=0){
+      temp=(char)(car+'0')+temp;
+      car=0;
+    }
+    for(int k=0;k<p;k++)
+      temp=temp+"0";
+    res=add(res,temp);
+    p++;
+  }
+  return res;
+}
+string fact(string a){
+  string t="";
+  for(int j=0;j<a.length()-1;j++)
+    t="0"+t;
+  t=t+"1";
+  if(a==t)
+    return "1";
+  else{
+    int i=1;
+    string t;
+    t=a;
+    t[t.length()-i]=t[t.length()-i]-(char)(1);
+    while(t[t.length()-i]<'0' && i!=t.length()){
+        t[t.length()-i]='9';
+        i++;
+        t[t.length()-i]=t[t.length()-i]-(char)(1);
+    }
+    return mul(a,fact(t));
+  }
+}
+/////////////////////////////////////////////////
+main(){
+  int x=0,y=0;
+  string n1,f;
+  cout<<"\nEnter the number to find the factorial of:";
+  cin>>n1;
+  f=fact(n1);
+  while(f[x]=='0')
+    x++;
+  for(;x<f.length();x++,y++)
+    cout<<f[x];
+  return 0;
+}

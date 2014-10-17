@@ -1,0 +1,172 @@
+I section - 30 objective questions in 40 min.
+II section - 5 questions.
+II section
+----------
+1) A tree and a car are connected by an infinitesimly elastic chord. the
+distance between tree and car is 100 m. the car started moving away from
+the tree stretching the chord at a speed of 100kmphr. simultaneously, an
+ant started walking from the tree towards the car at 1.5kmphr. will the
+ant reach the car? give explanation.
+2) there is a board consisting of 8 X 8 squares. it is covered with
+rectangles of size 2 X 1. so all the squares are covered. now two squares
+from opposite
+corners are removed. so can the remaining squares be covered
+completely? Give
+explanation...
+3) what is the value of i and j?
+(i) for(;--j && j++;)
+    {
+     j|=1;
+     j&=1;
+    }
+(ii) i = 1<<31;
+     while(i)
+     {
+      if(i&j)
+       j|=i;
+      else
+       j&=i;
+      i>>=1;
+     }
+
+4) Given the following:
+
+Instructions         Operands       Description
+-----------------------------------------------
+ADD/SUB              O1, O2, R      R = O1 +(-) O2
+
+SHL/SHR              O1, O2, R      SOME LEFT SHIFT AND RIGHT SHIFT
+                                    OPERATION..I FORGOT THIS..
+
+JZ                   L              JUMP TO L IF THE RESULT OF PREVIOUS
+                                    OPERATION IS 0
+
+RZ                                  RETURN FROM THE FUNCTION IF THE RESULT
+                                    IS 0.
+
+AND/OR/XOR
+
+O1, O2 and R can be immediate datas or registers. they operands can be
+present in more than one instruction. write a program to multiply 2
+numbers which are in R1 and R2. result has to be in R3.
+
+5) i did not get time to read this question properly. but it was like...
+some fuctions are given which take integer numbers as arguments and
+generate an integer. write a code for finding the function which gives
+maximum value.
+
+I section
+---------
+
+1) which of the following is not true?
+a. a pointer which is not initialised contains null.
+b.
+
+
+2) what is the output of the following program?
+
+#include <stdio.h>
+# define SIZE 10
+# define MAX_LEN 9
+
+main()
+{
+ int i = 0;
+ char str[SIZE] = "abcdefghi";
+ printf("%s",str);
+ for(;i<MAX_LEN - 1;i++)
+  printf("%c",str[i]);
+}
+
+a. abcdefghi a b c d e f g h i
+b. abcdefghi a b c d e f g h
+c. compilation error
+d. run time error
+
+3) A person is looking at a photograph and says, "I don't have any brother
+or sister. But this man's father is my father's son." who is in the
+photograph?
+
+a. his son
+b. he himself
+c. his mother
+d. his father
+
+4) what is the value of i and j at the end of the program?
+
+i = 1; j = 9;
+while(i<j)
+{
+++i;
+j--;
+}
+
+a. i = 4, j = 6;
+b. i = 5, j = 5;
+c. i = 6, j = 4;
+d. i = 5, j = 6;
+5) which command is used for increasing the size of heap during run time?
+
+a. brk()
+b. malloc()
+c. heap size cannot be modified at run time.
+d. there is no such algorith.
+e. a and b
+
+6) which is not a stable sorting method?
+a. bubble sort
+b. insertion sort
+c. quick sort
+d. none of the above
+
+7) P, Q, R, S, T, U participated in a race. U reached neither first nor
+last. R reached just before S. R finished before P and Q. if R finished
+2nd, which of the following must be true?
+
+a. Q must reach 5th.
+b. either P or Q must reach 6th.
+c.
+d.
+
+8) what is the major difference between array and list?
+i. in array, maximum size has to be known and insertion and deletion takes
+lot of moving
+ii. in array, maximum size has to be known and deletion is not possible
+iii. in array, maximum size has to be known and *************
+
+
+a. i
+b. i and ii
+c. ii and iii
+
+9) what is the command to go thru the elements of a linked list?
+a. for(p=head;p!=NULL;p=p->next)
+b. for(p=head;p->next!=NULL;p=p->next)
+c.
+
+10) what is the command to free all the elements in a linked list?
+
+11) what is the command to insert an element pointed to by q after the
+elm pointed by p?
+a. p->next = q->next; p =q
+b. q->next = p->next; p = q;
+c.
+
+12) Lion tells lies on mondays, tuesdays and wednesdays. Uiorp tells lies
+on thursdays, fridays and saturdays. one day
+Loin said: yesterday was my lying day
+Uiorp said: yesterday was not my lying day.
+What was that day when they said this?
+a. sunday
+b. thursday
+c. saturday
+13) one pgm was given which contains arrays. it was asked to find the
+array content at the end
+
+14) in a linked list of N elements, how many cycles are there?
+
+a. N + 1
+b. N - 1
+c. N ^ N
+d. log N to base N
+e. no such rule is there

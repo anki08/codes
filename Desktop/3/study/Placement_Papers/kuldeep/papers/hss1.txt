@@ -1,0 +1,2640 @@
+>>              Hughes Software systems.
+>>              ------------------------
+>>
+>>The Questions are follows^M
+>>1. Number of null pointers in any binary tree = n+1^M
+>>2. max(t1,t2,...tn)   = pipelining^M
+>>3. 50%   -DBETXXXXXX    - density^M
+>>1) find the probability of getting a number with 7 between 100 and
+>>999 (both inclusive).
+>>ans:
+>>
+>>2) There are 10 items in a box, out of which 3 are defective.
+>>2 balls are taken one after the other. what is the probability
+>>that both of them are defective?
+>>Ans: 1/15  or 6/90
+>>
+>>3)  Context free grammar  is accepted by
+>>a)  finite automata
+>>b)push down automata
+>>c) two way bounded automata
+>>d) both b and c
+>>
+>>
+>>4) which is not a memory management scheme?
+>>a) buddy system
+>>b) swapping
+>>c) monitors
+>>d) paging     Ans : c
+>>
+>>5) qn. on karnaugh map for simplifying boolean expressions
+>>
+>>         - 1 1 -
+>>         1 - - 1
+>>         1 - - 1
+>>         - 1 1 -
+>>      karnaugh map
+>>
+>>6) qn. on nand gates .
+>>
+>>7) context sensitive grammar
+>>
+>>8) An identifier can start with a letter followed by any number of
+>letter
+>>or digits .
+>>ans: L.(LUD)*
+>>
+>>9) 8MB total memory, 256 k cache , 4k is block size. direct mapping
+>>how many different physical memory blocks can be mapped on to the
+>cache.
+>>a) 64 b) 256 c) 128
+>>
+>>10) CSMA/CD is used in
+>>a) token ring
+>>b) FDDI
+>>d) ethernet
+>>Ans : d
+>>
+>>11)  In TCP/IP header , checksum contains
+>>a) sum of all the words
+>>b) ones complement of the data
+>>c) ones complement of the sum of all the words
+>>d) ones complement of the sum in ones complement
+>>Ans : d
+>>
+>>12) Max no of Acknowledgements for a 4 bit sequence number in a
+>>sliding window protocol.
+>>
+>>13)   which is a good way of representing varaibles in recursion
+>>a) local variables
+>>b) static varaibles
+>>c) global variables
+>>d)
+>>
+>>14) c programs
+>>    func() {
+>>       static int i = 10;
+>>       printf("%d",i);
+>>       i++;
+>>      }
+>>
+>>what is the value of i if the function is called twice ?
+>>
+>>Ans : 11
+>>
+>>15)   Qn. on pointers .
+>>
+>>16)  given page table,page size and offset find the corresponding
+>>     physical address  ?
+>>    ans : a  (3*1024+576) (pageno*pagesize+offset)
+>>
+>>17)  In a memory chip 4k size and 16bit words to be stored. No of
+>>address and data lines reqd.
+>>Ans) 16 data and 12 address
+>>
+>>18) idetify in which pass of the 2 pass compiler
+>>1) literals
+>>2) address resolution
+>>3) listing
+>>4)
+>>
+>>19)   object code not requires
+>>a) relocation bits
+>>b) external names and place where they are located
+>>c) absolute adress
+>>d) all the object codes
+>>
+>>20) ARP
+>>  a) MAC to  IP
+>>  b) IP to MAC
+>>  c)
+>>Ans : b
+>>
+>>
+>>21) Qn on Balanced tree  ? A balanced tree is given  and a node is
+>addded
+>>at the leaf and asked to find the no of unbalanced nodes?
+>>
+>>22) order of  Hashing time
+>>a) 0(1)
+>>b) 0(n2)
+>>
+>>4) parse tree
+>>s -> s + s ; s -> s * s ; s -> a
+>>find the no of parse trees for a+a*a+a
+>>a) 4
+>>b) 5
+>>c) 6
+>>ans: 5
+>>
+>>25) order of deleting an node from a linked list. (pointer is to an
+>>arbitrary node)
+>>a)0(1)
+>>b)0(n)
+>>
+>>26) A choclate of size nXn is given and is to be made into pices of
+>size
+>>1x1. At a time both horizontal and a vertical cut is done. Find the
+>>order of complexity
+>>a) 0(n2)
+>>b) o(nlogn)
+>>c) o(logn)
+>>Ans : a
+>>
+>>27) A directed graph is represented by adjacency list. To find the
+>>complexity of indegree of the node. e - edge n- vertices
+>>a) o(e+n)
+>>
+>>28)  No of leaf nodes given. find the no of nodes with degree 2.
+>>
+>>29)   AX = B . A is mXn and B is mX1  and several options given like
+>>a) there is a unique solution if rank of A is same as rank of
+>>augumented matrix [A b]
+>>b) there are multiple solutions
+>>
+>>30) LXI sp,2099h
+>>    LXI b, 2012h
+>>    push b
+>>31) Which of the following are false (on complexities)
+>>
+>>32) A,B are sets. A's cardinality is m and B's is n where m < n
+>>    how many one to one mappings can be obtained.
+>>  a) n ^ m
+>>  b) npm
+>>  c) mpn
+>>  d) mcn
+>>
+>>33) In scduling algorithnms which are logically executed but suspended
+>>a) preemptive
+>>b) SJF
+>>c)non preemptive
+>>d) all the above
+>>Ans : a
+>>
+>>34) I/O redirection is
+>>a) copying programs files through a pipe
+>>b) input files are created
+>>c) input file taken from existing ones
+>>d) none
+>>
+>>35)   symmetric multiprocessing can be done in
+>>a) snoopy protocols
+>>b) cache coherence
+>>
+>>36)  dining philospheres  problems to avoid dead locke
+>>a) 1 person will take left one and all other will take right one
+>>b) adjacent persons should not eat concurrently
+>>
+>>36
+>) process states  ? which is the correct order
+>>a)  timeout:ready -> running
+>>b)  blocked : ready -> running
+>>c)
+>>d)
+>>
+>>37) for converting infix expression to postfix what
+>>    do we require
+>>a) operand stack
+>>b) operator stack
+>>c)
+>>
+>>38) 0 is reprented as both and negative and positive
+>>a) ones complement
+>>b) twos complement
+>>c)  two's complement has extra negative number
+>>
+>>39) Difference between c and c++?
+>>a)In c++ we can define variables in the middle
+>>b)dynamic scoping
+>>
+>>
+>>40) Which of the following is correct
+>>
+>>a) Synchronous tranmission needs more badwidth than Asychronous.
+>>b) Inasychronous transmission , the time is associated with data
+>itself.....
+>>
+>>
+>>------------------------------------
+>>future ( values / varriables changed - similer paper)
+>>
+>>
+>>The Questions are follows
+>>
+>>
+>>1. Number of null pointers in any binary tree = n+1
+>>
+>>2. max(t1,t2,...tn)   = pipelining
+>>
+>>3. 50%   -DBETXXXXXX    - density
+>>
+>>4. print (Head(T))
+>>   Traverse(left(T))
+>>   print (Head(T))
+>>   Traverse(right(T))    - ans: none of the above
+>>
+>>5. Boolean expn Evalvate
+>>
+>>6. Common subexpn :   - ans : a + e
+>>
+>>7. LRU :  1, 2, 3.
+>>
+>>8. Tr. Delay - 10000 bits ans. 10.01
+>>
+>>9. Grammar of Number of shift / reduce operator  : ans. 4
+>>
+>>10. CPU scheduling  9,8 ?
+>>
+>>11. if even x/2
+>>    else p(p(3x+1))
+>>
+>>   2^k + 1:  3 . 2^(k-1)  clarify this with sans
+>>
+>>12. allocation  ans: (ii) only
+>>
+>>13.  swapping :  ans: reference only
+>>
+>>14. Compiler - related Qn.
+>>
+>>15. LAN frames - ?  related Qn.
+>>
+>>16. parameter passing (35,20)
+>>
+>>17. sliding window protocol
+>>       -   BUFFER SIZE large
+>>
+>>18.  kernel mode   -  deallocate resource
+>>
+>>19.  logic circuit
+>>      ans .  Minimum OR = 3
+>>
+>>20.  Combinatorics  related
+>>
+>>21. priority scheduling
+>>
+>>22. cobegin
+>>      begin  x = y; x= x+1;  y= x
+>>      begin x =y; z= z+1; y= z
+>>    coend
+>>
+>>   ans.  Number of values possi = 2
+>>
+>>23. 2 bits flip / 2 bits exchange
+>>
+>>     ans : the word with one '1'
+>>
+>>24.  any addr
+>>      K^+ v(a) + 2I - 2a
+>=============================================================================
+>                            inf
+==============================================================================
+>>
+>>  You try to prepare all subject questions in all the papers being
+>>sent so that it will be useful in the interview.
+>>concentrate on OS, networks.
+>>
+>>PART 1
+>>
+>>1). A beggr collects cigarette stubs and makes one ful  cigarette
+>>with every 7 stubs.  Once he gets 49 stubs .  How many cigarettes
+>>can he smoke totally.
+>>                   Ans. 8
+>>2). A soldiar looses his way in a thick jungle  at  random  walks
+>>from his camp but  mathematically  in  an  interestingg  fashion.
+>>First he walks one mile east then half mile to north.   Then  1/4
+>>mile to west, then 1/8 mile to south and so  on  making  a  loop.
+>>Finally hoe far he is from his camp and in which direction.
+>>ans: in north and south directions
+>>   1/2 - 1/8 + 1/32 - 1/128 + 1/512 - and so on
+>>              = 1/2/((1-(-1/4))
+>>      similarly in east and west directions
+>>     1- 1/4 + 1/16 - 1/64 + 1/256 -    and so on
+>>           = 1/(( 1- ( - 1/4))
+>>   add both the answers
+>>3). hoe 1000000000 can be written as a  product  of  two  factors
+>>neither of them containing zeros
+>>   Ans   2 power 9 x 5 ppower 9  ( check the answer )
+>>4). Conversation between two mathematcians:
+>>  first : I have three childern. Thew pproduct of their ages is  36
+>>.  If you sum their ages . it is exactly same as  my  neighbour's
+>>door number on my left. The  sacond  mathematiciaan  verfies  the
+>>door number and says that the not sufficient  .  Then  the  first
+>>says " o.k one more clue is that my youngest is the youngest"
+>>Immmediately the second mathematician answers . Can  you  aanswer
+>>the questoion asked by the first mathematician?
+>>What are the childeren ages?        ans  2 and 3 and 6
+>>5). Light glows for every 13 seconds .  How  many  times  did  it
+>>between 1:57:58 and 3:20:47 am
+>>      ans : 383 + 1 = 384
+>>
+>>6). 500 men are  arranged in an array of 10 rows and 50 columns .
+>>ALL tallest among each row aare asked to   fall  out  .  And  the
+>>shortest among THEM is A. Similarly after resuming that to  their
+>>originaal podsitions that the shorteest  among  each  column  are
+>>asked to fall out. And the longest among them is B . Now  who  is
+>>taller among A and B ?
+>>      ans  A
+>>7). A person spending out 1/3 for cloths , 1/5 of the  remsaining
+>>for food and 1/4 of the remaining for travelles  is left with
+>>Rs 100/- . How he had in the begining ?
+>>    ans    RS 250/-
+>>8). there are six  boxes containing 5 , 7 , 14 , 16  ,  18  ,  29
+>>balls of either red or blue in colour. Some  boxes  contain  only
+>>red balls and others contain only blue . One sales man  sold  one
+>>box out of them and then he says " I have the same number of  red
+>>balls left out  as that of blue ". Which box is the one he  solds
+>>out  ?
+>>Ans : total no of balls  =  89 and (89-29 /2 = 60/2 = 30
+>>     and also 14 + 16 = 5 + 7 + 18 = 30
+>>9).  A  chain  is  broken  into  three  pieces  of  equal  lenths
+>>conttaining 3 links each. It is taken to a backsmith to join into
+>>a single continuous one . How many links are to  tobe  opened  to
+>>make it ?
+>>    Ans : 2.
+>>10). Grass in lawn grows equally thickand in a uniform  rate.  It
+>>takes 24 days for 70 cows and 60 for 30 cows . How many cows  can
+>>eat away the same in 96 days.?
+>>    Ans : 18 or 19
+>>11). There is a certain four digit number whose fourth  digit  is
+>>twise the first digit.
+>>   Third digit is three more than second digit.
+>>   Sum of the first and fourth digits twise the third number.
+>>   What was that  number ?
+>>  Ans : 2034 and 4368
+>>
+>>
+>>      If you qualify in the first part then you have to appear for
+>>the second i.e the following part.
+>>
+>>Part 2.
+>>
+>>1.  From  a  vessel  on  the  first  day,  1/3rd  of  the  liquid
+>>evaporates.  On the second day  3/4th  of  the  remaining  liquid
+>>evaporates.  what fraction of the volume is present at the end of
+>>the II day.
+>>2. an orange galss has orange juice.  and white glass  has  apple
+>>juice.  Bothe equal volume 50ml of the orange juice is taken  and
+>>poured into the apple juice.  50ml from the white glass is poured
+>>into the orange glass.  Of the  two  quantities,  the  amount  of
+>>apple juice in the orange glass and the amount of orange juice in
+>>the white glass, which one is greater and by how much?
+>>3.  there is a 4 inch cube painted on all  sides.   this  is  cut
+>>into no of 1 inch cubes.  what is the no of cubes which  have  no
+>>pointed sides.
+>>4. sam and mala have a conversation.  sam says i am vertainly not
+>>over 40.  mala says i am 38 and you are  atleast  5  years  older
+>>than me.  Now sam says you are atleast 39.  all the sattements by
+>>the two are false.  How hold are they realy.
+>>5.  ram singh goes to his office in the city, every day from  his
+>>suburbun house.  his driver mangaram drops  him  at  the  railway
+>>station in the morning and picks him up in  the  evening.   Every
+>>evening ram singh reaches the station  at  5  o'clock.   mangaram
+>>also reaches at the same time.  one day  ramsingh  started  early
+>>from his office and came  to  the  station  at  4  o'clock.   not
+>>wanting to wait for the car he  starts  walking  home.   Mangaram
+>>starts at normal time, picks him up on the way and takes him back
+>>house, half an hour early.  how much time did ram singh walk.
+>>6.  in a railway station, there are tow trains going.  One in the
+>>harbour line and one in the main line, each having a frequency of
+>>10 minutes.  the main line service  starts  at  5  o'clock.   the
+>>harbour line starts at 5.02a.m. a man goes to the  station  every
+>>day to catch the first train.  what is  the  probability  of  man
+>>catchinhg the first train
+>>7.  some people went for vaction.  unfortunately it rained for 13
+>>days when they  were  there.   but  whenever  it  rained  in  the
+>>morning, they had clean afternood and vice versa.   In  all  they
+>>enjoyed  11 morning and 12 afternoons.  how many  days  did  they
+>>stay there totally
+>>8. exalator problem repeat
+>>9. a survey was taken among 100 people to firn  their  preference
+>>of watching t.v. programmes.  there are 3 channels.  given no  of
+>>
+>>people who watch
+>>at least channel   1
+>>"         "        2
+>>"         "        3
+>>no channels at all
+>>atleast channels  1and 3
+>>"     "           1 and 2
+>>"        "        2 and 3
+>>find the no of people who watched all three.
+>>10. albert and fernandes they have two leg swimming  race.   both
+>>start from opposite and of the pool.  On the first leg, the  boys
+>>pass each other at 18 mt from the deep end of the  pool.   during
+>>the II leg they pass at 10 mt from the shallow end of  the  pool.
+>>Both go at const speed.  but one of them  is  faster.   each  boy
+>>rests for 4 sec to see at the end of the  i  leg.   what  is  the
+>>length of the pool.
+>>11. T  H  I  S                Each  alphabet  stands  for  one
+>>      I S                   digit, what is the maximum value T
+>>--------------                can take
+>>    X F X X
+>>  X X U X
+>>--------------
+>>  X X N X X
+>>--------------
+>>
+>>
+>>1. an escalator is descending at constant speed.   A  walks  down
+>>and takes 50 steps to reach the bottom.  B runs down and takes 90
+>>steps in the same time as A takes 10 steps.  how many  steps  are
+>>visible when the escalator is not operating.
+>>2. evvery day a cyclist meets a train at a  particular  crossing.
+>>the road is straignt before the crossing and both are  travelling
+>>in the same direction.  cyclist travels with a speed of 10  Kmph.
+>>One day the cyclist comes late by 25 min. and meets the train 5km
+>>before the crossing.  what is the seppd of the train.
+>>3. five persons muckerjee, misra, iyer,  patil  and  sharma,  all
+>>take then first or middle names in the full names.  There  are  4
+>>persons having I or middle name of kumar, 3 persons with mohan, 2
+>>persons withdev and 1 anil.
+>>--Either mukherjee and patil have a I or middle name  of  dev  or
+>>misra and iyer have their  I or middle name of dev
+>>--of mukherkjee and misre, either both of them have  a  first  or
+>>middle name of mohan or neither have a first or  middle  name  of
+>>mohan
+>>--either iyer of sharma has a I or middle name of kumar  hut  not
+>>both.
+>>who has the I or middle name of anil
+>>4. reading conprehension
+>>5. a bird keeper has got Ppigeon, M mynas and  S  sparrows.   the
+>>keeper goes for lunch leaving his assistant to watch the birds.
+>>a. suppose p=10, m=5, s=8 when the bird keeper  comes  back,  the
+>>assistant informs the x birds  have  escaped.   the  bird  keeper
+>>exclaims oh no! all my sparrows are gone.  how  many  birds  flew
+>>away.
+>>   b. when the bird keeper come back, the assistand told him that
+>>x birds have escaped.  the keeper realised that atleast2 sparrows
+>>have escaped.  what is minimum no of birds that can escape.
+>>6.  select from the five alternatives A,B,C,D,E
+>>   AT THE end of each question ,two  conditions  will  be  given.
+>>the choices are to filled at follows.
+>>a. if a definete conclusion can be drawn from condition 1
+>>b. if a definete conclusion can be drawn from condition 2
+>>c. if a definete conclusion can be drawn from condition 1 and 2
+>>d. if a definete conclusion can be drawn from condition 1 or 2
+>>e. no conclusion can be drawn using both conditions
+>>1. person 1 says N<5
+>>   person says n>5
+>>     person 3 says 3N>20
+>>     person 4 says 3n>10
+>>    person 5 says N<8
+>>whaT IS value of N
+>>a) 1. no of persons who speak false being less than no of persons
+>>who tells the truth.
+>>   2. person 2 is telling the truth.
+>>b)  1. no of persong telling the truth  is  greater  than  no  of
+>>persons telling lies
+>>    2. person 5 is telling the truth.
+>>7.  there are N coins on a table.  there  are  two  players  A&B.
+>>you can take 1 or 2 coins at a time.  the person  who  takes  the
+>>last coin is the loser.  a always starts first
+>>--1. if N=7
+>>     a) A can always win by taking two coins in his first chanse
+>>     b) B can win only if A takes two coins in his first chance.
+>>     c) B can always win by proper play
+>>     d) none of the above
+>>--2.  A can win by proper play if N is equal to
+>>a) 13   b) 37  c) 22 d) 34   e) 48      ans. e.
+>>--3. B can win by proper play if N is equal to
+>>a) 25   b)26    c) 32   d) 41  e) none
+>>--4. if N<4, can A win by proper play always
+>>
+>>8. Two turns have vertain pecular charcteristics.   One  of  them
+>>always lies on Monday, Wednesday, Friday.  \the other always lies
+>>on Tuesdays, thursdays and saturdays.  On the other days they tel
+>>the truth.  You are given a conversation.
+>>    person A--  today is sunday my name is anil
+>>    person B-- today is tuesday, my name is bill
+>>
+>>
+>>answers for selected questions
+>>2.  equal                          1. 150
+>>3.  8                              2. 60 kmph
+>>4. 37(M),41(S)                     3.  Mukherjee
+>>5.   45 min.                       8. today is tuesday
+>>6.   0.8
+>>7.   18
+>>11.   T max value = 4
+>>
+>>          3. Anil kumar Mukherjee
+>>             Kumar Misra dev
+>>             Mohan iyer dev
+>>             kumar patil mohan
+>>             mohan sharma kumar
+>>
+>>
+>>
+>>Verifone Interview.
+>>Here, we had three single man panels. They are seeing the subjects
+>>taken and asking questions in that mainly. They didn't go deep into
+>>any subject and they were just  asking overview. When they catch any
+>>new word they are asking about it.
+>>
+>>These are some of the questions asked to us.(not to a single person.)
+>>
+>>What is a finite Automata.
+>>what is a turing machine.
+>>how many processors are there in a pentium microprocessor. in Sparc.
+>>difference between risc and cisc.
+>>is risc always fast.
+>>
+>>
+>>what is a real time system.
+>>name some real time OS
+>>what are the characteristics of Real time OS.
+>>is DOS a real time OS.
+>>what is a kernel,shell.
+>>
+>>what is binary search, traversal, hashing etc.
+>>given a scenario what is the  suitable data structure.
+>>write a code to count the no. of 1's in a binary rep. of a number.
+>>memory taken for char *, int * etc.
+>>char *cp; int *ip; cp++,ip++ - what is the result.
+>>compare the no. of bytes in unix and Dos for long char short int.
+>>how to make programs portable on unix and Dos under such
+circumstances.
+>>in c++, what is a constructor, destructor etc.
+>>what is friend etc.
+>>
+>>
+>>
+>>what is waterfall model, prototype model etc.
+>>what is testing. what is unit testing, integration testing etc.
+>>
+>>What is indexing in databases?
+>>What is atomicity?
+>>Can recursive pgms be written in C++, Write a recursive pgm to
+>>calculate factorial in c++.
+>>What is best data structure to store the processes info in a real time
+>>operating system?
+>>
+>>=========================================================================
+>>VERIFONE
+>>=========================================================================
+>>Verifone test Questions :
+>>
+>>There are two parts :
+>>
+>>1. Aptitute test        :  15 Minutes, 20 Questions
+>>
+>>  Some questions are:
+>>       (not in order)
+>>   1. A question (first one)on addition of fraction of inches
+>>         a. was the answer
+>>
+>>   2. There were 36 chairs. how many ways can they be placed such
+>>   that all rows have equal no. of chairs and atleast three chairs
+>>   are there in each row and there are atleast three rows.
+>>       5 ways.
+>>
+>>   3. There are 27 balls, of which 1 is heavier. given a balance
+>>   how many times you need to weigh to find out the odd ball.
+>>        3 Weighs.
+>>
+>>   4.  Product of three consecutive nos. 210.  What is the sum
+>>      of two least numbers
+>>       11.
+>>
+>>   5.  If the area of the sqaure is increased by 69 % how
+>>      much the length of the side will increase?
+>>         30%
+>>   6.  if the sum of five consecutive nos. 35? how many prime nos
+>>              are there :
+>>         2 primes.
+>>
+>>   7.  if the length of the rectangle is reduced by 20% and breath
+>>              is increased by 20 % what is the net change ?
+>>               4 % decrease
+>>   8.  A question on sets.
+>>      There are some 20 Basketball players & 30 Football players,
+>>      and 25 cricket players. 1 of them plays all the three games.
+>>      8 of them plays atleast two games. They are 50 altogether.
+>>      How many of them plays none of the games.
+>>   9. A question on directions.
+>>       B is 20 miles east of A. D is 30 miles east of C. E is 10 miles
+>>       north of D. C is 20 miles north of B. How far E is from A?
+>>   Some 3 questions on Reasoning like,
+>>   10. If you say that giving stock options to employees increases the
+>>      productivity of the company, which of the following sentences
+>>      support it.
+>>       A) Giving stock options increases the morale of the employees
+>>       ..
+>>       ..
+>>        etc.,
+>>    11. Gamblers comes to the Amusement parks. There are some
+Amusement
+>>      parks in each city. There are some gamblers in each city. So
+>>      what can you infer.
+>>       A) Amusement park always have gamblers.
+>>       ..
+>>       ..
+>>         etc.,
+>>
+>>
+>>2. Technical Questions.
+>>
+>>i. Electrical & Electronics     : 15 Questions
+>>      1.A Circuit with nand gates. (ans. may be XOR)
+>>
+>>      2.CMRR. relates to  (options not in order)
+>>             voltage follower
+>>             non invering amplifier
+>>             inverting amplifier
+>>             integrator
+>>
+>>      3. Given a circuit , give the ouput.
+>>          (ans. may be triangular wave.)
+>>
+>>      4. o/p of an assembly code.
+>>              mulitply by 11.
+>>
+>>      5. how to handle asynchronous events.
+>>                  a) polling
+>>                  b) interrrupt
+>>                       etc.
+>>
+>>ii)Data Structures, Algo., & Complexity theory : 5 questions
+>>iii)  OS : 5 questions
+>>iv) Networks and Hardware:  5 questions
+>>v) Databases and Misc.: 5 questions
+>>vi) C Pgm. : 5 questions
+>>   some more 10 questions.
+>>
+>>
+>>1. if W is a sequence of strings without a and W' is its reversal
+>>      then WaW' is accepted by:
+>>
+>>        Context Free Grammmars
+>>
+>>2. Whether all recusive pgm can be writtten iteratively?
+>>  yes.
+>>3. What data structes you will use if you want to go to first record
+>from
+>>the last and vice versa?
+>>       doubly linked circular list
+>>
+>>4. Given 10000 nos. and 48MB Memory.  What is the complexity of the
+>>efficient sorting algo.? (the algo. is not mentioned)
+>>       O(N)
+>>
+>>5.  Given a  C code and ask what it does?
+>>      code was something similar to Bubble sort and that
+>>particular code does the sorting in Desending order and the complexity
+>>is O(n^2)(which is the next question).
+>>
+>>
+>>6.
+>>     A code like this is given.
+>>      a. for(i=0;i<num;i++)
+>>      b. for(i=num;i>0;i--)
+>>     Assuming no code optimization and  assume that the microprocessor
+>>     has flags etc. which one is correct.
+>>
+>>       b will execute faster.
+>>
+>>7. If there are too many page faults what is the problem?
+>>
+>>8. To ensure one pgm. doesnt corrupt other pgm. in a Multi-pgm
+>enviornment
+>>      what you should do?
+>>
+>>9. Which one you will use to implement critical section?
+>>      Binary Semaphore
+>>
+>>10. Which one is not needed for Multi-processing. enviornment?
+>>      options are: virtual memory,security,time sharing,none of the
+>>                      above.
+>>
+>>11. Which one is not done by Data link layer ?
+>>      bit stuffing, LRC,CRC,parity check
+>>
+>>12. Which one is not related to Data link layer?
+>>
+>>13. Which one is not suitable for client-server application?
+>>      tcp/ip,message passing,rpc,none of the above.
+>>
+>>14. What is SQL.
+>>      Procedural Relational DB Query Language.
+>>
+>>15. Indexing in databases give you
+>>       options were like 1.efficient deleting and inserting
+>>                       2.efficient deleting.
+>>                         etc.
+>>16. int a=1,b=2,c=3;
+>>   printf("%d,%d",a,b,c);
+>>      What is the output?
+>>17. Scope of Static Variable ............
+>>      in a file.
+>>
+>>18. for(i=0; i<=10;i++,printf("%d",i)); +-   (+- is there in the
+>questions)
+>>
+>>20. Real Time Os should have
+>>   a)fast context switch
+>>   b)Virtual memory etc.
+>>
+>>
+>>
+>>21. Messages are transferred in some E71 code, where after 7 bits of
+>data,
+>>1 bit of stopping data is to be transferred. what should be done.
+>>     options were like
+>>       a) send directly
+>>       b) send after encoding
+>>                etc.
+>>22. There are three processes A, B, C. A sends data to B. B removes
+the
+>>header stores it and sends the data to C. C returns it to B. B
+receives
+>the
+>>message, identifies the message and adds the header that was stored
+and
+>>sends to A.B receives the messages from C such that atmost 'm'
+messages
+>>B
+>>are pending.
+>>     Identify the best Data Structure.
+>>
+>>23.  A question in compiler about the heap and stack allocation of
+>memory.
+>>
+>>24.  struct
+>>      {
+>>        char a[3];
+>>        int b;
+>>        }x;
+>>     char *cp;
+>>
+>>      a) size of x is 7.
+>>      B
+>>      b)
+>>      c)
+>>      d) cp takes the size of a pointer.
+>>        (d ) is the ans.
+>>
+>>
+>>I am sending format of ORACLE. I just sent you Verifone(some
+questions)
+>>
+>============================================================================>
+>>ORACLE
+>>------
+>>===========================================================================>
+>>
+>>section 2:
+>>
+>>   1. what is sparese matrices?. give (at least) two methods for
+>implemetation
+>>      rather than two dimentional array.
+>>   2.what are cheap locks/latches?.
+>>   3.what is two phase locking?. Name two locks.
+>>   4. What are volatile variables in C?. What is their significance ?.
+>>   5. will these two work in same manner
+>>      #define intp int *
+>>       typedef int * inpp;
+>>   6. what are binary trees?. what is its use?.
+>>   7.
+>>
+>>section 3 :
+>>
+>>  A). write header file containing functions used, etc  (C),
+>>     problem is to maitain a Queue. user has to give size and type of
+>Queue.
+>>    This problem is like this I don't remember exactly.
+>>B). C++
+>>  1. What is polymorphism?
+>>  2. What is Inheritence?.
+>>  3. Mention four Object Oriented Programming Languages?>
+>>  4. Mention basic concepts of OOP.
+>>  5. What are messages in OOP?.
+>>  6. What is garbase collection?.
+>>  7.what is object?.
+>>  8. what is a class?.
+>>
+>>section 4:
+>>  1. expand the following:
+>>     a.SEI b. ISO
+>>  2. what are different levels of SEI?.
+>>  3. What is significance of ISO?>
+>>  4. Expand the following:
+>>      a. WWW
+>>      b. HTTP
+>>      c. HTML
+>>      d. TCP/IP
+>>  5. what is Black box testing?.
+>>  6. explain the following:
+>>     1. white box testing
+>>     2. white box testing
+>>     3. boundary testing
+>>     4 stress
+>>     5. negative
+>>     6. system
+>>     7. unit
+>>     8.module
+>>     9.destructive
+>>
+>>
+>>
+>>                      INFOSYS
+>>                      --------
+>>
+>>
+>>
+>>
+>>1) There are two balls touching each other circumferencically.
+>>The radius of the big ball is 4 times the diameter of the small
+>>ball.The outer small ball rotates in anticlockwise direction
+>>circumferencically over the bigger one at the rate of 16 rev/sec.
+>>The bigger wheel also rotates anticlockwise at Nrev/sec. what is
+>>'N' for the horizontal line from the centre of small wheel always
+>>is horizontal.
+>>
+>>2)     1 2 3 4
+>>     + 3 4 5 5
+>>     ----------
+>>       4 6 8 9
+>>     - 2 3 4 5
+>>     ----------
+>>       2 3 4 4
+>>     + 1 2 5 4
+>>     ------------
+>>       3 6 9 8
+>>
+>>Q)  Strike off any digit from each number in seven rows (need not
+>>be at same place) and combine the same operations with 3 digit
+numbers
+>>to get the same addition. After this strike off another digit from
+all
+>>and add all the No.s to get the same 2 digit No. perform the same
+>>process again with 1 digit No.s. Give the ' no.s in 7 rows at
+>>each stage.
+>>
+>>3) there is a safe with a 5 digit No. The 4th digit is 4 greater than
+>>second digit, while 3rd digit is 3 less than 2nd digit. The 1st digit
+>>is thrice the last digit. There are 3 pairs whose sum is 11. Find
+>>the number.  Ans) 65292.
+>>
+>>4) there are 2 guards Bal and Pal walking on the side of a wall of a
+>>wearhouse(12m X 11m) in opposite directions. They meet at a point and
+>>Bal says to Pal " See you again in the other side". After a few
+moments
+>>of walking Bal decides to go back for a smoke but he changes his
+>>direction again to his previous one after 10 minutes of walking in
+>>the other(opposite) direction remembering that Pal will be waiting
+>>for to meet.If Bal and Pal walk 8 and 11 feet respectively, how
+>>much distance they would have travelled before meeting again.
+>>
+>>5)          xxx)xxxxx(xxx
+>>              3xx
+>>              -------
+>>               xxx
+>>               x3x
+>>               ------
+>>                xxx
+>>                3xx
+>>                ------
+>>
+>>   Q) Find the 5 digit No.
+>>    Hint: 5 is used atleast once in the calculation.
+>>6) Afly is there 1 feet below the ceiling right across a wall length
+>>is 30m at equal distance from both the ends. There is a spider 1 feet
+>>above floor right across the long wall eqidistant from both the ends.
+>>If the width of the room is 12m and 12m, what distance is to be
+>>travelled by the spider to catch the fly? if it takes the shortest
+>>path.
+>>
+>>7) Ramesh sit around a round table with some other men. He has one
+>>rupee more than his right person and this person in turn has 1 rupee
+>>more than the person to his right and so on, Ramesh decided to give
+>>1 rupee to his right & he in turn 2 rupees to his right and 3 rupees
+>>to his right & so on. This process went on till a person has
+>>'no money' to give to his right. At this time he has 4 times the
+>>money to his right person. How many men are there along with Ramesh
+>>and what is the money with poorest fellow.
+>>
+>>
+>>8)Question related to probabilities of removing the red ball from a
+>>basket,given that two balls are removed from the basket and the other
+>>ball is red. The basket contains blue,red,yellow balls.
+>>
+>>9)Venkat has 1boy&2daughters.The product of these children age is 72.
+>>The sum of their ages give the door numberof Venkat.Boy is elder of
+>>three.Can you tell the ages of all the three.
+>>
+>>                         ANALYTICAL
+>>                         ----------
+>>1)L:says all of my other 4 friends have money
+>>M:says that P said that exact one has money
+>>N:says that L said that precisely two have money
+>>O:says that M said that 3 of others have money.
+>>P:Land N said that they have money.
+>>   all are liers.Who has money&who doesn't have?
+>>
+>>2)A hotel has two,the east wing and the west wing.some east wing rooms
+>>but not all have an ocean view(OV).All WW have a harbour view(HV).The
+>>charge for all rooms is identical, except as follows
+>>* Extra charge for all HV rooms on or above the 3rd floor
+>>* Extra charge for all OV rooms except those without balcony
+>>* Extra charge for some HV rooms on the first two floor&some EW rooms
+>>without OV but having kitchen facil.
+>>2) A person has his own coach&whenever he goes to railway station he
+>>takes his coach.One day he was supposed to reach the railway station
+>>at 5 O'clock.But he finished his work early and reached at 3 O'clock.
+>>Then he rung up his residence and asked to send the coach immediately.
+>>He came to know that the coach has left just now to tje railway
+>station.
+>>He thought that the coach has left just now to the railway station.He
+>>thought that he should not waste his time and started moving towards
+>>his residence at the speed of 3mi/hr.On the way,he gets the coach and
+>>reaches home at 6 o'clock.How far is his residence from railway
+>>station.
+>>
+>>3)Radha,Geeta&Revathi went for a picnic.After a few days they forgot
+>the
+>>date,day and month on which they went to picnic.Radha said that it was
+>>onThursday,May 8 and Geeta said that it was Thursday May 10.Revathi
+>>said Friday Jun 8.Now one of them told all things wrongly,others one
+>>thing wrong and the last two things wrongly.If April 1st is tuesday
+>>what is the right day,date and month?
+>>
+>>
+>>
+>>
+>>
+>>-------------------------------------------------------------------------
+>>
+>>                           SIEMENS INFO
+>>------------------------------------------------------------------------
+>>
+>>  THIS PAPER CONSISTS 6 PARTS.    all are multiple choice q's
+>>1)general
+>>2)c/unix
+>>3)c++/motif
+>>4)database
+>>5)x-windows
+>>6)ms-windows
+>>  we have written q's not acc. to each part.total 50. q's. time is
+>>sufficient.
+>>if u have basic idea about all of the u can easily answer the paper.
+>>paper
+>>------
+>>1)which of following operator can't be overloaded.
+>>a)== b)++ c)?! d)<=
+>>2)#include<iostream.h>
+>>  main()
+>>{
+>>printf("Hello World");
+>>}
+>>the program prints Hello World without changing main() the o/p should
+>>be
+>>intialisation
+>>Hello World
+>>Desruct
+>>the changes should be
+>>a)iostream operator<<(iostream os, char*s)
+>>os<<'intialisation'<<(Hello World)<<Destruct
+>>b)  c)   d)none of the above
+>>3)CDPATH shell variable is in(c-shell)
+>>a) b) c) d)
+>>4) term stickily bit is related to  a)kernel
+>>b)undeletable file
+>>c)  d)none
+>>5)semaphore variable is different from ordinary variable by
+>>6)swap(int x,y)
+>>{
+>>int temp;
+>>temp=x;
+>>x=y;
+>>y=temp;
+>>}
+>>main()
+>>{
+>>int x=2;y=3;
+>>swap(x,y);
+>>}
+>>after calling swap ,what are yhe values x&y?
+>>7) static variable will be visible in
+>>a)fn. in which they are defined
+>>b)module "   "    "        "
+>>c)all the program
+>>d)none
+>>8)unix system is
+>>a)multi processing
+>>b)multi processing ,multiuser
+>>c)multi processing ,multiuser,multitasking
+>>d)multiuser,multitasking
+>>9)x.25 protocol encapsulates the follwing layers
+>>a)network
+>>b)datalink
+>>c)physical
+>>d)all of the above
+>>e)none of the above
+>>10)TCP/IP can work on
+>>a)ethernet
+>>b)tokenring
+>>c)a&b
+>>d)none
+>>11)a node has the ip address 138.50.10.7 and 138.50.10.9.But it is
+>>transmitting data from node1 to node2only. The reason may be
+>>a)a node cannot have more than one address
+>>b)class A should have second octet different
+>>c)classB   "      "    "       "        "
+>>d)a,b,c
+>>12) the OSI layer from bottom to top
+>>13)for an application which exceeds 64k the memory model should be
+>>a)medium
+>>b)huge
+>>c)large
+>>d)none
+>>14)the condition required for dead lock in unix sustem is
+>>15)set-user-id is related to (in unix)
+>>16) bourne shell has
+>>a)history record
+>>b)
+>>c)
+>>d)
+>>17)wrong statement about c++
+>>a)code removably
+>>b)encapsulation of data and code
+>>c)program easy maintenance
+>>d)program runs faster
+>>18)struct base {int a,b;
+>>base();
+>>int virtual function1();
+>>}
+>>struct derv1:base{
+>>int b,c,d;
+>>derv1()
+>>int virtual function1();
+>>}
+>>struct derv2 : base
+>>{int a,e;
+>>}
+>>base::base()
+>>{
+>>a=2;b=3;
+>>}
+>>derv1::derv1(){
+>>b=5;
+>>c=10;d=11;}
+>>base::function1()
+>>{return(100);
+>>}
+>>derv1::function1()
+>>{
+>>return(200);
+>>}
+>>main()
+>>base ba;
+>>derv1 d1,d2;
+>>printf("%d %d",d1.a,d1.b)
+>>o/p is
+>>a)a=2;b=3;
+>>b)a=3; b=2;
+>>c)a=5; b=10;
+>>d)none
+>>19) for the above program answer the following q's
+>>main()
+>>base da;
+>>derv1 d1;
+>>derv2 d2;
+>>printf("%d %d %d",da.function1(),d1.function1(),d2.function1());
+>>o/p is
+>>a)100,200,200;
+>>b)200,100,200;
+>>c)200,200,100;
+>>d)none
+>>20)struct {
+>>int x;
+>>int y;
+>>}abc;
+>>you can not access x by the following
+>>1)abc-->x;
+>>2)abc[0]-->x;
+>>abc.x;
+>>(abc)-->x;
+>>a)1,2,3
+>>b)2&3
+>>c)1&2
+>>d)1,3,4
+>>21) automatic variables are destroyed after fn. ends because
+>>a)stored in swap
+>>b)stored in stack and poped out after fn. returns
+>>c)stored in data area
+>>d)stored in disk
+>>22) relation between x-application and x-server  (x-win)
+>>23)UIL(user interface language)   (x-win)
+>>24)which is right in ms-windows
+>>a)application has single qvalue system has multiple qvalue
+>>b) "                multiple "       "      single     "
+>>c)"      "            "                     multiple   "
+>>d)none
+>>25)widget in x-windows is
+>>26)gadget in x_windows is
+>>27)variable DESTDIR in make program is accessed as
+>>a)$(DESTDIR)
+>>b)${DESTDIR}
+>>c)DESTDIR
+>>d)DESTDIR
+>>28)the keystroke mouse entrie are interpreted in ms windows as
+>>a)interrupt
+>>b)message
+>>c)event
+>>d)none of the above
+>>29)link between program and out side world (ms -win)
+>>a)device driver and hardware disk
+>>b)application and device driver
+>>c)application and hardware device
+>>d)none
+>>30)ms -windows is
+>>a)multitasking
+>>b)   c)   d)
+>>31)dynimic scoping is
+>>32) after logout the process still runs in the background by giving
+>>the command
+>>a)nohop
+>>b)
+>>33)process dies out but still waita
+>>a)exit
+>>b)wakeup
+>>c)zombie
+>>d)steep
+>>34)in dynamic memory allocation we use
+>>a)doubly linked list
+>>b)circularly linked
+>>c)B trees
+>>d)L trees
+>>e)none
+>>35)to find the key of search the data structure is
+>>a)hask key
+>>b)trees
+>>c)linked lists
+>>d)records
+>>36)data base
+>>--------------------------
+>>--------------------------------
+>>employ_code       salary                    employ_code          leave
+>>---------------------------
+>>----------------------------------
+>>                                                        from       to
+>>
+>>--------------------------------------
+>>1236             1500                         1238        ---
+---
+>>1237             2000                         1238        ---
+---
+>>1238             2500                         1237        ---
+>>-----
+>>                                            1237        ---        ---
+>>                                            1237        ---       ---
+>>                                            1237        ---       ---
+>>--------------------------
+>--------------------------------------
+>>select employ_code,employ_data ,leave
+>>the number of rows in the o/p
+>>a)18
+>>b)6
+>>c)7
+>>d)3
+>>37)DBMS
+>>38)read about SQL,db
+>>39)which is true
+>>a)bridge connects dissimiler LANand protocol insensitive
+>>b)router "       "             "           "       "
+>>c)gateway "        "           "             "      "
+>>d)none of the above
+>>40)read types of tree traversals.
+>>41)42)43)  simple programs on pointers in c
+>>
+>>_____________________________________________________________________
+>>
+>>       BEST OF LUCK
+>>
+>>Novell network paper
+>>
+>>The paper consists os three sections.
+>>1. aptitude 15 questions 20 min.
+>>2. system concepts 20 questions 20 min.
+>>3. 'c'   15 questions 20 min.
+>>
+>>NOTE:::::
+>>
+>>I'm sendin the questions, somany have no answers. U do check the
+>>answers  for all the given questions also.
+>>
+>>All questions are MULTIPLE CHOICES ONLY.
+>>
+>>U do try to cover the related topics to get some understanding.
+>>In interview They are asking C C++ Operating system concepts
+>>and Networks.
+>>They will ask about Ur interesting subjects, U try to have good
+>>grip on those intresting subjects.
+>>
+>>They selected 11 out of 55 students.
+>>They asked about c c++ project work and OS,NETWORKS.
+>>But they selected only 2 , one from CS and another is BTech ECE.
+>>
+>>
+>>SECTION 1 is main factor selection to the interview
+>>
+>>
+>>--------------------------------------------------------------
+>>In the interveiw you should be very active .And should be frank to say
+>>no also.One CS student said that he don't know NETWORK and he hasn't
+>>taken NETWORKS subject.But he has selected.
+>>      OK  BEST OF LUCK.
+>>
+>>
+>>section 1::::;
+>>
+>>*. GRE book test paper 3 section 5
+>>question no. 8 to 12     (ships WXYZ starting on dec. 23rd..........)
+>>
+>>
+>>* 5 programs are sheduled from monday to saterday, monday is not
+>holiday,
+>>PQRST are the programs. The day before P is holiday, and some other
+>clues are
+>>given, we have to find the sequence (4 questions)
+>>
+>>ANS: tuesday is the holiday
+>>     P comes on wednesday ,
+>>     U can do the remaining very easily.
+>>* Suppose U R the presoner, There are two guards Who will tell truth
+or
+>>one will tell truth. There is a gate for liberty and another foe hell.
+>>
+>>Some questions are given, like
+>>    i. are U tell truth?
+>>    ii. another tell truth or not??
+>>    iii. both of U R telling truth??
+>>    iV. both of U lieing??
+>>    V. --------------
+>>
+>>
+>>    they gave  a. b. c. d. and asking about which sequencing is
+>sufficient to
+>>    find the gate for liberty??
+>>    ( I can't give exact thing)
+>>
+>>* There are WIFE and HUSBAND at one side of river. They have one
+child,
+>>They want to cross the river. The child can't be lonly. The boat boy
+>won't
+>>permit morethan one to cross the river, what is the correct way to
+>>cross the river??
+>>
+>>* There are 7  targets, A B and C has to shoot them. All should be
+>shooted
+>>consicutively.
+>>    1. The no. of chances for A and B are not less thn 2,
+>>    2. for C there is only one chance.
+>>    3. A can't shot 3 times consicutively.
+>>    4. B is permited to shoot in even chances only.
+>>
+>>    They have given some 3or 4 questions on this
+>>
+>>*
+>>
+>>-----------------------------------------------------------------------------
+>>-----------------------------------------------------------------------------
+-
+>>section 3::
+>>
+>>1.Max value of SIGNED int
+>>    a. b. c. d.
+>>2.One questin is given, long one, to find the answer U should be
+>>femiliar
+>>with the operation as follows
+>>
+>>int *num={10,1,5,22,90};
+>>main()
+>>{
+>>int *p,*q;
+>>  int i;
+>>  p=num;
+>>  q=num+2;
+>>  i=*p++;
+>>  print the value of i, and q-p, and some other operations are there.
+>>  }
+>>  how the values will change??
+>>3. One pointer diff is given like this:
+>>  int *(*p[10])(char *, char*)
+>>  asked to find the    meaning.
+>>4. char *a[4]={"jaya","mahe","chandra","buchi"};
+>>   what is the value of    sizeof(a)/sizeof(char *)
+>>   a. 4 b.bytes for char c-- d.--
+>>( we don't know the answer)
+>>
+>>5. void fn(int *a, int *b)
+>>   {
+>>    int *t;
+>>    t=a;
+>>    a=b;
+>>    b=t;
+>>    }
+>>    main()
+>>    {
+>>     int a=2;
+>>     int b=3;
+>>     fn(&a,&b);
+>>     print the values os a and b;
+>>     }
+>>     what is the output--- out put won't swap, the same values remain.
+>>
+>>     a. error at runtime
+>>     b. compilation error
+>>     c.2 3
+>>     d. 3 2
+>>6.
+>>#define scanf "%s is a string"
+>>main()
+>>{
+>>printf(scanf,scanf);
+>>}
+>>what is the output.
+>>
+>>ANS : %s is string is string
+>>
+>>7. i=2+3,4>3,1;
+>>   printf("%d"i);
+>>
+>>   ans is 5 only.
+>>8. char *p="abc";
+>>   char *q="abc123";
+>>
+>>   while(*p=*q)
+>>   {
+>>    print("%c %c",*p,*q);
+>>    }
+>>
+>>    a. aabbcc
+>>    b. aabbcc123
+>>    c. abcabc123
+>>    d. infinate loop ( this may be correct)
+>>9. printf("%u",-1)
+>>what is the value?
+>>a. -1 b. 1 c. 65336 d.  --
+>>
+>>
+>>(maxint value-1   I think, check for the answer)
+>>
+>>10. #define void int
+>>    int i=300;
+>>   void  main(void)
+>>    {
+>>     int i=200;
+>>     {
+>>      int i=100;
+>>      print the value of i;
+>>      }
+>>      print the value of i
+>>      }
+>>      what is the output?
+>>
+>>
+>>      may be 100 200
+>>11.
+>>
+>>   int x=2;
+>>   x=x<<2;
+>>   printf("%d ",x);
+>>
+>>
+>>   ANS=8;
+>>12.
+>>
+>>int a[]={0,0X4,4,9};     /*some values are given*/
+>>
+>>int i=2;
+>>
+>>printf("%d %d",a[i],i[a]);
+>>
+>>what is the value???   (may be error)
+>>
+>>13.
+>>     some other program is given , I can't remember it
+>>     U can get it afterwads,
+>>
+>>     the answer is 3 3, so U can check this in the exam. itself.
+>>
+>>     I'll send the remaining two afterwars whenever I get them. OK !
+>>
+>>
+>>
+>>
+>>  14.
+>>
+>>
+>>
+>>
+>-------------------------------------------------------------------------
+>>
+>>
+>>
+>>------------------------------------------------------------------
+>>                            MASCOT
+>>-------------------------------------------------------------------
+>>
+>>  this test contains 2 papers
+>>paper1=aptitude-30min-44questions
+>>contains 3 sections
+>>paper2=computer skill-30min-60questions-6sections-10questions each
+>>-------
+>>paper1
+>>-------
+>>section1
+>>---------
+>>i do not remember the q's.simple quantitative apt. q's.
+>>but takes more time ,do fast.
+>>section2
+>>--------
+>>1-8 q's on bus route.    a   b   c   d    e
+>>                     a  x   8   15  20   7
+>>                     b  6   x   9   13   21
+>>                     c  10  12  x   3    11
+>>                     d  9   1   18  x    5
+>>                     e  3   4   17  14   x
+>>where x is starting point.a&e are first and last stations.and b,c,d
+>>are intermediate stations. fig's are no. of passengers.cost of ticket
+>>is 0.7Rs /pass.
+>>between any successive stations.  based on this few q's were given.
+>>the fig's
+>>are not correct. q's like total no.of pass.in onward journey.
+>>Rest of q's are
+>>2 statements were given. u have to answer they are correct or not
+>>.littlebit
+>>easy.
+>>section3
+>>--------
+>>simple q's from r.s agarwal_quantitative apt.
+>>1.1/10power18 - 1/10power20 .....value?
+>>2.pipes-leaking-cisterns.
+>>    paper2
+>>------------
+>>1.general awareness.2.
+>>1.father of computers
+>>2.expand HTML,DMA,FAT,LAN,WAN,FDDetc
+>>3.intel's first micropro...a.pentium b.pentiumproetc
+>>4.1024(dec)convert to hexa&octal
+>>5.first micro.pro.a)8085b)8088etc
+>>6.motorola's processor name?
+>>7.windows_NT expand
+>>8.simple programs on pascal&c
+>>9.diff between 8087,8086 (which is latest vers.)
+>>10.some basic q's on GUI.
+>>11.q's on IBMpc
+>>12.one program on finding factorial
+>>--------------------------------
+>>i remember only these q's. i will ask my pals about rest of q's.i
+>>want to know
+>>when mascot is coming.they have taken 14 from here. most of them are
+>>mech.&ime.
+>>---------------------------------------------------
+>>
+>>
+>>______________________________________________
+>>              TISL
+>>_______________________________________
+>>      I know some 25 questions.
+>>
+>>      The technical comprises of 50 questions on C,Unix and windows.
+>>      1.const char *
+>>       char * const
+>>              What is the differnce between the above tow?.
+>>      2.In Unix inter process communication take place using?.
+>>      3.What are the files in /etc directory?.
+>>      4.About i-node numbers
+>>      5.Max relaxable permisssion value with out giving write permission
+>>      to others?.
+>>      6.About ln(linking)
+>>      7.A question on until
+>>              until (who |grep mary)
+>>                      do
+>>                      sleep(60)
+>>                      done
+>>      8.Linking across directories?.
+>>
+>>      9.process id for kernell process
+>>      10.very first process created by kernell
+>>      11.function to repaint a window immediately?.
+>>      12.Function entry for DLL in win3.1
+>>      13.win 3.1 is a
+>>      14.win 3.1 supports which type of multi tasking?.
+>>      15.Message displayed when a window is destroyed
+>>      16.About fork()?
+>>      17.About send message and post message
+>>      18.Message to limit the size of window
+>>      19.System call executable binary file intoa process
+>>      20.About GDI object?.
+>>      21.API used to hide window
+>>      22.Initialize contents  of a dialog?.
+>>_____________________________________________________________________
+>>
+>>------------------------------------------------------------------
+>>                              VERIFONE
+>>-----------------------------------------------------------------
+>>
+>>there will be 45 qstns. 15+5+5+5+5+5+5.
+>>section: electronics:
+>>1.a logic ckt is given and asked to identify the configuration.
+>>ans: XOR.
+>>2.multi vibrator with nor gates is given
+>>ans: astable multi sqr wave opt.
+>>3.4 stage ripple counter with delay(f/f) 10msec. How much time it
+takes
+>>for a state to change. 4*10=40.
+>>4.impedence of a p'lel resonant circiut at resonance:R.
+>>5.serial to parellel conversion is done by ans:shift register.
+>>5.if the address bus id 20bits.then the memory space is 1Mb.
+>>6.filtering can be done with:capacitor,iductor,both,none.
+>>7.the config that is worst effected by low CMMR
+>>ans:Non inverting amplifier.
+>>8.two progs are given. one satrts counting frm 0 to MAX and the other
+>>stars frm MAX to 0. which one executes fast.may be Max to 0.Think
+of.it
+>>should be.
+>>
+>>another 6 qstns are there. simple.
+>>
+>>Networks:
+>>1.
+>>the fctn of datalink layer is:bit stuffing.
+>>2.which of the following is not fctn of datalink layer: Encription.
+>>3.voltage levels of rs232x:+12,-12.
+>>4.which of the following is not used for client/server.
+>>RPC,TCP/IP,MESSAGEQs None ans:may be none.
+>>5.
+>>
+>>database:
+>>1. which of the following is true.
+>>ans:the primary key in DataBAse design is very important.
+>>2. SQL is a Non procedural query langauge.
+>>3.
+>>4
+>>5.
+>>compiler/algo/ds:
+>>1.Data structure used to impliment a menu: doubly linked circular
+>linked
+>>list.
+>>2. some regular expression is given:WaW'.may be it is context free
+>grammar.
+>>3.,4,5.
+>>os:
+>>1.the feature of real time os is: fast context swithing.
+>>2.os impliments protection with the help of hardware(like virtual
+>>addressing in 386/286 etc).
+>>
+>>C:
+>>some small c progs are given asked to tell the function/errors etc.
+>>one of the qstn(last in the paper) is an invalid statement.
+>>finish of all these very fast and think about those others. they are
+>>simple only.
+>>
+>>
+>>Interview:
+>>depends on the member.(Mr.Deep if he comes asks archirect of
+>586/486/386/286
+>>etc. otherwise DS,OS,C,TCP/IP . they hv taken 21(18btechs+3mtechs).
+>>ok if u hv any queries ask immediately.
+>>ok
+>>all the best.
+>>
+>>
+>>
+>>
+>>
+>>chigu.
+>>
+>>
+>>
+>>DE-Shaw Software,Hyderabad.
+>>---------------------------
+>>                      SECTION-A
+>>
+>>you should write the programs for the following problems in C.
+>>
+>>1. swapping two variables x,y without using a temporary variable.
+>>2. a program has been given asking to find the output
+>>      ans. it is algorithm for finding G.C.D
+>>3. write a program for reversing the given string.
+>>4. the integers from 1 to n are stored in an array in a random
+>>    fashion. but one integer is missing. write a program to find the
+>>    missing integer.
+>>      ans. idea. the sum of n natural numbers is = n(n+1)/2.
+>>           if we subtract the above sum from the sum of all the
+>>           numbers in the array , the result is nothing but the
+>>           missing number.
+>>5. some bit type of questions has been given on pointers asking to
+>>    to find whether it is correct from syntax point of view. and if
+>>    it is correct explain what it will do.(around 15 bits).
+>>
+>>                      SECTION-B
+>>
+>>   ANSWER AS MANY AS POSSIBLE.
+>>
+>>6.& 7. two programs on pre-processor directions has been given asking
+>>      to find the output.
+>>8. simple question given on pointer
+>>    a) kernighan & richie page no. 122
+>>    b) schaum series  page no. 323
+>>    try to understand the pointer problems given here he asked to
+>>explain
+>>    in the interview if answer it in exam.
+>>9. write a c program to find whether a stack is progressing in
+forward
+>>   or reverse direction.
+>>10. write a c program that reverses the linked list.
+>>
+>>  GUIDELINES:
+>>     the interview is very tough he is asking to do the problems in
+>>   front of him. he is also giving some new problems to solve before
+>>him.
+>>   you should have a very good funda of C language.
+>>  From iit-kgp only two 2 students have been selected.
+>>
+>>
+>>
+>>
+>>Wipro paper(System software)
+>>July-1997
+>>------------
+>>
+>>PART --A
+>>------------------------------------------------------
+>>1) abcD+abcd+aBCd+aBCD
+>>   then the simplified function is
+>>   ( Capital letters are copliments of corresponding letters
+>>     A=compliment of a)
+>>
+>>  [a] a   [b] ab  [c] abc  [d] a(bc)* [e] mone
+>>  (bc)*=compliment of bc
+>>
+>>  Ans:  e
+>>
+>>-------------------------------------
+>>2) A 12 address lines maps to the memory of
+>>
+>>[a] 1k bytes  [b] 0.5k bytes [c] 2k bytes  [d] none
+>>
+>>Ans: b
+>>
+>>----------------------------------------
+>>3) In a processor these are 120 instructions . Bits needed to
+impliment
+>>   this instructions
+>>   [a] 6  [b] 7  [c] 10  [d] none
+>>
+>>  Ans: b
+>>
+>>-----------------------------------------
+>>4) In 8085 microprocessor READY signal does.which of the following
+>>   is incorrect statements
+>>   [a]It is input to the microprocessor
+>>   [b] It sequences the instructions
+>>
+>>  Ans : b
+>>----------------------------------------
+>>
+>>5) Return address will be returned by function to
+>>  [a] Pushes to the stack by call
+>>  Ans : a
+>>------------------------------------------
+>>6)
+>>   n=7623
+>>   {
+>>      temp=n/10;
+>>      result=temp*10+ result;
+>>       n=n/10
+>>   }
+>>
+>>Ans : 3267
+>>----------------------------------------------
+>>7) If A>B then
+>>      F=F(G);
+>>   else B>C then
+>>      F=G(G);
+>>   in this , for 75% times A>B and 25% times B>C then,is 10000
+>>instructions
+>>   are there ,then the ratio of F to G
+>>   [a] 7500:2500  [b]  7500:625  [c] 7500:625 if a=b=c else
+>>                                   7500:2500
+>>----------------------------------------------
+>>4) question (3) in old paper
+>>5) q(4) in old paper
+>>6) question (7) in old paper
+>>7) q(9) in old paper
+>>------------------------------
+>>
+>>
+>>
+>>
+>>Honeywell conducted a test in IIT and Interview was in their
+>>office at B'lore.
+>>
+>>Test contained 100 multiple choice questions divided into
+>>
+>>              a) Verbal ability  (15 ques)
+>>              b) Numerical aptitude (15 )
+>>              c) Logical and analytical ability (15)
+>>              d) Elementary computer science (10)
+>>              d) Programming langauages (20)
+>>              e) Operatins systems and Data structures (25)
+>>
+>>Not sure about the number of questions.
+>>
+>>Verbal ability questions contained 3 parts.
+>>a) One passage is given and U have to answer 5 questions
+>>b) Some words are given and their synonyms have to be written
+>>c)
+>>
+>>Numerical aptitude and Logical questions were the usual stuff.
+>>---------------------------------------------------------------
+>>I had 4 rounds of interview.
+>>First round (around 45 minutes) contained, questions from Real-time
+>>-----------
+>>Systems (my research area), operating systems and Software Engineering
+>>
+>>Explain U'r research work.
+>>
+>>What is a Real-Time System ?
+>>What is the difference between Hard and Soft real-time systems ?
+>>What is a mission critical system ?
+>>What is the important aspect of a real-time system ?
+>>
+>>Explain the difference between microkernel and macro kernel.
+>>Give an example of microkernel.
+>>Why paging is used ?
+>>Which is the best page replacement algo and Why ?
+>>
+>>WHat is software life cycle ?
+>>How much time is spent usually in each phases  and why ?
+>>Which one do U want to work if selected in Honeywell ?
+>>( I said I don't like testing )
+>>They asked why ?
+>>I said it is a boring job. Then they tried to analyse
+>>the knowledge in testing.
+>>
+>>What is testing ?
+>>Which are the different types of testing ?
+>>Then they explained the way they do testing. They said that they are
+>>doing testing in requirement phase and design phase so that if any
+>>problem comes in those phases it is not ncecessary to go back and
+>change
+>>the requirement or design. All the test processing is automated.
+>>
+>>Why do U want to join Honeywell ?
+>>Ans : To get a practical feeling of Real-time systems.
+>>
+>>Do U know C++ ?
+>>How good are U in C and C++ ?
+>>Rate U'rslef in both C and C++. ( 1 - 10 marks)
+>>
+>>Second round (around 45 minutes )
+>>------------
+>>They wanted a bio-data at the time of inteview. I gave the placement
+>>office bio-data and in that one there was column 'Major subjects
+>>studied'. Many of the questions came from those.
+>>
+>>Explain U'r research work.
+>>Lot of questions from it.
+>>
+>>What is a distributed system ?
+>>Some questions about CSP. ( I kept quiet)
+>>Which languages do U know ?
+>>What are the differences between Pascal and C.
+>>I said Pascal is a strongly typed language.
+>>Then what is typing  and its advantages ?
+>>Then he asked some questions from Compiler construction and Lisp.
+>>
+>>WHich are the different computer architectures ?
+>>What is the requirement in MIMD ?
+>>What is the difference between RISC and CISC processors ?
+>>Difference between loosely coupled and tightly coupled systems ?
+>>What is an open system ?
+>>
+>>Still a lot of questions from software engineering .
+>>Which are the different phases in Software life cycle (asked again)
+>>Why is analysis and testing phases very important ?
+>>Which methodologies are U familiar with ?
+>>
+>>Have U worked in windows ? (Yes)
+>>What is the difference U have seen from a Dos environment ?
+>>I said it event driven .
+>>So what do U mean by event driven ?
+>>How do WinMain look like ?
+>>How the messages are processed in Windows ?
+>>(Queue of events)
+>>What are parameters needed to distinguish an event ?
+>>
+>>Have U done any network programming ?
+>>Why networks are layered ?
+>>What is the advantage of that ?
+>>How many layers are there in OSI ?
+>>WHy is it called OSI model ?
+>>Are U familiar with network topologies ?
+>>Which are the different network toplogies ?
+>>Tell an example of bus type network.
+>>I said ethernet.
+>>What is the Bandwidth of ethernet ?
+>>Explain the advantage and disadvantage of ethernet ?
+>>Which is the protocol used in ethernet. (CSMA/CD)
+>>Why is it called so ?
+>>If all stations tries to communicate at same time, what will happen.
+>>What is binary exponential backoff algo ?
+>>
+>>What is the advantage of Ring network ?
+>>Compare it with ethernet.
+>>In a real-time system which one do U prefer and why ?
+>>What is the basic requirement of a real-time network ?
+>>Which one is costly - ethernet of ring networks ?
+>>
+>>Some questions form OOSD and Digital signal processing.
+>>What is inheritance, encapsulation etc.
+>>
+>>Third Round (15 minutes)
+>>-----------
+>>Asked about the percentages and marks during SSC, PDC, B.Tech and MS.
+>>When can U join ?
+>>Who is U'r guide ?
+>>U are from which place ?
+>>Where is it in Kerala ?
+>>How do U perform in the first two interviews ?
+>>WHy have U given Honeywell as dream job ?
+>>Some more personal questions
+>>
+>>Fourth Round (45 minutes)
+>>------------
+>>What do U like in Bangalore ?
+>>I said the weather and all my friends are here.
+>>Asked about my family members.
+>>How do  U interact with friends ?
+>>How do adjust to a new environemnt ?
+>>Suppose U solve a problem and after that U are getting an almost same
+>>problem with high complexity ( and lower complexity). How will U
+>>approach to the next problem.
+>>What is U'r approach towards a new subject ?
+>>How do U prepare for exams ?
+>>Suppose in a project meeting, somebody fires U, how will U react ?
+>>Are U patient enought to wait in long queues ?
+>>Still some more which I don't rememebr.....
+>>
+>>
+>>
+>>
+>>
+>>#######################################
+>>
+>>Some information regarding the question papers of TATA Infotech
+>>
+>>
+>>******************************************************************
+>>      Tata Infotech test has following sections
+>>section 1) One section is of synonyms. These are 50 in all. They are
+>very
+>>difficult.
+>>
+>>section 2) One section is on quantitative. i.e simple addtion,
+>>subtraction, division etc.
+>>
+>>section 3) Here you will be given a letter series and you have to find
+>the
+>>next correct letter
+>>e.g a c f j .?.    ans= o
+>>
+>>there are around 20 to 25 such questons
+>>
+>>section 4) Flowchart analysis.
+>>      There are around 5 big questions in this section with 4 to 5
+>>subquestions.
+>>
+>>      In these questions
+>>      1. first you will be explained the problem.
+>>      2. Then a flowchart is drawn.
+>>      3. Flowchart is not complete and question marks are placed at few
+>>         locations. You have to find out what is the correct caption for
+>>         question mark from the choices given
+>>
+>>      e.g
+>>
+>>              -----------
+>>              |heat     |
+>>              |water    |
+>>              -----------
+>>                   |
+>>                   |
+>>                  / \
+>>                 /   \ yes
+>>                 \ ? /------------
+>>                  \ /            |
+>>                   |no        ---------
+>>                              |       |
+>>                              ---------
+>>
+>>Then you have to decide what should be the correct entry in diamond
+>box.
+>>              ie temp > 80
+>>                 temp < 80 etc
+>>
+>>
+>>In one such question they explain working of some chemical system with
+>>differnt condition of pressure, temp etc and what are the actions tobe
+>>taken. Then a flowchart is drawn with few squares or diamonds blank.
+>>Out of given chices choose correct one.
+>>
+>>One question is of finding a defective ball. i.e you have three pairs
+>of
+>>balls. one pair of yellow on pair of blue and one pair of some other
+>>color. Then weighing two pairs at a time and finally separating a pair
+>>with defective ball.
+>>
+>>There is one more problem related to balls. But I don't remember it.
+>>
+>>
+>>###################################################################
+>>                 CV is as following.
+>>
+>>
+>>
+>>
+>>            CV paper that is given to us on 21st Aug 1997. (IIT M)
+>>           _______________________________________________
+>>
+>>
+>>1.There are 45 questions which includes unix , c & apptitude,in 35
+mts.
+>>
+>>2.People sayvthat cut of will be around 38-40 questions.All questions
+>>are objective type only.
+>>
+>>There wont be any technical (about software)questions in software.
+>>
+>>4.here are some of the questions,
+>>
+>>1.|x-a| = a-x solve.
+>>ans.x<=a
+>>
+>>2.There is a six letterword UGANDA.How many ways u can arrange the
+>letters
+>>in the word in such a way that both A's are together.
+>>ans.120
+>>
+>>3.If two cards are taken one after another without replacing from a
+>pack of
+>>cards.what will be the probability for 2 cards to be drawn?
+>>ans.1/13 x1/17
+>>
+>>4.51x53x.....x59
+>>
+>>ans.99!x25!/2 power 24x 49!x5!
+>>
+>>5.The ratio of boys to girls is 6:4.60% of the boys and 40% of girls
+>take
+>>lunch in the canteen.What % of class takes lunch?
+>>ans.52%
+>>
+>>6.& 7. 2 simple problems from data sufficency(refer 1 or 2 test from
+>ims)
+>>
+>>
+>>data sufficiency:
+>>           a) only statement a is sufficient
+>>           b) only statement b '
+>>           c) both are necessary
+>>           d) both are not sufficient
+>>  7) Anna is the tallest girl
+>>   a) anna is taller than all boys
+>>   b) one ther similarly appers you have to study it cartefully and
+the
+>choose the right answer
+>>8) Zulus always speak truth and hulus always speak lies.There are
+three
+>persons A,B,and C. A met B and says "Iam zulu or iam hutus. We don't
+>know what he exactly said then B meets C and says to C that A is a Zulu
+>.Then C replies " No ,A is a hutu.
+>>q) How many zulus are there? (ans 2)
+>>who must be a Zulu ? and B (check)
+>>A father F has 5 sons p,q,r,s,t Not necessarily in this order. Two are
+>of the same age The eldest and youngest cannot be twins. T is elder to
+r
+>and younger to q and s has three older brothers
+>>q 1) who are twins
+>>  2) who is the oldest and youngest
+>>  3)who is the one having equal number of youngers and elders
+>>8) There are 7 people who take a test among which M is worst. R is
+>disqualified , P and S abtain same marks , T scores less than S and Q
+>scores less than P , N scores higher than every one.
+>>N P S T Q R M ( may be correct  it)
+>>and some questions will come on this
+>>
+>>UNIX & C
+>>      unix commands:-
+>>      fork,
+>>      tar,
+>>      chmod,
+>>      yacc,
+>>      find,
+>>      compress,
+>>      make
+>>      questionukku fork thaan answer ana quetion tariyathu.
+>>      similarly hexa decimala larnthu octhal-0 etho matiratirukku
+>>      oru quetion athukku answer 23.
+>>
+>>C:-know about
+>>      calloc,
+>>      exit(),
+>>      pointer and arrays,
+>>      pointer to functions(5 th
+>>chapter in K & R c book.(pointer fn. arguments thro'pointer)
+>>some protype functions like swap,sinfunction in math.h
+>>
+>>
+>>NOTE: Above paper we get before our test. They given all above
+>quetions
+>>and some of missing we are writing below. If any repeated skip that.
+>>
+>>-pointer arithmatic
+>>-what is the value of "i"?
+>>i=Strlen("BLUE") + strlen ("purple")/strlen("red")-strlen("green")
+>>ans:-1
+>>
+>>i=2
+>>printf("%ld%ld2%ld",i,i++,i--,i++);
+>>answer check care fully may be 2223
+>>
+>>what is the output of the following statements(string)
+>>printf("what is /0 the output"):
+>>ans.what is
+>>
+>>3) some problem appears like this
+>>  main()
+>>{
+>>  int i,a[10];
+>>   int *x
+>>   i = &a[6] - a;
+>>printf("%d", i)
+>>;
+>>}
+>>answers are given as 1 , 6 , not compiled , machine dependent
+>>answer is 6;
+>>
+>>4)
+>>  another program apperas like this
+>>main()
+>>{
+>>   int *x , y=2;
+>>   int * fun(int* );
+>>   x = (int *) malloc(sizeof(int));
+>>   fun(x,&y);
+>>   printf("%d%d",x,y);
+>>}
+>>
+>>int* fun(int *a, int *b)
+>>{
+>>   *a = (*b)++;
+>>  return;
+>>}
+>>Program exactly i doesn,t know but the stress is on *a = (*b)++
+>>  but for me answers are not tallied i think the answer now is 2,3;
+>>but in answers it is not given;
+>>
+>>5)
+>>another programme
+>>  struct pt
+>>{ int x;
+>>  int y; }
+>>
+>>   struct
+>>  { pt ptr;
+>>    int xtr}lt,*lptr=&lt;
+>>he will give some accessing methods of data
+>>but the correctone is
+>>   lptr->ptr.x;
+>>
+>>7)some problem is there which says some jumps but the correct one is
+>>setjump and longjump
+>>you study the jumps and clarify it;
+>>
+>>8)
+>>ne problem like this
+>>c prototype for math function
+>>ans is external double sin(double);
+>>
+>>8) one problem on variables apperars  answer is "file" dam shure
+>>  that is actually the scope of external static variabl;
+>>
+>>9) child procees-> fork ( this is given in c programmes)
+>>
+>>10) for parsing another problem ans is lex and yacc;
+>>
+>>11) for backups and archieves ans is tar;
+>>
+>>12) onebit on redirection of std error
+>>   ans may be $command >outfile 2>&1 check it;
+>>
+>>13)
+>>what is
+>>  int* p(char (*s)[]);
+>>ans there is c you read it from schaum series;
+>>14) what for chmod 654
+>>    rw-rw-r--  check it
+>>
+>>15)
+>>one small c programme that appears like this
+>>   main()
+>>{ char *s = "hellow"
+>>  char *m = " how are you";
+>>  strcat(s,m);
+>>  pritnf("%s",s) ;
+>>}
+>>  do this and note;
+>>
+>>
+>>
+>>16) you read stdin, stdout, stderr files and how to redirect that
+>files.
+>>
+>>
+>>
+>>++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>
+>>
+>>
+>>
+>>
+>>
+>>VERIFONE
+>>
+>>Verifone test Questions :
+>>
+>>There are two parts :
+>>
+>>1. Aptitute test        :  15 Minutes, 20 Questions
+>>
+>>  Some questions are:
+>>         (not in order)
+>>   1. A question (first one)on addition of fraction of inches
+>>           a. was the answer
+>>
+>>   2. There were 36 chairs. how many ways can they be placed such
+>>   that all rows have equal no. of chairs and atleast three chairs
+>>   are there in each row and there are atleast three rows.
+>>         5 ways.
+>>
+>>   3. There are 27 balls, of which 1 is heavier. given a balance
+>>   how many times you need to weigh to find out the odd
+>>ball.
+>>          3 Weighs.
+>>
+>>   4.  Product of three consecutive nos. 210.  What is the sum
+>>        of two least numbers
+>>         11.
+>>
+>>     5.  If the area of the sqaure is increased by 69 % how
+>>        much the length of the side will increase?
+>>           30%
+>>   6.  if the sum of five consecutive nos. 35? how many
+>>prime nos
+>>                are there :
+>>           2 primes.
+>>
+>>   7.  if the length of the rectangle is reduced by 20%
+>>and breath
+>>                is increased by 20 % what is the net change ?
+>>                 4 % decrease
+>>   8.  A question on sets.
+>>        There are some 20 Basketball players & 30 Football players,
+>>        and 25 cricket players. 1 of them plays all the
+>>three games.
+>>        8 of them plays atleast two games. They are 50 altogether.
+>>        How many of them plays none of the games.
+>>   9. A question on directions.
+>>         B is 20 miles east of A. D is 30 miles east of
+>>C. E is 10 miles
+>>         north of D. C is 20 miles north of B. How far E is from A?
+>>   Some 3 questions on Reasoning like,
+>>   10. If you say that giving stock options to employees increases the
+>>        productivity of the company, which of the following sentences
+>>        support it.
+>>
+>>  A) Giving stock options increases the morale of the employees
+>>         ..
+>>         ..
+>>          etc.,
+>>    11. Gamblers comes to the Amusement parks. There are some
+Amusement
+>>        parks in each city. There are some gamblers in each city. So
+>>        what can you infer.
+>>         A) Amusement park always have gamblers.
+>>         ..
+>>         ..
+>>           etc.,
+>>
+>>
+>>2. Technical Questions.
+>>
+>>i. Electrical & Electronics     : 15 Questions
+>>        1.A Circuit with nand gates. (ans. may be XOR)
+>>
+>>        2.CMRR. relates to  (options not in order)
+>>               voltage follower
+>>               non invering amplifier
+>>               inverting amplifier
+>>               integrator
+>>
+>>        3. Given a circuit , give the ouput.
+>>            (ans. may be triangular wave.)
+>>
+>>        4. o/p of an assembly code.
+>>                mulitply by 11.
+>>
+>>        5. how to handle asynchronous events.
+>>                    a) polling
+>>                    b) interrrupt
+>>                         etc.
+>>
+>>
+>>
+>>ii)Data Structures, Algo., & Complexity theory : 5 questions
+>>iii)  OS : 5 questions
+>>iv) Networks and Hardware:  5 questions
+>>v) Databases and Misc.: 5 questions
+>>vi) C Pgm. : 5 questions
+>>   some more 10 questions.
+>>
+>>
+>>1. if W is a sequence of strings without a and W' is its reversal
+>>        then WaW' is accepted by:
+>>
+>>          Context Free Grammmars
+>>
+>>2. Whether all recusive pgm can be writtten iteratively?
+>>  yes.
+>>3. What data structes you will use if you want to go to
+>>first record from
+>>the last and vice versa?
+>>         doubly linked circular list
+>>
+>>4. Given 10000 nos. and 48MB Memory.  What is the complexity of the
+>>efficient sorting algo.? (the algo. is not mentioned)
+>>       O(N)
+>>
+>>5.  Given a  C code and ask what it does?
+>>        code was something similar to Bubble sort and that
+>>particular code does the sorting in Desending order and
+>>the complexity
+>>is O(n^2)(which is the next question).
+>>
+>>
+>>6.
+>>     A code like this is given.
+>>
+>>        a. for(i=0;i<num;i++)
+>>        b. for(i=num;i>0;i--)
+>>     Assuming no code optimization and  assume that the
+>>microprocessor
+>>     has flags etc. which one is correct.
+>>
+>>         b will execute faster.
+>>
+>>7. If there are too many page faults what is the problem?
+>>
+>>8. To ensure one pgm. doesnt corrupt other pgm. in a Multi-pgm
+>>enviornment
+>>        what you should do?
+>>
+>>9. Which one you will use to implement critical section?        Binary
+>>Semaphore
+>>
+>>10. Which one is not needed for Multi-processing. enviornment?
+>>        options are: virtual memory,security,time sharing,none of the
+>>                        above.
+>>
+>>11. Which one is not done by Data link layer ?
+>>        bit stuffing, LRC,CRC,parity check
+>>
+>>12. Which one is not related to Data link layer?
+>>
+>>13. Which one is not suitable for client-server application?
+>>        tcp/ip,message passing,rpc,none of the above.
+>>
+>>14. What is SQL.
+>>      Procedural Relational DB Query Language.
+>>
+>>15. Indexing in databases give you
+>>       options were like 1.efficient deleting and inserting
+>>
+>>2.efficient deleting.
+>>                           etc.
+>>16. int a=1,b=2,c=3;
+>>   printf("%d,%d",a,b,c);
+>>        What is the output?
+>>17. Scope of Static Variable ............
+>>        in a file.
+>>
+>>18. for(i=0; i<=10;i++,printf("%d",i)); +-   (+- is there in the
+>>questions)
+>>
+>>20. Real Time Os should have
+>>   a)fast context switch
+>>   b)Virtual memory etc.
+>>
+>>
+>>
+>>21. Messages are transferred in some E71 code, where after 7 bits of
+>>data,
+>>1 bit of stopping data is to be transferred. what should be done.
+>>     options were like
+>>         a) send directly
+>>         b) send after encoding
+>>                  etc.
+>>22. There are three processes A, B, C. A sends data to B. B removes
+the
+>>header stores it and sends the data to C. C returns it to B. B
+receives
+>>the
+>>message, identifies the message and adds the header that was stored
+and
+>>sends to A.B receives the messages from C such that atmost 'm'
+messages
+>>
+>>B
+>>are pending.
+>>     Identify the best Data Structure.
+>>
+>>23.  A question in compiler about the heap and stack allocation of
+>>memory.
+>>
+>>24.  struct
+>>        {
+>>          char a[3];
+>>          int b;
+>>          }x;
+>>     char *cp;
+>>
+>>      a) size of x is 7.
+>>      B
+>>      b)
+>>      c)
+>>      d) cp takes the size of a pointer.
+>>          (d ) is the ans.
+>>
+>>
+>>
+>>
+>>Verifone Interview.
+>>--------------------
+>>Here, we had three single man panels. They are seeing the subjects
+>>taken and asking questions in that mainly. They didn't go deep into
+>>any subject and they were just  asking overview. When they catch any
+>>new word they are asking about it.
+>>
+>>These are some of the questions asked to us.(not to a single person.)
+>>What is a finite Automata.
+>>what is a turing machine.
+>>how many processors are there in a pentium microprocessor. in Sparc.
+>>difference between risc and cisc.
+>>is risc always fast.
+>>
+>>
+>>what is a real time system.
+>>name some real time OS
+>>what are the characteristics of Real time OS.
+>>is DOS a real time OS.
+>>what is a kernel,shell.
+>>
+>>what is binary search, traversal, hashing etc.
+>>given a scenario what is the  suitable data structure.
+>>write a code to count the no. of 1's in a binary rep. of a number.
+>>memory taken for char *, int * etc.
+>>char *cp; int *ip; cp++,ip++ - what is the result.
+>>compare the no. of bytes in unix and Dos for long char short int.
+>>how to make programs portable on unix and Dos under such
+circumstances.
+>>in c++, what is a constructor, destructor etc.
+>>what is friend etc.
+>>
+>>
+>>
+>>what is waterfall model, prototype model etc.
+>>what is testing. what is unit testing, integration testing etc.
+>>
+>>What is indexing in databases?
+>>What is atomicity?
+>>Can recursive pgms be written in C++, Write a recursive
+>>pgm to
+>>calculate factorial in c++.
+>>
+>>What is best data structure to store the processes info
+>>in a real time
+>>operating system?
+>>
+>>
+>>
+>>++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>**********************************************************
+>>Motorola Interview.
+>>
+>>There was a Technical Interview,followed by personal interview.
+>>Mainly concetrating on the interesting subjects.
+>>
+>>
+>>write a C code
+>>1.to reverse a string using a recursive function, without
+>>   swapping or using an extra memory.
+>>2.To reverse a linked list as above.
+>>
+>>given a macro like
+>>  #define MAX(A,B) {to return that is larger}
+>>     what will MAX(i++,j),MAX(i,j++) return.
+>>
+>>Difference between Macro and ordinary definition.
+>>Difference between Class and Struct.
+>>
+>>Testing and Maintenance.(will you work in it and what are they)
+>>
+>>Give the outputs of a compiler and assembler and loader
+>>and linker etc.
+>>If a new data structure, suppose a queue is to be added
+>>like int, long
+>>etc.,
+>>
+>>where shall the changes be -- lex or yacc or where.
+>>
+>>what is a Real Time OS.
+>>Name some.
+>>Describe VRTX in few words.
+>>How does the scheduler know the time how it should be scheduled.
+>>
+>>
+>>sockets, TLI, streams.
+>>
+>>and much about project.
+>>
+>>What is deadlock? How do you avoid it?
+>>What is a semaphore?
+>>What exactly happens after each system call in sockets,
+>>both at the
+>>client and at the server.
+>>What is the difference between widget & gadget in XWindows?
+>>Tell about strtok & strstr functions.
+>>
+>>===============================================================
+>>
+>>OK PLEASE ACCEPT THIS AND ACKNOWLEDGE THE RECEIPT
+>>srinivas.
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>CV PAPER:
+>>
+>>
+>>1.There are 45 questions which includes unix , c & apptitude,in 35
+mts.
+>>
+>>2.People sayvthat cut of will be around 38-40 questions.All questions
+>>are objective type only.
+>>
+>>There wont be any technical (about software)questions in software.
+>>
+>>4.here are some of the questions,
+>>
+>>1.|x-a| = a-x solve.
+>>ans.x<=a
+>>
+>>2.There is a six letterword UGANDA.How many ways u can arrange the
+>letters
+>>in the word in such a way that both A's are together.
+>>ans.120
+>>
+>>3.If two cards are taken one after another without replacing from a
+>pack of
+>>cards.what will be the probability for 2 cards to be drawn?
+>>ans.1/13 x1/17
+>>
+>>4.51x53x.....x59
+>>
+>>ans.99!x25!/2 power 24x 49!x5!
+>>
+>>5.The ratio of boys to girls is 6:4.60% of the boys and 40% of girls
+>take
+>>lunch in the canteen.What % of class takes lunch?
+>>ans.52%
+>>
+>>6.& 7. 2 simple problems from data sufficency(refer 1 or 2 test from
+>ims)
+>>
+>>
+>>data sufficiency:
+>>           a) only statement a is sufficient
+>>           b) only statement b '
+>>           c) both are necessary
+>>           d) both are not sufficient
+>>  7) Anna is the tallest girl
+>>   a) anna is taller than all boys
+>>   b) one ther similarly appers you have to study it cartefully and
+the
+>choose t
+>>8) Zulus always speak truth and hulus always speak lies.There are
+three
+>persons
+>>q) How many zulus are there? (ans 2)
+>>who must be a Zulu ? and B (check)
+>>A father F has 5 sons p,q,r,s,t Not necessarily in this order. Two are
+>of the sa
+>>q 1) who are twins
+>>  2) who is the oldest and youngest
+>>  3)who is the one having equal number of youngers and elders
+>>8) There are 7 people who take a test among which M is worst. R is
+>disqualified
+>>N P S T Q R M ( may be correct  it)
+>>and some questions will come on this
+>>
+>>
+>>
+>>
+>>
+>>                         INTERGRAPH
+>>>
+>>>Paper consists of two sections : 1. analytical (20 marks)
+>>>                                  2. C skills (20 marks)total time 45
+>min
+>>>
+>>>Analytical:
+>>>-------------
+>>>
+>>>1. Given a cube, with different colors on its faces, and then is cut
+>>>into 64 pieces, and the questions relate to the colors of different
+>>>colored small cubes.
+>>>
+>>>2. A few ladies and gents sit around table in some given order and 4
+>>>questions are about their seating arrangement with some
+restrictions.
+>>>
+>>>3. Draw a venn diagram for 3 items : white, flowers, cloth
+>>>
+>>>  Ans : draw 3 circles each intersecting the other , with white kept
+>in the
+>>>middle.
+>>>
+>>>4. A problem related to seating arrangement of 4 people ( 2 ladies
+>and
+>>>2 gents) with some restrictions>
+>>>5. problem related to milk with water added to it for three times
+>>>
+>>>Ans: 20.5 litres
+>>>
+>>>6. Problem related to diagrams . Five diagrams were given and asked
+>to
+>>>find the sixth one.
+>>>
+>>>C-Skills:
+>>>--------
+>>>
+>>>1. Max number of nodes in a binary tree with height 3 is 20 : Ans:
+>False
+>>>
+>>>2. 10,20,30,40,50,60 : give the order when put in a queue and in a
+>stack
+>>>
+>>>Ans : Queue : 10,20,30,40,50,60
+>>>       stack : 60,50,40,30,20,10
+>>>
+>>>3. Debugging is the process of finding
+>>>
+>>>Ans : logical and runtime errors
+>>>
+>>>4. trace the error:
+>>>
+>>>    void main(){
+>>>             int &a;
+>>>              /* some other stuff here */
+>>>                }
+>>>Ans: syntax error
+>>>
+>>>5. a problem with a function named 'myValue' will be given and asked
+>to
+>>>find the value of main() for an argument of 150,
+>>>
+>>>Ans : 150
+>>>
+>>>6. Some problems related to 'for' loops.
+>>>
+>>>7. problem on conditional inclusion.
+>>>
+>>>8. problem related to depth first and breadth first search (DSA
+>subject)
+>>>
+>>>9. study the syntax of malloc function
+>>>
+>>>10. locate the error
+>>>
+>>>     int arr (20);
+>>>    Ans: syntax error.
+>>>

@@ -1,0 +1,151 @@
+
+___________________________________________________________________________________
+
+COMPANY NAME : PERSISTENT (PSPL)
+------------------------------------------------------------
+DATE OF TEST : 22 Nov 2003
+------------------------------------------------------------
+PLACE OF TEST: Pune
+------------------------------------------------------------
+MODE 	   : Off-Campus
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+
+-----Original Message-----
+From: vishal kokitkar 
+Sent: Monday, November 24, 2003 2:49 PM
+To: chetana-jobs@yahoogroups.com
+Subject: [CHETANA] (Pattern+INFO) (5 to 24 months experience) Requirement for Persistent System ,Pune
+
+
+
+I have attended the test of Pesistent system Pune on Saturday,22nd November at pune .The test pattern is as follows. 
+
+
+Test Pattern:-
+
+Test will be totally based on computer science syllabus(all and all Technical test) . It will test u on basis of Computer algorithm,Operating system,programming,DBMS,General.
+
+Test is divided in two parts 
+
+1.Objective type Question :-Duration 1 hour
+
+2.Programming Ability( u have to write two C programs for given problems-2 program):duration 1 hour
+
+
+
+1.Objective Type Question:-
+
+It has 5 types ,Each type contain 5 questions.No negative marking
+
+Type1:-Computer Algorithm
+
+(don't waste time doing paper work for algorithm my suggestion is first for DBMS GENERAL ..well if u r confident for algorithm go for it.) 
+
+1.In what option the binary search will not possible to search 43
+
+a.11,22,55,56,43,34
+
+b.
+
+c.
+
+d.
+
+2.how many comparison required for merging two ordered list.
+
+3. 
+
+Type2:- Programming(in c) (it contains 10 question u have to solve any 5)
+
+(u must have fundas in programming .....) 
+
+1.Typical what will be the outpt.
+
+2.One simple question on macro
+
+square(x) x*x
+
+a=10 b=20 
+
+if called as printf("%d", square(a+b)); what will be output 
+
+ans=32
+
+
+Type 3:-Operating System
+
+1.one small problem on process time completion .OS scheduler is round robin with 1 sec interval.4 process is given with their arrival time .asked to calculate the completion time for process p.
+
+2.which is odd one
+
+given 5 algorithm and find odd one.
+
+3.
+
+
+Type 4:-DBMS
+
+
+
+Type 5:-General.
+
+
+
+2.Programming test
+
+( I don' t whether the problem will remains same or not for successive test.but pattern will be same.) 
+
+Q1. U have to write the function for matrix addition using link list.It is called "sparse matrix" .The structure for the element is as follows.
+
+Typedef struct element{
+
+Int row;
+
+Int column;
+
+Int value;
+
+Element * next; 
+
+}element,sparsematrin*; 
+
+If value contains zero then there should not be node assign for that.U have to also check boundary condition in your program.
+
+Function is:
+
+SparseMatrix SmAdd(SaprseMatrix m1,SparseMatrix m2)
+
+( Revised concept of linked list and have a look at coding.....)
+
+
+
+Q2.Problem:-
+
+One boy has to climb steps. He can climb 1 or 2 steps at a time. Write a function that will returns number of way a boy can climb the steps. Int WaytoSteps(int n)
+
+(eg:- suppose number of steps is n=4 ,the function will return 5 (one-one-one-one ,one-one-two, one-two-one-,two-one-one, two-two) 
+
+(I cant solve this problem )
+
+well,all the best ...go through basic concept of computer science and c programming....
+
+
+___________________________________________________________________________________
+Visit: "www.chetana-jobs.com" for Previous Papers
+--------------------------------------------------------------------
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

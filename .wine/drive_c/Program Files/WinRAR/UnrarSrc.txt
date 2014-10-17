@@ -1,0 +1,2 @@
+Unrar source and unrar.dll library are available in "RAR extras" part
+of www.rarlab.com

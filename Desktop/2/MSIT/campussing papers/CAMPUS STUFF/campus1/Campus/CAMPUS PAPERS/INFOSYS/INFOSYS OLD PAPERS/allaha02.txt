@@ -1,0 +1,45 @@
+				INFOSYS (MNREC 2002)
+
+1.Forty minutes ago if it was 4 times as many minutes past 2 '0' clock how many minute is to 5 '0' clock. (Marks 3)
+
+2.Tom dick & Harry are three people standing in a row 
+	1. The first man said in middle Harry
+	2. Middle one say i am Dick 
+	3. Last man say in middle it is Tom
+ Tom speaks always true & dick speaks sometimes truth & Harry never. Who is at which place
+	Ans- tom is at first, middle one Harry, at last dick (marks 4)
+
+3.Andy, Brian, Cedrick & Dave are four professionals. Their occupation are- architect, barber, case maker & dentist respectively not in order. (Marks 5)
+	1. At least 1 name start with same letter as occupation but not all. 
+	2. Architecture not has 'r' in his name.
+	3. Barber & Dentist have exactly one letter same.
+	Ans. ANDY- DENTIST
+           BRIAN -CASE MAKER 
+           CEDRICK -BARBER
+           DAVE - ARCHITECT
+
+4. There are 4 item in such a way that adding of their cost equal to 6.75 & multiply of their cost equal to 6.75. The cost of one item equal to 1.5. Find the cost of other item.
+	Ans: 1,1.5,2,2.25
+
+5. A man climbing on inclined hill at the rate 2 mile/hour & come down at the rate of 4 mile/hour & the total time is 6 hour. Find the hill height.
+	Ans- 8miles (Marks 3)
+
+6. 16*12*2*3=99. Remove the Asterisks by using mathematical operation to make 99. (Marks 4) 
+	Ans: 16*12/2+3=99
+
+7. Two man standing back to back next to the rail of a station. When the engine of train reaches to the man they start moving in opposite direction parallel to track. The speed of both is same and constant both man stop when the train tail passing him. One man covers a distance of 30m and the other 40m. Find the length of train. (Marks 6)
+	Ans -240m 
+
+8. There are 7 painting T U V W X Y Z and painter has to select 5 out of 7 some condition are given here (marks 8)
+	1. If T is selected then X should not
+	2. If U " Y also selected
+	3. If V " X "
+   There is 4 objective questions given these are very simple ans are given below: - 1. E 2. A 3. B 4. E
+
+9. 8 kips and 14 ligs make 510 tor in 10 hour, & 13kips and 6 ligs make 484 tor in 12 hour find the rate in tor per hour by which kips and ligs make tor (marks 8). Name rate tor/hr kips 2 ligs 2.5 kips 
+
+10. In this question some matter is given about king Henri-ii and his queens. We have to find out correct series this is time taking question
+
+
+
+

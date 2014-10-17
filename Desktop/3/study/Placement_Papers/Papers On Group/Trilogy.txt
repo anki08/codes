@@ -1,0 +1,36 @@
+1. array (a1,a2,...an,b1,b2,...bn) ( size 2n)
+need to rearrange in the form (a1,b1,a2,b2,.......an,bn)
+c- prog (or java).. time and memory utilisation min..
+
+2. {ab,cd,ef,gh,..} .. separate them as per delimiter (comma) and make a
+an array of the form {(ab),(cd) ...} ..
+
+3. locate the reference loops in a tree strucure..on traversing thru the
+nodes starting from root node..
+
+4. c-program correction..
+to have a display of the form below (for m=10, n=4)
+
+7 1 1 1
+6 2 1 1
+5 3 1 1
+4 4 1 1
+5 2 2 1
+
+something like this.. prog is given, u need to find the bugs..
+
+first 3 u can write in c or java..
+but marking will be based on time & memory reqt..
+
+#############################################################################
+
+ANOOP KUMAR B anoopkumar_b@yahoo.com <mailto:anoopkumar_b@yahoo.com>
+M TECH (COMMUNICATION)(PC LAB RA) anoopkumarb@rediffmail.com <mailto:anoopkumarb@rediffmail.com>
+ROOM NO: A-301
+HOSTEL NO: 12 Ph(internal) : 5756 (PC Lab)
+IIT POWAI.
+MUMBAI-400 076
+
+<http://www.ee.iitb.ac.in/uma/~akb>
+
+

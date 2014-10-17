@@ -1,0 +1,403 @@
+Wipro Sample Test2Wipro Test #2Home
+
+Back To Wipro Page
+
+1.When a bicycle is in motion,the force of friction exerted by the ground on the 
+two wheels is such that it acts
+(a) In the backward direction on the front wheel and in the forward direction on 
+the rear wheel.
+(b) In the forward direction on the front wheel and in the backward direction on 
+the rear wheel.
+(c) In the backward direction on both the front and rear wheels.
+(d) In the backward direction on both the front and rear wheels.
+Ans. (d)
+
+2. A certain radioactive element A, has a half life = t seconds.
+    In (t/2) seconds the fraction of the initial quantity of the element so far 
+decayed is nearly
+(a) 29%
+(b) 15%
+(c) 10%
+(d) 45%
+Ans. (a)
+
+3. Which of the following plots would be a straight line ?
+(a) Logarithm of decay rate against logarithm of time
+(b) Logarithm of decay rate against logarithm of number of decaying nuclei
+(c) Decay rate against time
+(d) Number of decaying nuclei against time
+Ans. (b)
+
+4. A radioactive element x has an atomic number of 100.
+    It decays directly into an element y which decays directly into element z.
+    In both processes a charged particle is emitted.
+    Which of the following statements would be true?
+(a) y has an atomic number of 102
+(b) y has an atomic number of 101
+(c) z has an atomic number of 100
+(d) z has an atomic number of 101
+Ans. (b)
+
+5. If the sum of the roots of the equation ax2 + bx + c=0 is equal to the sum of 
+the squares of their reciprocals 
+    then a/c, b/a, c/b are in 
+(a) AP
+(b) GP
+(c) HP
+(d) None of these
+Ans. (c)
+
+6. A man speaks the truth 3 out of 4 times.
+    He throws a die and reports it to be a 6.
+    What is the probability of it being a 6?
+(a) 3/8
+(b) 5/8
+(c) 3/4
+(d) None of the above
+Ans. (a)
+
+7. If cos2A + cos2B + cos2C = 1 then ABC is a
+(a) Right angle triangle
+(b) Equilateral triangle
+(c) All the angles are acute
+(d) None of these
+Ans. (a)
+
+8. Image of point (3,8) in the line  x + 3y = 7 is
+(a) (-1,-4)
+(b) (-1,4)
+(c) (2,-4)
+(d) (-2,-4)
+Ans. (a)
+
+9. The mass number of a nucleus is 
+(a) Always less than its atomic number
+(b) Always more than its atomic number
+(c) Sometimes more than and sometimes equal to its atomic number
+(d) None of the above
+Ans. (c)
+
+10. The maximum KE of the photoelectron emitted from a surface is dependent on 
+(a) The intensity of incident radiation
+(b) The potential of the collector electrode
+(c) The frequency of incident radiation
+(d) The angle of incidence of radiation of the surface
+Ans. (c)
+
+11. Which of the following is not an essential condition for interference
+(a) The two interfering waves must be propagated in almost the same direction or 
+
+     the two interfering waves must intersect at a very small angle
+(b) The waves must have the same time period and wavelength
+(c) Amplitude of the two waves should be the same
+(d) The interfering beams of light must originate from the same source
+Ans. (c)
+
+12. When X-Ray photons collide with electrons 
+(a) They slow down
+(b) Their mass increases
+(c) Their wave length increases
+(d) Their energy decreases
+Ans. (c)
+
+13. An electron emits energy 
+(a) Because its in orbit
+(b) When it jumps from one energy level to another
+(c) Electrons are attracted towards the nucleus
+(d) The electrostatic force is insufficient to hold the electrons in orbits
+Ans. (b)
+
+14. How many bonds are present in CO2 molecule?
+(a) 1
+(b) 2
+(c) 0
+(d) 4
+Ans. (d)
+
+15. In a balanced chemical equation
+(a) Atoms are conserved
+(b) Molecules are conserved
+(c) Moles are conserved
+(d) Reactant and product molecules are preserved
+Ans. (a)
+
+16. How many grams of NaOH will react with 0.2 equivalent of HCl?
+(a) 0.59
+(b) 0.285
+(c) 1.18
+(d) none of these
+Ans. (a)
+
+17. Which of the following is least acidic
+(a) Ortho-cresol
+(b) Para-cresol
+(c) Phenol
+(d) Meta-cresol
+Ans. (b)
+
+18. In Reimer-Tiemann's reaction, the reaction intermediate is
+(a) Carbene
+(b) Dichloro carbene
+(c) Carbonion
+(d) Carbonium ion
+Ans. (b)
+
+19. Which of the following is most acidic?
+(a) C2H5OH 
+(b) CH3CHOHCH3 
+(c) Ethanol
+(d) CH3OH
+Ans. (b)
+
+20.A catalyst
+(a)always slows down the reaction
+(b)always starts a rection that would not have ocurred at all otherwise
+(c)causes changes in the rate of the reaction
+(d)changes the quantities of the products formed
+Ans. (c)
+
+21.The rate of the first order reaction depends on the
+(a) Concentration of the reactant
+(b) Concentration of the product
+(c) Time
+(d) Temperature
+Ans. (d)
+
+22. The most abundant element in the universe is
+(a) Hydrogen
+(b) Helium
+(c) Oxygen
+(d) Silicon
+Ans. (a)
+
+23. Integrate 3x + 5 / (x3-x2-x+1)
+(a) 1/2 log | (x+1)/(x-1) | - 4/(x-1)
+(b) log |2+tanx|
+(c) -(1+logx)/x
+(d) 2 log|(tanx)/(tanx+2)
+Ans. A
+
+24. If y=cos-1(cosx + 4sinx)/(17)1/2, then dy/dx is 
+(a) 0
+(b) 1
+(c)-1
+(d) none of these
+Ans. (b)
+
+25. If the sum of n terms of two series of A.P are in the ratio 5n+4:9n+6 .find 
+the ratio of their 13th terms
+(a) 129/231
+(b) 1/2
+(c) 23/15
+(d) None of the above
+Ans. (a)
+
+26. If the letters of the word "rachit" are arranged in all possible ways and 
+these words are written 
+      out as in a dictionary, what is the rank of the word "rachit".
+(a) 485
+(b) 480
+(c) 478
+(d) 481
+Ans. (d)
+
+27. Ravi's salary was reduced by 25%.Percentage increase to be effected to bring 
+the salary 
+      to the original level is
+(a) 20%
+(b) 25%
+(c) 33 1/3%
+(d) 30%
+Ans. (c)
+
+28. A and B can finish a piece of work in 20 days .B and C in 30 days and C and 
+A in 40 days.
+      In how many days will A alone finish the job
+(a) 48
+(b) 34 2/7
+(c) 44
+(d) 45
+Ans. (a)
+
+29. How long will a train 100m long travelling at 72kmph take to overtake 
+another train 
+      200m long travelling at 54kmph
+(a) 70sec
+(b) 1min
+(c) 1 min 15 sec
+(d) 55 sec
+Ans. (b)
+
+30. What is the product of the irrational roots of the equation 
+(2x-1)(2x-3)(2x-5)(2x-7)=9?
+(a) 3/2
+(b) 4
+(c) 3
+(d) 3/4
+Ans. (a)
+
+31. Which of the following parameters is the same for molecules of all gases at 
+a given temperature?
+(a) Mass
+(b) Momentum
+(c) Speed 
+(d) Kinetic energy
+Ans. (d)
+
+32. A solid is completely immersed in liquid. The force exerted by the liquid on 
+the solid will 
+(a) Increase if it is pushed deeper inside the liquid
+(b) Change if its orientation is changed
+(c) Decrease if it is taken partially out of the liquid
+(d) None of the above
+Ans. (c)
+
+33. Select the correct statements
+(a) A simple harmonic motion is necessarily periodic
+(b) An oscillatory motion is necessarily periodic
+(c) A periodic motion is necessarily oscillatory
+(d) All of the above
+Ans. (a)
+
+34. An elecrton is injected into a region of uniform magnetic flux density with 
+the components 
+      of velocity parallel to and normal to the flux.What is the path of the 
+electron?
+(a) Helix
+(b) Parabola
+(c) Circle
+(d) Rectangle
+Ans. (a)
+
+35. A constant voltage is applied between the 2 ends of a uniform metallic wire.
+      Some heat is developed in it. The heat developed is doubled if
+(a) both the length and radius of the wire are halved.
+(b) both the length and radius of the wire are doubled
+(c) the radius of the wire is doubled
+(d) the length of the wire is doubled
+Ans. (b)
+
+36. If Young's double slit experiment is performed in water
+(a) the fringe width will decrease
+(b) the fringe width will increase
+(c) the fringe width remains unchanged
+(d) there will be no fringe
+Ans. (a)
+
+37. The shape of a spot of light produced when bright sunshine passes 
+perpendicular 
+      through a hole of very small size is
+(a) Square, because the hole is a square
+(b) Round, because it is an image of the sun
+(c) Round with a small penumbra around it
+(d) Square with a small penumbra
+Ans. (b)
+ 
+Select the alternative that logically follows from the two given statements.
+38. 
+  Some forms are books 
+  All books are made of paper 
+(a) Some forms are made of paper
+(b) Some forms are not made of paper
+(c) No forms are made of paper
+(d) None of the above
+Ans. (a)
+
+39. 
+  All toffees are chocolates 
+  Some toffees are not good for health 
+(a) Some chocolates are not good for health
+(b) Some toffees are good for health
+(c) No toffees are good for health
+(d) Both (a) and (b)
+Ans. (a)
+ 
+The questions 40-46 are based on the following pattern.The problems below 
+contain a question and two statements giving certain data. You have to decide 
+whether the data given in the statements are sufficient for answering the 
+questions.The correct answer is 
+(A) If statement (I) alone is sufficient but statement (II) alone is not 
+sufficient.
+(B) If statement(II) alone is sufficient but statement(I) alone is not 
+sufficient.
+(C) If both statements together are sufficient but neither of statements alone 
+is sufficient.
+(D) If both together are not sufficient.
+(E) If statements (I) and (II) are not sufficient
+
+40. What is the volume of a cubical box in cubic centimetres?
+(I) One face of the box has an area of 49 sq.cms.
+(II) The longest diagonal of the box is 20 cms.
+Ans. D
+
+41. Is z positive?
+(I) y+z is positive
+(II) y-z is positive
+Ans. E
+
+42. Is x>y ? x, y are real numbers?
+(I) 8x = 6y
+(II) x = y + 4
+Ans. B
+
+43. If a ground is rectangular, what is its width?
+(I) The ratio of its length to its breadth is 7:2
+(II) Perimeter of the playground is 396 mts.
+Ans. C
+
+44. If the present age of my father is 39 yrs and my present age is x yrs, what 
+is x?
+(I) Next year my mother will be four times as old as i would be.
+(II) My brother is 2 years older than I and my father is 4 years older than my 
+mother.
+Ans. C
+
+45. How many brothers and sisters are there in the family of seven children?
+(I) Each boy in the family has as many sisters as brothers
+(II) Each of the girl in the family has twice as many brothers as sisters
+Ans. D
+
+46. x is not equal to 0, is x + y = 0?
+(I) x is the reciprocal of y
+(II) x is not equal to 1
+Ans. A
+ 
+Following questions are based on letter's analogy.First pair of letters should 
+have the same relationship as the second pair of letters or vice versa.
+47. ? : BGLQ : : YDIN : VAFK
+(a) EKNS
+(b) DKMT
+(c) DLMS
+(d) EJOT
+Ans. (d)
+
+48. NLO : RPS : : ? : ZXA
+(a) VUW
+(b) VTR
+(c) VTW
+(d) TRP
+Ans. (c)
+
+49. If "segment" is coded as rffndou, then "ritual" is coded as
+(a) shutbm
+(b) qjutbk
+(c) qhutbk
+(d) qhubtk
+Ans. (c)
+
+50. If "football" is "cricket" ,"cricket" is "basketball" ,"basketball" is 
+"volleyball","volleyball" is "khokho" and "khokho" is cricket, which is not a 
+ball game?
+(a) cricket
+(b) football
+(c) khokho
+(d) basketball
+Ans. (a)
+
+51. Which of the following is a recursive set of production
+(a) S --> a|A, A --> S
+(b) S --> a|A, A --> b
+(c) S -->aA, A-->S
+(d) None of these
+Ans. (c)
+Back to top

@@ -1,0 +1,136 @@
+hi friends
+ there are three section . there are 44 question in all three section .the time is 45 mainutes.it is suffucent.
+
+ section I -20 question.
+ section II-11 question . it  is GRE resoning .you can easyly do these section.
+ section III-13 question
+
+there is no time limitatioin in individual section .so do  not bothere for that.
+
+
+1. there is question  on figure .it is easy.
+   ans     d)  correct
+
+2. there are 1800 coins .one soin is defective in that .in  how many minimum  
+   times you can find that the coin is defective.
+
+   a)11
+   b)9
+   c)7
+   d)2
+ ans:7
+
+3.there are two kind of professonal in a company software & personal.if the 
+  personal are 15% of the total .a party is going .in a party  if 50% of the 
+  total professonal left and all are s/w then what is the ratio  of the  s/w 
+  professonal left to total software professonal.
+ ans b)   10/17
+
+4. what is the probability of the taking out two card one king and one quene 
+  of black in a card packet.
+ ans   d)  1/663 (ckeck)
+
+5.1 1 2 3 5 ... 13
+ ans  8
+
+6.there are two more question of series .they are easy.
+
+7.there are two question of coding and decoding.they are also easy.
+
+8.how many word are be formed by by a 5 alphbet ward in which one word is twice.
+(I don't rembere the exact word)
+ ans   60  (correct)
+
+9.there is one question  on price rise and fall .
+ ans  1% decrese in price.
+
+10.    1,7,17,31,--,71
+ ans 49
+
+ section II 
+
+ in this there are easy   question on reasoning like GRE .
+I don't remember the passage and question.there are 11 question in this
+sectioin.
+
+moto99:-->>>
+
+TOROLA 99 (46 questions , no -ve marking)
+
+  1. out of 1800 coins one is lighter than others and in howmany attempts u
+  can find that
+  odd one? 
+  ans:7
+
+  2. out of 52 cards two are drawn consecutively. what is the probablility
+  to get black king &
+  black queen ? ans: 2/663
+
+  3. 1,2,3,5,8, ..? 
+  ans: 13
+
+  4. out of 100 students in the class 60 take hindi ,55 social, 65 english.
+  Howmany students passed in atleast 2 subjects?
+
+
+  5. 3 4 13
+     - ? -
+     6 7 16
+  ANS: ? = 1
+
+  6. h i n d find the odd man out ? 
+  ans: i (vowel)
+
+  7. word1: word2 then motorola: ? 
+  ans: replace m o r l by respective letters in word2.
+
+  8. 6 1 2 7 12 ? 2 3 11 1
+  ans: add 1+2+11+7
+
+  9. O(n), O(n2), O(n3), O(n4) what is the overall complexity ?
+  Ans: orde of n power 4 O(n4).
+
+  10.for(i=0:!<m;i++) what is the expression to access the array from last
+  element ?
+  ans: a[m-i+1]
+
+  11. 2 4 6
+      6 10 ?
+  ans: 16
+
+  12. queston on floors in building. srinivas lives on .....
+  ans: 11 th floor.
+
+  13. BIRD:HIPK::EMCR: ? 
+  ANS:ZLUP ( SEE THE VALUE IN WORD2.)
+  - - - -
+
+  14-16. There are 2 analytic questions (6marks each)
+  There are 3 drink items (c m t )& 5 food items (p q r s t u). one
+  has to take 2 drink items and 3 food items. The pairs that shuld not be
+  taken are given.(cp ps pt etc)
+
+  Q1) if he takes c what others can be taken ?
+
+  Q6)what he can take ? 
+  ans: u (no condition is given on u)
+
+  20-25) Analytic question based on positions .
+  A is above c&d, Q is below c, Q is middle of r&c etc.
+  now u can answer the 6 questions once u find the corresponding
+  positions of letters.
+
+
+
+ 
+
+
+------------------------------------------------------------------------
+For the fastest and easiest way to backup your files and, access them from
+anywhere. Try @backup Free for 30 days.  Click here for a chance to win a
+digital camera.
+http://click.egroups.com/1/337/1/_/93717/_/948429372/
+
+-- Easily schedule meetings and events using the group calendar!
+-- http://www.egroups.com/cal?listname=dextrites&m=1
+

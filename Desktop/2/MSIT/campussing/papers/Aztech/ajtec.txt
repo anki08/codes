@@ -1,0 +1,46 @@
+ 
+  
+ 
+       
+  
+Aztec
+
+Written Test
+The written test consists of 4 sections out of which one has to do 3 sections. 
+These sections are broadly divided into:Aptitude,C,C++ and Java. 
+
+Click here to see the sample test......
+
+Interview 
+The information on the interview is from the horse's mouth, but it consists mainly of technical grilling.A lot of stress is laid on Data Structures, C and C++. Some the questions that could be asked in the technical interview are:
+What is public,protected,private? 
+What are virtual functions?
+What is friend function?
+What is a scope resolution operator?
+What does static variable mean? 
+Write a program to compare two strings without using the stringcomp function .
+Write a program to concatenate two strings. 
+
+Profile 
+Aztec Systems is a full Web Production service organization providing a wide range of products. Incorporated in 1994, Aztec Systems Corporation, located in Annapolis, MD, was established to provide a quality World Wide Web service. Since that time, Aztec has developed Website applications ranging from on-line catalogs and trade show presentations to newsletters and product directories. 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

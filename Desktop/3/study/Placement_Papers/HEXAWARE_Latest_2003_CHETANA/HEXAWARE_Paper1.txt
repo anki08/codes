@@ -1,0 +1,610 @@
+___________________________________________________________________________________
+
+COMPANY NAME : HEXAWARE
+------------------------------------------------------------
+DATE OF TEST : 2003
+------------------------------------------------------------
+PLACE OF TEST: 
+------------------------------------------------------------
+MODE 	   : Off-Campus
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+-----Original Message-----
+From: Surendra_reddy 
+Sent: Friday, July 04, 2003 4:13 PM
+To: chetana-jobs@yahoogroups.com
+Subject: [CHETANA] (freshers) Hexaware - Pattern, Sample Questions and mail id : Suri
+
+
+Since there are at least a 50 mails to group asking for Hexaware question paper pattern, I have gathered all the info about Hexaware (that was sent to group earlier) and resending !
+Hopefully it helps all the people writing Hexaware test very soon ! Best of luck !
+ 
+Luv,
+Suri
+WebSite @ www.surendra.org
+
+
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+
+-----Original Message-----
+From: sanjeev kumar 
+Sent: Saturday, June 28, 2003 10:42 PM
+To: chetana-jobs@yahoogroups.com
+Subject: [CHETANA] (Freshers) Hexaware campus pattern
+
+
+Dear Friends,
+Hexaware came to our campus this week. The pattern was a bit  different from wat we had got from freshersworld but few questions got repeated (17). The questions were all easy to answer but time was a major constrain. 
+
+No of Questions : 100
+Time : 60 Minutes
+No negaive markings
+
+After written test, we had GD and after that interview is shedueled on coming tuesday.
+
+We were supppose to chose the topic for the GD. They select 1/5 in written test and 2/5 in GD.
+
+The questions were from a wide spectrum like english, basic mathematics, solving algorithms, general computer awareness etc.
+
+The english part consisted of Synonyms, antonyms, fill in the blanks, finding the mis-spelt word (there were 5 in each.)
+
+Computer awarness had ques from basic computer knowledge
+
+ 1,!,2,@,3,#,4,$,5, what is next in the series 
+ Ans : %.
+
+ Which is the oldest computing device still in use
+ Ans : Abacus.
+
+ Wat is WAP?
+ Ans : Wireless Application Protocol.
+
+ Nibble is equal to
+ Ans: 4 bits
+
+Solving Algos : A simple program was given and the output was asked for different values of inputs.
+ I dont remember the exact ques. I am just giving a sample, which  is similar to the one given there.
+ S= 0; C = 0
+ Read A,B
+ While ((2A+3B) < 100)
+ {
+ S = 3A - 2B
+ c = c + 1
+ }
+ Print a,s,c
+ Following this there were 5 quetions. every ques carried 1 mark.
+ Wat is the output if a = 26 b = 12
+ wat is the output if a = 24 b = 16 etc..
+
+
+In Mathematics some ques were simple and others were a bit time consuming.
+ |X| + X = 0 wat is the value of X
+a) 1      b) 0        c) 1,0      d) None of these
+
+ If 38473ABC(This was not the exact no given) is divisible by 75 what is ABC in the same order
+
+ x + 1/x = 2 x^100 + 1/x^100
+ f(z) = 1/1-x find f(f(f(1/x)))
+
+
+
+The following questions got repeated from the pattern found in www.freshersworld.com
+
+In the series 0, 3, 8, 15,__ What is the next number?
+Ans :  24
+
+X < 0, Y <> 0 then which of the following is always positive?
+Ans. (x + y)^2
+
+Let ax2 + bx + c = 0
+If the sum of the equal roots is equal to the product of the same roots. Then which of the following hold true
+Ans. b+c = 0
+
+Find the value of (1.99)2
+Ans. 3.9601
+
+There is a room with 6' x 8'. A 1' tile is fixed along the 4 walls in one row. How many 1" tiles require to
+finish the work.
+Ans. 24
+
+2 persons can finish a job in 8 days. First person alone can finish the work in 24 days. How many days
+does the second person take to finish the job?
+Ans. 12 days
+
+In a car wheel, two spokes cover 15 degree. Then for the entire car, how many spokes are there?
+Ans. 48.
+
+What is the angle of degree suspended when two hands of clock showing the time 2.30.
+Ans. 105 degrees
+
+A person's salary is getting reduced by 20%. What percentage should be added to get back his
+original salary?
+Ans. 25%
+
+Two persons start at the same point, walk in opposite directions with 5km/hr and 5.5km/hr respectively.
+What is the distance separated after 2 and half hrs?
+Ans. 26.25
+
+A person starts walking at a speed of 5km/hr through half the distance, rest of the distance he covers with a
+speed 4km/hr. Total time of travel is 9 hours. What is the maximum distance he can cover?
+Ans. 40km.
+
+In a rectangle the length is increased by of the original length . By what proportion should the
+width be reduced so that the area will be the same?
+Ans. 33
+
+Find the nth number in the series is 1, -3, 5, -7.___
+Ans. (-1)^(n-1)*(2n-1)
+
+If a square is formed by the diagonal of the square as an edge, what is the ratio between the area?
+Ans. 2
+
+The perimeter of a rhombus is 52 units. One of its diagonal is 24 units.What is its second diagonals length?
+Ans. 10
+
+A cubical rectangular bar has the dimensions with the ratio 5 : 4 : 3. Its volume is 7500. What is the
+surface area of the bar?
+Ans. 2350
+
+3 persons started placementpapers with a capital of Rs.3000 . B invest Rs.600 less than A, C invest Rs.300 less
+than B. Then what is the share amount of B in a profit of Rs.886 ?
+Ans: Rs. 265.8
+
+Wat I felt with this test was it was better to go thro all the 100 ques, cos some easy ones were there at the last. If U think U can certainly solve a problem but its time consuming just leave it and proceed to the next one. Some of the ques were very easy, even U no need to use pen and paper. 
+
+ALL THE BEST TO THOSE APPEARING FOR THE WRITTEN TEST.
+With Wishes 
+Sanjeev
+
+
+--------------------------------------------------------------------------------
+
+
+ 
+-----Original Message-----
+
+From: Saravanan 
+
+Sent: Friday, June 27, 2003 12:00 PM
+
+hi ,
+
+u were asking abt hexaware pattern and questions na,
+
+pattern - 100 qns in 60 mins
+
+Verbal
+
+Find the Wrongly Spelt word
+
+Synonym
+
+Antonym
+
+Fill in the blanks
+
+Aptitude (purely mathematical)
+
+- Better have a look at the previous 1998 qn paper, from that we got many questions.
+
+- strong analytical geometric and mensurational skills needed.
+
+Computer Awareness
+
+- Simply like find odd man out and 10 qns regarding 2 pseudocodes given
+
+
+
+Time Constraint was the big thing, u cannot complete the paper if u solve all the qns, its not needed also, they're just seeing the relative mark, in our college from 150 , 29 were shortlisted for GD and from it 12 were shortlisted for Interview, i missed out in GD.
+
+Topics were War on Iraq, Leaders Born or Made
+
+
+
+Try to assess ur group in GD, if u think its of to be an debating group, pls don't follow GD rules, and create ur oppurtunities for speaking as raising ur tone, intervening the conversation going on, 'its pretty sure that u'll be going off the GD rules, but it was the case in our group", i followed GD rules and i missed it out.
+
+Saravanan
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+-----Original Message-----
+From: jamram82 
+Sent: Saturday, June 28, 2003 7:43 AM
+To: CHETANA-JOBS@yahoogroups.com  
+Subject: [CHETANA] Hexaware-Inside Out
+
+
+            HEXAWARE - Inside Out
+            =====================
+
+Questions you want to ask but dont know to whom
+--------------------------------------------
+
+1.Whats the noise?
+
+They want to add 500 more in its payroll by christmas
+I dont know how much % is freshers
+
+---------------
+
+2. How much they can fill your purse?
+
+7500 for first 6 months 
+10,000 for next 6 months
+20,000 thereafter
+
+Indian rupees! No dollar dreams ;-)
+---------------
+
+3. Any strings?
+
+You have to sign a bond for 1 year and you become James Bond
+
+---------------
+
+4. If I break?
+
+Your dad pays 1.5  lacs to them.
+
+-------------
+
+5. Where they put you?
+Chennai, Bangalore, Mumbai 
+- should be ready pack your bags in a jiffy (and many times too)
+
+--------------
+
+6. What if I get out in GD or test
+
+Pray those in interview should refuse to sign the bond
+Offer goes down the line in each campus
+
+---------------
+
+7. Any perks
+
+One free Cadburys perk on joining
+Dont like it take Halwa!!!!
+
+---------------
+
+8. To how much people they would offer in my college
+
+Works out to 5-15% of test takers.
+So Start 1..2..3......
+
+
+
+*********************************************************
+
+WARNING
+
+All the questions appeared in STMA(Short Term Memory Area) of my brain.
+While all efforts are taken it cant be held accurate or authentic.  Some questions IN LATEST PAPER have appeared in 98 Paper also.  Hexaware doesnt have any connection with me.
+I cant be held legally responsible in connection with this text file . 
+
+DONT EVER SEND ME YOUR RESUME.....YOU HEAR IT 
+
+*******************************************************
+
+================================================
+NOTE
+
+1. All questions dont appear Section wise in the test
+2. x^2 means square of x
+
+===============================================
+
+
+
+
+
+
+Hexaware Testv1.0          -------   June 2003
+
+
+LANGUAGE SKILLS - 15questions
+---------------
+SYNONYMS,ANTONYMS & INCORRECT SPELLINGS
+
+some words
+
+1. acrimonous
+2. inconspicious
+3. bland
+4. abate
+5. cusp
+6. profligate
+7. vigour
+8. lighten
+(check the spellings in dictionary)
+
+
+
+
+APTITUDE SECTION - 85questions
+-----------------------------
+ 
+ 
+
+odd man out-like man in
+------------------------
+
+1. A E I O  
+ans o - (rest  are made of lines now tell me are a big zero)
+
+2. (fig) circle star rectangle <another symbol> 
+ans star - rest are flowchart symbols 
+
+3. programs documents settings properties
+ans properties (others appear in START menu - he! my favourite 
+question)
+
+4. processor ,motherboard ,display card, mouse
+ans mouse - (others are inside the cabinet -- need out of the box 
+thinking)
+ 
+ 
+computer UNawareness
+--------------------
+
+5. where is SIM card found 
+ans mobile phone (by the way can you expand SIM)
+
+6. what is the lock symbol appearing in bootom of the browser mean
+ans. connection secured (confusing another choice is Verisign 
+secured - you will see tick mark when it is Verisign authorised)
+
+7. expand WAP
+ans Wireless Application Protocol
+
+8. expand CORBA
+ans Common Object Request Broker Architeture
+
+9. 92.168.100.4 - means what
+ans IP Address
+ 
+ 
+
+crack choice a)sums choice b)your head
+--------------------------------------
+10.  Find the reminder when 333666777888999 divided by 3 or 9 or 11 ?
+
+
+11. Which is the biggest perfect square amongst the following  : 
+15129, 12348, 23716, 20736
+
+12. In the series 0, 3, 8, 15,__ What is the next number?
+
+13. X < 0, Y <> 0 then what is the possibility that the result is 
+always positive?
+Ans. (xy)^2
+
+14.  Let ax2 + bx + c = 0
+If the sum of the equal roots is equal to the product of the same 
+roots.Then which of the following hold true
+(a) a + b = 0
+(b) a = 0
+(c) c = 0
+(d) a + c = 0
+
+
+15.  Find the value of (1.99)2
+Ans. 3.9601(dont calc - should be near to 4)
+
+16.  There is a room with 6' x 8'. A 1' tile is fixed along the 4 
+walls in one row. How many 1" tiles require to 
+finish the work.
+Ans. 24 
+
+17. 2 persons can finish a job in 8 days. First person alone can 
+finish the work in 24 days. How many days
+does the second person take to finish the job?
+Ans. 12 days
+
+18. In a car wheel, two spokes cover 15 degree. Then for the entire 
+car,how many spokes are there?
+Ans. 24.
+
+19. What is the angle of degree suspended when two hands of clock 
+showing the time 2.30. 
+Ans. 105 degrees
+
+20. A person's salary is getting reduced by 20%. What percentage 
+should be added to get back his 
+original salary?
+Ans. 25% 
+
+21. Two persons start at the same point, walk in opposite directions 
+with 5km/hr and 5.5km/hr respectively.
+What is the distance separated after 2 and half hrs?
+Ans. 26.25 (approx)
+
+22. A person starts walking at a speed of 5km/hr through half the 
+distance, rest of the distance he covers with a
+speed 4km/hr. Total time of travel is 9 hours. What is the maximum 
+distance he can cover?
+Ans. 40km.
+
+
+23. In a rectangle the length is increased by of the original 
+length . By what proportion should the 
+width be reduced so that the area will be the same?
+Ans. 33
+
+24. Find the nth number in the series is 1, -3, 5, -7.___
+Ans. (-1)*(2n-1)
+
+
+25.  If a square is formed by the diagonal of the square as an edge, 
+what is the ratio between the area?
+Ans. 2
+
+
+26. The perimeter of a rhombus is 52 units. One of its diagonal is 24 
+units.What is its second diagonals length?
+Ans. 10
+
+
+27. A cubical rectangular bar has the dimensions with the ratio 5 : 
+4 : 3. Its volume is 7500. What is the
+surface area of the bar? 
+Ans. 2350
+
+
+28. A persons salary iis decreased by steps of 20%, 15% and 10%. What 
+will be the percentage decrease, if the
+salary is decreased in a single shot?
+
+29. 3 persons started placementpapers with a capital of Rs.3000 . B 
+invest Rs.600 less than A, C invest Rs.300 less 
+than B. Then what is the share amount of B in a profit of Rs.886 ? 
+,
+30. 178^2 -22^2
+(USE (A+B)(A-B))
+
+31. f(x) = x! g(x)=x^10 h(x)= 10^x for large values of x which is 
+greater?
+
+32. f(x) = 1/(1-x) find(f(f(f(x)))
+
+33. x+(1/x) = 2.5 find x^2 + (1/x^2)
+
+34. 2^(2^n) = 256 find 2^(2n)
+
+35. x=0 y=0 6x+7y=42 find position(lies inside/out/on) of (4,5) in 
+the triangle
+
+36. 22 Jun 2003 is sunday which year previously did 22 jun became 
+sunday
+
+37. A man walked 30m west 5m south 10m west 35m north to reach 
+tollgate find the dist from start to gate.
+ans. 50m (use pythogoras)
+
+38. area of square = sum of areas of rect1(41*27) and rect2(41*14). 
+find square side.
+ans. 41
+
+39. find next in series  31,29,31,30,31,?
+ans. 30 he!he!he!(they rep jan,feb,mar,.... hit your head)
+
+Walk/Swim thro Coding
+
+40. Input a,b
+    s=0;
+    c=a;
+    d=b;
+    while(d<>0)
+    {
+     s=s+c;
+     d=d-1;
+    }
+    Print s
+
+    for given values of a,b find the output
+    5questions for different values of a,b 
+
+41. Input a,b
+    while(3a+2b<100)
+    {
+      s=s+a;
+      a=a+2;
+      b=b-1;
+    }
+
+      for given values of a,b (i remember one 29,5) find the output
+        
+
+Tips
+1. Do the coding first and you are out - They are time consuming - Save the worst for last 
+ 
+2. Be choosy - take the easy (questions) first - So scan scan scan 
+ 
+3. best path in hexaware tree
+    language ----> 
+         odd man out ----> 
+               computer awareness ----> 
+                        easy sums ----->
+                              difficult sums---->
+                                          coding
+ 
+ do this or find the path to your home. 
+ 
+
+4.SPEED kills but also wins. Put your brain in 5th gear 
+ 
+5.Blind goose guess - mark a or e - they are more probable 
+ 
+6. Write your q paper code proper or your are a man overboard 
+ 
+7. There is minimum  no of q to be attempted(so they didnt say explicitly) and no negative marking. So be generous!waste your ink! cross off for all questions 
+ 
+8. They will ask u in the pep talk in GD waht is the first or last question or your code. 
+   So watch out all those DANGER-PAST-QUESTIONS-FORGOT type fellows
+
+
+Group Discussion
+1. No GD only shout!!! - Our LOk Sabha Style
+2. Shout at top of your voice and shout some meaningful points
+3. Please train ur vocal chords! Drink our good pure(pun intended) water before GD
+4. IF u cant then carry a loudspeaker
+5. 10 per group max 3 groups
+6. final interview they select 3 from each group
+7. Dont think 1-proposer 1-opposer 1-moderator it could 3-proposer or 3 opposer too.
+8. If your group is silent Please follow GD rules.
+9. 30 minutes of shouting(3min-choose the topic, 2min-prepare,20min-shout)
+10. They might also give you  a topic.
+11. Please dont wait for your chance - Grab it
+12. Be ready to summarise. Try to say all the points told and say conclusion is yet to be reached.
+13. 2 or 3 choosen people will summarise.
+14. Dont ever make unruly gestures. You are out immediately.
+15. Be ready for any topic.Only general topic - no subject,economics style
+
+
+
+*****************************************
+
+WHAT I EXPECT
+
+1. If you like my effort post ur thanx in the group  Encouragement energises me.
+
+2. Update this questions and post it as Haxaware testv2.0
+
+It would be easy for otherr to find the latest one
+
+*****************************************
+
+
+Bye
+With 80%effort-20%luck
+Jam
+
+
+___________________________________________________________________________________
+Visit: "www.chetana-jobs.com" for Previous Papers
+--------------------------------------------------------------------
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

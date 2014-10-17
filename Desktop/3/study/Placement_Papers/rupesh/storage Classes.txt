@@ -1,0 +1,7 @@
+
+Storage Class 		Typical aaplication
+
+1) static			Recursive function call
+2) register			Loop Counter
+3) Extern			Var. used by all programs
+4) auto			normally used.

@@ -1,0 +1,87 @@
+LUCENT 2k
+-----------
+all questions of rastogi's paper.
+
+plus
+
+C programs =
+
+
+
+1- 2 code words  hamming distance =3D3
+2- ? (1+h ) ( 1+c) : 0 ( question is something like ) =
+
+n(c) retuns  =
+
+ans - length of string passed.
+3- multiplexer (Not seq ckt)
+4-j=3Dk=3D1 Qn+1=3D  -Qn
+5- freq of 4 stage ripple counter  after 3rd  stage =3D f=3D8.
+6- a parity bit detect (no errors)
+7- formateof printf ( int printf (const char *,   .....)
+8-Inode & links of a file  are a) different b)same c)differ by 1 d)differ=
+ by
+2( find the answer )
+9- unsigned int a=3D3 ; b=3D 9 find a&b =
+
+ans =3D1
+
+
+apptitude-
+
+1-8 good, 4 bad items  3 are drawn prob that all good =3D8C3/12C3
+
+2-  5% None,  5 question karte hain,
+5% sare =
+
+ans- 800
+3- 800 women are there 3 %  are earning  97 % ....wearing RING...........=
+ ans
+-24+776=3D800.
+
+4 education in india is  job oriented =
+
+	ans -a
+5- population increasing =
+
+	ans - c
+6  a man coverig a distance of 9 km by x km per hour .another 10 km dista=
+nce
+by x-2 km per hour.
+if it covers all 19 km by x km per hour then  it takes more 50 minutes .
+
+ans x=3D 6 km per hour =
+
+7-  2 part =
+
+ist part defective=3D=3D  .08 =
+
+2nd  part defective=3D=3D.05
+
+prob that product non defective =3D (1-.08)*(1-.05)
+
+8-data sufficiancy
+q)m-n divisible  by 7
+a- m-n =3D................
+b- m+n=3D............
+ans =3Da
+
+9 find 4 consequtive integers
+1- all are greater than 1
+2 all are lesss than 10
+ans b
+
+10)
+find vol of cone ?
+1- area of base (pi r2)
+2 slant height(h)
+ans =3Dc
+
+
+	contact me indelhi i will give you hard paper and some more.
+
+
+
+____________________________________________________________________
+Get free email and a permanent address at http://www.netaddress.com/?N=3D=
+1

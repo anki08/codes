@@ -1,0 +1,23 @@
+Written Test 
+The Aditi Technology paper consists of three sections. 
+The paper has negative marking.
+ Each correct answer carries one mark and half a mark is deducted for every wrong 
+answer. The first section is an aptitude section with 50 questions to be done 
+in 50 minutes. The second section is a computer knowledge section 
+with questions based on operating systems, computer architecture etc.
+ This section has 15 questions to be done in 15 minutes.
+ The last section is a C test with 15 questions and a time limit of 15 minutes.
+ The company has a cutoff of around 60%.
+
+
+Interview 
+The test is followed by a Technical and a HR interview.
+The technical interview is highly specialised and covers almost all
+ subjects you have done in your curriculum.
+ Some puzzles may also be asked in the interview.
+ Special emphasis is laid on C and Data Structures.
+For details on the frequently asked questions please refer to our Interview section.
+
+/**sample test questions***/
+
+ 

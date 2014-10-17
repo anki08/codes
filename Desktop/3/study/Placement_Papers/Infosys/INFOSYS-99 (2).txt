@@ -1,0 +1,60 @@
+duration: 1 hr.
+1.In a particular year, in the month of October if there were 4 mondays and 4 fridays. What is the day of 27th November in that year.
+Ans: Wednesday.
+
+2.Six friends A,B,C,D,E,F go to a theatre and they have to sit in 6 consecutive seats.A can sit in any chair. Then B sits in a chair adjacent to A. Then C sits in a seat adjacent to B. Next D sits adjacent to C. and so on till F takes the final seat. In how many different combinations these friends can take the seats in the theatre.
+Ans: 32 ways.
+Simple formula : 2 to the power (n-1) where n is the no. of seats.
+                 You can also get this by pascals triangle.
+
+3. 9 cities in a country are named as 1,2,3,4,5,6,7,8,9. Two cities are connected by flight if and only if the two city names placed side by side is divisible by 3. (for example 12 
+is divisible by 3 ==> cities 1 and 2 are connected by Flight). How many cities are directly or indirectly connected by flight to city 8.
+Ans: 5 
+	direct:1,4,7   (since 18,48,78 are divisible by 3)
+	indirect:2,5   (since 12, 45 are divisible by 3 and one can come from city 2 to 1 by direct flight and can go from city 1 to 8)
+
+4. Pandey has five daughter A,B,C,D,E. On a diwali day each sister gives and takes gifts.
+Each sister has to give 4 gifts and also receives four gifts. B gives all the four gifts 
+to A. and C gives 3 gifts to E. No two sister can give gifts in the same way (ie., if a 
+sister gives 2 gifts each to two sisters, and sister cannot give 2 gifts to any two sisters. she can give 1,2,1 or 1,3, or ....)
+then D receives gifts from her sisters.
+sister            No. Of gifts D received
+A                     2
+B                     0
+C                     1
+E                     1
+                   (ans)
+5.There are 100 bulbs. If a switch "1x" is switched all the bulbs which are switched on earlier are set off and all bulbs which were off earlier will be on. If a swith "2x" is switched all the even no. bulbs (i.e., bulb no. 2,4,6,8,....)which are on earlier will be off and viceversa. Similarly by switching "3x" all 3 multiple bulb no.s (i.e., bulb no. 3, 6, 9, 12, ...) will turn to on or off. If initially all bulbs were "OFF".Now we start switching first 1x switch. Next "2x" , Next "3x" and so on till we finally switch "100x". Now after switching "100x" switch. How many bulbs now are on and how many are Off.
+
+6.How many 10 digit number can you make using digits from 0 to 9. so that sum of digits is 4.
+ans: 211
+(9C3 + 2 x 9C2 + 2 x 9C1 + 1) (read as 9C3 a combination problem in permutations and combinations , the sequence is for (1,1,1,1), (1,1,2), (1,3),(4) respectively rest all zeroes, remember the first digit in 10 digit no. should be a non-zero number.)
+
+7. Four Musicians Sit around a square table. Two men and two women.
+Conditions.
+1) A's across a pianist.
+2) Violinist left a flutist.
+3) Flutist left is not Pianist.
+4) Flutist and Pianist are brothers and sisters.
+
+Conditions and Music instruments are not correct. Question in the Infosys paper is of this type. Conditions given above are incorrect but give you a feeling of the problem.
+
+8. A big passage, followed by tricky 4 questions at the end (taken from GRE book)
+
+9. AB*CD = EEE
+  and (AC-B*D=DD) the what is AC*BD
+Note: question is of the type given above but not exactly same. Do not try to solve the
+above question, it is just typed for your reference. Actual question's arithmetic is different.
+Ans: 37*12
+
+10.Some questions on relative relations.
+Beta != Alpha if and only if Alpha < gamma.
+Gamma is greater than Theta but less than Beta.
+
+Give alpha, beta, gamma ,kappa, theta in ascending order.
+Note: We dont remember the question exactly, but it is very simple. Above question is just for your reference.
+
+
+
+
+

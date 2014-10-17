@@ -1,0 +1,167 @@
+
+
+
+___________________________________________________________________________________
+
+COMPANY NAME : Infosys technologies ltd
+------------------------------------------------------------
+DATE OF TEST : 6 th July 2003
+------------------------------------------------------------
+PLACE OF TEST: Hyderabad
+------------------------------------------------------------
+MODE 	   : Off-campus
+------------------------------------------------------------
+DURATION     : 1 Hour
+___________________________________________________________________________________
+
+
+
+
+___________________________________________________________________________________
+
+Question # 1
+-------------
+A person travels in a car with uniform speed. He observes the milestone, 
+which has 2 digits. After one hour he observes another milestone with 
+same digits reversed. After another hour he observes another milestone 
+with same 2 digits separated by 0. Find the speed of the car?
+
+Ans : 45
+
+___________________________________________________________________________________
+
+Question # 2
+-------------
+Three persons A, B &C went for a robbery in different directions and 
+they theft one horse, one mule and one camel. They were caught by 
+the police and when interrogated gave the following statements
+
+A: B has stolen the horse
+B: I didn't rob anything.
+C: both A & B are false and B has stolen the mule.
+
+The person who has stolen the horse always tell the truth and
+The person who has stolen the camel always tell the lie.
+
+Find who has stolen which animal?
+
+Ans: 	
+A- camel
+B- mule
+C- horse
+
+
+___________________________________________________________________________________
+
+Question # 3
+-------------
+One quarter of the time till now from midnight and half of the time 
+remaining from now up to midnight adds to the present time. 
+What is the present time?
+
+Ans: 9:36AM 
+
+
+___________________________________________________________________________________
+
+Question # 4
+-------------
+After world war II three departments did as follows
+First department gave some tanks to 2nd &3rd departments equal to 
+the number they are having. 
+Then 2nd department gave some tanks to 1st  & 3rd departments equal to 
+the number they are having.  
+Then 3rd department gave some tanks to 2nd &1st departments equal to 
+the number they are having. 
+Then each department has 24 tanks. 
+Find the initial number of tanks of each department?
+
+Ans ; 	
+A-39
+B-21
+C-12
+
+
+___________________________________________________________________________________
+
+Question # 5
+-------------
+A, B, C, D&E are having their birthdays on consecutive days of the week 
+not necessarily in the same order. 
+A 's birthday comes before G's as many days as B's birthday comes after E's. 
+D is older than E by 2 days. 
+This time G's birthday came on Wednesday. 
+Then find the day of each of their birthdays?
+
+Ans: 	
+Birthday of D on SUNDAY 
+Birthday of B on MONDAY 
+Birthday of E on TUESDAY 
+Birthday of G on WEDNESDAY 
+Birthday of A on THURSDAY
+
+___________________________________________________________________________________
+
+Question # 6
+-------------
+A girl 'A' told to her friend about the size and color of a snake she has seen 
+in the beach. It is one of the colors brown/black/green and one of the sizes 35/45/55.
+
+If it were not green or if it were not of length 35 it is 55.
+If it were not black or if it were not of length 45 it is 55.
+If it were not black or if it were not of length 35 it is 55.
+
+a) What is the color of the snake?
+b) What is the length of the snake?
+
+Ans:  
+a) brown
+b) 55
+
+
+___________________________________________________________________________________
+
+Question # 7
+-------------
+A man was on his way to a marriage in a car with a constant speed. 
+After 2 hours one of the tier is punctured and it took 10 minutes to replace it. 
+After that they traveled with a speed of 30 miles/hr and reached the marriage 
+30 minutes late to the scheduled time. The driver told that they would be 
+late by 15 minutes only if the 10 minutes was not waste. 
+Find the distance between the two towns?
+
+Ans: 
+
+
+___________________________________________________________________________________
+
+Question # 8,9
+---------------
+these 2 are of logical deduction type. They gave a set of statements and asked                                 
+Questions, which have to be answered, based on the given statements. I am                  
+not able to remember them.
+
+
+___________________________________________________________________________________
+
+
+
+
+
+
+
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

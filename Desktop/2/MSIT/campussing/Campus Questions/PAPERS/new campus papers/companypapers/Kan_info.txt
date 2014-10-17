@@ -1,0 +1,72 @@
+1) In one particular year , there are 4 Mondays and 4 Fridays in October .
+what is the day of November 20th? (3M)
+ans : wednes day
+
+2) alpha, beta, theta, gamma and eta  represent numerical values. The
+following conditions are given as follows:
+a) If alpha < theta then beta != eta
+b) Beta is the average of alpha and gamma
+c) alpha > gamma > theta
+
+write the values of alpha, beta,gamma, theta,eta in descending order 
+
+ans: alpha>Beta=eta>gamma>theta    (4M)
+
+3) There are nine cites numbered 1,2,3,4,5,6,7,8,9. The cites are
+connected by aeroplane routes only if the number represented by the
+digits of the cites are divisible by 3.( eg 1-2 is a route since 12 is
+divisible by 3). 
+find the total no of routes to 8 directly or indirectly (3M)
+
+4) A,B,C,D,E are different digits (1-9)
+ 1) AB*CD=EEE;
+ 2) E*CD-AB=CC
+ what is the value of A*BC and also write the code of it in terms of
+ A,B,C,D,E
+ ans : A=3,B=&,C=1,D=2,E=4 (4m)
+
+ 5) There was a square table and four people who sat around it. The four
+ were F,H and their wives are E,G.each plays horn, violin trumpet,
+ flute.
+ conditions are :
+ 1) opposite of F plays horn.
+ 2) opposite of H does not play trumpet
+ 3) left of E plays vilion
+ 4) left of G dosenot play flute
+ 5) Brother and sister were playing trumpet and vilion   (5M)
+
+ some of the above conditions may be wrong but the answer is G(Georgian)
+
+ 6) A venn-diagram problem from GRE Baron refer page 399 question
+ 25-28
+      (8m)
+ 7) There are 10 digits numbers the sum of the digits in each number
+ must be 4.
+ (eg 1111000000), 4000000000)
+
+ How many such possible numbers are there ?
+
+ ans : 220 (7M)
+
+
+(8). SIX PERSONS A,B,C,D,E &F WENT TO SOLDIER CINEMA. THERE ARE 
+SIX CONSECUTIVE SEATS. A SITS IN THE FIRST SEAT FOLLOWED BY B ,    
+FOLLOWED BY C AND SOON. IF A TAKEN ONE OF THE SIX SEATS , THEN          
+B SHOULD SIT ADJACENT TO A. C SHOULD SIT ADJACENT A OR B. D  SHOULD SIT
+ADJACENT TO A, B,OR C AND SOON. HOW MANY POSSIBILITIES ARE THERE? (8M)
+
+ans : 32 (in general for n people pow(2,n-1)
+
+9) There are 100 bulbs numbered from 1 to 100 conditions
+
+1) initially all are in 'on' position
+2) The multiples of 2 are switched 'off' if they are 'on' position and
+'on' they are in 'off' position.
+similarly they are operated for all the numbers 3,4,5,6 upto 100.
+
+now finally find the number of bulbs that are left in 'on'' position?
+
+ans : 10 ( only squares i.e 1,4,9 etc upto 100 will be in on position
+cheek it up)
+
+10) there are 5 sisters A,B,C,D,E on Diwali they exchanged gifts with each other, each sister gives 4 gifts to others and receives  4 gifts from others. eg c may give 2 to A ,1 to B and 1 to C.  conditions : B gives all gifts to A C gives 3 gifts to E find from whom does D gets gifts and how many from each.?  (4M) 

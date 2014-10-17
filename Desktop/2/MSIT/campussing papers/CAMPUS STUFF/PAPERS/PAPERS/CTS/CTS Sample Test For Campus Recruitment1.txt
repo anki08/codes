@@ -1,0 +1,89 @@
+CTS Sample Test For Campus RecruitmentCTS Sample Test Paper#2Home
+
+Back To CTS Page
+This is only a sample paper. We are not providing you with all the questions - 
+just some questions to give you a general idea of the test pattern.
+
+SECTION I - 8 questions based on series.
+
+1. These questions involve interchange of letters in a word at particular 
+locations and also interchanging letters adjacent to those particular 
+locations.Certain other conditions may also be given
+For eg.
+Let the word be ABBAABA
+If we apply 25 on this, it means we have to interchange the letters at positions 
+2 and 5, also we have to change the letters adjacent to positions 2 and 5 
+i.e.from A to B and B to A. 
+A B B A A B after Step 1 i.e interchange of 2 and 5 becomes AABABB
+Now change adjacent elements of 2 and 5...finally answer becomes
+Ans: B A A B B A
+
+Questions 1-5 are based on the pattern with changed numbers as described above
+Questions 6-8 are of the following type
+To get AAABBD from BBBAAA what number should be applied:-
+a) 25 
+b) 34 
+c) 25 & 34 
+d) none
+
+SECTION II
+
+1. Given the following functions
+(1) f(n a b c ) = ac if n=1
+(2) f(n a b c) = f( n-1 a c b) + f( 1 a b c) + f( n-1 b a c ) if n > 1
+  
+Then what is the value   f( 2 a b c ) = ?
+
+Ans: f( 2 a c b ) = ab + ac + bc.
+
+2. Similar question on functions.
+
+3. [ Based on the function in the first question] For the function f( 4 a b c ) 
+the number of terms is...?
+Hint f( 4 a b c ) = f( 3 a c b ) + f( 1 a b c ) + f( 3 b a c ) etc.
+
+
+4. What is the value of the function  f( 5 a b c ) = ?
+
+SECTION III
+
+Permutations and Combinations.
+8 Questions.
+
+1. r = number of flags;n = number of poles;
+Any number of flags can be accommodated on any single pole.
+
+1) r=5,n=5 The no. of ways the flags can be arranged ?
+
+Questions 2-5 are based on the above pattern
+
+6. r = 5 n = 3 . If first pole has 2 flags, third pole has 1 flag
+    How many ways can the remaining be arranged?
+
+Questions 7.& 8. are similar to Question 6.
+
+SECTION IV
+Question consisting of figures - Pattern-matching type.
+Refer R.S Agarwal's book on Analytical Reasoning & TMHs Quantitative ability 
+book by Edgar Thorpe.
+
+
+
+SECTION V
+In this section first part of compound word is given. Select meaning of the 
+second part from the choice given:
+1. Swan
+2. Swans
+3. Fool
+4. Fools
+5. Stare
+6. Lady
+For all above 4 choices are given.....
+
+Eg. Swan ---> Swansong (compound word)
+a) category b) music c) television d) none
+Ans: Swansong is compound word. But song is not given as an option. so (b) music 
+is the answer.
+
+
+Back to top

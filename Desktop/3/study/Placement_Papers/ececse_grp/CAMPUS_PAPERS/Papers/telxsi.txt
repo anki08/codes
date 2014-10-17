@@ -1,0 +1,196 @@
+TATA ELXSI
+
+
+
+software paper...
+
+1.main()
+{
+fn_a(5,4)
+}
+
+fn_a(int a, int b)
+{
+a - -;
+b - -;
+if(b)
+fn_b(b,a);
+}
+
+fn_b(int a, int b)
+{
+a++;
+b++;
+fn_a(a,b);
+}
+
+how many times the fns. fn_a() and fn_b() gets executed.
+
+
+2. time complexity of the insertion sort algorithm having N no. of nodes is
+
+a) O(nlogn) b)O(n) c)O(n^2) d) O(n^2log n)
+
+
+3. Best possible performance of dijksha's algorithm pattern is
+
+a) O(Elog V) b) O(Vlgo E) c) O(Vlog V+E) d) O(E+Vlog V)
+
+
+4. time complexity of Red-black algorithm.
+
+5. Recursive function internally made use
+
+6. OS follows which data structure
+
+a) tree b) a B+ tree c) stack d) linked list.
+
+7. what does calloc(10,0) do.
+
+8. int i=0;
+
+int j=0;
+
+printf(=93%d%d%d=94,I,i++,++i);
+
+
+9. int i=0;
+
+int *p=&i;
+
+int **q=&p;
+
+int *&ref=p;
+
+int **&refp=q;
+
+I don't know the exact question, but the choices are
+
+a) refp b) *&refp c) *refp d) **refp
+
+
+10.a mutex object is (choices I clearly don't know)
+
+a) concept in
+
+b) inter process synchronization
+
+c) a zero plot
+
+d) all the above
+
+
+11. _asm(int 3) is a symmetrical multiprocessing
+
+12. speed of DMA data type is highly accurate because...
+
+13 sequential logic ckts are made of
+
+a) op-amp b) MUX c) flipflops d) DEMUX
+
+14 in 8085 UP MVI a, 0h produces same result as
+
+a) XRA A b) ANA A c) ORA A d) no operation
+
+15. 32 bit signed integer can hold...
+
+16. in a processor 120 instructions to be stored. How many bits are used for this purpose.
+
+17. if CLOCK represents 36938 and LEAVE rep. 12452 then what is rep. by CAKE.
+
+
+Hardware questions:
+
+1. S=R=1 represents forbidden state. What is the reason?
+
+2. brown black red. The value of resistor is
+
+a) 10k b) 4.7k c) 1k d) none
+
+3. circuit diagram
+
+a) nand b)or c) and d) none
+
+4. CB is used for
+
+a) imp. Matching b) voltage amp. c) current amp. d) none
+
+5. emitter follower is of type
+
+a) CC b) CB c) CE d) none
+
+6. 32 bit having 48k location. No of addr. Lines
+
+a) 16 b) 32 c) 48 d) 12
+
+7. transistor used in public address system should be operated in
+
+a) cutoff b) saturation c) active d) none
+
+8. Co-processor is used for
+
+a) to speed up cpu b) support multitasking c) to interconnect more than one cpu d) to perform arithmetic operation
+
+9. how many BCD digits a word of 2 bits hold
+
+a) 2 b)3 c) 4 d)5
+
+10. what is a device driver?
+
+a) software code to access or control some H/W
+
+b) s/w which exports API=92s to appliant
+
+c) OS
+
+d) Interprocess communication
+
+
+11. ROM doesnot have WR signal...
+
+12. a processes have 11 address lines...
+
+13. in cro 2 sine waves in ch1 & ch2 and it is in x-y mode. The o/p will be circle if both wave were
+
+a) in phase b) 180 c) 90 iv) none
+
+14. the unit gain op-amp have bw 1mhz. If the op-amp is used as inverting amp. with gain 20 then the bw is
+
+a) 1MHZ b) 50khz c) none d)
+
+15. the no. of flip flops required to implement the above state diagram
+
+a) 2 b) 3 c) 4 d) 5
+
+16. what is common property to both c++ and C
+
+a) polymorphism b) inheritance c) classes d) strudus
+
+17. in a shift register set up time =3ns hold time =2ns prop. Delay =7ns. 
+
+What is the max. freq. That can be used.
+
+a) 100Mhz b) 300Mhz c) 33.333Mhz d) none
+
+18. malloc(0)
+
+a)compilation error b)runtime error c) return null d)implementation dependent
+
+19. aliasing occur at freq. That are
+
+a) >fs/2 b) <fs/2 c) >2fs d) none
+
+20. DMA is used to transfer data between....
+
+21. ADC least bit =1nV peak=1V no. of bits=? 
+Ans: 20bit
+
+22. 4K ram address 0000h to 3fffh. What decoder is necessary.
+
+23. a and b are standing at a point. If a moves 4m east then 1m north then 4m west and then 1m south. If b moves 1m west then 6m south what is the distance between a and b.
+
+
+
+
+
+**************************************************************************************

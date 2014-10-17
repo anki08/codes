@@ -1,0 +1,23 @@
+PopulationSize            = 500
+NumberOfGenerations       = 50
+CrossoverProbability      = 100
+CreationProbability       = 3
+CreationType              = Ramped Half and Half
+MaximumDepthForCreation   = 6
+MaximumDepthForCrossover  = 10
+SelectionType             = Tournament selection
+TournamentSize            = 20
+DemeticGrouping           = Off
+DemeSize                  = 100
+DemeticMigProbability     = 100
+SwapMutationProbability   = 3
+ShrinkMutationProbability = 3
+AddBestToNewPopulation    = 0
+SteadyState               = 1
+
+Best of generation 0 (Fitness = 0, Structural Complexity = 7)
+GP: ( OR ( AND X1 X0 ) ( NOR X0 X1 ) ) 
+
+Best of generation 1 (Fitness = 0, Structural Complexity = 7)
+GP: ( OR ( AND X1 X0 ) ( NOR X0 X1 ) ) 
+

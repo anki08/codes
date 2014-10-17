@@ -1,0 +1,22 @@
+STM paper has been already posted once, by chakka raj dated around August 22.
+There were 2 sections which came for recruitment, VLSI(hardware) and
+Embedded system software.
+Iam doing Comm and Signal processing in Kanpur with ECE back ground. I
+had chosen embedded system software.
+question paper seems to be varying from institute to institute. We got
+completely different paper But similar questions.
+                                                                                                                             
+there were 2 interview, Technical and HR
+For me it was 1 hour and 45 mins duration.
+in first interview, they completely on 8085 and Computer Architecture,
+Common quest was what is the difference between microprocessor,  micro
+controller and embedded system.
+                                                                                                                             
+Then in HR he was asking mainly about ourselves, like what U like
+most, what do U see most in other people, what people tell about U and
+somany quests like that.
+                                                                                                                             
+For Embedded systems section, they have selected 12 people for
+interview and 5 went to HR and finally 4 gotten it.
+
+

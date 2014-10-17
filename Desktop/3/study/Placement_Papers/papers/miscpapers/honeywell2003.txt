@@ -1,0 +1,152 @@
+Honeywell Campus Test at NCE,Kovilpatti on July 26 2003. 
+=================================================================
+
+
+1.Aptitude:
+
+Simple train pbms
+age
+ratio - proportion 
+Profit - loss
+Time & work
+Time & Distance
+Pipe & Cisterns
+Shaded area
+Volume ( cylinder ,cone ..)
+
+Reasoning
+
+2 sections
+a part with 4 questions
+b part with 6 questions
+
+There must 4 domocrats & 3 republicans out of the 
+12 professors.
+
+No of X professors are A,B,C,D.
+No of Y professors are E,F,G,H,I.
+
+If A comes f & G r absent ..
+
+so on.
+
+
+Easy to solve.                                                                                                  
+
+
+2.Technical(Computer Science)
+
+OS
+cache access time -100ns
+Primary memory access time -1000ns
+...then some data & condition 
+find the actual access time.
+
+microprocessor
+
+( lot of questions )
+
+8085 no of 16 bit registers.
+8086 Instruction queue byte length?
+8088 Instruction queue byte length?
+6800 what is it?
+8085 pgms... 
+port no calculations 
+
+Data Structures
+
+Which Data Structures to use for infix to prefix conversion
+Worst case complexity for quick sort
+preorder traversal
+Binary tree ...
+
+C
+
+Only one pgm - recursive fn - find the value..
+quite easy.
+
+Number conversion hexa , octal
+
+
+3.C
+
+1. int *data[10];
+
+what does the variable data denotes?
+
+2.{
+int a[]={10,20,30,40,50};
+fun(a+1);
+}
+
+fun(int *p)
+{
+for(int i=1;i<=3;i++)
+printf("%d",*(p+i));
+}                                                                                                   
+
+
+3.enum day { saturday,
+sunday=3,
+monday,
+tuesday
+};
+
+value of saturday,tuesday.
+4. enum day { 
+saturday,
+sunday=-1,
+monday,
+tuesday
+};
+
+int x=monday;
+value of x?
+
+5. #define ADD(X,Y) X+Y
+main()
+{
+-
+#undef ADD(X,Y)
+fun();
+}                                                                                                  
+fun()
+{
+int y=ADD(3,2);
+printf("%d",y);
+}
+
+o/p?
+
+6. #define ADD(X,Y) X+Y
+main()
+{
+
+#undef ADD;
+fun();
+}
+fun()
+{
+#if not defined(ADD)
+define ADD(X+Y) X*Y
+
+int y=ADD(3,2);
+printf("%d",y);
+}
+
+o/p?
+
+7. ptr sums...
+
+
+8. int x;                                                                                                  
+int *p;
+int **p1;
+int ***p2;
+
+How to assign each one?
+
+9.malloc pbms..
+
+ 
+

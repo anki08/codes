@@ -1,0 +1,1366 @@
+
+THIS FILE CONTAINS THE QUESTIONS WHICH MS SCHOLARS FACED IN PLACEMENT
+                   INTERVIEWS IN 1994 AND 1995
+
+
+
+Name: Biswajit Sain
+
+for(int i = 1; i <= 1; i++)
+{
+	Company name: Wipro Infotech Ltd., Bangalore.
+	Year: 1995
+
+Wipinfo has 2 rounds of interviews. The first round is fully technical.
+The second round, depending on the members of the board, may be
+technical,
+semi-technical or personal. Last year the second round was more
+technical than the first(!) and the board was headed by Mr. P.V.Sanjeeva
+Reddy, one of the no-nonsense, hardcore-technical, project leaders
+in Infotech. This year it was headed by Mr. Victor Jayakiran, G.M.
+(Technical, Global R&D) who was a much sober man and therefore spent
+most of the time in the second round dealing with personal questions.
+
+I detail here the technical questions asked in the first round --
+--------------------------------------------------------------
+
+[1] Tell us about your work in brief.
+My Ans. Mention first the title, followed by a brief overview of the
+work, what we plan to achieve, what has been achieved so far, finally
+the relevance/scope of the work to the related area (i.e. how is it
+going to be useful).	[ 5-10 mins. depending on interest of the
+listener.]
+
+[2..n] Questions related to the work.
+Ans. Area dependent. [ ~ 10 mins ]
+
+[n+1] Tell us what you know about DMA and why that is needed?
+My Ans. As usual, mentioned the wastage of CPU computation power spent
+in busy-waiting. Told how DMA works.
+
+[n+2] What are the various types of scheduling algo, what is used by
+UNIX?
+My Ans. Mentioned Round Robin, First-come-first-served,
+Shortest-job-first, Earliest-deadline-first, Least-laxity-first,
+Priority-based-event-driven. UNIX uses RR with multi-level feedback.
+
+[n+3] How can you implement SJF in UNIX?
+My Ans. Usually, SJF means that we know the job-duration in advance. In
+UNIX where we cannot know that, we have to make assumptions about that
+based on which we should initially schedule. Periodically however, we
+have to fine-tune our initial assumptions based on the times taken by
+various ready jobs, and recompute estimates and change the schedule
+accordingly.
+
+[n+4] Different types of subroutine calling conventions?
+My Ans. Call by value, reference, value-result.
+
+[n+5] Parameter passing sequence used by C?
+My Ans. Rightmost parameter pushed first on stack.
+
+[n+6] What is a page-fault and how is it handled in UNIX?
+My Ans. [Refer to MJBach, Ch. 9 for details].
+
+Personal questions in the first round --
+-------------------------------------
+
+1. What was your overall position in the Univ. in B.E.
+2. Why did you choose to join MS here.
+3. How do you like the MS course.
+4. Anything you want to know about us.
+
+Technical Questions in the second round --
+---------------------------------------
+
+[1] What are the current trends and areas of focus in IT.
+My Ans. Talked about emerging trends of S/W Engg and ISO 9000 stuff
+(gave vague ideas about them as I don't know much nor do I care 
+about these topics myself ;-)). Then mentioned the proliferation of O-O
+methodologies and their usefulness in speeding up development process,
+code re-usability, ease of maintenance, ease of bug-fixing.
+Thirdly, mentioned the work going on in High-Speed N/w - FDDI, ATM,
+Fast-Ethernet(100Mbps). Told whatever little I knew about ATM in
+response to another question.
+
+[2] What is a Micro-Kernel architecture.
+My Ans. This is a developing area in OSs where  instead of building the
+kernel as a single monolithic structure starting from scratch, it is
+built as a set of layers. The micro-kernel provides only the bare-bones
+like Device-drivers, rudimentary filesystem support etc. on which,
+depending on the intended area of application of the OS, it can be
+customized to provide various higher level OS features like
+Multiprocessing, IPC, etc. 
+
+Personal Questions in the second round --
+--------------------------------------
+
+1. Tell us about yourself, your background.
+2. What does your father do currently.
+3. Your performance in schooling, B.E.
+4. Your +/- points.
+5. Why do you think Wipro should take you.
+6. What qualities do you have that make you a person suitable for going
+into the IT industry (a corollary to the previous question).
+7. What do your friends opine about you.
+8. When do you think you will complete and be able to join.
+9. How can you assure that you will join by that time.
+10. Anything you want to know about us.
+
+ } /* End of for() */
+
+
+
+Name: G.Kartik
+Year: 1995
+
+Company name: Wipro Infotech
+
+   FIRST INTERVIEW:(First the interviewer asked me to name two 
+                    favorite subjects - OS and Networks)
+   a) Describe the memory management policies in Unix. How is paging
+      implemented? How page faults are handled? 
+      Seems to be a favorite question for these chaps ---- Maurice Bach. 
+   
+   b) Write a macro in C for swapping two nibbles in a byte.
+      -Use the shift operators and be careful while defining temporary 
+      variables( if you do so) as you have to write a macro. Otherwise
+      it is pretty simple.
+
+   c) What is the CPU-scheduling policy in Unix? - Round robin scheduling
+      with multilevel queues.
+
+   d) Diffrence between short term, long term and medium term scheduler.
+      -First two should be peaceful. The last one is also known as 
+       swapper. (See Taenenbaum and/or Peterson)
+
+   e) Name various page-replacement policies. Which can be implemented
+      both with and without pre-emption? - see Peterson.
+
+   f) Describe the Sliding window protocol. What is it's advantage
+      over stop-and-wait? - Saves bandwidth. (Taenenbaum please)
+
+
+   2ND INTERVIEW (Both personal and technical interleaved)
+   a) Tell us something about yourself.
+   b) Aren't you going for higher studies abroad? Why?
+   c) Rank and CGPA. MSites do not have ranks but still they wanted to
+      know my approx position in my batch. 
+      - Shady question. It is your job to convince them that for
+      MS, grades do not hold any meaning.
+
+   d) What is re-entrant code? --- Non-self modifying code. Can be 
+      shared by many processes simultaneously. Gave e.g. of text-editors
+      like 'vi'.
+      Counter Q: But then no code modifies itself. What does 'non-self 
+      modifying' mean? ---- I don't know for sure.
+
+   e) Diff between compilers and interpreters. Some fundaes about
+      how to link code in  different files. 
+
+   f) What would your friends tell us about you if we ask them?
+      Standard question for everyone.
+
+
+
+Company: Motorola (came in August'95)
+Just one question: When do you expect to finish? ---By August'96
+                   That is too late. We are looking for guys who
+                   finish by Jan'96. Pl. apply a month before you 
+                   submit your thesis. Thank you very much.
+
+
+Company: HCL-HP
+Written test:
+One GRE type anals. section, and two comp Sc. sections. One Comp Sc. 
+section was problem solving type. Quite easy. Only question worth mentioning
+in it was:
+    You are given a stack on which you can do the following:
+
+    Push X ----push the contents of memory location X on the stack
+    Pop X  ----pop the contents of top of stack into mem. loc X
+    AND    ----pop top two elements of stack, AND them and push the
+               result onto stack.
+    NOR    ----pop top two elements, NOR them and push the result onto stack.
+
+Given two data elements at memory locations A and B, obtain A XOR B using 
+the above.
+
+First Interview:- mostly technical.
+
+	a) Asked about my B.E. and why I joined MS.
+
+	
+b) My preference of posting. They asked this initially before
+	   launching into any other questions. I told them Madras.
+	   Remainder of the interview was mostly on OS and C. Nothing
+	   on networks. Thus I have this inkling that they frame their 
+	   questions on the basis of what you specify as your preference 
+	   of posting and  depending on what projects are available there.
+
+
+	c) What architectures, apart from 8085, do you know? --- Nothing 
+	   very deep and I told them as much.
+
+
+	d) Give the contents of process stack for the execution of 
+	   a particular C-program they give. 
+	   ------ The C-program as such is not important. You just have 
+	   to remember the order in which the return address of any 
+	   function/procedure call, the parameters, and the local variables
+	   are stored on the stack. 
+	   ( I guess, any CO book should have this. Maurice Bach talks 
+	   about user and kernel stacks)
+
+	e) What all are shared by parent and child processes immediately
+	   after parent executes a fork system call? Cross questioned
+	   about the 'copy on write' facility and 'dup' system call. 
+	   --- again see MB, and also Stevens' 2nd chapter.
+
+	f) What events happen when the following command is given?
+		cat /etc/passwd | more 
+
+	   ---- Describe how the shell forks the two processes and how
+		the pipe gets created between them. 
+	  Cross question: How does 'cat' know that its output has to be 
+	                  written into the pipe and not into standard o/p?
+	
+ 
+
+	g) Have you written any TSR's? --- No.
+	   What are TSR? ----Terminate but stay resident programs.
+	   Then does it mean DOS is a multitasking system? 
+	   ---- No, TSRs are interrupt driven
+
+	h) How are Windows programs different from normal C-programs?
+	   ---- Windows programs are event driven.
+	   What can be the various types of events? --- See Primer/API bible.
+
+	i) Difference between swapping and paging. 
+	   ---- Swapping is moving entire processes between main memory
+	   and hard disk. Paging is moving individual pages of a process.
+	   
+	j) Write a program to list all palindromes in a string.
+	   ----- Hint: use a stack and some extra storage for remembering
+	   previous palindromes.
+
+	k) What's the outout?
+
+		char *cp;
+		int *ip;
+
+		cp=(char *)0x100;
+		ip=(int *)cp;
+
+		ip++;
+		cp++;
+		printf("cp = %x ip = %x", cp, ip);
+
+		Ans:cp = 0x101 ip = 0x102 ...(why?)
+
+	l) What are static variables and functions? There are two files,
+	   say, file1 and file2. file1 has a global declaration
+			static int x;
+	  file2 has a global declaration
+			int y;
+	  What is the difference between the two types of declarations
+	  when you link file1 and file2? 
+	  --- x is local to functions in file1 and cannot be seen by  
+	      functions in file2. y can be seen by functions in both 
+	      file1 and file2.
+
+	m) How does a debugger set breakpoints in a code you are debugging?
+	   ---- some funda regarding insertion if an interrupt instruction
+	        in the code....don't know for sure.
+	  (It seems that this q was also asked by some other company.
+	   Worth knowing the answer.)
+
+This was followed by a shady psychological test. You are given a 
+set of six pictures. Look at each picture and write a story on each.
+
+Second interview: (fully personal) --- This was more interesting;-)
+	a) What did you feel about the ppt? --- wasn't very impressive
+	  so gave some shady answer.
+	b) Have you heard of creativity? -- Ya.
+	   Have you heard of Bernard Shaw? -- Ya.
+	   (Then he rattled off some quote of BS regarding creativity)
+	   What do you say? --- I put some shadiest fundaes regarding
+	   visionaries and Leonardo da Vinci conceptualising Helicopters
+	   in his time!
+
+************************************************************************
+NOTE: If you have been offered a job previously by any other company
+      after your BTech/BE or if you have even slightest of work experience
+      then make it a point to mention about it.  It is a major plus point.
+      The interviewers will be definitely interested in knowing that some 
+      other company also found you good enough to be selected.
+************************************************************************
+
+***************************************************************************
+Name: Vivekananda
+Company name: Cadence design systems(I) P Lts, Noida.
+Year: 1995
+Area of work :
+	They develop  CAD tools for VLSI design etc. 
+	They call it EDA ( Electronic design automation)
+	They expect people with good C knowledge, data structures ,
+						compiler knowledge 
+Selection procedure :
+------------------
+1. Written test 
+	a. Logic and aptitude test - 20mts.
+	b. software and hardware part -30 mts.
+	  Software part - questions on datastres
+		e.g. given inorder exp.and preorder exp. findott the postorder exp.,
+		   binary tree insertion,
+		   stacks - set of operations are given , predict the output..,
+		   static variables..
+	 Hardware part - 
+		basic questions on digitad systems such as K-maps, 
+		DL<ŸƒŸ ŸŸ		 ƒŸŸ$	Ÿ		! ƒáääŸ  Ÿáá‰Ÿ$	 áäŸ  Ÿ Ÿ1 	Ÿ Ÿ  Ÿ!Ÿáäää„  Ÿáääää ŸŸ Ÿ€áä	 Ÿ  Ÿ+ed:
+			a)question
+			1. Tell me about u	ÊØÌX@ÌÂH	±ä‰…­É½Õ¹€¸¸($$$È¸	Ñ•h pr`ŸŸ Ÿ	 Ÿáää‡ŸŸ  	Ÿ Ÿ	ƒŸŸŸ ŸŸ è@ÈŞÜÊ@ÚêÆĞ@@îŞäÖØv@ÆäÊÂèÊ@Â@ÎŞŞÈ@ÒÚàäÊææÒŞÜR@f\@¦ÒÎÜÒÌÒÆÂÜè@ÂÆĞÒÊìÊÚÊÜèæ@ÒÜ@ØÒÌÊ\@@@P@ÚÂò@ÄÊ@àÂàÊä@àêÄØÒÆÂèÒŞÜæ@ÊèÆ\@Rh\@®Ğò@ÈÒÈ@ê@ØÊÂìÊ@êä@àäÊìÒŞêæ@ÆŞÚàÂÜò@P@’Ì@ê@îÊäÊ@îŞäÖÒÜÎRj\@®ĞÂè@ÈŞ@ê@ÊğàÊÆè@ÌäŞÚ@Â@ÆŞÚàÂÜò@~@@P@ØÒÖÊ@ĞŞî@æĞÈ@ÄÊ@èĞÊ@îŞäÖ@ÊÜìÒäŞÜÚÊÜè@ÊèÆ\@ÊèÆ\@R@TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTœÂÚÊt@¤ÂÔê@œ@œ’ÜèÊäìÒÊîæ@‚èèÊÜÈÊÈ@t@¦ÒÊÚÊÜæX@šŞèŞäŞØÂX@œÊè¢ëest
+
+	Company name: Siemens
+	Year: 1995
+	Technical Questions asked:
+	1. Draw the Architecture of Unix ? I asked please elaborate
+	He then told Draw the Unix Architecture !
+	2. Suppose there are two processes communicating via TCP ports
+	One of them on one machine dies. What  will happeen to the port?
+	If another process is allocated that port will it receive
+	garbage.?
+	3. What are the various IPC mechanisms? Why is message passing
+	coslier than semaphore?
+	4. Name a simple scehme to communicate among two processes 
+	on a same machine without the pipes, semaphores, shared memory
+	message passing, sockets etc etc hi fi stuffs? Hint : Think Simple
+	5. What are the tables and their relations when two processes access
+	some files ?
+
+	Company name: Motorola
+	Year: 1995
+	Technical Questions asked:
+	1. Give a general algo for converting a m-ary tree to a 2-ary tree.
+	2. How many links are there in a binary tree of N nodes? Give a
+	proof?
+	3. What are skew trees? For a tree with 4 nodes draw all possible 
+	binary ? Generalise for n nodes how many binary trees can be drawn? 
+	4. Have u used threaded trees anytime in your life time?
+
+
+	Company name : NetQuest
+	1. Assume a long linked list. Some nodes instead of pointing to
+	their next node, point backwards. This is called a corrupted node.
+	Give an algo in C to test whether a list is corrupted or not.
+	No extra space in nodes, in efficient time. less memory. marks a
+	function of time and storage used.
+	2. A macro to test whether a number is a power of 2.
+	3. There is a two-dimensional linked list. Each node has a, North,
+	South, West, East pointers. Write fragment of C Code to do some
+	interchanging stuffs. North points to West, West point to South et
+	etc, ( A glorified version of reverse of linked list)
+	4-7. Questions like these, basically pointer stuffs
+	8 Assume there are two cubes. U can write one digit (0-9) on each
+	of these sides, Write in such a way that when u keep two cubes side
+	by side, u should be able to show all days in a month. (1-31)
+
+
+Name: Srichand J
+
+	Company name: INFOSYS
+	Year: 1995
+	Technical Questions asked:
+		1. Explain your project
+		2. What are your areas of interest in Appli Prog
+	Personal Questions asked:
+		1. Introduce yourself
+		2. Why do you want to join INFOSYS
+		3. Do you have a passport
+		4. Have you taken GRE/TOEFL
+		5. Will you go abroad
+		6. Which prog is better - MTech or MS
+		7. Which prog do people prefer - MTech or MS
+		8. Why
+
+
+Name: K. Bhuvaneshwari
+
+1) Name of Company: Wipro InfoTech
+
+Technical Questions: 
+	Why doesn't fortran support recursion?
+		Dynamic Storage allocation not there (I think)
+
+	What is the problem with a software like ethernet monitor?
+		No security and privacy for network users.
+	
+	Give page table format and translation of virtual address
+	to physical address?
+		Tanenbaum - os book
+	
+	Device Drivers in general and Streams drivers in particular
+	What is a clone open in Streams?
+		Sun Device Driver Manual (No. 17 I think not sure)
+	
+	CPU scheduling, which is best and why?
+	Which will cause starvation?
+		Tanenbaum - os book
+
+	Deadlocks?
+		Tanenbaum - os book
+
+	Hierarchical resource allocation?
+		Tanenbaum - os book
+
+	How is a macro different from a function?
+		Who doesn't know!
+
+	Explain your research work?
+
+	Summarize what you learnt in each of your course work.
+
+2) Personal Questions:
+
+	Some - They wouldn't be relevant to others.
+		
+Name of company: Novell
+
+Technical Questions:
+
+	Device Drivers, Structure of a streams driver.
+		Sun Device Driver Manual (No. 17 I think not sure)
+
+	How do you enforce consistency of data structures of the driver in a
+	multiuser environment?
+		Sun Device Driver Manual (No. 17 I think not sure)
+	
+	TCP/IP fundamentals.
+		Internetworking with TCP/IP - Comer
+
+	ARP/ RARP fundamentals.
+		Internetworking with TCP/IP - Comer
+
+	How long does a packet of size ... take to travel in an ethernet?
+		Networks - Tanenbaum
+
+	List all the process calls generated in Unix from the time a process
+	is created till it dies?
+		(GOK - God Only Knows!) Try Maurice Bach - might be there.
+
+	Tell why fork and exec are implemented as two different calls and
+	not as one?
+		(GOK - God Only Knows!) Try Maurice Bach - might be there.
+
+	Differentiate Repeater, Bridge, Router, Gateway.
+	What is an adaptive learning bridge?
+		Networks - Tanenbaum
+	
+	Explain your research work?
+
+      Personal Questions:
+	Hajaar - Wouldn't be relevant.
+
+3) Oracle
+
+Technical Questions:
+	Explain your research work.
+
+	Given a C program, tell me how it would go into the
+	address space of the computer? Which would go where?
+	There were uninitialized and initialized global
+	variables and local variables and two functions?
+		(I don't know)
+
+	Distributed memory - cache consistency problem, issues and solutions.
+		(Tanenbaum - os)
+
+	Write a CPU Scheduler implemeting priority scheduling in 
+	C language - 20 lines of code, 10 minutes time. Also
+	give the data structure to use.
+		Use a doubly linked list. Quite simple if you
+		don't get tensed up.
+
+Personal Questions:
+	None.
+
+
+
+Name : Neharika Adabala
+
+	Company name:Motorola
+	Year:1995
+	Technical Questions asked:
+			1)Describe Thesis work.
+                        2)Are you interested in working in GUI
+                        3)Are you interested in "List of user interface 
+                          related software".
+                        4)What is the latest in continuous speech recognition?
+                        5)What other methods other than neural networks can be
+                          used for recognition of speech?
+                        6)What are the differences between pascal and C?
+                        7)What is strongly typed?
+                        8)What other differences......
+	Personal Questions asked:
+			a)Which other companies are you applying to?
+                        
+	Company name:TISL
+	Year:1995
+	Technical Questions asked:
+          1)About project
+          2)What will you do three years from now?
+          3)Which other companies have you applied to?
+
+
+From kartik Sun Oct  1 09:41:23 1995
+Return-Path: <kartik>
+Received: from pterano by pelican.iitm.ernet.in (4.0/SMI-4.0)
+	id AA01099; Sun, 1 Oct 95 09:41:22 IST
+From: kartik (G. Kartik (CSRM))
+Received: by pterano id <AA00650@pterano>; Sun, 1 Oct 1995 09:41:25 --5-30
+Date: Sun, 1 Oct 1995 09:41:25 --5-30
+Message-Id: <9510010411.AA00650@pterano>
+To: bagi
+Subject: Pl. add to qbank
+Content-Length: 884
+Status: R
+
+
+Your Name: N.Sudha
+
+	Company name: Wipro infotech
+	Year: 1995
+	Technical Questions asked:
+			a)question
+	DMA operation, cycle stealing, scope rules in C
+	recursive function for fibonacci series generation,
+	complexity for searching in binary trees.
+			b)answer (if you know it)
+	Personal Questions asked:
+			a)question
+			b)your response
+
+	Company name: Cadence designs
+	Year: 1995
+	Technical Questions asked:
+	Written test consisting of 
+	1. Aptitude test,
+	2. C programming and data structures,
+	3. Digital electronics
+	
+	Personal Questions asked:
+	in interview
+			a)question
+	my weakness, kinds of friendship, family details
+			b) response
+	They are impressed if one presents papers.
+	 I have presented conference papers
+	in the national level.
+
+Generally most of the companies asks about the project.
+Regarding other technical questions, they put questions
+on the courses I did.
+
+
+**********************************************************************
+
+U.V.Ravindra - D.J.Ram's student. Passed out in Jan '95.
+**********************************************************************
+
+The first thing any IIT-ian should realize while attending Campus
+Interviews is that the Companies have come to take you, and that
+*you* are not looking for a job.  I refer to the attitude of the mind.
+Therefore, there's no need to treat it as a life and death issue.  In
+my opinion, several students take this matter as a very serious career
+issue, and think that if they don't get a job in the campus
+interviews, they are sunk.  This is not true.  A good case in point
+will be Sudhakar's, who didn't get any job that he wanted in the
+Campus Interviews, but when he came to Bangalore and applied to the
+different companies, he landed a job in *every* company he applied
+for.  And these companies were by no means insignificant ones: Tata
+Elxsi, Wipro Infotech, Novell, C-DAC ... all those which are
+considered to be respectable employers.  So, the catch phrase during
+Campus Interviews is, "don't panic, be cool, relax, you have *nothing*
+to lose, and everything to gain."  This is the attitude you should
+have in mind when you go for the interviews.
+
+About the companies, now.  There are mainly two kinds of companies in
+Bangalore.  Those that are small, like Tata Elxsi and Novell, with a
+more or less flat organizational structure, and those that are very
+huge, like Wipro and TISL, where there's a veritable population
+explosion.  There are merits and demerits of both.  In the small
+organizations, there are fewer people, so it is easy to make your
+presence felt and to make yourself noticed, and to get proper credit
+for what you are doing.  The flip side of the coin for these
+organizations is that you have to be very careful in what you say and
+do, for everything you do/say is audible at the highest levels, and,
+as the American Police say when they are arresting a criminal
+"anything you say may be used against you."  Smaller organizations
+also have a flatter structure, so the amount of responsibility on your
+shoulders may be quite heavy.  In one sense it is good -- you can
+contribute well to the organization and get credit for it, but in
+another sense it is bad, for you may have to work late and quite hard
+too.  The advantages of being in a large organization like Wipro is
+that you will never be *overloaded* with work, unless you choose to do
+so yourself.  You can be in the company as you are in the CS
+Department right now, light-headed and carefree, even a bit careless.
+The obverse side of the coin here is that in such huge organizations,
+you will never be anything but small fry in a big pond ... and getting
+credit where it is due may be a little difficult (specific reference
+to TISL here).
+
+Another issue that should be considered when seriously aiming at a
+company is the nature of the job that you will be put in.  In my
+honest opinion, since the pay structures of most companies are
+verisimilar now, and the salary differential between employees of
+different companies is very minimal, the nature of work is the most
+important criterion that one should pay attention to.  If you are
+specifically interested in some kinds of jobs, such as, say UNIX
+Internals/Device Drivers, Networking (Unix/DOS), or graphics,
+multimedia, etc, you should aim at companies that are primarily
+working in those areas.  Also, you should try to find out, through
+other channels, as to whether openings exist in those companies for
+the kind of job that you are aiming at.  For example, Wipro Infotech's
+communication group has no openings right now.  Most people who join
+Wipinfo are taken into the Testing/Debugging groups, or put in the
+Tandem Group.  These are pretty low down in the job priority order of
+the average computer professional in Bangalore.  Novell is working in
+DOS based networking (Netware) and is by far one of the best companies
+in Bangalore -- good salary, flat structure, nice working environment.
+Tata Elxsi is also working in Networking, but that is mainly UNIX
+based.  Other companies that work in Unix are TISL and Wipro Systems.
+Device drivers and Unix Internals are a big word in WipSys, Wipinfo
+and Elxsi.  There are other companies like Siemens Information Systems
+Ltd., Siemens Computing Services Ltd., which I am not sure of.  Texas
+Instruments is working VLSI CAD and chip design stuff.  Motorola,
+can't say.  Other companies working in Unix Internals and Networking
+are Hughes and HCL HP.  Also, some companies in Delhi are there ...
+
+That's about companies.  Now about the interview.  A typical interview
+panel will have one to two people from the technical cadres and a
+couple (or more) of chaps from the Human Resources division.  The
+technical guys are usually interested in grilling you on an area that
+you choose -- typically they ask you what areas are your favourites
+and then ask you questions in that.  This happens in companies like
+C-DAC, Wipro, Elxsi etc.  In  addition, they might ask you, if you say
+you like working in Unix, to select one particular area of the OS and
+ask you fundaes in that.  Therefore, prepare for all this kind of
+thing.  Read up the C-FAQ and the UNIX FAQ.  Be prepared for dumb
+questions in recursion in C and, if you know C++, some questions on
+Inheritance etc.  About UNIX, try to concentrate on some topic like
+IPC etc.  Otherwise, device drivers etc would be fine.  Also, if you
+are planning to suggest networking as an area of interest, be clear
+about what the various layers of the TCP/IP stack do, where they fit
+in with respect to the OSI protocol layers, and also internals of the
+TCP or IP processes in the kernel.  If you are preparing for the
+Novell interview, there is no harm in saying that you don't know
+anything about Netware, but you have only heard about it.  However,
+say that you have good basics in TCP/IP networking, and be prepared to
+prove your statement.
+
+Another thing you should be prepared with is how to give an overview
+of your project/thesis topic in two-three minutes.  This is the
+typical attention span of the people who interview you, and it is
+better to try and fit in as much info as you can into the first two
+minutes of your talk about your project/thesis topic.  Also, try to
+make it as interesting as possible, and leave a few loose ends if you
+want them to ask you some questions on that, so that you can
+demonstrate your mastery over the subject.
+
+I really can't think of many more things to write.  Perhaps I would
+have said more if I were giving you people a talk or something like
+that.  It is more interactive that way, and more issues crop up.  Tell
+me if I can be of any more help.  Do mail back.
+
+Regards,
+Ravindra.
+
+
+
+
+********************************************************************
+U.V.Ravindra : Ex-student of D.J. Ram
+********************************************************************
+
+Hi Srichie (and others),
+
+My boss is on leave today, and I just finished my work slightly ahead
+of schedule, so here are some answers to your questions.  Find them
+ensconced comfortably amongst the questions themselves.  For your
+convenience, I have prepended a '===>' string to each of my responses.
+[e]grep it!
+
+J. SRICHAND (Dr.Hema) writes:
+> 
+> Hello everybody,
+> 	Here is a detailed list of those software firms which are destined 
+> to be our destiny.
+
+===> Well, first of all, you, Srichie, at least, don't seem to have
+learnt anything from my earlier mail.  Learn from this one, therefore.
+Learn that these companies are *not* _DESTINED to be your DESTINY_
+... you have the choice to make as to which one *you* want.  Learn to
+remember, always, and never forget, that the companies are coming to
+*take* you; *you* aren't dying to join them.  Learn that, it is *you*
+and not the companies who are in the commanding position.  Learn that
+you aren't in the proverbial beggar's position: you *can* choose.
+Learn that you *should, must, have to, ought to* choose.
+
+> 	The list is ordered alphabetically. My request is --> Please
+> furnish as much info as possible about the companies marked with an
+> '(*)'. Hope that you get back at me AFAP. Also furnish info about all the
+> other firms, i.e. whether they deal in Appli s/w or sys s/w, and any other
+> info about interviews, which will help us anchor a job. PLEASE!!!!!
+
+===> The *PLEASE!!!!!* stinks thoroughly of insecurity.  Please
+abolish that thought from your mind forthwith!
+
+And finally, before I go on, be warned that this is a
+Loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong
+mail, and be prepared to spend some time with boring details of
+companies.
+
+All the best to all of you in all your endeavours,
+The guy with the magic (illuminating) lamp:
+Ravindra [*Alli* Baba!]
+
+---------------------------------------------------------------------
+
+> 01. BEL, Ba. ===> Can't say anything about it, though it's about 20
+min. walk from my house.  I suppose they mostly deal with VLSI CAD and
+stuff like that, which deals directly with Electronics.
+
+> 02. CMC, Hy.	===> Ask J. Sriram ;-) :)  He will by far be the best
+information provider.
+
+> 03. Cadence Design Sys, Noida. (*)
+
+===>
+
+A company that deals extensively with VLSI CAD.  Amongst the highest
+payers in the job market today.  When they came last year they offered
+(me!) 1.75 lakh per annum.  I, of course, spurned the offer.  The kind
+of money they offer will be good for anybody, even if they live in an
+expensive place like Delhi, where it is situated.  If you are
+interested in doing a job with *no* work (I do mean you will have to
+sit idle), which purportedly deals with VLSI CAD, join this company.
+They were really desperate for people last year:  I had given in my
+application, but had decided against joining the company, so I
+abstained from the interview.  They *rang me up at the SUNLab* to ask
+whether I would attend the interview, please.  To which, of course, I
+answered in the negative, thank you.  
+
+If you join this company, be prepared to meet a lot of louts from
+Delhi College of Engineering and/or Delhi Institute of Technology,
+which our o œ@ÈÊBä@–ÂÖÖÂ@æîÊÂäæ@PÂØÚÂR@NÚÂèÊäNÜÒèò@ÄòB’ÜÆÒÈÊÜèÂØØòX@’@æĞŞêØÈ@îÂäÜ@ÂØØ@èĞŞæÊ@îĞŞ@ÂäÊ@ØŞŞÖÒÜÎ@Âè@DÜŞ@îŞäÖ@Vb\a>8 >>9>  8>& 83>8>8   >>>8> 	>  >>Â8 880!>8!>>  >8> ""0!>>9> 8> DH.  I was gJƒ€ ğ€ˆOÃ’O€ ÏÀ„ˆ‚@Ï‰€ ˆO€€ƒ‚ ˆBO‚ Ï˜	ƒ„Oˆ€Ï€ Ï€ O‚  ƒ„Ağ ‰Ï’Oofe know how frustrating it ban get.  Be prepared to be
+frustrated i. the first few months g& your employment i!Ÿ8ƒá	 	ááŸƒŸ8 €utervision Res & Dev, PuaŸ‡„áá€€€ááŸŸŸ™  €€ .ed subsidiary* of the US firm, Computer Vision,
+Inc.  The parent codŸ   ŸŸ Ÿ Ÿ	˜ŸŸ 	 	á	ŸŸ$Ÿ Ÿ   Ÿ  Ÿ  Ÿ€ƒŸŸŸŸ á	 	äò@äÊ…É …¹‘•Ù•±½Áµ•¹Ğ€¡Ñ¡”½ÉÁ½É…Ñ’|p B|D &~dd C„DB|pN|L `  @p f|D &|B|<p$@|`  <psÉüø  ø  ˜œü øÈ‡@€øàÈH àœø ø  øàH„øàø€à@ü<dLø  8Dø œø ø8„øÀ  xà$ù!	àùáüø8 Dø Dø8„øÀà@„ø  <ø  @ø   à  àø ˜€Hà  €Dø 	 ˜ ähe pay must be good.  I don't know if this is another one of those
+*workless* (worthless!) front-ends for a big body-shopping
+multinational, but from what I hear from the Pune-ites here, it isn't.
+That means it isn't a body-shopper, most probably; no comments about
+worthless :) or not.
+
+A big one for Graphics.  The only challenger to Silicon Graphics Inc.,
+the most powerful Graphics company in India (and the world) yet.
+
+Disadvantage: Location.  Pune is *not* a part of India's silicon
+valley.  Believe me, it places employees at a considerable
+disadvantage.
+
+> 05. DENEB Hitech, Ba. (*) ===>  Absolutely no idea about this one.
+Will try to find out, but can't assure anything.
+
+> 06. DBSS, Md.  ===>  Never heard of this one either.
+
+> 07. Frontier Info Tech, Hy. (*)  ===> Am I deaf/blind, or are new
+companies cropping up in "satellite silicon vallies" (hey! I hold the
+copyright for that phrase) like Hyderabad, Madras, Pune, etc?  I've
+never heard of this one either.
+
+> 08. Geometric S/w Services, Bo. (*)  ===> Boy!  I *am* in the wrong
+room, aren't I?  So many new and strange companies ...
+
+> 09. Hughes S/w Sys, ND.
+
+===> Ask our resident dark-horse Unit Sirsiwal for details on this
+one.  Also ask him *why* he left the company.  My other friends in
+Hughes seem to be quite satisfied with it.  One of them (my classmate
+in BTech) worked there for two years.  He booked a Maruti 800, which
+is due for delivery in Feb '96; they sent him to US immediately! ;-)
+
+> 10. IMRL, Ba. (*)  ===>  Sounds like one of those quasi-governmental
+organizations like C-DAC, C-DOT, BEL etc.  Can't say if it *is* one of
+them or not, for this is the first I have heard of it.
+
+> 11. IMI S/w, Hy. (Dunno expansion of IMI) (*)
+
+===>  Neither do I :-(  Looks like I'm in the wrong party now.  I'll
+have to stop and ask for directions.
+
+> 12. INFOSYS, Ba. ===>  The best company for non-CS people who want
+to make an entry into Software jobs.  A cousin of the dreaded TCS.
+Better than TCS.  A "no-no" for all CS BTech/upwards degree holders.
+Give it a clear berth (this is for all MS/PhD scholars).  For the
+others: prepare well for the test.  Flunk the interview.  They will
+select you.  
+
+For details about the test, ask Ravan.
+
+> 13. Info Tech Ltd, Faridabad. (*) ===> Faridabad is a factory area,
+close to Delhi, in Haryana (for all practical purposes, it can be said
+to be the Industrial Suburb of New Delhi).  I've never heard of this
+company, and it might be a good idea to check up on this before even
+attending the PPTalk.
+
+> 14. L&T, Bo.	===>  A couple of my friends joined here after BTech.
+I lost all touch with them promptly.  Either L&T ate them for
+lunch/dinner, or they have just joined the ranks of those
+multitudinous Bombayites, for whom the world outside doesn't exist.
+They used to manufacture PCs.  I don't know what they do now.
+
+In any case, L&T would be working in Manufacturing CAD, if I am not
+mistaken.  Try it, if you are interested in MfCAD.   The pay may be
+*good*, not *excellent* and by no means *stupendous*.
+
+One thing about L&T.  They hold the worldwide patents for the
+"zee-pump" ... the "Z"-shaped pump that you see at the petrol bunks in
+Adyar and the one near Malar Hospital.  A great achievement.  Another
+thing about L&T.  The person who headed the zee-pump project, a guy by
+the name of Chakravarti, has quit.  He now rests in comfortable
+obscurity in the cosy arms of IIT Delhi, in his position as Assistant
+Professor, Mech. Engg. Department.
+
+> 15. MIEL, Ba.	===>  Sorry, can't provide data on this.  They're too
+secretive about what they do. :-) :-)
+
+But seriously, they work in cellular telephones and pagers and stuff
+like that.  Could be good work, but I don't know.  A good job for CS
+MTechs with an Electronics background.  At any rate, they're going to
+prefer ECE MTechs and MSs to CS chaps.  Try nonetheless.
+
+They pay a little less than Wipro Infotech, where the take home ranges
+close to 9k pm.
+
+One positive point about a Motorola job is that they offer leased
+accommodation in Bangalore.  Believe me, it's a very tangible benefit.
+They also don't seem to have any restriction on how many laser
+printouts are taken (and *what* printouts are taken) by employees.  I
+have seen people downloading pictures of Madhubala and Meena Kumari
+and taking laser printouts of them.
+
+Of course, you can do that in Wipro Infotech too, provided you are in
+the AT&T bug fixing project.
+
+> 16. NEXUS, Pondicherry. (*)  ===> Pshoo!  I thought people of
+Pondicherry were a more spiritual lot!  Aurobindo and all that.
+Remember our trip to that place? 
+
+Can't help feeling that I've lost myself in the woods somewhere.  Have
+to yell for help ... there's a wicked wolf gazing hungrily in my
+direction ... grandmaa .... help!!!
+
+> 17. Netquest, Ba.
+
+===> A company started by IBM/Microsoft defectors (dunno which one
+exactly).  It's said to have a good work culture, but can't say much
+about it.  It was established sometime last year.  DOS work.  I don't
+have much respect for DOS (indeed, I hold it in the utmost contempt).
+Therefore, I will desist from saying anything more about it, lest I
+should colour your mind with my biased opinions.
+
+> 18. Novell S/w Dev, Ba.
+
+===> From what Sudhakar tells me, it seems to be a good company.
+However, they work mostly in DOS-based (NETWARE) networks.  As far as
+networks is concerned, a company worth putting in the Dream Job list.
+As far as Unix is concerned, they don't have much work going on.  The
+Unixware guys are treated as some sort of poor cousins of the NetWare
+guys, I am told.  The pay and perks are good.  Based on
+employee-employer trust, so you can get away with a lot of fraudulence
+in the name of overtime, house-shifting ... etc.
+
+Ask Sudhakar for more details.  I'm sure he will supply enough to make
+your mouth water, and your pens to rush for the dream job form.
+
+> 19. ORACLE Corp, Ba.
+
+===>  THIS IS THE BEST PAYER IN BANGALORE TODAY!!!!
+
+Yes.  And Sanjay Patil, who was porting Oracle to SCO-Unix has already
+gone to US!  A good company, but only if you are willing to condemn
+yourself to working in Oracle all your life.  They work in all aspects
+of Oracle, right from the internals (file system, concurrency control,
+etc) to the User Interface.  Quite a lot of their work is bug fixing
+and stuff, but some lucky fellows might get to do a bit of porting
+from one OS to another, which isn't as bad as it sounds, actually.
+
+> 20. Ramco Sys, Md.	===> Ask somebody else.  I never thought that
+companies in Madras were worth joining, and, consequently, never
+bothered about them.
+
+> 21. River Run S/w(formerly Comsoft), Noida.
+
+===> Said to be working in Networks.  Someone should have asked
+Shalini Agrawal what she does apart from sending mails to her friends
+in Cadence etc.  Perhaps someone from Sarayu already did that when she
+(Shalini A.) came for the Convo.
+
+Said to pay decently.  Which means nothing, because, being in Delhi,
+you'll still be away from the heart and soul of the computer industry,
+Bangalore. 
+
+BTW, my home is in Delhi, and, since I *chose* to work in Bangalore, I
+must know what I am talking about! :-)
+
+> 22. Siemens Commn S/w, Ba.
+> 23. Siemens Info Ltd, Ba.
+> 24. SIEMENS Ltd, ND.
+
+===>
+All three are good companies.  I have already detailed all these in my
+earlier mail.  They work in communications.
+
+> 25. Sonic S/w Sys, Hy. (*)
+
+===>
+A company working in Systems and Networking.
+
+> 26. TCS, Bo. 
+
+===> The avoidable giant!
+
+> 27. TI, Ba
+
+===>  The only other company working in the same field as Cadence
+above.  All I said for Cadence holds good for it, except that the pay
+is slightly lower.  The perks are good, working conditions excellent,
+etc.  Attend the PPT.
+
+> 28. TISL, Ba. 
+
+===> A cousin to my own organization, Tata Elxsi.  The TATA Stamp, and
+so called IBM culture.  Can't say anything much.  The pay is amongst
+the highest in the Industry.  It is actually a big bodyshopper.
+
+> 29. VSNL, Bo.
+
+===> The Government's only value-added network service provider
+company.  The pay may not be too good, considering you will be placed
+in Bombay, and you might become on of the nondescript millions who
+shuttle between one end of Bombay to the other in the dreaded local
+trains.  There may be certain perks that I don't know of.  The
+interviewers are bound to be knowledgeable, and from NCST, Bombay.
+Perhaps Dr. Ramani, the virtual head of the ERNET project may come.  A
+job whose interview I can predict will be interesting to attend.  I
+can't say much about the job itself, for I am not sure about it at
+all.
+
+> 30. WIPRO INFOTECH Ltd. }
+> 	   &            } Ba.
+>       WIPRO SYSTEMS     } 
+
+I don't think there's anything to be said about these giants.  Only
+thing is, Wipro is not into the holidays business.  I firmly believe
+that joining Wipro will further your student-like life for a few more
+years, and if you are really raring to get into the corporate line of
+jobs, then Wipro is not for you.  When I say Wipro above, I mean
+Infotech.  Wipro Systems is one of the more Pseud-ish companies, what
+with their formal attire, replete with Tie and associated
+appurtenances of a western lifestyle.  Both Wipro-s have a very good
+pay, and *sure-shot* revisions once a year, where you do end up
+getting at least a 20% hike, usually.  Don't quote me, however. This
+is strictly off the records.
+
+> 31. Fujitsu Optel Ltd, Bhopal. (*)
+
+Search me!
+
+> Love,
+> Srichie.
+
+Thanks for your time.  Kudos for lasting this far through my sickly
+humour! :)
+
+Best Wishes,
+Ravindra.
+
+
+Hi guys and gals,
+
+It must be time for the Campus Placement Interviews, judging from the
+multitudes of mails that I receive about this topic.  As I throw my
+mind back to when *I* was preparing to attend my Campus Interviews, I
+recall that one important question we were all faced with was "which
+company do I name as my dream job company?"
+
+Here are some simple rules of thumb which you can use to decide which
+company to give as your dream job, but first, remember to FILL IN BOTH
+ENTRIES.
+
+The dream job system in our IIT is organized such that 
+	a) you can attend any number of interviews till you get a job,
+after which you can not attend any more interviews other than that for
+the dream job.
+	b) if the first job you got was your dream job, you can't
+attend any more interviews.
+	c) if you have a non-dream job, and you flunk your "first"
+dream job interview, you can't attend the second "dream job"
+interview.
+	d) if you don't get any job, you can go on attending
+interviews till you get sick of them.
+
+IMO, the problem with the dream jobs arises only because of the "you
+can't attend any more interviews" clause. 
+
+Hence, for your dream job, select a company 
+
+1) which you will be willing to join, if you get it.
+2) whose interview dates are among the last (in Dec/Jan)
+3) which, in case you don't get it, won't make you feel like it is the
+end of the world.
+
+This means that you should never give as your dream job a company
+which is actually your dream.  For example, if you dream is Wipro,
+it's better not to give it as you dream job, because it fails in all
+the criteria mentioned above.  
+
+Please take the recommendations given above as *my* opinions, and
+weigh them wisely before accepting them as your own.  I am *NOT* to be
+blamed for any unfortunate turn of events that befalls you out of your
+following any of my advice :-)))
+
+Wishing you all the best,
+Ravindra.
+
+
+
+***********************************************************************
+>From Pradeep : Ex-student of CSRM.
+***********************************************************************
+
+	About the job opportunities for you, dont worry, there are plenty. If
+you are not tied to B'lore then you have got even more opportunities,
+especially
+in Delhi. In B'lore there are good firms like, Tata-IBM (TISL), 
+Hewlett-Packard (HP), Wipro Infotech, Novell, etc. Recently Wipro is
+taking hajaar people. These companies in the general field, undertaking projects
+in a variety of fields. There certain specialist firms like, Wipro GE (Medical
+systems), Tata Unisys (RDBMS), Texas Instruments (Chip designing, tools for 
+CAD), Verifone (Transaction automation), Siemens Commn systems (communication)
+etc. If u are not so much bothered a about the nature of work, the best company
+available is Texas Instruments, the most well established multinational in 
+Bangalore, which is also the first to come here. In Delhi there are two 
+companies whose main area is Networks - Hughes Network systems, and River Run 
+(Old name CompSoft). These people pay very heavily. The only minus point is 
+that it is in Delhi.
+
+	Dont be bothered too much of the interviews. Of course, if you can 
+familiarize with unix internals, then it is an added advantage. In the
+case of some companies, there will be
+written test (aptitude, reasoning, etc.) before the interview. If u can get
+thru the written test with a good performance, chances are high that u may be
+selected. I dont recommend C-DAC, as pay is very less now, compared to private
+firms. Never join any govt firm. 
+
+With best wishes...
+pradeep
+
+**********************************************************************
+Return-Path: <dip@tata_elxsi.soft.net>
+
+
+Hi Everybody,
+	These questions were e-mailed to me by Tom (MS
+	scholar). It suddenly reminded me of how little
+	information we had about companies when we
+	appeared for the campus interviews - and also about
+	how much we cursed our seniors for not having sent
+	any. So ... in case you have already cursed .. better
+	take them back ... for here comes some info about
+	TEIL (Tata Elxsi India Ltd.)...
+
+> 1- Your exact pay (take home & gross) 
+	(7500 + 950 + 500)
+
+> 2- Acco-scene in Bangalore ??
+	Note : The company does not give any acco for the
+	first few days. (This, I think is the ONLY drawback
+	of TEIL).
+
+	Generally what happens with every guy (and which
+	also happened to me) is that the chap madly searches 
+	for an acco for the first 15-20 days. 
+
+	He then gets damn pissed off and is on the verge of
+	giving off - when lo !! - he finds a real good
+	apartment. The funda is that the brokers show the 
+	unwanted and shady houses for the first 15-20 days 
+	hoping that you will get despo enough to go for them.
+	Keep on refusing them and at end they will show you
+	the right one.
+
+	As for gals ... I dont know much about their acco. 
+	I dont know how they manage it, but they always get 
+	PG, rented house accos, etc. much more easily than 
+	guys. God knows how ???
+
+	But generally one can forget of living alone, since
+	the cost of a proper apartment is around 2500-3500.
+
+> 3- Does the company have a canteen or mess where you can have your
+>    meals from? (No don't laugh, I don't relish the prospect of cooking)
+	The lunch is provided by one reasonable good `Nourish
+	Caterer'. Biscuit, Coffee, Tea is provided - on the
+	house. Maagi noodles or bread-omlette is also
+	available in the kitchen at proper cost.
+
+> 4- Transport ??
+	Van/Bus leave from HO, Richmond Road (centre of city,
+	for those who dont know {PUB-CITY-}Bangalore - YET !!) to
+	Whitefield at :
+		7:00 am
+		8:15 am
+		9:30 am
+		12:15 pm
+		2:45 pm
+
+	From Whitefield to HO at :
+		9:40 am
+		11:10 am
+		4:30 pm
+		6:15 pm
+		8:30 pm
+		10:00 pm
+	Personally I dont think that the location of office
+	in Whitefield (out of Bangalore city) is a big
+	problem. The company provides transport as listed
+	above which is good enough. Only problem is that one
+	cant have a break from the office-work by looking at the MG
+	Road girls!!! In fact I love the location since it
+	saves me the daily ordeal in BTS (Bangalore Transport Service)
+	buses.
+
+> 5- 1 or 2 lines about each of the major projects currently being
+>    undertaken by Tata Elxsi.
+	Client-driven projects : 
+	NETLABS :
+	Maintenance of a s/w called  DIAMONDS (an SNMP
+	service provider). Some design-work has also been
+	alloted to TEIL offlate.
+
+	ANALOG DEVICES :
+	Vedio Telephony project consists of design and
+	development of a vedio telephony system using ADSP
+	chips of Analog.
+
+	Medical Imaging System (in collaboration with the
+	Singapore University). I heard that a lot of porting
+	work goes on in this project. A lot of GUI fundaes
+	is also used here.
+
+	Some other new project from the defence orgn.s are
+	also being carried out. I donno what exactly.
+
+> 6- Chances of going abroad. 
+	The rest of the lot, i.e. those who are not working
+	there pretty behind off in the client-driven
+	projects, form expertise development teams. There
+	are teams in Image Processing, SNMP, ISDN (of which
+	I am a part). We try to do in-house projects and get
+	our fundaes clear (which we should have done in
+	college - long time back !!!).
+
+	Dont you turn your nose in the other direction on
+	hearing the words `in-house projects'. Altho these
+	projects are not client-driven, they offer much
+	better scope of learning in many cases. Also in case
+	of any new project which includes overseas requirements 
+	(also known as body-shopping) there is a good chance 
+	that these people will be sent.
+
+> 7- Any tips on how to get through the interview?
+	Dont thro away other books, but I think the general
+	direction will be on OS and Networking. 
+	
+	One important thing is that the interviewers generally
+	dont ask you very high funda questions. They only
+	want to test how well you did, whatever you claim to
+	have done.
+	
+	It goes without saying that each of you must have
+	one claim of of having done something.
+
+> 8- Is there something like batches in which ygu have to join- Eg:
+>    March batch, Aug batch, etc
+	NKt exactly. These peHˆOˆ ˆ‚O€ Ïˆ ˆ‚€	‚pò€O€€ ÏOˆ‚OO‡€ˆ@ğğ€Áğ‰‚Àğğò„OÀÏˆO‰‚ˆˆÏÀÀÀÏ ‰Ï„O’OŒ Ï‡„ˆ	‚Ï€’º40"z^&¤éÈ FBÆ–¤RFq.dŒ,l¤ÅÅÄN®„L®n„.nn®L¬„¤	!A)‰)(¤	*…Ä	-Ä$m¬,bsáâcƒãJÙH\È[İH\™HÚ]™[‚‚[]XÚ D'ÂDÀ BA€O$)Ä-ÄM$äìl£“œÉÂ‚JÉM\\ŞHQÊK‚‚H]\\œ›Òà`ààà  "c“à`ä€"sâ`Î„-î¡D 	ğ0qÀ9ğ@9ğ@‰üL®Œ®DäL¤-Ä$m¬-9ñ€ 1	ğğ1ÁI‰-&àfL rather thaaŸ@ 8>2!>80 >  !ÃÈ >2 0  !>	5À•ÉÍ½¹…°…¹İ¡•É”Á•½Á±”…É”­¹½İ¸‰ä(%Ñ¡”&|FC9"æBW‡Fââæòâ&F†W"F†âF†V—"æÖW2óğ ¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢ ¤FV"Õ2Õ66†öÆ'2À  ”†W&R&R6öÖRG‡”@é!‹«+›£K{s™›[+!Kq£C)S{Ks£+“³K+»™pRIC³)#K³K#+!£C)‹«+›£K{s™s£y£»y£);{“K+™	J£+CsKøàœøÌ'x€H@ €ù€€€Hà$øàø8„øÀ  xà €Dø  ø8à„øà€à@üLø €H € D8„øˆ H@ø „ø  øÈ„øäø€À8 Ààø €H €øàœø8„ø@€À œøäøx€H@ à erview. Even if the company has only a single interview the panel
+will have a mix of both technical and HRD personnel. The 'Technical' 
+part has been divided according to the topic of your interest. Here 
+I would like to mention that, the courses you take during your MS 
+matter a lot during the technical interview. The questions are mainly 
+based on the courses you have done during the course of your MS and 
+your area of interest. Its a wise choice to indicate area of interest
+as a separate field if you are strong in a particular field and wish 
+to draw the attention of the panel to your strong area. Lets begin the 
+voyage in ernest. Before I begin, I request MS scholars to regularly
+update the Jobs-QB for the benefit of the scolars to come. 
+
+- Regards,
+
+    Sudhakar.
+
+A) Technical
+   ---------
+
+OS:
+--
+Suggested readings: Modern Operating Systems; Tannenbaum (Must)
+		    Design of Unix Operating Systems 	(Internals Fundaes)
+		    The Magical Garden Unexplored 	(SVR4 internals)
+		    Unix FAQ; available on internet
+
+Questions every scholar should know:
+
+i) Paging, segmentation fundaes. 
+ii) Scheduling policy used by Unix.
+	Should know how and why Unix assigns priorities to some processes.
+iii) How and who handles a page-fault.
+iv) Contents of an inode
+
+Other Questions:
+
+i) Unix buffer management.
+ii) Unix Page-replacement policy
+iii) Unix directory structure/files/Links (soft and hard link:difference)
+
+Networks:
+---------
+
+Suggested Readings: Computer Networks; Tannebaum 
+		    Unix Network Programming; Stevens
+		    Networking with TCP/IP: Vol 1; Comer (A Good book)
+
+Questions every scholar should know:
+
+i) Seven layers of OSI stack, and a few functions of each layer. 
+ii) The different modues of a TCP/IP stack and the functions of 
+    each module.
+
+Other Questions:
+
+i)  Flow control, out of band data and how is it handled.
+ii) How and who handles data looping (A packet is stuck in a loop)
+iii)Structure of an IP Datagram header
+iv) Structure of an ICMP header
+v)  What is ARP and how does it find a physical address given an 
+    internet address. Similarly for RARP
+vi) Classes of internet addresses. Given an address you should be able
+    to tell which class it belongs to. Fundaes on Sub-netting and 
+    how will you assign addresses to the sub-networks.
+vii) Some other stacks like the IPX/SPX and X.25 
+
+Computer Architecture:
+----------------------
+
+Suggested readings:	Hwang and Briggs; 
+			Hamacher
+
+Questions every scholar should know:
+
+i) Location of a cache in the storage heirarchy. 
+ii) Cache access/replacement techniques. 
+iii) Full-associative and set-associative caches. 
+
+Other Questions:
+---------------
+i) TLB; look-aside-buffer
+ii) SMP (Sequential Multiprocessor: Jani-Wipro Infotech asked)
+
+
+
+C:
+---
+
+Suggested Readings:	Kernighan and Ritchie
+			C-FAQ; internet
+
+Questions every scholar should know:
+
+i) Fundaes on Null pointers; what happens if you increment a null pointer.
+ii) About bit-operators (Every interview will have questions where you 
+   will have to operate on the bits; So remember or bit operators)
+iii) Swapping 2 numbers without extra variables (Still the favourite?)
+     Can you swap two floating numbers using the same technique?
+iv) Swapping two nibbles of a byte; write a macro for that.
+v) Counting all 1s in an integer.
+
+Other Questions:
+---------------
+
+i) Variable parameters of a function. How is it implemented in C. 
+   Give example of  functions which use varible parameters (printf etc).
+ii) How are the fields in a printf accessed (from right to left) and why?
+    Read the C-FAQ for such questions.
+iii) Doubly linked lists. 
+
+
+Data Structures:
+----------------
+
+i) B-Trees; B-Plus trees?
+
+
+B) Personal
+-----------
+
+i) Tell us something about yourself. (This has to be there)
+ii) Strengths and weaknesses (This question also disguised in various 
+   forms is always asked).
+iii) Why should we hire you?
+iv) Can you describe your project in short?
+v) Why did you take 2-1/2 years to complete (My case!)
+vi) If given the job when can you join. (Caution: Don't think that if 
+    you give some unreal early deadlines they will offer you the job.
+    Always play safe and give a deadline by which time you are sure to 
+    complete and join. Asking for extensions is the worst scenario). 
+
+Tips: Be confident, frank (But need not give away information which may weigh
+      against your case), free (use first names while addresing them, so be
+      alert when they introduce themselves) and cheerful (attend an interview
+      with a positive frame of mind). Remember you are IITians and you always
+      have an edge. That may sound arrogant, but its true. 
+
+Best of luck. 
+-------------
+
+Some more info on some companies
+
+
+1. Cadence Design System, Noida, New Delhi
+   - Design automation
+   - Tools for Electronic Design Automation (EDA)
+   - Pay is great
+   - Application is Motorola propreitary - hence switching jobs tough
+2. Computervision Research & Development, Pune
+   - CAD/CAM research
+   - Clientserver - Unix based
+   - Look into Express Computer / Dataquest for more info
+   - Pay is good
+3. Frontier Info. Tech., Hyd
+   - Bodyshopping
+   - Teaching
+   - Junk company according to several people who joined us from there
+4. IMI s/w., Hyd
+   - Bodyshopping
+   - Offshore project for 2 years before sending u abroad
+   - Pays decent
+5. NEXUS, Pondicherry
+   - Decent company
+   - Look into ads in Express Computer for further info
+6. Sonic s/w., Hyd
+   - Same as 4. - into some client-server stuff too
+7. Steer clear of a firm called Silverline. It's black-listed in the US
+   becos of some VISA goodals.
+
+>From the list above, only (1), (2), and possibly (5) can be considered
+anything near to good for M.S/ M.Tech guys. I'll try and get more info
+about other organisations.
+

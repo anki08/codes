@@ -1,0 +1,71 @@
+BOI C questions 1999
+
+Proficiency in C - Number of questions: 20. Time: 40 minutes.
+
+1. Declare an array of 3 pointers to functions, each function taking two characters and returning an int.
+
+2. Declare an array of 3 pointer functions, each taking a far pointer to an integer and returning an array of five characters.
+
+
+3. What is the output of the following program:
+
+void main()  
+{
+    printf("BOI");
+	   main(); 	
+}
+
+4. Given that: 0x39 = ASCII '9'
+     What is the output of the following program:
+
+     void main()
+     {
+         char a[] = {48, 48, 48}; 
+         char *str=a;
+
+         while (*str) 	
+         {
+             printf("%c",*str);
+             str++; 
+         } 
+     }    
+
+5. What is the output of the following program:
+
+void main()  
+{
+    printf("%f",9/5);
+}
+
+6. What is the output of the following program:
+
+void main()  
+{
+    int i;
+
+    for(i=0; i<5; i++}
+    {
+        printf("%d",i&i);
+    }
+}
+
+7. What is the output of the following program:
+
+int m=6;
+
+void foo(int *p)
+{
+    ++*p++;
+    p=&m;
+    ++*p++;  
+}
+
+void main()  
+{
+    int n=5;
+    int *ptr=&n;  /* Assume ptr=1001 */
+
+    foo(ptr);
+    printf("%d %d %d", ptr,m,n); 
+}
+

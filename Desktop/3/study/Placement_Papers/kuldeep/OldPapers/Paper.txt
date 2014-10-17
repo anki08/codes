@@ -1,0 +1,121 @@
+computer awareness :
+====================
+ 
+1. 1 TB=1024GB	
+2. Window NT , NT ?
+3. HTTP full form
+4. Windows Uses = ?
+      a) Intel 
+      b) Microsoft
+      c) Dos
+      d) Macintosh
+5. Operating System Runs in --- and system utilitis run in 
+      a)user and monitor modes
+      b)monitor mode and user modes
+6. For internet , what is required
+      a) an ISP provider
+      b) an Internet Connection 
+      c) A Browser
+      d) All of the above.
+7. What is Internet 
+8. How can u see the web pages 
+9. Largest capacity of the mobile storage ( CD ROM)
+10. Floppy capacity ?
+11. "www" stands for ?
+12. which is a Netwoking os 
+        a) microsoft win 98
+        b) Microsoft win 2000
+13. Which is not a language ( Findler or J)
+
+
+
+Analytical Problems :
+=====================
+1. A dice is thrown twice ..what is the probability of geting a
+   number twice ...(1/6)
+2. 1,2,3,4,5 without repeating , make a no. divisible by 4 ,probability (1/5)
+3. A girl walks x distance first day , second day  she walks 1 km more ..
+   total dist =65 km .time taken 18 hrs ( Ans --3 miles/h)
+4. One puzzle about ages (Ans 9,2,2)
+5. Some Histogram Questions
+6. Some Pie charts Questions
+
+
+C test :
+========
+1.char *str="quark" "media"
+   printf("%s",str); ( ans quark media )
+2.char *str;
+   str="hello" "india"
+   printf("%s",str); ( ans hello india )
+3.i=0;
+  z=sizeof(++i + i++)
+  printf("%d %d",z,i);
+4.volatile keyword
+5.macro XY ##
+  int main()
+{
+  char *s;
+  x=XY10;
+  printf("%s",x);
+}   
+6. int y=10;
+   for (int x=0;x<=10;x++);
+      y+=x;
+   printf("%d",y);
+7.Differece between malloc ad calloc.
+8.fun(int a)
+  {
+    static int b;
+   }
+  what is the storage allocation for both a and b;
+9.int *fun(int a)
+   { 
+     return (&a);
+   }
+   int *fun(int a)
+   {
+     int *b;
+      b=&a;
+      return(b);
+    }  
+   int *fun(int a )
+    {
+      int *b;
+      b=malloc(sizeof(int));
+      b=&a;
+      return (b); 
+    }
+which of the following functions are not correct ;
+ 10.  int fun(int a,int y) 
+         {
+           int x;
+            x=a+y;
+           return (x);
+          } 
+       int main()
+         {
+            int x,y=1,z=0,c;
+             z=fun(y,c);
+            printf(" %d ",x);
+          }
+11. int *x[10]()
+       what is x?
+12. printf("%d",++i++); o/p ?
+13. a=2;
+     printf("%d %d %d",++a,a++);
+14.struct abc
+ {
+   char a[10];
+   int a,b;
+ };  
+main(){     
+struct abc ab={"main"};
+    printf("%d %d",ab.a,ab.c);
+==================================================================
+i can't able to remeber more questions......
+best of luck
+vikas
+================================================================  
+  
+         

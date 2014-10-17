@@ -1,0 +1,153 @@
+
+
+Roorkee
+3-8-2000
+
+
+-----------------------------------------------------------------------------
+            WIPRO  2001
+The question paper consists of  1.Non tech (math,phy,chem,reasoning)
+=55marks
+                                                  2.technical(respective
+branch paper)  =20 marks
+
+       Nontech  same for all branch
+
+here in this paper i m giving for electrical branch paper.
+for technical q's for comp & E&C i will mail u those q's tomarrow morning
+-------------------------------------------------------------------------
+Section 1
+Q's of P.C.M.
+
+1.A gas changes its state (P1,V1) to(p2,v2) in different paths.Which of
+the following is true. DelQ-input,del-W output
+2.frequency of photon increases-K.E. of electron increases
+3.two body having same area at 10,20 degree cent.ratio of heat radiaton=1|
+16
+4.wave length of X RAY-a.less than a wave length b.monocrome wave length 
+c.bet min&max w length
+5.same mass no&same atomic no a. isotope b. isobar c. isotone
+6.109  water drops combine .resultant r=20mm.
+7. which are not soluble)phenol benzene b) chloro benzene bromo benzene c)
+water & ethanol
+8)after transfer of one proton from an isomer it forms a)metaisomer
+9)The ratio of  C,H &O in  a compound  are 40%,6.67% &53%.find the
+impirical formula  ans CH2O
+10)H2S+CL2=2HCL+S
+prob from mole concept
+11) benzol reacts with HCL in presence of PCL3 what will be the product
+12)16 21 26 
+      17 21 25
+   sum of 100 numbers of the series contains  ..ans-101100
+13)a speaks true 70%,b-80%,what is the probability that they will
+contradict
+14)find out the rank of SURITI in dictionary
+15)two persons choose a number bet.1 to 25.what is the prob. That they
+both will choose the same number
+16)x*3-3x+a=0
+what is the value of a between -1 to +1 so tthat they have +distinct root
+17)1+2(1+1/x)+3(1+1/x)2.find the value
+18)3/12+5/(12+22)+7/(12+22+32)..
+19)y=log(1-t2)
+    x=sin-1 t
+find d2y/dx2 |t=1/2
+20)(2x+3)/(x2+x+1)2 dx
+21)sin (2t+3)/6P  find out the period
+22)7 toys is to be didstributed among 3 students  find out the number of
+ways
+23)find minimum number of po  ints at which  2 circles intersect
+24)dy=(sec x +y tan x dx)find the  equation of the curve passing through
+origin
+25)s is a +ve integer from which equation it can be known
+a> x*2=1   b>x*3=-1
+26)y dx- dy+logx dx=0
+find the equation passing through -1 +1
+27)v=sin(some function)+1
+      ans -1 to +1
+28)two parts each containing 5 questions one has to select 6 questions he
+can't choose more than 4 questions from a group 
+29)A goes towards north 2km,then turns right move 4 km,then right 4
+km,then right 4 km
+  in which direction is he after the first turn (ans west)
+30)what is the dist bet the 1st and last point in the above question
+31) two group of people x,y,z and a,b,c,d. cond z does not agree to c so
+also a to b and y to a.three questions depending upon this in which you
+have to select a group of 2 peopleif one is fixed in a group you have to
+find the other.
+34)a observer measures length of a rod 
+a) observer is steady rods move paralally  with  the measured length
+b) rod steady observer is moving 
+c) in which case measured length is max.
+
+35)out of which data you can measure the length of  the shadow, height of
+man is 6 feet
+a)length of the poll is 12
+b)man stands at a dist of 12 feet from the pole
+36)a train moving with constant vel. V a nucloid exploids into 2 parts
+.the dist. Bet. 2 particles after t sec is x.what will be the dist..
+ans(x)
+37)two trains t ans d s are moving with constant vel. From a and b ,c is
+the mid point 
+betw. Them..
+38)A,B,C are to be choosen along with 5 persons.what is the prob .that
+they will be in a sequence.
+
+
+ELECTRICAL 
+1. Given slip 4%,Ns=750rpm
+2. freq=25 Hz
+3. df1/p1=df2/p2,p1=10,p2=20
+4. in measuring instr. Jewel.bearing
+5. E=50V/M,qgiven,F=EQ=
+6. SERIESresonance=1/2PLC
+7. Freq in cro,Fx/Fy=1:2
+8. Pole of G(s)H(s),pole at -.1&-.2 you have to find out zeroes
+9. Inductance of coil=m0mrA/Lm
+             R=60,r=40
+
+10.some quewstion 
+
+
+
+
+
+
+
+COMPUTER SCIENCE
+1.QUICK SORT  O(nlgn).
+2.NETWORK LAYER  (HOW MANY)
+3.VIRTUAL BASE CLASS  (FUNCTION)
+4.CPU SCHEDULING  --- R.R TO  FCFS.
+5.DBMS MODEL ---- three
+6.NETWORK ---  many to many relation.
+7.
+
+it is all about the paper.
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                Amit KumarTyagi
+                                                    F-40
+                                                 Azad Bhawan
+                                                U.O.R.,ROORKEE.
+                                            E-mail:
+                                            1)amit_tyagi_99@yahoo.com
+                                            2)amit_tyagi_99@usa.net
+                                            3)tyagipma@mail.rurkiu.ernet.in
+ 
+
+

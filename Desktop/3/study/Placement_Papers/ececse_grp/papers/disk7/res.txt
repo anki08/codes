@@ -1,0 +1,45 @@
+
+                             PROJECT DETAILS
+
+#1.  Project Title      :       PayRoll System
+     Client             :       Inhouse
+     Duration           :       April'96 to Oct'96
+     Team Size          :       3
+     Role               :       Team Member
+     Enviornment        :
+                        Hardware        :       PC486
+                        Operating System:       MS-DOS
+                        SoftWare        :       COBOL
+     Description        :This project deals with the automation of complete
+payRoll system of the organization.The primary objectives of this system are
+preparation of payslips giving all details taking into consideration of Basic,
+HRA,DA and leave Entitlement etc.,
+
+#2.  Project Title      :       Library Information System
+     Client             :       Inhouse
+     Duration           :       Nov'96 to June'97
+     Team Size          :       2
+     Role               :       Team Member
+     Enviornment        :
+                        Hardware        :       PC486
+                        Operating System:       MS-DOS
+                        SoftWare        :       COBOL
+
+     Description        :With this package all the activities of the library
+are computerised.The various sections computerised through this package are
+like issue,reference,accounts & enquiry.
+
+#3.  Project Title      :       Student Information System
+     Client             :       Inhouse
+     Duration           :       July'97 to Jan'98
+     Team Size          :       2
+     Role               :       Team Member
+     Enviornment        :
+                        Hardware        :       PC486
+                        Operating System:       MS-DOS
+                        SoftWare        :       COBOL
+
+     Description        :This package was developed to ease the clerical work
+in College office regarding the students information.The various sections like
+admissions,fees,scholarships,attendance,examination and extra circular activit-
+ies are computerized through this package.

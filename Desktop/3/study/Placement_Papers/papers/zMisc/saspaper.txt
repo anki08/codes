@@ -1,0 +1,186 @@
+
+
+-- 
+
+
+
+---------- Forwarded message ----------
+Date: Wed, 30 Aug 2000 11:50:37 +0530 (IST)
+From: kataria <kataria@iitk.ac.in>
+To: wing <c-mid_bakaits@egroups.com>
+Subject: [c-mid_bakaits] papers (fwd)
+
+-------------------------- eGroups Sponsor -------------------------~-~>
+GET A NEXTCARD VISA, in 30 seconds!  Get rates
+of 2.9% Intro or 9.9% Ongoing APR* and no annual fee!
+Apply NOW!
+http://click.egroups.com/1/7872/13/_/417740/_/967616547/
+---------------------------------------------------------------------_->
+
+
+
+---------- Forwarded message ----------
+Date: Tue, 29 Aug 2000 19:46:28 +0530 (IST)
+From: Tandra Ghose <tandra@iitk.ac.in>
+To: S Khandelwal ug ee <shambho@iitk.ac.in>,
+     T K Gupta ug ee <tarunk@iitk.ac.in>, Vikas K ug met <kataria@iitk.ac.in>,
+     Supratim R ug ee <sray@iitk.ac.in>
+Cc: Abhijeet Neogy bt ee <aneogy@iitk.ac.in>
+Subject: papers (fwd)
+
+
+
+---------- Forwarded message ----------
+Date: Tue, 29 Aug 2000 07:09:50 -0700 (PDT)
+From: siddharth gupta <anandpshukla@yahoo.com>
+To: aman@iitk.ac.in
+Cc: tandra@iitk.ac.in
+Subject: papers
+
+hi i am sending yu the papers of sas.
+sandy and siddhar
+
+                 SILICON AUTOMATION SYSTEMS-2000
+                ..............................
+
+SAS conducted test in IC design.Regarding interview
+
+   they are conducting interviews to select the cand.
+in two areas.
+ 
+    1)IC design       2)telecom. field
+
+   For first one the qns. were mainly posed in c.mos
+circuits,flipflop
+
+conversions.and other design aspects.For the latter
+case the qns. were
+
+mainly posed in the area of networking. 
+
+   also be prepared with C-funda,data
+structures(mainly
+
+queues,stacks,linked lists)
+
+
+     here are the qns. of examination.
+
+
+
+  
+                      PART..A       
+                     ..........
+ 
+  1) Latch up problem exists in........ans.CMOS
+---------------------------------------------------------------------
+  2) Transistor acts as .....ans. i/p current convert.
+to o/p voltage.
+---------------------------------------------------------------------
+  3)Difference between  latch and flip flop
+    .....Latch is level triggered and fliflop is edge
+triggered.
+-----------------------------------------------------------------------
+  4)Waveforms of clock,two flip flop o/ps were given
+    the qn. is to find the circuit (ckts were given as
+choices)
+    that behaves as pr waveforms.
+------------------------------------------------------------------------
+  5)Given a flip flop circuit,find the sequence that
+it generates.
+------------------------------------------------------------------------
+  6)Follwing inst. were given.
+      PUSH 0x5000
+      RETURN
+     the qn. is to find what happens next,choose out
+of the ans.
+-------------------------------------------------------------------------
+   7)Given setup time,holding time of flpflop,the qn.
+is to find the max.
+and min. clk. freq.
+--------------------------------------------------------------------------
+   8) Universal gate .........NAND/NOR
+--------------------------------------------------------------------------
+   9)EX_OR ckt.....................odd parity
+generator.
+--------------------------------------------------------------------------
+   10)Basic memory storage element...........latch
+---------------------------------------------------------------------------
+   11)Fast adder uses ............look ahead carry.
+--------------------------------------------------------------------------
+   12)10 i/p and 8 o/p logic can be
+   
+     a)always realised using 10 i/p and 8 o/p PAL
+     b)can not be ,,    ,,     ,,    ,,    ,,
+     c)always realised using 10 i/p and 8 o/p PLA
+     d)can not be ,,    ,,      ,,   ,,    ,,
+----------------------------------------------------------------------------
+  13)  Demultiplexer is a......... combinational
+circuit.
+
+--------------------------------------------------------------------------
+   
+   
+                   PART_B
+               ..................
+  
+  1)Design a mod-4 counter to generate the sequence
+   
+    1,3,15,5,1,3,15,5..........
+  
+   a) Use D-flip flop,write the expressions for
+  
+   D0.......       D1......    D2........      
+D3........
+  
+   b)Write the expressions to minimum power
+dissipation.
+
+   D0........    D1........      D2......     D3......
+-----------------------------------------------------------------------
+
+  2) A CMOS circuit was given
+   
+     The qn. was to identify whether it reprsents NAND
+ or NOR
+-----------------------------------------------------------------------
+
+  3)    two flip flops were given interconnected by a
+"logic ckt"
+        
+        The clk. signal of one flip flop was inverted
+and given to 2nd
+one.
+    if hold time is 2.25 ns ,set up time is  0.1 ns
+  
+    delay time is 10 ns
+    
+    The qn. is what is the max. delay and min. delay
+in the "logic ckt."
+------------------------------------------------------------------------
+  4)  A CMOS ckt. was given.
+    
+      The qn. is to find the logic function that it
+represents.
+  
+       and also find out the logic for min. power
+dissipation.
+............................................................................
+ 
+    
+
+Bye 
+
+siddharthth
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Mail - Free email you can access from anywhere!
+http://mail.yahoo.com/
+
+
+
+To Post a message, send it to:   c-mid_bakaits@eGroups.com
+To Unsubscribe, send a blank message to: c-mid_bakaits-unsubscribe@eGroups.com
+
+

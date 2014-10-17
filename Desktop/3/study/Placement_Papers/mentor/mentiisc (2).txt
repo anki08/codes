@@ -1,0 +1,277 @@
+CSE Department's Web-mail Service
+
+
+
+From: "Gopalakrishna Holla  M.G" <gkholla@iitk.ac.in>
+To: mtech2001@cse.iitk.ac.in
+Date: Sun, 4 Aug 2002 08:47:17 +0530 (IST)
+Subject: Mentor graphics paper (IISc) (fwd)
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+  Send mail to mime@docserver.cac.washington.edu for more info.
+
+
+
+                                                     ROOM NO B101 
+                                                     HALL IV 
+                                                     IIT KANPUR    
+                                                     PIN 208016     
+                                                     Phone:0512+597314
+
+---------- Forwarded message ----------
+Date: Sat, 3 Aug 2002 06:39:25 -0700 (PDT)
+From: sreedhar y 
+Reply-To: iitbatch2001@yahoogroups.com
+To: iitbatch2001@yahoogroups.com
+Subject: [iitbatch2001] Mentor graphics paper (IISc)
+In Mentor graphics written test CS students have to
+attempt 7 sections. They are :
+
+        1. General Software
+        2. C and C++
+        3. Datastructures
+        4. Operating Systems
+        5. Compilers
+        6. Computer Architecture & Microprocessors
+        7. General Aptitude
+
+Total time : 1.30 min
+
+        1. General Software
+        -------------------
+
+1. Match the following :
+
+        xv      1) editor
+        html    2) to view images
+        emacs   3) hyper text
+        .....   ........
+
+                Ans : 231
+
+2. Match the following :
+
+        c               1) compiler tool                
+        smalltalk       2) scientific programming lang
+        cobal           3) object oriented lang
+        yacc            4) system prog
+        fortran         
+
+                Ans : 43512
+
+3. cc -E filename what it does ?
+
+        Ans : Stop  after the preprocessing stage; 
+              do not run the compiler proper.  
+              The output is preprocessed source code, 
+              which is sent to the standard output
+
+4. ls | grep -v ls | wc -l
+        
+        Ans : gives the no. of files in the current dir 
+                which dose not have ls in their names
+
+5. what does ps do
+
+        Ans : lists process status
+
+6. One Q. on cvs (control version system)
+
+7. 
+..
+..
+
+                 2. C and C++
+                -------------
+
+1. #define f(x,y)  x##y
+        main()
+        {
+                int a;
+                a = f(2,3);
+                printf("%d",a);
+        }
+
+        Ans : 23
+
+2.      main()
+        {
+        #if 0
+                printf("\nif 0\n");
+        #endif
+
+        #if(0,1)
+                printf("\n 0,1");
+        #endif
+
+        #if(1,0)
+                printf("\n 1,0");
+        #endif
+        }
+
+        Ans : 0,1 (middle if block is entered)
+
+3. which of the following are same in c
+        a) *p, p        b) &(*p), p 
+        c) *(&p) , p    d)
+
+                        Ans : c
+
+4. What is the default return type in ANSI C ?
+                        Ans : int
+
+
+5. for(p = head; p != NULL; p = p->next) {
+        free(p);
+   }
+                        Ans : Dangling pointer
+
+6. In main array of five strings are declared like this :
+
+main()
+{
+        char a[5][20] = { "aaaaa", "bbbbb", "ccccc", 
+                        "ddddddd", "eeeeee"};
+        char *t;
+        int i;
+
+        t = a[4];
+        a[4] = a[3];
+        a[3] = t;
+
+        for(i = 0; i <= 4; ++i)
+                printf("%s\n", a[i]);
+
+}
+        Ans : compile time error 
+              like : incompatible types in assignment
+
+
+and so on...
+
+                3. Datastructures
+                -----------------
+
+1. One question on red-black tree.
+
+2. which of the following sorting algo is stable ?
+        a) merge sort   b)heap sort     c)quick sort
+
+3. in a 1000 node binary tree to search 385, which of the follwing
+   sequence is not correct
+        4 sequences are given
+
+4. which of the following is not the post order of the heap  
+        4 sequences are given
+
+5. Travelling salesman problem is ....  
+        a) NP complete ........
+
+
+6. One question like : For external sorting how many 
+   disk accesses are needed (given b blocks k passes ...)
+
+7. 
+..
+..
+..
+
+                   4. Operating Systems
+                   --------------------
+
+1. which of the following are used to detect deadlock
+        a) Resouce allocation graph
+        b) hoarse table
+        c) ....
+        d)all the above
+                        Ans : d
+
+2. what does lseek do ?
+
+3. Conventional unix systems used to be :
+        Ans : time sharing
+
+4. Question on Multilevel feedback queue
+
+5. Overlaying is :
+        Ans : Overwriting process memory layout with anothers 
+
+6. Bootstrap loader lies in :
+        Ans : ROM
+
+7. Bootstrap loader does :
+        a) locating kernel
+        b) creates one dummy process to load kernel.
+        c) loads kernel
+        d) all the above
+                Ans : d
+8.
+..
+..
+                5. Compilers
+                ------------
+(We attempted very few questions in this section)
+
+1. 3 address code is used in which stage of compilation ?
+        Ans : Intermidiate Code generation 
+
+Some questions on Grammer
+
+..
+..
+
+ 
+       6. Computer Architecture & Microprocessors
+        ------------------------------------------
+
+1. 176 in base 12 is :..........
+
+2. The string "ABCDEFGH" is stored by  processors P1 & P2 as 
+   shown below
+  
+   P1           P2
+
+   0x2000 AB   0x2000 GH
+   0x2002 CD   0x2002 EF
+   0x2004 EF   0x2004 CD
+   0x2006 GH   0x2006 AB
+
+   ans) P2 little endian & P1 big endian 
+        ( lsb is at lower address -> little endian)
+
+3. cache coloring is used for solving 
+   a) cache coherence
+   b) to reduce cache misses
+   c) to increase hit ratio
+   d) 
+
+4. A cache is 2-way set associative, 
+   cache block & cache line sizes are given
+   how many bits are used for indexing into cache ?
+
+5. for a 16 bit micro processor, clock freq is given as 6MHz. 
+   For instruction fetching and decoding it takes 5 micro sec. 
+   for storing in to memory it takes 2 micro sec. 
+   Then howmany machine cycles are needed for the 
+   execution of mvi A 06h
+
+6. Processor P1 clock freq is less than that of P2, 
+   but P1 is faster in execution in time. the reason may be 
+   a) P1 is implementing by pipelining
+   b) P1 exploits locality of reference
+   c) a & b
+   d) P1 can't execute faster than P2 .
+
+   ans) c
+
+                        7. General Aptitude
+                        -------------------
+So many questions are there, they are infact easy.
+You can try there itself
+
+All the best
+
+sreedhar
+
+

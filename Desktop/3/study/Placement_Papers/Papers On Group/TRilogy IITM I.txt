@@ -1,0 +1,59 @@
+Hii ,
+here are few details about Trilogy campus
+recruitment at IIT Madras.
+* Written test followed by 2 rounds of interview.(
+no HR round)
+* Programming and Puzzles
+* No CGPA cut offs
+
+QUESTIONS:
+TRILOGY
+
+*****Optimal strategies will get better weightage.***
+
+WRITTEN TEST
+
+1.Write a program to right-rotate a string by
+k-positions.
+
+2.In a matrix,
+* All rows are in ascending order
+* All columns are in ascending order
+* Each element is unique.
+Write a program to search for a given element in
+the matrix.
+
+3. Given a doubly linked list with all nodes in the
+ascending order of a key. Write a program to convert
+that double linked list into a height balanced binary
+search tree. You shouldnt create a new copy. U have to
+just manipulate the pointers.
+
+4. Given a code for finding farthes( from root) t
+common ancestor of two nodes in a tree.
+Identify and fix the bugs.
+
+INTERVIEW QUESTIONS
+
+1.There are two arrays A[1..m] and B[1..(m+n)]. A
+contains m elements and B n elements. Write a program
+to merge A into B. The constraint is the number of
+data movements in the arrays must be minimum.
+
+2. Write a program to duplicate of a DAG.
+
+3.Two sorted arrays are given. Find out the common
+median.
+
+4.An array of N elements contains an arbitrary
+permutation of the numbers from X to X+N-1 of which
+one number is missing and another one is repeating.
+Find out X, the missing and repeating numbers.
+
+5.In an array of N numbers, one number is repeated N/2
+times and the remaining N/2 numbers are different.
+Find out the repeating number.
+
+6.Write a program to print all the permutations of n
+different numbers.
+

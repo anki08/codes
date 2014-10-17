@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+int a[]={9,4,1,7,5};
+int *p;
+p=&a[3];
+printf("%d",p[-1]);
+}
+
+ANS: 1

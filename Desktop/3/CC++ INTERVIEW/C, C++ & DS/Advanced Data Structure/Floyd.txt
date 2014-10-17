@@ -1,0 +1,30 @@
+0.4.3 Floyd's Algorithm - Shortest Paths 
+This algorithm is designed to find the least-expensive paths between all the vertices in a graph. It does this by operating on a matrix representing the costs of edges between vertices.     
+Before we invoke Floyd's algorithm we must build a matrix, usually in a two-dimensional array. If there are n vertices in our graph, our matrix will be nxn. Each row in the matrix represents a "starting" vertex in the graph while each column in the matrix represents an "ending" point in the graph. If there is an edge between a starting point i and ending point j in the graph, the cost of this edge is placed in position (i,j) of the matrix. If we are dealing with an undirected graph in which all edges are bi-directional, an entry is also made in position (j,i) of the matrix. If there is no edge directly linking two vertices, an infinite (or, in practice, very large) value is placed in the (i,j) position of the matrix to specify that it is impossible to directly move from i to j. 
+
+For example, if we have a graph in which points 1 and 5 are connected by a bi-directional edge with a cost of 22 units, we would place the number 22 into positions (1,5) and (5,1) of our matrix. 
+
+Once we have set this matrix up, we use Floyd's algorithm to compute the shortest distance between all points in the graph. Floyd's algorithm is given below in C: 
+
+
+
+--------------------------------------------------------------------------------
+
+int floyds(int *matrix) {
+  int k, i, j;
+
+  for (k = 1; k <= n; k++)
+    for (i = 1; i <= n; i++)
+      for (j = 1; j <= n; j++)
+        if (matrix[i][j] < (matrix[i][k] + matrix[k][j]))
+          matrix[i,j] = matrix[i][k] + matrix[k][j];
+}
+
+
+--------------------------------------------------------------------------------
+
+When this routine finishes the entries in all positions of the matrix represent the lowest-cost traversal between the row-vertex and column-vertex. 
+
+Floyd's algorithm works by looking for all non-direct paths between two vertices that have a less-expensive total cost than the best way yet found to move between said vertices. If such a path is found, it becomes the value against which future indirect paths between these vertices are tested. In the end, each element of the matrix represents the lowest-cost traversal between the vertices it's row and column represent. Remember that if the graph is directed, so is the answer in (i,j) of the matrix; moreover, (i,j) may not be equal to (j,i) in a di-graph. 
+
+It is clear that Floyd's algorithm takes n3 time. In the next section we will discuss an alternative to Floyd's algorithm called Dijkstra's algorithm. It is important to note, however, that for dense graphs (i.e. graphs with many edges) Floyd's algorithm is as good as or better than Dijkstra's algorithm.

@@ -1,0 +1,84 @@
+sec 1(8 questions on this problem)
+
+    if L is a set containing some elements like a,b,c,--.then A(L) is the set containing only the first element of set L.
+B(L) is the set containing all the elements except the first.
+if L1=(a,b), L2=(c,d) then M(L1,L2)=(a,b,c,d) all the elements of both the sets in order.
+
+then P(L)=L               IF A(L)=() nullset,B(L)=()
+	 =(AB(L),A(L)	  IF B(L)!=(),BB(L)=()
+	 =M(AB(L))	  IF BB(L)!=()
+
+     R(L)=L		 IF A(L)=(),A(L)=()
+	 =B(L)		  SAME CONDITIONS
+         =M(A(L),R(B(B(L)))
+
+FOR EX L=(a,b,(a,b))
+      A(L)=a
+      B(L)=(b,(a,b))
+
+some que     1.RP(L)=
+	     2.PR(L)=
+	     3.PP(L)=
+	     4.MA(L)=
+
+2.FIG SERIES;(8 questions)
+SOME BROKEN FIG ARE GIVEN U HAV TO ASSEMBLE THEM
+
+1. ANS  A
+2. ANS  A
+
+3.CRIPTIVE RULES(8 questions)
+
+WE WONT HAVE PERFECT ANS FOR THESE 
+(please See the dictionary and prepare the meanings of all these as it may help u during the test)
+1. head
+ a.atom  b.headon   c.estimate   d.attribute
+
+2.the greater rome friend  ans.palendrome
+
+3.row'd-----across
+ a.crossover   b.crossword    
+
+4.hat in a water---
+ a.capsize   b.witch   c.watch
+
+5.garment article-- bare--
+ a.clothe   b.threadbare
+
+6.tailor does---
+ a.cutlass    b.bonfire   c.benifit    d.pastiche
+
+7.--------filly
+ a.up hilly   b.attribute  c.estimate
+
+8.
+
+
+4. /* 8 questions on valid words */
+alphabet is {G,D,O}
+If xOyDx is a valid word,then xOyGDx,xGOyDx,xGOyGDxG are valid 
+words.
+( x and y are strings of Gs)
+Eg:-
+Of the set {GGOGDGG,GGGOGDG,GGOGGDGG,GGDGOGG} how many are 
+valid words
+ans:- 2 ( first and third)
+
+  5. target prioblem(8 questions)
+u are given a target number, a set of operators(*,/,+,-,())
+operators and in the choices u are given combinations of certain numbers.using the set of nmberas given in the options and operators u have to generate the target number.
+
+
+
+1. target = 114, can be obtained by 20*6-(7+1)=114.so the ans will be (20,6,7,1)
+ 2. target =  87, ans = could not remember(10,9,8,7,3)
+     the target number was proced by some mathematical      operation on the above numbers
+ 3. target = 37, ans =____
+ 4. target = 102,ans =____
+ 5. target = 41, ans =____
+ 6. target = 146,ans =____
+ 7. target = ----
+ 8. target= -----
+
+
+

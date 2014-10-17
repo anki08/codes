@@ -1,0 +1,387 @@
+			GSSL
+			====
+ITest : General Intelligence
+
+II test : Technical test
+
+III test : C-language
+
+
+I Test
+
+Some of the questions what I have Iam sending.
+
+1. 5,5,,13,13,21,21    Ans: 29
+
+2.0,7,26,63,124,   Ans: 215 i.e.n**3-1 rule following
+
+3. 1,3,5,7, Ans: 9   '1' is not a prime number
+
+4. If a person walks at 4/5th of his usual spee he reaches 40min late. If 
+he walks athis usual speed how much time does he travels.
+
+Ans:160min or 2hr 40min
+
+5. Two trains A&B start at opposite points 120km at 60kmph. A fly 
+starting along with train A at 120kmph reaches B then returns back to 
+touch and continue. By the time two trains meet howmuch distance the fly 
+would have travelled?
+
+Ans : By  1hour both trains meet, so the distance travel by fly in 1hr is 
+120km.
+6.In a class 80% have passed english,70% passed Hindi 10% didnot passed 
+either. If 144 students passed both. What is the total strength of the class.
+
+Ans: 240
+
+. Find the least number when divided by 7 gives the reminder 6, when 
+divided by 6 gives reminder 5, when divided by 5 gives reminder 4 and so 
+on....
+Ans: 419
+
+8. If a man stands in front of sun what is the first letter of the 
+direction which is left to him:
+
+Ans: North(N)
+
+9.A square is to circle what is cube to
+
+Ans: sphere
+
+10. Synonyms
+
+	i) Joy = gay
+
+	ii) Inert = Inactive
+11.One wordswill begiven find oddman out: Ans:sickle like that
+ a) sow  b) cut c)   d) sickel
+
+12. If I bought a cycle before 2days of my birthday and I broke it after 
+3 days of my birthday the day I broke is Mar2, 1956?  Answer following 
+logical questions?
+i) when is his birthday?
+Ans: April,28  (due to leap year i.e.1956)  but do not keep answer 
+blindly we just think before choosing answer Iam just giving ideaof question
+
+13.
+							Monday
+							Aug25, 96
+
+Mr A,
+	You forgott your umbrella during the party on last friday.I 
+expected you to collect it on your visit on wednesday,I plan to leave on 
+this Friday.
+
+Questions: when  A missed umbrella?
+When A is supposed to collect it?
+
+When K leaves?
+
+Hint:  These dates i.e. Aug 25 is not exactly given in test, but Iam 
+giving feel of that question.If you solve this question you can solve it 
+easily in exam.
+
+14.What is my father's sons son to my son?
+
+Ans: cousin brother
+
+15.On cutting which solid parabola would be generated Ans: cone
+
+16. Eulers formula:  Ans: F+V-E =2;  
+
+F= faces;V= vertices;E = number of edges	
+
+17. Newton Rapson method is to find Ans:to find the root of f(x) = 0;
+
+18. How many tangents can be dran within three circles if they donot lie 
+within each other
+Ans : 12  But this answer is not there I kept 8 as answer
+
+
+19. In language the fortran which is true. A) fortran uses call by value
+
+20. When a program is compiled what it produces
+
+Ans:source code to object code
+
+21. In the following venn diagram shaded region is represented by some 
+question like that I can't draw figure here thats why Iam sendinganswer only
+
+Ans: (B-A)'   i.e. (B-A) whole dash
+
+
+22. xy-x+2y = 6 equation is shifted to form equation xy=c what is c?
+
+Ans : 4
+
+23.When x is real what is the least value of (x**2-6*x+5)/(x**2+2*x+1)
+
+Ans:-1/3
+
+24.When an object like cube or sphere is seen along x,y,z,axes we get the 
+same.Apart from these suggest another which has similar characteristics?
+
+Ans:you have to draw the figure    Ans: is triangular prism you draw 
+triangular prism.
+
+25. When an object is seen from front side we can see two concentric 
+squares and topview also without any hidden lines. Draw the side view.
+
+Ans: I know ans but I canot draw.
+
+26. Convert  251 decimal to base 8(i.e. octal)?
+
+Ans: similar question    but for this question answer is 373
+
+27. How much information can be solved in 1 byte of a IBM pc compatible?
+
+Ans: 256
+	
+28.What is the language used for Artificial Intelligence Ans: lisp
+
+29. Swap two variables without using temporary variable
+
+Ans:   a= a+b;
+	b= a-b;
+	a= a-b:
+
+30.Which is not the operating system ?Ans: BIOS
+
+31. What is the optimum number of operations for 2*(x**3)+3*(x**2)+5*x+5?
+
+Ans: three multiplications, three additions.
+
+32. A=> Bmeans
+Ans: if A is true B has to be true
+
+33.If A is not invertible and BA = I is not possible
+
+Ans: Determinant is Zero.
+
+34, What is FREE BODY Diagram
+
+Ans: Used for analysing FEM.
+
+35. A  die is thrown twice what is the probability that you get same number
+
+Ans:11/36.
+
+
+
+some of the questions from aptitude.
+
+Actually I do not remember exact questions. But you will get rough idea. That test 
+is not very difficult.Only speed is important.
+
+**
+there were 3 questions on coading decoading out of which 2 were very simple.
+
+ MAHESHMUNGI
+ 12334516789           then      what is     GUMASHMI            
+
+ ***
+
+ 2 questions on maths series 
+
+ out of which one simple     2 4 6 8 10 12 ?
+
+ other was very difficult in which no were increasing decreasing i dont remember 
+ exactly that series. you practice from books GRE,QUANTITATIVE APTITUDE
+  3 6 4 ...        mostly ans of that series was 12
+ ******
+
+ there were 2 questions on diagram where in there were triangle rectangle circle 
+ drawn on one upon the other . there were different nos in the spaces inside
+ you have to find out e.g.  which is the no lying in all the figs in triangle
+ circle etc   ,,  which is the no lying in triangle but not in circle .
+
+ this is very very simple.
+
+ *******
+
+ If you found a small boy without his parents what will you do?
+- inform police station to search his parents.
+-take that boy to your home.
+-
+etc
+*****
+
+2 questions on finding the odd out of the list given
+
+delhi, nagpur, madras, punjab
+
+******
+same meaning / opposite meaning 
+
+jolly 
+ **********
+Q
+hammer:carpenter::
+a knife:butcher
+b....
+Q
+arbittarily:subjective::
+a randomly:selective
+Q
+a sqare sheet is given we have to cut 4 corners of squre section of equal size such that
+when we fold it we will get a open box in which 128 ml water can be filled.find the ratio
+of square sheet lenth to length of corner squre portion removed.
+note:i cant remember optional given they have given 4 optional
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This was the paper given here, as i didn't wrote this paper 
+iam not sure, But this is the only paper they have and there is no intension
+of changing it .\
+SO GO A HEAD
+
+
+HAVE FUN WITH HR OF THAT COMPANY
+KALPANA
+CONVEY MY PUPPIES ALSO (Especilly on her left boob)
+
+
+
+These guys aare basically interested in recruiting a guy 
+who know more about CAD
+Have you done any course of that sort, That will be an advantage
+But There is no rule that they won't take who hasn't done that
+course.
+
+O.K. THAT'S ALL
+INFOSYS PAPER FOLLOWS 
+    (positively by tommorow)
+bye........................Ranjith
+  
+		
+
+I am sending mainly c paper and some questions.Ra
+also will send somethig.There are 15 c q's all are discriptive.
+
+1)fallacy 
+f()
+{
+int a;
+void c;f2(&c,&a);
+2)a=0;
+b=(a=0)?2:3;
+a) What will be the value of b? why
+b) If in 1st stmt a=0 is replaced by -1, b=?
+c) If in second stmt a=0 is replaced by -1, b=?
+3)char *a[2]
+int const *p;
+int *const p;
+struct new { int a;int b; *var[5] (struct new)
+4)f()
+{
+int a=2;
+f1(a++);
+}
+f1(int c)
+{
+printf("%d", c);
+}
+c=?
+5)f1()
+{
+f(3);}
+f(int t)
+{
+switch(t);
+{
+case 2: c=3;
+case 3: c=4;
+case 4: c=5;
+case 5: c=6;
+default: c=0;}
+value of c?
+6)Fallacy
+int *f1()
+{
+int a=5;
+return &a;
+}
+f()
+int *b=f1()
+int c=*b;
+}
+7)a)Function returning an int pointer
+b)Function ptr returning an int ptr
+c)Function ptr returning an array of integers
+d)array of function ptr returning an array of integers
+(See Scham series book)
+8)fallacy 
+int a;
+short b;
+b=a;
+9)Define function ?Explain about arguments?
+10)C passes  By value or By reference?
+11)Post processed code for 
+abc=1;
+b=abc1; (1 or 2 blank lines are given)
+strcpy(s,"abc");
+z=abc;
+12)difference between my-strcpy and strcpy ?check
+13)f()
+{
+int *b;
+*b=2;
+}
+14)Function which gives a pointer to a binary trees const an integer value
+at each code, return function of all the nodes in binary tree.(Study)Check
+15)Calling refernce draw the diagram of function stack illustrating the
+variables in the -----then were pushed on the stack at the point when
+function f2 has been introduced 
+type def struct
+{ double x,double y} point;
+main( int argc, char *arg[3])
+{double a;
+int b,c;
+f1(a,b);}
+f1(double x, int y)
+{
+		Best of luck
+Sekhar
+
+
+
+
+
+

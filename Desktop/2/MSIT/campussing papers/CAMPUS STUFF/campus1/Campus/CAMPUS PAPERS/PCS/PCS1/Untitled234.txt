@@ -1,0 +1,36 @@
+Q. A man leaves office daily at 7pm  A driver with car comes from his home to pick him from office and bring back home   One day he gets free at 5:30 and instead of  waiting for driver he starts walking towards home. In the way he meets the car and returns home on
+car  He reaches home 20 minutes earlier than usual.In how much time does the man reach home usually??
+
+######Ans. 1hr 20min
+
+Q  The following truth table is given  What is Y equal to??
+>A B C Y
+>0 0 0 1
+>0 0 1 1
+>0 1 0 0
+>0 1 1 0
+>1 0 0 0
+>1 0 1 0
+>1 1 0 1
+>1 1 1 1
+
+##### Ans. (A')(B')(AB) , where ' stands for complement.
+
+Q. A works thrice as much as B. If A takes 60 days less than B to do a work then find the number of days it would take to       complete the work if both work together?
+###### Ans. 22½days
+Q.  How many 1's are there in the binary form of  8*1024 + 3*64 + 3 
+#### Ans. 6
+Q. In a digital circuit which was to implement (A B) + (A)XOR(B), the designer implements (A B) (A)XOR(B)
+>     What is the probability of error in it ?
+
+Q. A boy has Rs 2. He wins or loses Re 1 at a time  If  he wins he gets Re 1 and if he loses the game he loses Re 1.
+    He can loose only 5 times. He is out of the game if he earns Rs 5.   Find the number of ways in which this is possible?
+#######>Ans. 16
+Q. If there are 1024*1280 pixels on a screen and each pixel can have around 16 million colors , Find the memory required for this?
+>
+>Ans. 4MB(3.75MB exact)
+>Q. On a particular day A and B decide that they would either speak the truth or will lie. C asks A whether he is speaking truth or lying?  He answers and B listens to what he said. C then  asks B what A has said  B says "A says that he is a liar"
+>      What is B speaking ?
+>
+>(a) Truth    (b) Lie  (c) Truth when A lies  (d) Cannot be determined
+#### Ans. (b)

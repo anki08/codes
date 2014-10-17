@@ -1,0 +1,70 @@
+IBM Latest paper
+There are 2 sections Aptitude and technical. 
+Each Comprises of 20 qs
+
+Aptiutude:
+
+1)two clocks meet at 12.Next time they meet again after
+
+Ans 65.45
+
+ 
+
+2)Soldiers form a square .Initially 32 soldiers left.Then 8. 
+After they could not form a square.Total at the beginning?
+options: 100,81,49,67 
+
+ANS:
+ 
+
+3)Age of Grandfather is the ages of 4 grandchildren where their 
+ages are in consective.Find the age of GF.I think 72 
+
+ 
+
+4)3 person waiting for the train. Some conditions given.Finally 
+they ask the time.
+
+Ans is 4.37
+
+5)Some Squirrel qs where it covers 1/4 th distance then 1/2 i 
+could not remember 
+
+6) If mpown=121. Then m-1pown+1 is 1000
+
+
+7) If speed  in the ratio 5:4:3 then the time taken to
+cover the same distance is?
+
+
+8)20 men construct a wall 56m in some days similar one
+
+Ans: 49 (check aggarwal)
+
+ 
+
+Technical:
+
+ 
+
+char *p=(char *)10
+
+op=?
+
+Running time of 8T(n/2)+q is ncube
+
+Scope of static and automatic var 2qs
+
+nodes in binary tree of length 4 is 15(2pown -1)
+
+how to convert 2d array to single dimension 
+
+options are 
+
+1.convering a row 2 colunm 3 or both in to o's
+
+comments-for documentaion or it increases file size
+
+like that.u have to choose the correct one
+
+Technical qs are bit tricky..

@@ -1,0 +1,148 @@
+
+___________________________________________________________________________________
+
+COMPANY NAME : Oracle
+------------------------------------------------------------
+DATE OF TEST : 21 st june 2003
+------------------------------------------------------------
+PLACE OF TEST: 
+------------------------------------------------------------
+MODE 	   : Off-campus
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+
+-----Original Message-----
+From: mohanrajpb 
+Sent: Sunday, June 22, 2003 1:49 PM
+To: CHETANA-JOBS@yahoogroups.com
+Subject: [CHETANA] Oracle Technical Paper : Conducted on 21 st June 2003
+
+
+hi friends,
+these are the questions of technical paper conducted by oracle this 
+saturday .the code of the paper is qp-9.
+i have tried to recollect as much as i can.Certain questions are 
+incomplete.the total no. of questions were 30.
+bye,
+MOHAN
+
+
+
+1. precedence of PL/SQL
+2.in an employee table consisting of empid and supid  to get 
+supervisor id for employee (something like this related to ans. self 
+join) we would use
+Intersect
+union
+join 
+subquery
+3.The order of execution in corelated queries
+Inner query executes first then outer query 
+Outer query executes first then inner query 
+each row of inner query is evaluated with outer query
+each row of outer query is evaluated with inner query
+4.declare
+      i  Number
+      j  Number
+      k Number
+begin
+      i:=0
+      for j = 1..5
+                       i:=i+1;
+                       j:=j+1;k:=i+j+k;
+..........
+5.function of ROLLUP and CUBE
+6.Based on Group by clause rule that it should contain column found 
+in select clause
+7.Can procedure in a package be overloaded
+8.public void static main(String []args)
+{
+String s1=new String("test");
+String s2=new String("test");
+if(s1==s2)
+System.out.println("Both are equal");
+Boolean b1=new Boolean("true");
+Boolean b2=new Boolean("false");
+if(b1.equals(b2))
+System.out.println("some message");
+}
+output=?
+9.
+x=7;
+y=0;
+if(x=y)y=7;
+else
+y=5;
+what is the value of y
+10.Threading in java a prg was given in which it had no exceptions 
+and run function had string as its parameter
+a.runtime error
+b.compile time error
+c.
+d.
+
+11.what fuction can be repeated instead of comment
+....
+{
+public void aMethod(String S,int i);
+//here
+....
+}
+a.public void aMethod(int i ,String S);
+b.public void aMethod(String myobj,int j);
+c.public int aMethod(String S,int i);
+d.public void AMethod(String S,int i);
+12.Encapsulation is implemented by
+a.private variables and public methods
+b.private variables and private methods
+c.public variables and public methods
+d.protected members
+13.Based on scope of a variable
+14.Recursive fuction are used to 
+a.call itself
+b.call other functions
+c.return integers
+d....
+15.
+int a[]={0,1,2,3,4,5}
+int *pa=a;
+which of the following is not the correct way to access
+a.a[5]
+b.*(a+5)
+c.*(pa+5)
+d.*(*pa+5)
+16.
+struct{
+char emp[12];
+int mpno;
+}e;
+struct e a[2]={{jack,2},{raj,8},{jill,2}}
+struct e *p;
+*p=a;p+=2
+......
+17.AVL tree is a balanced binary search tree
+18.order of B+tree
+19.Disadvantage of indexed sequential file
+20.queue can be called as full even if its capacity is'nt.
+
+      
+
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+
+

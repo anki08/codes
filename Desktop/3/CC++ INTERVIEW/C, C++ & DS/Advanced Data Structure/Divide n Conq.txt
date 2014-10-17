@@ -1,0 +1,109 @@
+Divide-and-Conquer 
+This is a method of designing algorithms that (informally) proceeds as follows: 
+
+Given an instance of the problem to be solved, split this into several, smaller, sub-instances (of the same problem) independently solve each of the sub-instances and then combine the sub-instance solutions so as to yield a solution for the original instance. This description raises the question: 
+
+By what methods are the sub-instances to be independently solved? 
+
+The answer to this question is central to the concept of Divide-&-Conquer algorithm and is a key factor in gauging their efficiency. 
+
+Consider the following: We have an algorithm, alpha say, which is known to solve all problem instances of size n in at most c n^2 steps (where c is some constant). We then discover an algorithm, beta say, which solves the same problem by: 
+
+Dividing an instance into 3 sub-instances of size n/2. 
+Solves these 3 sub-instances. 
+Combines the three sub-solutions taking d n steps to do this. 
+Suppose our original algorithm, alpha, is used to carry out the `solves these sub-instances' step 2. Let 
+T(alpha)( n ) = Running time of alpha 
+
+T(beta)( n ) = Running time of beta 
+
+Then, 
+
+T(alpha)( n ) = c n^2 (by definition of alpha) 
+
+But 
+
+
+
+T(beta)( n )  = 3 T(alpha)( n/2 ) + d n
+
+              = (3/4)(cn^2) + dn
+
+So if dn < (cn^2)/4 (i.e. d < cn/4) then beta is faster than alpha 
+
+In particular for all large enough n, (n > 4d/c = Constant), beta is faster than alpha. 
+
+This realisation of beta improves upon alpha by just a constant factor. But if the problem size, n, is large enough then 
+
+
+
+         n     >   4d/c
+         n/2   >   4d/c
+               ...
+         n/2^i >   4d/c
+
+
+which suggests that using beta instead of alpha for the `solves these' stage repeatedly until the sub-sub-sub..sub-instances are of size n0 < = (4d/c) will yield a still faster algorithm. 
+
+So consider the following new algorithm for instances of size n 
+
+
+procedure gamma (n : problem size ) is
+   begin
+       if n <= n^-0 then
+           Solve problem using Algorithm alpha;
+        else
+           Split into 3 sub-instances of size n/2;
+           Use gamma to solve each sub-instance;
+           Combine the 3 sub-solutions;
+        end if;
+   end gamma;
+
+Let T(gamma)(n) denote the running time of this algorithm. 
+
+
+
+                cn^2                  if n < = n0
+T(gamma)(n)  = 
+                3T(gamma)( n/2 )+dn   otherwise
+
+
+We shall show how relations of this form can be estimated later in the course. With these methods it can be shown that 
+
+T(gamma)( n ) = O( n^{log3} ) (=O(n^{1.59..}) 
+
+This is an asymptotic improvement upon algorithms alpha and beta. 
+
+The improvement that results from applying algorithm gamma is due to the fact that it maximises the savings achieved beta. 
+
+The (relatively) inefficient method alpha is applied only to "small" problem sizes. 
+
+The precise form of a divide-and-conquer algorithm is characterised by: 
+
+The threshold input size, n0, below which the problem size is not sub-divided. 
+The size of sub-instances into which an instance is split. 
+The number of such sub-instances. 
+The algorithm used to combine sub-solutions. 
+In (II) it is more usual to consider the ratio of initial problem size to sub-instance size. In our example this was 2. The threshold in (I) is sometimes called the (recursive) base value. In summary, the generic form of a divide-and-conquer algorithm is: 
+
+
+procedure D-and-C (n : input size) is
+   begin
+      if n < = n0 then
+         Solve problem without further
+         sub-division;
+       else
+          Split into r sub-instances 
+          each of size n/k;
+          for each of the r sub-instances do
+            D-and-C (n/k);
+          Combine the r resulting 
+          sub-solutions to produce
+          the solution to the original problem;
+       end if;
+    end D-and-C;
+
+Such algorithms are naturally and easily realised as: 
+
+
+Recursive Procedures 

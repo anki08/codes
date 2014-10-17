@@ -1,0 +1,78 @@
+Aravindan Gunathilagaraj
+
+I made in Newgen software limited and will send u the questions that i
+remember so that u can update that and put it in your website.
+the apti paper consist of two parts- part a and part b.
+
+part A -consist of questions on networking,OS ,DS,C ,GUI fundas.
+Some of the questions that i remember are:
+1.Kerberos is an
+ans:authentication protocol
+2.Give the principle of IEEE802.3(Ethernet)
+ans:CSMA/CD
+3.Give the principle of IEEE802.5
+ans:token ring management
+4.CRC(Cyclic redundancy follows)
+ans:modulo 2 arithmetic
+5.Name the layers of OSI model that perform the following functions:
+a)address resolution - network layer
+b)routing algorithms - network layer
+c)flow control - transport layer
+d)synchronisation by inserting check points in data - session layer
+6.Win 32 follows
+ans:c callin convention
+7.win 16 follows
+ans:pascal call in convention
+8.There was one question in padding of data structures
+9.one question willbe on DOS(distributed operating system)
+10.How do you convert a bus to a hub?
+11.What does fork() statement do?
+ans:invokes a child process and returns the id associated with itto the
+parent process
+12.Name atleast two protocols that are used by DLL to transmit frames?
+stop and wait protocol and sliding window protocol
+13.There will be a sure question on Public key encrytpion scheme
+14.Windows NT supports Preemptive multitasking
+15.Question on round robin algorithm
+16.Others were simple questions on C
+PArt-B
+This will have codes in c and C++ and we will be asked to correct the
+codes to make it more efficient and write the output in other cases
+
+
+Part-B
+This is a psychometric test for 1 hr and Part-A is for 30 mts .
+this section will have 100 questions,
+First there will be 50 statements(i.e 25 pairs) and for every pair we will
+have to select one which suits/fits in your opinion
+Eg:
+1)Making a job in these modern days is by mere luck and has got nothing to
+do with intelligence level
+Making a job in these modern days is just by intelligence level alone.
+you can select any of them but make sure that you maintain the same view
+to the other questions.they will only how much your answers will correlate
+among them selves.there will be another question indirectly checking
+whether you believe in luck/hard work and in this you will have to support
+the view that you have already given.
+2)There will be a list of 50 adjectives and you will have to select 10
+adjectives that suits you most.
+3)There will be 20 sets each containing 4 words and you will have to give
+them priority.
+Give priority 4 to the one that suits u more and 3 to the lesser one and
+do till 1.
+for eg:
+{short tempered,patience,understanding and refinement}
+you can rank itas:
+refinement-4(if u prefer that this suits u more)
+understanding -3
+patience -2
+shorttempered -1(this is given the least priority to indicate that this
+suits you the least)
+3) there will be 10 tight corners given to youand youwill be aked how do
+you tackle them.
+
+The interview will be mostly on the projects that uhave done and will have
+simple questions on C and C++.
+ALL the BEST
+
+

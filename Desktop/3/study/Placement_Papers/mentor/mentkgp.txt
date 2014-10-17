@@ -1,0 +1,740 @@
+This is the paper of Mentor from IITKGP.This test was conducted on 9th.
+The pay scale is 4.2lakh + Other benifits.
+
+ In Mentor graphics written test CS students have to
+
+attempt 7 sections. They are :
+
+ 
+
+        1. General Software
+
+        2. C and C++
+
+        3. Datastructures
+
+        4. Operating Systems
+
+        5. Compilers
+
+        6. Computer Architecture & Microprocessors
+
+        7. General Aptitude
+
+ 
+
+Total time : 1.30 min
+
+ 
+
+        1. General Software
+
+        -------------------
+
+ 
+
+1. Match the following :
+
+ 
+
+        xv      1) editor
+
+        html    2) to view images
+
+        emacs   3) hyper text
+
+        .....   ........
+
+ 
+
+               Ans : 231
+
+ 
+
+2. Match the following :
+
+ 
+
+        c              1) compiler tool               
+
+        smalltalk      2) scientific programming lang
+
+        cobal           3) object oriented lang
+
+        yacc           4) system prog
+
+        fortran        
+
+ 
+
+               Ans : 43512
+
+ 
+
+3. cc -E filename what it does ?
+
+ 
+
+        Ans : Stop  after the preprocessing stage; 
+
+              do not run the compiler proper.  
+
+              The output is preprocessed source code, 
+
+              which is sent to the standard output
+
+ 
+
+4. cat `ls` | grep -v ls | wc –l   (CHANGED QUESTION)
+
+        
+
+        Ans : gives the no. of files in the current dir 
+
+               which dose not have ls in their names
+
+ 
+
+5. what does ps do
+
+ 
+
+        Ans : lists process status
+
+ 
+
+6. One Q. on cvs (control version system) (on the commands of CVS as ci,co,up to give order of these commands ) ANS is not known.
+
+ 
+
+7. what is core?
+
+          -program image (ANS)
+
+          
+
+ 
+
+8) unit testing is done by..
+
+    -devloper
+
+    - integrator etc
+
+ 
+
+         ans:developer
+
+ 
+
+                2. C and C++
+
+               -------------
+
+ 
+
+1. #define f(x,y)  x##y
+
+        main()
+
+        {
+
+                int a;
+
+                a = f(2,3);
+
+                printf("%d",a);
+
+        }
+
+ 
+
+        Ans : 23
+
+ 
+
+2.           This question is changed (type is same but some statements are included)
+
+ 
+
+ 
+
+        main()
+
+        {
+
+        #if 0
+
+               printf("\nif 0\n");
+
+        #endif
+
+ 
+
+        #if(0,1)
+
+               printf("\n 0,1");
+
+        #endif
+
+ 
+
+        #if(1,0)
+
+               printf("\n 1,0");
+
+        #endif
+
+        }
+
+ 
+
+        Ans : 0,1 (middle if block is entered)
+
+ 
+
+3. which of the following are same in c
+
+        a) *p, p       b) &(*p), p 
+
+        c) *(&p) , p   d)
+
+ 
+
+                       Ans : c
+
+ 
+
+4. What is the default return type in ANSI C ?
+
+                       Ans : int
+
+ 
+
+ 
+
+5. for(p = head; p != NULL; p = p->next) {
+
+        free(p);
+
+   }
+
+                       Ans : Dangling pointer
+
+ 
+
+ 
+
+6. In main array of five strings are declared like this :
+
+ 
+
+main()
+
+{
+
+        char a[5][20] = { "aaaaa", "bbbbb", "ccccc", 
+
+                       "ddddddd", "eeeeee"};
+
+        char *t;
+
+        int i;
+
+ 
+
+        t = a[4];
+
+        a[4] = a[3];
+
+        a[3] = t;
+
+ 
+
+        for(i = 0; i <= 4; ++i)
+
+               printf("%s\n", a[i]);
+
+ 
+
+}
+
+        Ans : compile time error 
+
+              like : incompatible types in assignment
+
+ 
+
+7)           what will be the value of N after N<<4
+
+ans: N*16;
+
+ 
+
+8)           int fun(int m)
+
+     {
+
+            int i;
+
+            for(i=0;m>0;m>>=1)
+
+             if(m & 01)
+
+                    i++;
+
+ 
+
+     }
+
+ 
+
+            ans:returns no of 1’s in binary rep’n of m;
+
+ 
+
+ 
+
+9)           some question on function pointers.
+
+               void *H();
+
+               void (*H1)();
+
+             What is H and H1.
+
+ 
+
+   Ans: H is a function returning void pointer ,H1 is a pointer to    function which doesn’t return any thing.
+
+ 
+
+10)       some complex question on function pointers to find which is the declaration for the array of 7 pointers to a function which return character array of size 15. (something like that I can not remember exactly)
+
+ 
+
+             options are : char (**a[7]) [15]  like this..
+
+ 
+
+ 
+
+ 
+
+ 
+
+11)       code of C:
+
+ 
+
+     int x[10];
+
+     main()
+
+     {
+
+               struct x{
+
+                 int a;
+
+               };
+
+               printf(“%d”,sizeof(x));
+
+        }
+
+ 
+
+      code of c++:
+
+       
+
+              
+
+       int x[10];
+
+     main()
+
+     {
+
+               struct x{
+
+                 int a;
+
+               };
+
+              cout<<sizeof(x);
+
+        }
+
+ 
+
+what will be printed in c ,c++
+
+ 
+
+        options: 4,80
+
+                  80,4
+
+                   
+
+          (TRY TO RUN THESE AND GET THE CORRECT ANSWER I DON’T KNOW THE ANSWER)
+
+
+
+12)
+
+         char a;
+
+         int I;
+
+         a=0x0;
+
+         
+
+         for(i=0;a<255;i++)
+
+           a=a+1;               
+
+ 
+
+            ans: this will loop infinitely
+
+ 
+
+               3. Datastructures
+
+               -----------------
+
+ 
+
+1. One question on red-black tree. 
+
+         Which of the following is wrong?
+
+      Ans: red count of each path of a node is same(ACTUALLY black                         
+
+             Count is SAME FOR EACH PATH) 
+
+ 
+
+2. which of the following sorting algo is stable ?
+
+        a) COUNT SORT  b)heap sort    c)quick sort D)bucket sort
+
+ 
+
+      ans: count sort
+
+ 
+
+3. in a 1000 node binary tree to search 385, which of the follwing
+
+   sequence is not correct
+
+        4 sequences are given
+
+ 
+
+4. which of the following is not the post order of the heap  
+
+        4 sequences are given
+
+ 
+
+5. Travelling salesman problem is ....  
+
+        a) NP complete ........
+
+   
+
+ 
+
+         (THIS QUESTION IS REPEATED TWICE IN A MATCHING ALSO                               “TSP”-NP  COMPLETE) 
+
+ 
+
+ 
+
+6. One question like : For external sorting how many 
+
+   disk accesses are needed (given b blocks k passes ...)
+
+   I CAN NOT SOLVE THIS
+
+ 
+
+7. some question on convex hull (I can not remember exactly).
+
+                  4. Operating Systems
+
+                 --------------------
+
+1. which of the following are used to detect deadlock
+
+        a) Resouce allocation graph
+
+        b) hoarse table
+
+        c) ....
+
+        d)all the above
+
+                       Ans : d
+
+ 
+
+2. what does lseek do ?
+
+ 
+
+3. Conventional unix systems used to be :
+
+        Ans : time sharing
+
+ 
+
+4. Question on Multilevel feedback queue
+
+ 
+
+        ans: when proiority of a process changes based on CPU burst. 
+
+ 
+
+ 
+
+5. Overlaying is :
+
+        Ans : Overwriting process memory layout with anothers 
+
+ 
+
+6. Bootstrap loader lies in :
+
+        Ans : ROM
+
+ 
+
+7. Bootstrap loader does :
+
+        a) locating kernel
+
+        b) creates one dummy process to load kernel.
+
+        c) loads kernel
+
+        d) all the above
+
+               Ans : d
+
+8.
+
+..
+
+..
+
+                5. Compilers
+
+               ------------
+
+(We attempted very few questions in this section)
+
+ 
+
+1. 3 address code is used in which stage of compilation ?
+
+        Ans : Intermidiate Code generation 
+
+2)
+
+ grammer is:
+
+  E -> E * T
+
+  E -> T
+
+   T -> T –F
+
+   T -> F
+
+   F-> id (digit)
+
+ 
+
+    Ans: * has less precedence than –
+
+ 
+
+3) same as above grammer what is the value of expression 4-2-4*3
+
+          ans:   -6
+
+..
+
+4) which language is generated by grammer:
+
+ 
+
+    s -> (s)s
+
+    s ->  epsilon (empty symbol)
+
+ 
+
+   ans: string of matching paranthesis
+
+ 
+
+5)call by reference problem.
+
+        Fun(x,y,z)
+
+        {
+
+            y=y+1;
+
+            z=z+x;
+
+         }
+
+ 
+
+         a=2,b=3;
+
+         call of function is
+
+       
+
+          fun(a+b,a,a);
+
+ 
+
+    Ans:13 
+
+ 
+
+ 
+
+       6. Computer Architecture & Microprocessors
+
+        ------------------------------------------
+
+ 
+
+1. 176 in base 12 is :..........
+
+ 
+
+2. The string "ABCDEFGH" is stored by  processors P1 & P2 as 
+
+   shown below
+
+  
+
+   P1          P2
+
+ 
+
+   0x2000 AB   0x2000 GH
+
+   0x2002 CD   0x2002 EF
+
+   0x2004 EF   0x2004 CD
+
+   0x2006 GH   0x2006 AB
+
+ 
+
+   ans) P2 little endian & P1 big endian 
+
+        ( lsb is at lower address -> little endian)
+
+ 
+
+3. cache coloring is used for solving 
+
+   a) cache coherence
+
+   b) to reduce cache misses
+
+   c) to increase hit ratio
+
+   d) 
+
+ 
+
+4. A cache is 2-way set associative, 
+
+   cache block & cache line sizes are given
+
+   how many bits are used for indexing into cache ?
+
+ 
+
+5. for a 16 bit micro processor, clock freq is given as 2MHz. 
+
+   For instruction fetching and decoding it takes 4 T-states and 3
+
+ T-states for memory reading . what is the time taken by  
+
+   execution of mvi A 06h.
+
+    ans : 3.5 micro secs
+
+6. Processor P1 clock freq is less than that of P2, 
+
+   but P1 is faster in execution in time. the reason may be 
+
+   a) P1 is implementing by pipelining
+
+   b) P1 exploits locality of reference
+
+   c) a & b
+
+   d) P1 can't execute faster than P2 .
+
+   ans) c
+
+7) what is the task of “score board”??
+
+8) of these which has control over bus?
+
+   -- DMA controller,UART controller,CPU
+
+   -- CPU ,DMA controller,external master bus controller
+
+   -- CPU,DMA controller, external master bus interface
+
+   -- none of the above
+ 
+      I don’t know ans.
+
+ 
+                       7. General Aptitude
+
+                       -------------------
+
+So many questions are there, they are infact easy.
+
+You can try there itself
+
+ 
+Regarding interview:
+
+ They are asking much about C++,datastructures,Algorithms.
+
+Some questions on sorting (which one is a stable sort (merge sort,count sort).
+
+Some questions on virtual function(pure),copy constructure..
+
+The questions were simple.
+
+(some questions are from the written test)
+
+and 
+
+Why would U like to join Mentor??
+
+

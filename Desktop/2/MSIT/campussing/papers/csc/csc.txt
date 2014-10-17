@@ -1,0 +1,1162 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 retain an object throughout the execution of a
+program
+c.the ability to save objects from one execution of a program 
+to
+the text.
+d.the ability to retain an object throughout time and or space
+
+21.what is socket ? how many required to make connection between
+two systems
+a.a socket is 2-tuple having protocol and port number and 
+requires
+4sockets
+b.a socket is 3-tuple having protocol address and port number 
+and
+requires 4 sockets
+c.a socket is 2-tuple having protocol and address and requires 2
+sockets
+d.a socket is 3-tuple having protocol address and port number 
+and
+requires 2 sockets
+
+22.TCP/IP runs on
+a.an Ehtener
+b.a token ring
+c.an x.25 net
+d.all of the above
+
+23.the job og fragmentation and re-assembly of datagrams in 
+TCP/IP
+protocol suite is done by
+a.network access layer
+b.internet layer
+c.transport layer
+d.application layer
+
+24.the sequence number in TCP header is used to
+a.identify the first byte of the enclosed data int segment
+b.identify the computer
+c.identify the port on which server is running
+d.none
+
+25.what is output of the final echo command
+$x=hell0
+$ echo'x=goodbye'>sedtx
+$sh setx ;x=bye
+$echo $x
+a.hello
+b.goodbye
+c.bye
+d.none
+
+26. what would be the output of the following echo command in
+sequence?
+$x=1
+$echo'x=2'>setx
+$sh setx
+$echo $x
+$x=3
+$setx
+$echo $x
+a.2,2
+b.1,2
+c2,3
+d.1,3
+
+27.memory reference instruction branch subroutine (BSB) IS given
+instruction transferming control to subroutine
+b.first word of the subroutine
+c.address of next instruction in sequence which is presently 
+held
+in pc (return addres)
+d.another BSBinstruction
+28.assume memory units has 65536 words of 8bits.the number of 
+bits
+in program counter.accumalator. memory address register
+instruction respectively are
+a.16,8,16,8
+b16,16,8,8
+c8,16,8,16
+d8,8,16,16
+
+29.which of the following instruction is used to load 2050h
+address toHL register pair?
+a.LOD H,2050H
+B.LOAD H,2050H
+C.LXIH,2050H
+D.LDAH,2050H
+
+30.what will be the value of the accumalator having AAH after
+executing RLC instruction twice?
+a.55h
+b.abh
+c.bah
+d.aah
+
+31.the top of the stack contains 5A&next byte down the stack 
+is
+14(all address in hexadecimal) the stack pointer (sp) containts
+3A56.an instruction call subroutint stored at location 67AE 
+whick
+is 3 bytes long is located at memory address 013F. What shall
+be the contents of Program Counter, SP and stack respectively
+after the call instruction is executed?
+
+PC SP stack
+a. 67AE 3A58 42,01,5A,14
+b. 0142 3A58 01,42,5A,14
+c. 67AE 3A56 42,01,5A,14
+d. 0142 3A56 01,42,5A,14
+
+32. Time oriented metrics is one of the below i.e. times it 
+takes
+to analyze change request, design an appropriate modification,
+implement the change, test it and distribute to all users.
+
+a. MTBR b. MTTC c. MTBW d. MTTW
+
+33. which of the following is not a tool for application
+prototyping?
+a. Application Generators.
+b. Third Generation Languages
+c. Screen Generators
+d. Report Generators.
+
+34. For Real time process control or embedded software 
+application
+having high algorithmic complexity programs. Which software
+process metrics would be most suitable for project measurements?
+
+a. size oriented metrics
+b. Function point metrics
+c. Feature Point metrics.
+d.3d functionpoint metrics
+
+35. Regression testing is:
+
+a. Testing the System under extreme conditions.
+b. Testing the System after a new component is integrated into 
+it
+to make sure that no additional errors are introduced.
+c. Testing the system with an exhaustive range of data to make
+sure that all the conditions are tested.
+d. Testing of a module by its developmer before releasing it for
+integration with the entire system.
+
+36. For a module to be strongly cohesive:
+a. it should ideally perform just one function.
+b. Et should have well defined relationships with other modules 
+in
+the system.
+c. It should be compact in size.
+d. It should not take any data as input parameter.
+
+37. The approach used in Top Down Analysis and design is:
+a. To identify a top level function by combining many smaller
+componen into a single entity.
+b. To identify a top level function and then create a hierarchy 
+of
+lower level modules and components.
+c. To prepare flowchart after programming has completed.
+d. None of the above.
+
+38. Engineers use the CASE tolls to:
+a. Analyze these requirements and determine their feasibility.
+b. Design the system's general algorithms.
+c. Design an actual detailed implementation in terms of target
+environment.
+d. All of the above.
+
+
+39. While constructing a data dictionary, the analyst considers:
+a. Each data flow in the DFD has one data dictionary entry.
+b. Definitions must be readily accessible by name.
+c. There should be no redundancy in data definition.
+e. All of the above.
+
+40. The procedure for evaluating relative performance of 
+defferent
+systems is referred to as:
+a. Parallel processing.
+b. Bench marking.
+c. Comparative analysis.
+d. Standard Evaluation.
+
+41. The variable used to change the secondary prom string is:
+a. PS3
+b. PS1
+c. PS2
+d. Not possible.
+
+42. The command used to send signals to specified job:
+a. send
+b. kill
+c. 
+d. kill
+
+43. When the complesity of a problem domain is modeled in an
+Object Oriented design, it takes the form of a
+a. Hierarchy b. Graph c. Tree d. none
+
+44. Which of the following statements is true?
+a. An object has a state, behaviour and identity.
+b. An object has only state and behaviour.
+c. An object has only behaviour and identity.
+d. An object has state and identity.
+
+45. Object Oriented Analysis is a method
+a. In which the system is viewed as a set of autonomous agents
+that collaborate to perform higher level behaviour.
+b. In which programs are organized as co-operative collection of
+objects, each of which represents an instance of some classes 
+and
+whose classes are all a members of a hierarchy classes united 
+via
+inheritance relationships.
+c. Encompassing the process of object oriented decomposition and 
+a
+notation for depicting both logical and physical as well as
+static and dynamic models of a system.
+d. That examines requirements from the perspective of the 
+classes
+and objects fount in the vocabulary of the problem domain.
+
+46. Encapsulation constitutes:
+a. Identifying the essential characteristics of and obhect.
+b. Separation of contractual interface of an abstraction and its
+implementation.
+c. The property of a system that is decomposed into a set of
+acohesive and loosely coupled modules.
+d. Ordering of abstractions.
+
+
+47. The enforcement of the class of anf object is reffered to
+as:
+a. Modularity b. Abstraction c. Typing d. Binding
+
+48.The Gateway and the Router are used in the following sense :
+a. Gateway moves the data between different networks of the 
+same
+protocol and the Router moves the data between different 
+network
+of different protocol.
+b. Gateway moves the data between different networks if 
+different
+protocols and the Router moves the data berween different 
+network
+of the same protocol.
+c. Gateway and the router are used for security.
+d. None of the above.\
+
+
+49. Which of the following is a Network Mamagement
+Protocol?a.DNS
+B.CMIP
+C.TELLNET
+D.TCPMP
+
+
+50. ip uses 4bytes addressing.how many butes address IPX uses-
+a.12
+b.16
+c.8
+d.10
+
+51.IPaddress192.10.100.3is an example of the class
+a.A
+b.B
+c.C
+d.D
+
+52.in TCP/IP protocol suite the protocol which controls the flow
+of data is-
+a.ARP
+b.ICMP
+c.RARP
+d.IP
+
+53.ARPprotocol is used to-
+a.map IP address to physical address
+b.map EthernetAddress to IP address
+c.both of above
+d.none of above
+
+54.what is the output ofthe two echo commands
+$export x
+$x=1
+$sh -
+$echo sx
+$x=2
+$ctrl-d leave this shell
+$echo$sx
+
+a.1,1
+b.1,2
+c.blank,2
+d.none oe abovge
+
+55.the command
+$sleep10;date&
+a.sleep and date both run simultanously in background
+b.sleep and date both run simultanously,sleep in foreground and
+date in background
+c.after sleep finishes running in foreground than date runs in
+foreground
+d.none
+
+56.following are the contents of a file file
+echo $#
+echo $*
+echo$0
+echo $1
+what would be output of following
+$ shfiles 1,2,3
+a.3
+1,2,3
+file
+1
+b.1,2,3
+4
+1
+2
+c.file 1
+4
+1
+2
+d.none
+
+57what will be the outputs of the following commands
+expr 4+3
+expr14/3
+expr 4\*3
+expr 4*3
+a. 7,2,8,syntax error,12
+b.7,2,8,12,syntax error
+c.7,2,1,12
+d.7,2,12,syntax error
+
+58which of th statement is not true forsticky bit.
+a.can be set for a file.
+b.has no efect if thefile nis a dir.
+c.tells unix to leave an executable in a memo ry after a program
+has finished executaion
+d.none
+59.make utility is
+a.an editor on unix
+b.to restor the system status
+c.a utility for devlopment of program
+d.none
+
+60.th e following input is absent on a romchip as compared to 
+ram
+chip-
+a.read input
+b. write input
+c. chipselect
+d. both a & b
+
+61.the digital computer has memory unit with 8 bits per word. 
+the
+struction set consist of six different
+operation.each struction is stored in one word of memoryand
+consistof o                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Neck area
+8.Washer is used for locking
+9.For uniformly distributed load in cantilever beam 
+the bending moment 
+diag is parabolic
+10.Guideways of lathe etc are hardened by induction
+hardening
+11.Stress concentration—All of the above
+12.Pulley internal grooves --- milling
+13.Blank dia=== Die dia
+14.CI does not require cutting fluid
+15.Due to carbon deposits Compression Ratio increases
+16.In diesel engine Expansion ratio is smaller than
+Compn ratio
+17.In 6 cylinder radial engine no. of cranks =1
+18.For which loading bending stress will be minimum
+=== If the loading 
+is triangular staring from the center on either side
+19.If springs with k1 & k2 stiffness constant are
+connected in series 
+the resultant stiffness will be k1*k2/(k1+k2)
+20.Heat & Mass Transfer: 
+One has conductivity k another has conductivity 2k the
+heat transfer 
+will be minimum if both have same thickness:
+1. k is kept inside
+2. if 2k is kept inside
+3. does not matter
+21.
+In arc welding if the arc is too long then-------
+Which is not fusion process :
+1.Spot welding
+2.Electron Beam Welding
+3.Submerged Arc Welding
+
+22.Stroboscope its use:
+23.Piezometer its use:
+24.M33-2 Bolts represent:
+25.Crowning of belt is done to:
+26.If pulley dia is made two times then the key will
+have to be
+27. If a vessel is to be used at –20 C then what
+additional testing 
+will be reqd:
+1. Compressive
+2. Tensile
+3. Impact
+4. Shear
+28. HOW IS PLASTIC WELDED---ULTRASONIC WAVES
+29. MOULDING OF THERMOSET---COMPRESION MOULDING
+30. WHY WATER HAMMERS OCCURS
+31. WHY IS PUNCH IS PROVIDED WITH SHEAR ANGLE
+32. IF VACCME OF CONDERSOR FALLS DOWN,THEN WHY IS
+TERBINE FRIPPED
+33.
+DIRLY CORBURATOR LEADS TO INCREASE IN FEUL/AIR RATIO
+34. INTERNAL KEYWAY IN PULLY IS MAD BY—
+35.CORE- PRINT –U
+there were 3 sections MCC( general
+apti-50)/EKT(tech.) 
+/APM(mech. 50)
+questons baed on levers,fulcrum,gear trains ( large
+no of gears 
+rotating in diff . dir . mutual ly ) 
+seqential reasoning (there were 8 opt's chose apt
+one) i.e. visual 
+apt. approxi-20
+some on upstream ?downstream speedsof person or boat
+in river finding 
+of speed.(aproxi -10)
+3 container ofdiff. vol.having water filled with
+same hightwhatwas 
+pressure.
+maxi. surface areas of diff . solids (geometry).
+some based on gear motion of bicycle in air stream
+force.
+three D figures what next.
+ALL THESE ARE SPECIMEN QUE'S 
+
+
+
+PAPER OF CSCI .
+THERE R 75 Q’S .
+NOW I AM SENDING ONLY ANS OF THIS Q’S.
+TECHNICAL PAPER WAS VERY DIFFICULT.
+U HAVE TO REMEMBER ALL THE ANS ,DON’T BOTHER ABOUT Q’S
+,
+THER R NOT EASY TO UNDERSTAND ,SO MY ADVISE IS THAT
+JUST REMEMBER THE 
+ANS.
+THE Q’S CAN REARRANG AT YOUR INSTITUTE WITH
+DIFFERENT ORDER.
+SO THESE R THE TECH PAPER WILL BE EXACTLY SAME IN ALL
+COLLEGES.
+THE ANS—
+
+01--- WITH FRAMEWORK CASE TOOLS IPSE CAN BE ACHIVED
+.IPSE IS 
+ANS-(D)INTEGRATED PROJECT SUPPORT ENVIRONMENT.
+
+2—DATA STRUCTUREED SYSTEM DEVELOPMENT(DSDD)IS AISO
+CALLED ONE OF THE 
+BELOW WHICH IS EVOLVED FROM WORK ON INFORMATION DIMAIN
+ANALYSIS
+ANS (C)WARNIER ORR METHODOLOGY.
+
+3---A.COMOCO ESTIMATION MODEL IS A SINGLE VALUED MODEL
+TO COMPUTE 
+SOFTWERE
+DEVELOPEMENT EFFORT (AND COST)AS A FUNCTION OF
+PROGRAME SIZE EXPRESSED 
+IN ESTIMATION LINES OF CODES.
+B.PUTNAM MODEL IS SINGLE VALUED ASSUMING A SPECIFIC
+DISTRIBUTION OF 
+EFFORT OVER LIFE OF A SOFTWARE DEVELOPMENT PROJECTS
+ANS---(C)AOTH R CORRECT
+
+4—WHEN IN DATA COPLING PORTION OF DATA STRUCTURE
+(RATHER THAN SIMPLE 
+ARGUMENT )IS PASSED VIA A MODEL INTERFACE ,IT IS
+CALLED ONE OF THE BELOW,
+ANS—(B)STEMP COUPLING
+
+5—WHAT IS MEASURE OF RELIABILITY FOR A COMPUTER BASED
+SYSTEM
+ANS—(D)MTBF=MTTF+MTTR.
+
+6—THE TESTING METHOD OF BASIS PATH TESTING WHICH ARE
+PROVIDES 
+QUANTITATIVE MEASURE OF LOGICAL COMPLEXICITY OF
+PROGRAME AND SET OF INDEDENDNT 
+PATH ON BASIC SET OF PROGRAM?
+ANS—(C)CYCLOMATIC COMPLEXICITY.
+
+7--WHICH OF THE FOLLOWING IS NOT A COMPONENT OF 
+DECISION SUPPORT 
+SYSTEM(DSS)?
+ANS-(D)NONE OF THE FOLLOWING.
+
+
+8—(A) 95 PERSON-MONTHA
+
+9—(B)REQUEST SEND BY THE CLASS TO OTHER CLASS TO
+FULFILL ITS OWN 
+RESPONSIBILITIES.
+10—(A)ECHO$HOME
+11—(A)ECHO$BIN
+
+12—(C)$!
+
+13—(C)PLUTO-MERCURY-PLUTO
+
+14—(B)(ARITHMATIC CALCULATION)
+
+15—ASSOCIATION(C)
+
+16—THE ABILITY TO RETAIN AN OBJECT THROUGHOUT TIME AND
+/OR SPACE.(D)
+
+17—A SOCET IS 2 TUPLE HAVING PROTOCOL & ADDRESS &
+REQUIES 2 SOCKETS.(C)
+\
+18—TCP/IP RUNS ON 
+Ans—(d)all of the above
+
+19—(B)INTERNATE LAYER.
+
+20—THE SEQUENCS NO IN TCP HEADER IS USED TO 
+ANS—(D)NONE
+
+21—(C)BYE
+
+22—(1,2)(B)
+
+23—(A)A BRANCH UNCONDITIONALLY(BUN)INSTRUCTION
+TRANSFERING CONTROL TO 
+SUBROUTINE.
+
+24—(A)16,8,16,8.
+
+25—(C)LXIH,2050H
+
+26—AAH(D)
+
+27—67AE 3A58 42,01,5A,14(A)
+
+28—(B)MTTC
+
+29—(B)THIRD GENERATION LANGUAGE.
+
+30—FEATURE POINT OPERATOR.
+
+31—IT SHOULD IDEALLY PERFORM JUST ONE FUNCTION.(A)
+
+32—(B)TO IDENTIFY A TOP LEVEL FUNCTION & THEN CREAT A
+HIERARCHY OF 
+LOWER LEVEL MODULES & COMPONENTS
+
+33—BENCH MARKING(B)
+
+34—(C)PS2
+
+35—WHILE CONSTRUCTING A DATA DICTIONARY THE ANALYST
+CONSIDER,
+ANS--(D)ALL
+
+36—(B)KILL<JOB_ID>
+
+37—(A)HIERARCHY
+
+38—OBJECT ORIENTED ANALYSIS IS A METHOD -------
+ANS --(D)THAT EXAMINES REQUIEMENTS FROM THE
+PERSPECTIVE OF THE CLASSES 
+& OBJECTS FOUNDS IN THE VOCABULARY OF THE PROBLEM
+DOMAIN
+
+39—ENCAPSULATION IS –
+ANS-(B)SEPARATION OF CONTRACTUAL INTERFACE OF AN
+ABSTRACTION & ITS 
+IMPLEMENTATION.
+
+40—(C)TYPING.
+
+41—(B)GATEWAY MOVES THE DATA BETWEEN DIFF NETWORKS OF
+DIFF PROTOCOLS 
+&THE ROUTER MOVES THE DATA BETWEEN DIFF NETWORK OF
+SAME PROTOCOL.
+
+42—NETWORK MANAGEMENT PROTOCOL IS –
+ANS(D)TCP/IP
+
+43—IPX HAVE –
+ANS—(D)10 BYTES ADDRESS
+
+44—IP ADD 192.10,100.3 IS AN EXAMPLE OF –
+ANS—(C)C CLASS
+
+45—(D)IP
+
+46—UNIX COMMAND 
+ANS--(A)I,I
+
+47—(C)AFTER SLEEP FINISHES RUNNING SIMULTENIOUSLY THEN
+DATA RUNS IN 
+BACKGROUND
+
+48—(A) 3
+1 2 3 
+FILE 1
+1
+
+49—(D)7,2,X SYNTEX ERROR.
+
+50—(C) TEL L UNIX TO LEAVE AN EXECUTABLE IN MEMORY
+AFTER A PROGRAM HAS 
+FINISHED EXECUTED
+
+51—(C)A UTILITY FOR DEVELOPMENT OF PROGRAM
+
+52—(B) WRITE INPUT.
+
+53—(A)32 ADDRESS IN MEM
+
+54—(D) 65&A
+A&65.
+
+55—C PROGRAM
+ANS--(C)A
+
+56—INT (*P(CHAR*A))[10]; IS—
+ANS--(C)FUNCTION
+
+57—C PROGRAM—ANS (C) C
+
+58—(A) EQUIJOIN
+
+59---
+(B) SELECT STORE_ID , SUM (QTY*PRICE)
+FROM SALES, TITLES
+WHERE TITLES.TITLE_ID=SALE4S.TITLE_ID
+GROUP BY STORE_ID
+
+60—(C)001001011.
+
+61—BINARY 10001010111 TO OCTAL----
+ANS(A) 2127
+
+62—(C)2058H
+
+63—NO OF ADD LINES REQUIERD ON THE CHIP OF 2K MEMORY
+ANS—(B)11
+
+64—(B)LIFO
+
+65—R-S FLIP- FLOP
+ANS(B) BISTABLE MULTIVIBRATOR
+
+67—HIGHEST FREQUENCY IS OF –
+ANS(B) MICROWAVE
+
+68—(D) CAPACITOR IS USED TO SPLIT SINGLE PHASE
+
+69—(C)CENTRALIZED DATA BASE BECAUSE OF HIGH COMPUTING
+POWER THE SERVER
+
+IN MY COLLEGE CUT OFF FOR TECH WAS 55.WITH ON NEGATIVE
+MARKING.
+ALL THE BEST 
+SUMIT
+
+
+
+
+
+
+
+
+
+hello friend
+i am sanat from NIT ourkela.
+here iam sending the oracle & analog devices ques as i
+have received from my friends
+no company has till come to our college.
+4 have reported
+drdo
+ashok leyland
+acc cement
+l&t
+
+
+the ORACLE paper of REC CALICUT CAMPUS RECRUITMENT
+- 2002
+          
+Technical section - 
+30 questions - 30
+minutes
+Quantitative aptitude -
+30 questions- 30
+minutes
+NO NEGATIVE MARKING
+      
+-------------------------------------------------------------------------------------------------
+QUANTITATIVE:
+        
+1. f(x+y) = f(x) + f(y) , then what is f(0).
+           
+ans: 0`
+                    
+2. evaluate Ö(6 + 2Ö 8) + Ö(6 - 2Ö 8)  
+ans: 4
+3. if the speed of a man is increased by 25/2 % and he
+reaches his office 5
+minutes            
+earlier than his usual time.what is his
+usual time to reach office ?
+ans: 45 minutes
+4. if two cards are drawn from a pack of 52 cards then
+what is the probability
+of getting a king.
+Ans:
+5. (x2+24)/x is integer x>0.How many values can x
+have?
+ Ans:8
+6. There are 6 letters & 6 envelopes,How many ways
+can we place letters such
+that          
+atleast 2 are wrong.
+7. A
+B C ( 1 ) Angle BAC = 90      
+( 2 ) AB=CD
+D
+To prove that ABCD is a rectangle
+a. 1 alone is enough
+b. 2 alone is enough
+c. 1 & 2 are needed
+d. can’t be determined
+8. Cond. 1) Between 2 hands of clock is 90
+Cond 2) Hour hand is pointing to 12
+To determine the time
+a. 1 alone is enough
+b. 2 alone is enough
+c. 1 & 2 are needed
+d. can’t be determined
+9)Denominations of 10,20,100 Rs amount to 40,000 in
+the ratio 10:15:16.What is
+the no. of 100 Rs. notes.(Similar type
+question)10.8233(8 raised to 233)What is the last
+digit?
+Ans. 8
+11. X8…+..+..+..is divided by x-1.What is remainder?
+Ans. 212. a,b>1 then, logba + logab must be
+greater than ????
+Ans. 2
+13.x2 - 2x > 3.What is the range of x?
+14.Questions like
+There are 4 sets of statements and each set with 3
+statements .Identify the set
+in which the first 2 sentences can be used to infer
+the third
+Eg:
+1. All ATMs are in France.No PTMs are in France
+No PTMs are ATMs
+2. All ATMs are in France.No PTMs are in France
+No ATMs are PTMs
+You can see that in 1., if a PTM is an ATM,it should
+be in FranceTherefore
+1 is the answer
+15.There w                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                atio increases
+16.In diesel engine Expansion ratio is smaller than
+Compn ratio
+17.In 6 cylinder radial engine no. of cranks =1
+18.For which loading bending stress will be minimum
+=== If the loading 
+is triangular staring from the center on either side
+19.If springs with k1 & k2 stiffness constant are
+connected in series 
+the resultant stiffness will be k1*k2/(k1+k2)
+20.Heat & Mass Transfer: 
+One has conductivity k another has conductivity 2k the
+heat transfer 
+will be minimum if both have same thickness:
+1. k is kept inside
+2. if 2k is kept inside
+3. does not matter
+21.
+In arc welding if the arc is too long then-------
+Which is not fusion process :
+1.Spot welding
+2.Electron Beam Welding
+3.Submerged Arc Welding
+
+22.Stroboscope its use:
+23.Piezometer its use:
+24.M33-2 Bolts represent:
+25.Crowning of belt is done to:
+26.If pulley dia is made two times then the key will
+have to be
+27. If a vessel is to be used at –20 C then what
+additional testing 
+will be reqd:
+1. Compressive
+2. Tensile
+3. Impact
+4. Shear
+28. HOW IS PLASTIC WELDED---ULTRASONIC WAVES
+29. MOULDING OF THERMOSET---COMPRESION MOULDING
+30. WHY WATER HAMMERS OCCURS
+31. WHY IS PUNCH IS PROVIDED WITH SHEAR ANGLE
+32. IF VACCME OF CONDERSOR FALLS DOWN,THEN WHY IS
+TERBINE FRIPPED
+33.
+DIRLY CORBURATOR LEADS TO INCREASE IN FEUL/AIR RATIO
+34. INTERNAL KEYWAY IN PULLY IS MAD BY—
+35.CORE- PRINT –U
+there were 3 sections MCC( general
+apti-50)/EKT(tech.) 
+/APM(mech. 50)
+questons baed on levers,fulcrum,gear trains ( large
+no of gears 
+rotating in diff . dir . mutual ly ) 
+seqential reasoning (there were 8 opt's chose apt
+one) i.e. visual 
+apt. approxi-20
+some on upstream ?downstream speedsof person or boat
+in river finding 
+of speed.(aproxi -10)
+3 container ofdiff. vol.having water filled with
+same hightwhatwas 
+pressure.
+maxi. surface areas of diff . solids (geometry).
+some based on gear motion of bicycle in air stream
+force.
+three D figures what next.
+ALL THESE ARE SPECIMEN QUE'S 
+
+
+
+PAPER OF CSCI .
+THERE R 75 Q’S .
+NOW I AM SENDING ONLY ANS OF THIS Q’S.
+TECHNICAL PAPER WAS VERY DIFFICULT.
+U HAVE TO REMEMBER ALL THE ANS ,DON’T BOTHER ABOUT Q’S
+,
+THER R NOT EASY TO UNDERSTAND ,SO MY ADVISE IS THAT
+JUST REMEMBER THE 
+ANS.
+THE Q’S CAN REARRANG AT YOUR INSTITUTE WITH
+DIFFERENT ORDER.
+SO THESE R THE TECH PAPER WILL BE EXACTLY SAME IN ALL
+COLLEGES.
+THE ANS—
+
+01--- WITH FRAMEWORK CASE TOOLS IPSE CAN BE ACHIVED
+.IPSE IS 
+ANS-(D)INTEGRATED PROJECT SUPPORT ENVIRONMENT.
+
+2—DATA STRUCTUREED SYSTEM DEVELOPMENT(DSDD)IS AISO
+CALLED ONE OF THE 
+BELOW WHICH IS EVOLVED FROM WORK ON INFORMATION DIMAIN
+ANALYSIS
+ANS (C)WARNIER ORR METHODOLOGY.
+
+3---A.COMOCO ESTIMATION MODEL IS A SINGLE VALUED MODEL
+TO COMPUTE 
+SOFTWERE
+DEVELOPEMENT EFFORT (AND COST)AS A FUNCTION OF
+PROGRAME SIZE EXPRESSED 
+IN ESTIMATION LINES OF CODES.
+B.PUTNAM MODEL IS SINGLE VALUED ASSUMING A SPECIFIC
+DISTRIBUTION OF 
+EFFORT OVER LIFE OF A SOFTWARE DEVELOPMENT PROJECTS
+ANS---(C)AOTH R CORRECT
+
+4—WHEN IN DATA COPLING PORTION OF DATA STRUCTURE
+(RATHER THAN SIMPLE 
+ARGUMENT )IS PASSED VIA A MODEL INTERFACE ,IT IS
+CALLED ONE OF THE BELOW,
+ANS—(B)STEMP COUPLING
+
+5—WHAT IS MEASURE OF RELIABILITY FOR A COMPUTER BASED
+SYSTEM
+ANS—(D)MTBF=MTTF+MTTR.
+
+6—THE TESTING METHOD OF BASIS PATH TESTING WHICH ARE
+PROVIDES 
+QUANTITATIVE MEASURE OF LOGICAL COMPLEXICITY OF
+PROGRAME AND SET OF INDEDENDNT 
+PATH ON BASIC SET OF PROGRAM?
+ANS—(C)CYCLOMATIC COMPLEXICITY.
+
+7--WHICH OF THE FOLLOWING IS NOT A COMPONENT OF 
+DECISION SUPPORT 
+SYSTEM(DSS)?
+ANS-(D)NONE OF THE FOLLOWING.
+
+
+8—(A) 95 PERSON-MONTHA
+
+9—(B)REQUEST SEND BY THE CLASS TO OTHER CLASS TO
+FULFILL ITS OWN 
+RESPONSIBILITIES.
+10—(A)ECHO$HOME
+11—(A)ECHO$BIN
+
+12—(C)$!
+
+13—(C)PLUTO-MERCURY-PLUTO
+
+14—(B)(ARITHMATIC CALCULATION)
+
+15—ASSOCIATION(C)
+
+16—THE ABILITY TO RETAIN AN OBJECT THROUGHOUT TIME AND
+/OR SPACE.(D)
+
+17—A SOCET IS 2 TUPLE HAVING PROTOCOL & ADDRESS &
+REQUIES 2 SOCKETS.(C)
+\
+18—TCP/IP RUNS ON 
+Ans—(d)all of the above
+
+19—(B)INTERNATE LAYER.
+
+20—THE SEQUENCS NO IN TCP HEADER IS USED TO 
+ANS—(D)NONE
+
+21—(C)BYE
+
+22—(1,2)(B)
+
+23—(A)A BRANCH UNCONDITIONALLY(BUN)INSTRUCTION
+TRANSFERING CONTROL TO 
+SUBROUTINE.
+
+24—(A)16,8,16,8.
+
+25—(C)LXIH,2050H
+
+26—AAH(D)
+
+27—67AE 3A58 42,01,5A,14(A)
+
+28—(B)MTTC
+
+29—(B)THIRD GENERATION LANGUAGE.
+
+30—FEATURE POINT OPERATOR.
+
+31—IT SHOULD IDEALLY PERFORM JUST ONE FUNCTION.(A)
+
+32—(B)TO IDENTIFY A TOP LEVEL FUNCTION & THEN CREAT A
+HIERARCHY OF 
+LOWER LEVEL MODULES & COMPONENTS
+
+33—BENCH MARKING(B)
+
+34—(C)PS2
+
+35—WHILE CONSTRUCTING A DATA DICTIONARY THE ANALYST
+CONSIDER,
+ANS--(D)ALL
+
+36—(B)KILL<JOB_ID>
+
+37—(A)HIERARCHY
+
+38—OBJECT ORIENTED ANALYSIS IS A METHOD -------
+ANS --(D)THAT EXAMINES REQUIEMENTS FROM THE
+PERSPECTIVE OF THE CLASSES 
+& OBJECTS FOUNDS IN THE VOCABULARY OF THE PROBLEM
+DOMAIN
+
+39—ENCAPSULATION IS –
+ANS-(B)SEPARATION OF CONTRACTUAL INTERFACE OF AN
+ABSTRACTION & ITS 
+IMPLEMENTATION.
+
+40—(C)TYPING.
+
+41—(B)GATEWAY MOVES THE DATA BETWEEN DIFF NETWORKS OF
+DIFF PROTOCOLS 
+&THE ROUTER MOVES THE DATA BETWEEN DIFF NETWORK OF
+SAME PROTOCOL.
+
+42—NETWORK MANAGEMENT PROTOCOL IS –
+ANS(D)TCP/IP
+
+43—IPX HAVE –
+ANS—(D)10 BYTES ADDRESS
+
+44—IP ADD 192.10,100.3 IS AN EXAMPLE OF –
+ANS—(C)C CLASS
+
+45—(D)IP
+
+46—UNIX COMMAND 
+ANS--(A)I,I
+
+47—(C)AFTER SLEEP FINISHES RUNNING SIMULTENIOUSLY THEN
+DATA RUNS IN 
+BACKGROUND
+
+48—(A) 3
+1 2 3 
+FILE 1
+1
+
+49—(D)7,2,X SYNTEX ERROR.
+
+50—(C) TEL L UNIX TO LEAVE AN EXECUTABLE IN MEMORY
+AFTER A PROGRAM HAS 
+FINISHED EXECUTED
+
+51—(C)A UTILITY FOR DEVELOPMENT OF PROGRAM
+
+52—(B) WRITE INPUT.
+
+53—(A)32 ADDRESS IN MEM
+
+54—(D) 65&A
+A&65.
+
+55—C PROGRAM
+ANS--(C)A
+
+56—INT (*P(CHAR*A))[10]; IS—
+ANS--(C)FUNCTION
+
+57—C PROGRAM—ANS (C) C
+
+58—(A) EQUIJOIN
+
+59---
+(B) SELECT STORE_ID , SUM (QTY*PRICE)
+FROM SALES, TITLES
+WHERE TITLES.TITLE_ID=SALE4S.TITLE_ID
+GROUP BY STORE_ID
+
+60—(C)001001011.
+
+61—BINARY 10001010111 TO OCTAL----
+ANS(A) 2127
+
+62—(C)2058H
+
+63—NO OF ADD LINES REQUIERD ON THE CHIP OF 2K MEMORY
+ANS—(B)11
+
+64—(B)LIFO
+
+65—R-S FLIP- FLOP
+ANS(B) BISTABLE MULTIVIBRATOR
+
+67—HIGHEST FREQUENCY IS OF –
+ANS(B) MICROWAVE
+
+68—(D) CAPACITOR IS USED TO SPLIT SINGLE PHASE
+
+69—(C)CENTRALIZED DATA BASE BECAUSE OF HIGH COMPUTING
+POWER THE SERVER
+
+IN MY COLLEGE CUT OFF FOR TECH WAS 55.WITH ON NEGATIVE
+MARKING.
+
+
+
+
+
+
+
+
+
+
+
+ASHok leyland-2002
+
+ 
+
+BASED ON 11& 12 FUNDA.
+#ELECTRICAL CIRCUIT
+#EFFECT OF ADDITION OF SALT ON WATER(RELATED TO
+SOLUTIONS)
+#OVERTURNING OF VEHICLE IN CICULAR TRACK(CONDITIONS OF
+
+SKIDDING,ETC.)
+#EFFECT OF PRESSURE ON BOILING.
+#BUOYANCY EFFECT.
+#EFFECT OF RUBBING GLASS WITH SILK & RUBBER WITH
+___.(NATURE OF 
+CHARGE PRODUCED).
+#FORCES ON CHARGES.
+#TIME PERIOD OF PENDULUM.
+#BODY TEMPERATURE IN F,TEMPERATURE COMMON ON BOTH C &
+F SCALE.
+#GRAPHITE CRYSTAL STRUCTURE.
+2.BASED ON ENGINEERING FUNDA
+#MOTOR USED IN LATHE SPINDLE & IN RAIL TRACTION MOTOR.
+#TYPE OF MAGNETIC MATERIAL USED FOR SMALL 
+MOTORS.(DIMAGNETIC/PARAMAGNETIC/FERROMAGNETIC)
+#MEANING OF OVERDRIVE,WANKEL ENGINE,GENERAL DRILL BIT
+ANGLE.
+#REASON OF USING REGENARATOR&CONDENSER.
+#CYCLE USED IN GAS CYCLES,DUAL CYCLE& DIESEL CYCLE
+DIAGRAM.
+#NORMAL VALUE OF VOLTAGE IN SPARK PLUG.
+#DISTRIBUTOR FUNCTION.
+#IN WHICH CASE TURNING WILL BE EASY(FRONT WHEEL DRIVEN
+BACK WHEEL 
+STEERED/__/___/___).
+#VISCOUS FLUID PASSING THROUGH DUCT OF VARYING CROSS
+SECTION & 
+PRESSURE REMAINS UNCHANGED-REASON?
+#DIFFERENTIAL FUNCTION,PITCH CIRCLE DIAMETER,PRESSURE
+ANGLE,GEAR 
+HOBBLER,GEAR SYSTEM IN WHICH AXIAL THRUST IS ABSENT.
+#FORCE APPLIED ON PIN JOINT OF TRUSS(CONNECTING 3
+BARS,MIDDLE 
+STRAIGHT SIDE SLANT AT EQUAL
+ANGLE)-TENSION/COMPRESSION IN MIDDLE 
+BAR?
+#ELEMENT ADDED TO STEEL FOR CORROSION RESISTANCE.
+#WHICH HAS LOWEST SPECIFIC HEAT-WATER,STEAM,COPPER.
+#WHICH HAS LOWEST THERMAL CONDUCTIVITY-STAINLESS 
+STEEL,STEEL,BRONZE.
+#DIAMOND PIN FUNCTION.
+#RELATION BETWEEN STRESS-GRADUALLY APPLIED & SUDDENLY
+APPLIED.
+#INCREASING OF WATER DENSITY IN RANGE?(0-4 DEGREE)
+#1 LITRE,4 STROKE ENGINE,1600 RPM,MEAN THERMAL
+EFFECTIVE 
+PRESSURE=5 BAR,POWER OF  ENGINE?
+#FINDING RPM OF SINGLE PHASE ALTERNATOR FROM LIST OF
+RPM'S.
+#PROBLEM BASED ON UNIT OF ELECTRICAL POWER CONSUMED.
+#EFFICIENCY OF CARNOT ENGINE.
+#TEMPERATURE MEASUREMENT BASED ON WHICH LAW.
+#SILENCER FUNCTION (BALANCE OF ENGINE/ PREVENTION OF
+VIBRATION OF 
+ENGINE/__/___)
+#SIZE OF LATHE(PARAMETERS)
+#THREAD CAN BE FORMED BY ALL PROCESS 
+EXCEPT-(FORGING,ROLLING,MILLING,TURNING)?
+#THREAD USED IN SCREW JACK,LEAD SCREW?
+#NOT RELATED TO THERMAL RADIATION-(PLANCK LAW,STEFFAN
+BOLTZMANN 
+LAW,FOURIER LAW,_____)?
+#RADIATOR TYPE USED IN BUS.
+#DEFINATION OF NORMALISING,TEMPERING,QUENCHING,ETC.
+#NORMAL HARDNESS VALUE OF CAST IRON USED INLATHE
+BED.(IN BHN)
+#DEFINATION-STRADDLE MILLING,SLAB MILLING,GANG MILLING
+ETC.
+#QUESTONS BASED ON GETTING FINAL 3-D SHAPE,FROM SHEET
+SHOWING 
+DETAILS WHERE IT CAN BE FOLDED.GETTING FV,TV,SV OF
+GIVEN ISOMETRIC 
+VIEW.
+
+3.GENERAL PROBLEM OF APTITUDE INCLUDING
+VOCAB,CONDITION TYPE 
+QUESTION,G                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

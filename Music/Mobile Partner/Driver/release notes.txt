@@ -1,0 +1,464 @@
+version 1.1
+  Initial version
+
+version 1.2
+  Interior version
+
+version 1.3
+  Add the support of the device of 1004
+  Modify the bug that Windows can't find the right inf file for device because infcache.1 cached different name of inf file.
+
+version 1.4
+  Add the support of vista driver.
+
+version 1.5
+  Modify the bug that can't copy inf to the directory on vista.
+
+version 1.6
+  Modify the bug that Windows refresh hardware automatically before all the driver files are copied into the right folder causing "Need to install driver manully" error.
+
+version 1.7
+  Add Microsoft signature file of PCSC under WinXP.
+  Write the value of ComDB into log file before installation.
+
+version 1.71
+  Don't try to delete infcache.1 file in vista.
+
+version 2.4
+  Fixed the bug which would hang the driver when write the packet which the size is the multiple of 64 bytes.
+  Fixed the issue that would effect the update wizard when transfer more than 4K packet in Windows 2000
+  Don't try to delete infcache.1 file in windows OS.
+
+version 2.41
+  Fixed the bug that would cause a BSD when restarting the machine with the datacard in.
+
+version 2.42
+  Add the support for vista64 driver.
+
+version 2.43
+  Fixed the bug that could cause Windows DUN keeping in the status of disconnecting when try to disconnect DUN
+
+version 2.60
+  Fixed the bug that could cause Windows DUN keeping in the status of disconnecting when try to disconnect DUN in Windows 2000 after uploading for a while
+  Fixed the bug that would cause a BSD after insert datacard in Windows Vista
+  Fixed the bug that using VMC Lite to dial will cause a BSD in Windows 2000
+
+version 2.61
+  Add the support of 1402 device
+  Fixed the bug that could cause Windows DUN keeping in the status of disconnecting when try to disconnect DUN in Windows 2000 after uploading/downloading for a while
+
+version 2.62
+  Resolve the problem that the uploading speed is unstable in HSUPA.
+
+version 2.63
+  Fixed the bug that pluging datacard would cause a BSOD while using VMC.
+
+version 2.64
+  Add the support for PID 1403,1405,1406,1408.
+  Modify the format of DriverVer.
+
+version 2.65
+  Add the support of NDIS device.
+  
+version 2.66
+  Modify the issue that can not find windows driver signature file.
+
+version 2.68
+  Modify the issue of USB2.0 platform.
+  ewnet.inf support 1403,1408.
+  Fixed the bug that the device in the device manager does not disappear sometimes in windows 2000, if yank the data card with connecting in NDIS.  
+
+version 2.7
+  add the rewind' command.  
+  
+verison 2.71
+  modify the PID for sending the rewind' command in the inf file.
+
+version 2.72
+  Modify the BSOD when removing the device.
+  Make the rewind' command in a single sys file.
+  Add the support for the new PID of 1411,1412,1413,1414,1415,1416
+  Integrate the DVB driver
+  Modify the issue that a error will occour when the device send a short packet.
+    
+version 2.73
+  Delete the PID 1410 in ewmdm2k.inf.
+  remove the DVB dirver
+  Resolve the compatibility with esetnod32 that forbid our driver to delete registry info.
+
+version 2.74
+  Call SetupUninstallOEMInf() API to delete our driver inf file in all OS.
+  
+Version 2.75
+  Call SetupUninstallOEMInf() API to delete our driver inf file in all OS except WIN2K.
+  Delete the unused dll file(devsetup32.dll devsetup64.dll).
+  
+Version 2.76
+  Add support for the DVB dirver
+  Add support of PID 1405 in ewnet.inf on VISTA64¡£
+  
+Version 2.77
+  Modify the DVB Driver issue.
+
+Version 2.79
+   Add the support for new pid of 140A,140C,140E,1417,1418,1419,141A,141B,141C,141D,141E,141F,1420,1421,1422
+   
+Version 2.82
+   Add PC Voice port on PID 1001.
+   Delete the 3G characters on PID 140B.
+   Fix the issue that driver uninstall will delete the single cdrom. 
+   Add a new PID 1427 to support NDIS without cdrom.
+   Fix the issue data card forbid PC to go to sleep.
+   
+Version 2.83
+   Modify the file version of sys.
+   
+Version 2.84
+  Add the new pid(1428) for mouse modem.
+  Fix the issue that driver does not send the blank packet when the pack size is multiple of the pipe's max size.
+  Add the support of connect speed display in the modem's inf file.
+  Move the ndis driver to the new base line 1029 of qualcomm.
+  Fix the mac address, the original is belong to qualcomm.
+  Remove the ewusbfake driver
+
+Version 2.85
+  remove the ewusbnet driver
+  fix the BSOD issue caused by pc voice on win2k.
+  fix the issue that the registry info could not be deleted on some PID, such as 140b, 140c.
+  PCSC does not support 1428 mode.
+ 
+Version 2.86
+  Add the support for winxp 64.
+  Remove the Win2K directory because it is reduplicate with the winXp directory.
+  Add the ndis driver.
+  Support the random MAC address in ndis.
+
+Version 2.87
+  Fix the issue that modem interface load driver fail.
+
+Version 2.88
+  Remove the XP64 driver directory.
+  Remove the version info in the setup log.
+
+Version 2.89
+  Fix the BSOD issue caused by ewusbmdm when run logo test.
+  Fix the issue that the installation take mach time in vista.
+  Add the support for winxp 64.
+  
+Version 2.891
+  Remove all driver in WinXp 64 except the modem, serial port.
+  Add the fake cdrom driver.
+  
+Version 2.892
+  Remove the fake cdrom driver.
+  
+Version 2.90
+  Add the new modem link speed for 8200 paltform(14.4M,21.1M,28M,42Mbps).
+  Modify the issue that the device does not disappear after removing the data card when uploading and downloading.
+  Modify the deleteing device policy when uninstalling the driver. It does not check the hardware id one by one, Only chekc the vid section.  
+  Fix the issue that driver could not install because of could not create the install log.
+  Modify the DriverSetup.exe program to return the install result code.
+  Add the BT port on 1001,1003,1406,140c,141a,141b,1429, 1402.
+  Add the support for PID 1429 and 142A.
+
+Version 2.91
+  Suport New PNP.
+  Fix the issue that can't reinstall with PID1001.
+
+Version 2.92
+  Add PID 1446 in ewusbfake.inf
+  Fix the issue that can't install in PC which has no oem*.inf
+  Add the BT port on 1406
+
+Version 2.93
+  Fix the BSOD issue caused by ewusbfake.sys.
+  Add the support for new pid of 14AC,1404,1407,142B,142C.
+  Fix the BSOD issue caused by ewusbnet.sys.
+  
+Version 2.94
+  Change fake driver's name from "ewusbfake.sys" to "ewusbdev.sys".
+  Change friendly name from "3G USB Fake" to "USB Device".
+  Fix the BSOD caused by ewusbfake.sys when PC resume from sleep.
+  
+Version 2.95
+  Excute application which listed in ExcuteList.txt after install and uninstall.
+  Write the driver's version info in register.
+  Add PortIdentify for each port.
+  Fix the BSOD issue when updata with CDMA datacard.
+  Fix the BSOD issue that plug datacard out from PC with not set QCDriverResident.
+  Fix the BSOD issue when load driver.
+  
+Version 2.96.00.00
+  Fix the issue that NDIS can't work properly on Vista sp2.
+  Fix the issue that PCUI can't work properly on Vista sp2.
+  Fix the BSOD caused by ewusbdev.sys.
+
+Version 2.97.00.00
+  Fix the issue that PC required reboot when install drivers.
+
+Version 3.02.00.00
+  Support Win7 OS.
+
+Version 3.03.00.00
+  Support Win XP, Vista, Win7 OS.
+  Fix the filght mode issue.
+  Fix the PS only issue that can not show WWAN UI.
+  Fix the issue that ping Huawei internal network slowly at the first time.
+ 
+Version 3.05.00.00
+  Fix the issue that can't use serial port when firmware not support remote wakeup.
+
+Version 3.06.00.00
+  Fix the issue that we can not send SMS after unlock the PIN with the WWAN API.
+  Optimize some AT cmd's process.
+  Add PID 144A-144D.
+
+Version 3.07.00.00
+  Fix the issue that after reinstall, modem can't be opened.
+  
+Version 3.08.00.00
+  Fix the remove problem when the memory resident is not set.
+
+Version 3.09.00.00
+  Add the support for Windows XP 64bit.
+  Add the installation for Autorun 2.0.
+  Fix the issue that PC hang when do pwrtest.
+  Remove the "safely remove" icon from Windows XP for EMXXX's NDIS Port.
+  Fix the isuue when PC go into sleep, firmware not goto low power state.
+  Add L1 buffer's number to improve the download's stability.
+  Fix the issue of reading SMS use at+clgm=4.
+  Fix the issue that user form service area to no service area then go back to service area, wwan can't connect.
+  Add the support for no IMSI product do wwan connect.
+  Add the support for new PID 143F.
+
+Version 3.10.00.00
+  Fix the issue Unsolicted indications are blocked when NO SMS capable SIM is used.
+  Fix the issue WWAN UI does not appear with CDMA device, if the SPN returns error.
+  Fix the BSOD due to improper response from firmware.
+  Fix a dead lock issue causing BSOD, long time for Sleep.
+  Fix BSOD when Firmware becomes irresponsive after some time and behaves randomly.
+  Fix the issue that when use Multiple Data card, remove one, another is unuseful.
+  Fix a risk when driver finished a IRP.
+  Fix the issue that Power manage aware is disappeared after replug.
+  Set default SMS configurations with  AT+CNMI.
+  Set default settings for memory storage for WCDMA, with AT+CPMS.
+  Support new CDMA AT Commands.
+  Support the installation command line parameter -pd, -nd, -pdf.
+  Initilization time for the QMI is optimized.
+  Add new function to distinguish DataCard and EM Device.
+  Remove the support for IMSICHECK AT Command.
+  Remove the support for TLP.
+
+Version 3.11.00.00
+  Fix the BSOD caused by the WWan when PC goto standby.
+  Support the installation command line parameter /EnableCD to tell firmware do Enable or Disable CDRom. 
+
+Version 3.12.00.00
+  Fix the issue that when do pwrtest PC hangs.
+
+Version 3.13.00.00
+  Support new platform of USBWare
+
+Version 4.01.00.00
+  Fix the issue that BSOD appears when NDIS is unload.
+  Fix the issue that BSOD appears when driver is uninstalled with the card.
+  Fix the issue that the sleep cannot success on some PC.
+  Fix the BSOD when the CDMA card insert into the PC.
+  Add the USB requests that start/stop the GPS service when the GPS port is opened/closed. 
+  Transfer the baseline code.
+  Combine the Jungo Driver.
+  Combine the new pid driver.
+  Combine the GPS driver for Win7.
+  Optimize the devsetup.
+  Combine the PCSC driver for Win7. 
+  
+Version 4.02.00.00
+  Fix the problem that the devsetup would get the wrong OS version in compatible mode.
+  Fix the issue that NDIS driver cannot be loaded in Win2K.
+  Fix the indication message problem in WWAN.
+  Fix the firmware update problem .
+  Fix the connect problem of WWAN.
+  Include the DVB driver in the packet.
+  Add new PIDs in *.inf files, remove the PIDs that could conflict with other products.
+  Modify the *.inf files to support New PID features.
+
+Version 4.03.00.00
+  Add PID 1557-1559.
+  Fix the problem of flight mode.
+  Fix the problem that the dll file cannot be found.
+  Fix the problem that the board cannot enter D2.
+  Fix the BSOD problem in 64 bit system.
+
+Version 4.05.00.00
+  Fix the problem of WWAN API can not force registering the 2G network
+  Modify some network error code
+
+Version 4.09.00.00
+  Fix the issue that it can not upload datas with WWAN driver of CDMA.
+  Support the modification of Model ID in WWAN driver.
+  Fix the PCA issue in Win7.
+
+Version 4.10.00.00
+  Fix the issue that NDIS port can't be found by NDIS api, Which caused by the modification of Version 4.09.00.00.
+
+Version 4.11.00.00
+  Add the new BDA driver.
+
+Version 4.12.00.00
+  Modify 2000 can not delete hardware.
+  
+Version 4.15.00.00
+  Fix the auto connection of NDIS after resume from sleep for CDMA data card.
+
+Version 4.16.00.00
+  Don't install wwan driver into non-Win7 system
+
+Version 4.17.00.00
+  Remove BDA driver
+
+Version 4.17.01.00
+  Improve ACM data transfer performance
+  Fix the issue that can't awake from hibernate on some special laptops.
+
+Version 4.18.00.00
+  Add BDA driver
+  Fix a BSOD with modem in verifier mode.
+  Fix an issue that there is some sound after from S3/S4 with FUJITSU LIFEBOOK.
+  Fix the issue after unload the fake driver. 
+  Fix the issue that the diag or pcui interface is dead after resume from S3/S4.
+
+Version 4.19.00.00
+  Fix a BSOD with fake in verifier mode.
+  PCUI port can not communicate.
+  
+Version 4.20.00.00
+  Fix an issue that ECM driver can't be loaded.
+
+Version 4.20.01.00
+  Fix an issue of driver setup. 
+
+Version 4.20.02.00
+  Fix an issue that the ports can not disappear sometimes.
+
+Version 4.20.03.00
+  Fix the BSOD issue when download big file.
+
+Version 4.20.05.00
+	Fix the issue that WWAN subnetmask error.  
+	Fix a bug of home provider name queried. 
+	Fix a bug of packet service detached.
+	Modify the information about the NDIS link speed.
+  Add PID 1C1C in ew_jubusenum.inf.
+
+Version 4.21.00.00
+   Support QOS
+   Optimize the output of log 
+   Optimize the sructure of driver file
+
+Version 4.21.01.00
+   Optimize NDIS download speed
+   Fix a problem of install driver
+
+Version 4.21.02.00
+   Fix the issue that WWAN port does not disappear after unplug
+   Fix the issue that software can not ping the server after connected
+   Fix the issue that connect failed by NDIS 
+   Fix the issue that WWAN does not correctly display current data class
+   Improve the efficiency of WWAN PIN unlock processing
+   
+Version 4.21.03.00
+   Fix an issue that WWAN fails to connect
+   
+Version 4.21.05.00
+   Fix an issue in WWAN logo test
+
+Version 4.21.06.00
+   Fix the high CPU usage issue with SFR connection manager
+   
+Version 4.22.00.00
+   NCM and ECM use the same file of driver.
+   Optimize the power management of driver.
+   Add a method that the driver sends the local time of PC to the device.
+   Add XML file for installation.
+   Fix an issue that the driver can not recognize some descriptor of USB device.
+   Fix an issue that the memory leaks when NDIS initializes.
+   Fix a BSOD issue for sleep test.
+   Fix an issue that the NDIS can not download the data from server for some device.
+   
+Version 4.22.01.00
+   Fix an issue for WWAN logo test.
+   Fixed an issue that the low version can be installed when the higher version had been installed.
+   
+Version 4.22.02.00
+   Fixed an issue that after the computer resumes from sleep, the NDIS connection shows ¡°connection terminated¡±. 
+   
+Version 4.22.04.00
+   Fixed an issue that prompt reboot when PC had install a beta wdf1.07
+ 
+Version 4.22.05.00   
+   Fixed an issue when PC has limited memory
+   
+Version 4.22.06.00   
+   Fixed an issue of prompting installing driver when unistalling
+   
+Version 4.22.09.00
+   Fixed an issue of VP call can't hung up on E173s with mobile patener.
+   note:   This version is based on version 4.22.06.00
+   
+Version 4.22.10.00
+   Add the new MODEM port name, with matched with protocol 0x17 for Orange.
+   Add new vodafone PIDs from WinDriver 4.21.10.11.
+   
+Version 4.22.15.00
+   Add the new PID 1447,14D2,14D3,14D4 for QC main version(not for VDF)
+   Add the display of the speed while 1X Rel A connecting
+   note:   This version is based on version 4.22.10.00
+   
+Version 4.22.16.00   
+   Fix the IRP reuse problem.
+   
+Version 4.22.17.00
+   Fixed an issue that the status of register is not changed when the device roams from one provider to another with WWAN.
+
+Version 4.22.19.00
+   Add a new feature for setting the automatic register mode with WWAN.
+   Add an indication indicating the SIM is ready from locked status.
+   
+Version 4.23.00.00
+   Add a new feature for disable LLMNR.
+   Disable remote-wakeup while S3 S4 S5.
+
+Version 4.23.01.00
+   Fix the Lenovo will open in the whole test PCUI port,and register a Notification,in order to close the port before the port state changes(such as Disable),but we registered this change will result in Lenove Notification failed,so APP can not get port status change notification,in can not close the port.This led to a failure of the whole test items(Disable/Enable).
+   Fix the PC power state fome S0 to S3,asked board to reflect the correct side of the power state of the S0 to S3.
+   Fix the supporting E353s products,wake up after standby NDIS dial,dial-up barrier after the success of Ping.
+   Fix the Jungo driver Balong LTE platform supports the Northern Research products,combined into the AT^SYSINFOEX need to replace the original command does not support the AT^SYSINFO LTE products command.	
+   Fix the In frequency of AWS or W900,download an upload concurrently,after 5 minutes,rate drop to Zero.
+   Fix the Six operating segments corresponding to the operator firm name does not appear in the WWAN at.
+   
+Version 4.23.02.00
+   Fix the issue that failed to get IP address while connecting after resume from standby on some special computers.
+   Fix the issue that failed to get correct NDIS connection state after resume from standby on some special computers. 
+   Fix the issue that failed to ping with automatical test tool Airflux after connected with NDIS.
+   
+Version 4.23.03.00
+   Fix the inf files and PNF files can not remove when the driver uninstalled.
+   
+Version 4.23.05.00
+   Add a request to set the MTU size for NDIS driver.
+   
+Version 4.23.08.00
+   Fix the issue that PS is not detached after a CS Only connection disconnected in WWAN driver. 
+
+Version 4.23.09.00
+   Fix a BSOD issue that the WWAN drive is not compatible with a stock software in Win7.
+   Add the values of rate 6.2M and 9.8M for Modem.
+
+Version 4.23.11.00
+   Add a new feature for WWAN add static NBNS.
+	 
+Version 4.23.12.00
+   Fix the issue that not support 5s suspend.
+
+Version 4.23.13.00
+   Add the PID: 151A,151B,151D,151C,151E,151F.

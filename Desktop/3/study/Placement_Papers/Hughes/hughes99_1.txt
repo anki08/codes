@@ -1,0 +1,95 @@
+Hughes-99
+
+1.If a precondition of a sub routine fails then
+  a. post condition fails as well
+  b. Post condition may fail
+  c. post condition is declared but now defined.
+
+2. whatz the o/p of the following program
+   
+ char * a= "AabbCc";
+ void x(char *a)
+ {  
+   a[0] == 0 ? x(a+1):1;
+   printf("%c",*a);
+   return 1;  
+}
+   x(a);
+
+a. AaBbCc
+b. cCbBaA
+
+3. What is DHCP used for?
+
+4. There are 2protocols IP and IPX are running on top of Ethernet. Suppose
+a packet addressed to that ethernt card arrives, to which protocol the
+ethernet sends the packet?
+1. It checks the payload of the frame and finds out the protocol type and
+despatches it to the right protocol
+2. It fins out the protocol type that is mentioned in the ethernet frame.
+3. despatches to both the protocol
+
+5. What is the use of global static variable in C?
+
+6. In which stage of the compilation the Macro in C are converted into
+Iline code? (this is not the exact Qn a slight variation of it)
+
+7 In the IP/Ethernet network, a packet with destination address
+192.32.65.70 arrives and there is no entry for this address in the routing
+table of the m/c? what does the m/c do about the packe
+a. discards the packet.
+b. Brodacasts into the ethernet.
+c. sends to default router
+
+8. in Public key Encryption , if A wants to send a encrypted msg to B then
+A encrypts the message with 
+a. A's public key
+2. A Pvt key
+c. B's public key
+d. B's Pvt key
+
+9. consider the SQL statement "Create table New as select * from oldtable"
+a. the sql stament is a correct one
+b. New is reservd word there is an error
+c. you can't select anything while creating a table
+
+10. By Codd's defn for RDBMS whih one is not right?
+   options , I don't remeber
+
+11. If X and Y are two attriubutes of a relation and 1 and 2 be any two
+tuples in that relation
+Y is fuctionally dpndant on X iff (X->Y)
+
+a. if (x1 == x2) then y1==y2
+b. if (x1==y1) then x2 == y2
+someother combinations
+
+12.The normalization process 
+1.reduces the data redundancy
+2.It reduces the inconsistency that arises due to the data redundancy
+
+
+13. ((A nand A) nand (B Nand B)) = ?
+a. A+B
+
+The question was not exactly in this form. gates represented pictorilly
+
+14. whtz the purpose of flow control?
+1. to control errors
+. to control congession the receiving end
+3. to sequnce the out of sequence packets
+
+15. Whic is false about Java strings
+1. The are Null terminated
+2. Set of Chars
+3. The Condition checking == and = on a sme pair of strings gives
+different results.
+
+16. When a java Applet is downloaded what does it do?
+Don't remeber the options
+it's went something like this:
+1. checks the magic nubmer
+
+
+17. Whatz is the Cyclometic complexity of the following code
+don't remember the code exactly

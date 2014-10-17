@@ -1,0 +1,72 @@
+
+jayash 
+guest	
+Posted 8 months ago # 
+
+
+In a matrix of characters, find an string. String can be in any way (all 8 neighbors to be considered), like find Microsoft in below matrix.
+
+A C P R C
+X S O P C
+V O V N I
+W G F M N
+Q A T I T
+
+RaOne 
+guest	
+Posted 8 months ago # 
+
+
+Think recursion and floodfill
+
+
+jitu 
+guest	
+Posted 5 months ago # 
+
+
+input=input[m][n],str[]
+solution:-
+1.take a stack stk(initially empty)
+2. search str[0] 's position (x,y) in input
+3. suppose we have found (x,y) pairs.
+4.repeat step 5 for each (x,y)-
+5.
+
+search_print(int len,int x,int y, stack stk)
+   {
+       if(len==strlen(str);
+       {
+              print the whole stack and return
+       }
+     else if(input[x][y]!=str[len+1])
+           return ;//not found
+          else
+          {
+            strk.push(x,y)
+            if(x-1<m&&y-1<m)
+         search_print( len+1, x-1,y-1, stk)
+
+            if(x-1<m&&y<m)
+         search_print( len+1, x-1,y, stk)
+
+            if(x-1<m&&y+1<m)
+         search_print( len+1, x-1,y+1, stk)
+
+            if(x+1<m&&y<m)
+         search_print( len+1, x+1,y, stk)
+
+            if(x+1<m&&y+1<m)
+         search_print( len+1, x+1,y+1, stk)
+
+            if(x+1<m&&y<m)
+         search_print( len+1, x+1,y, stk)
+
+            if(x+1<m&&y-1<m)
+         search_print( len+1, x+1,y-1, stk)
+
+            if(x<m&&y-1<m)
+         search_print( len+1, x,y-1, stk)
+
+       stk.pop();
+}

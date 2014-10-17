@@ -1,0 +1,543 @@
+****************HUGHES -99 ***********************
+
+1-N  keys to be sorted using n space,which algo?
+a. insertion
+b. shell
+c. both
+d. quick
+2-Heap doesn't have following property ?
+a. smallest element is at leaf
+3-searching time is min. in 
+a. Hash
+4-To sort 10 values, which sort will you use ?
+a.bubble
+b. quick
+5-A has to send message toB 
+ans. Will use B's public key
+6-aques on NAND gates (perhaps same as that in DCE)
+7- F(char *p)
+{
+        p=(char*)malloc(6);
+        p="hello";
+printf("%s",p);
+}
+main()
+{
+char*p;
+p="bye";
+f(p)
+}
+8-In Asynchronous transmissin\om client....
+9-DHCP is
+10-Ethernet LANhas IP &IPX protocol, what will happen?
+11-verification:Are we building the right product?
+Validation:are we building the product right?
+Ans. Both are wrong.
+12-Q. on Functional dependency
+13-Normalisation
+14-char*p="AaBbCc"
+int x(char*p)
+{
+p(0)?X(a+1):1;
+return 1;}
+ans cCbBaA
+15-macros
+16-Write through is better from write back
+17-thread switching;
+18-cyclometric complexity
+19-41.6375->convert into binary 
+20-binary tree has how many ptrs at (n+1)
+21-O(2n)-merge complexity
+22-path testing
+a. black box
+b. white box(ans)
+23.host ip address,NFS
+24-Icvques
+25-Timer synchronisation
+26-How control in tCP is when
+ans congestion .....
+27-Reentrant procedure
+28-program counter incremented in ans. Fetch
+29-ordered binary tree & hash -which is better
+30-time server
+31-why is dram slow
+
+
+********************************************************************************
+
+        ******************Hughes paper in DCE************
+
+All ques. had four options. 
+
+1- What is max. no. of hops in hypercube n/w  with n (=2 ^ p) to go from one node to another ?
+a. p
+b.      log p
+c. n ^ 2
+2- What is Kerberos ?
+ans. Authentication Protocol.
+3-In completely connected multiprocessor system with n processors 
+, links will be of the order of 
+a. O(n ^ 2)
+b. O(2 ^ n)
+c. O(n/2)
+4-When quick sort gives worst performance ?
+ans. When elements are in order.
+5- o/p of  each sorting step of 8 elements was given and had to recognise which sorting algo.?
+Ans. Bubble sort (Not Sure , Check it out )
+6-In worst case ,which sort is best out of following sorts?
+a.heap
+b.selection
+c.quick   (ans.)
+d. insertion
+7-Three very simple gate circuits each having inputs A,B,C,D were 
+given and had to tell ,which two give same result ? (DeMorgan's Law was used in solving )
+Ans was (a) &(c) (o/p  of a & c was coming to be AB +CD)
+8-K-map given,had to tell simplified function
+Ans was perhaps AB+AD +AC+BCD
+
+K-Map was
+              CD-->
+        AB      0       0       0       0
+                0       0       1       0
+                1       1       1       1
+                0       1       1       1 
+          
+9-What is Function Point ?
+Ans. S/W estimation technique
+10-p points to an integer. We don't want p to change value. In C, what declarations will we use?
+A const int *p
+b.int *p
+c.int const *p
+e. int* const p (perhaps ans.)
+11-Diff  between  2NF &3NF ?
+Ans. D (last option)
+12.Which does not use client server model ?
+a. Email
+b. Web access
+c. C. Telephone call
+d. N/w file system
+13-In a pipeline having 3 stages, each having reliability of 0.9 
+,what is overall reliability of pipeline?
+a. 0.9
+b. 0.729
+c. 0.81
+14-2level cacheis there first level cache's access time is 100ns,second 
+level cache's access time is 33ns & memory access time is 1000 ns 
+. Wh at is total memory access time ?
+ans. 140 ns
+15-In public key cryptography,Awillsend message to B 
+ans. Using B's public key
+16-What does projection of a relation give?
+Ans.gives vertical partition of relation corresponding to specified columns.
+17-For disk or direct access storage, which is best ?
+a.      AVL
+b. B-tree
+c. Red tape ...
+18-There is a tree with inorder threading Node B is inserted as 
+left child of nade A. Node A already has right child . Where will the null ptr of B point ?
+ans. Parent of A (perhaps)
+19-There is a diskless workstation. Which will be the first protocol 
+it will usenull ptr of B point ?
+ans. Parent of A (perhaps)
+19-There is a diskless workstation. Which will be the first protocol 
+it will usesesenull ptr of B point ?
+ans. Parent of A (perhaps)
+19-There is a diskless workstation. Which will be the first protocol it will usesese ?
+a       FTP
+b. ARP
+c. HTTP
+d.  RARP
+20-Compiler keeps which of following ?
+ans. Symbol table
+21- 'ping' command uses which protocol ?
+ans. ICMP
+22-Merge sort uses which technique?
+Ans. Divide and Conquer
+23-Program counter is incremented in
+a. fetch (ans)
+b. decode
+c. execute
+24-what does the following program do ?
+        f(int n)
+        {
+        int c;
+        while(n)
+        {
+        n&=n-1;
+        c++;
+        }
+        print c;
+        }
+ans. Program prints the no. of set bits in no.
+25-What is this called (char *) (*(*(*A[X]) ( ) )) ( )
+ans. Array of X pointers to a function returning pointer to functions 
+that are returning pointer to char (not sure )
+26- For synchronisation in distributed computing, what should not be there ?
+a. all machines are synchronised by a global clock
+b. all systems should have their own clock (perhaps ans)
+27-Java applet of a moving /waving file is running on one machine then it means
+a.Java's executable code is downloaded and running on the m/c
+b.A virtual X server is running on that m/c while the actual program is running on the web server.
+28-What is in RSA algo. ?
+a. First the session key is encrypted & then whole message is encrypted using RSA Algo.
+b. Message is encrypted using RsA algo.
+c. First Rsa algo is used &then encrypted with the session key.
+29-What is dirty read?
+a. Transaction reexecutes and gives diff. Results from the original execution
+b. Read is done when the transaction is not yet committed
+30-What is coupling ?
+a. It tells the strength of interconnection between two program units.
+b. It tells the strength of interconnection between two program units and one program unit
+31-Any n/w on the computer can have only
+a. one domain &one IP
+b. more than one domain & more than one Ip
+c. one domain and more than one IP
+d. more than one domain & one IP
+32-Which one does not have file descriptor ?
+a. process
+b. keyboard
+c. pipe
+d. socket
+33-What does CONNECT BY means
+a.connect to a different databaser for retreival
+b.arrange in tree ordered structure
+34-In two phase commit protocol, why log is used during transmission &reception ?
+a. To retrieve the status in case of crash
+35-In which algo. Waiting time is minimun?
+Ans, SJF
+36-How many address bits are there  in Ipv6
+ans. 128 bits
+37-During run time heap is managed by
+a. a user process in kernel mode
+b. A system process manages heap for all the processes
+c. A system process  for each process
+d. A user process in user mode
+38-In which of following search is efficient?
+a. height balanced tree
+b. Weight balanced tree
+c. Binary tree
+39.A ques. on resource relocation, sharing ( I don't remember more 
+than this regarding this ques.)
+40-some ques. options were sth like
+a. transparency control
+b. Migration control
+c. Concurrency control
+41-X:In DFD, input is converted into output by passing through various functional units
+Y:DFD cannot be used in object oriented design
+a. both X& y are correct
+b. both X & Y are incorrect
+c. X correct, Y incorrect
+d. Xincorrect, Y correct
+42-Where regression testing is used ?
+a. Dynamic analysers
+b. Loaders
+43-For Java interfaces , what is true ?
+a. Functions declarations are not given'
+b. Variables are not declared
+c. Instance variables are not used
+44-In a linked list, we can delete a node in order of 
+a. 1
+b. n
+c. n ^ 2
+45-If there are N people and we have to do symmetric & asymmetric 
+cryptography, how many keys would be used in these cases respectively?
+a. N & N ^ 2 (probably ans)
+b. N ^ 2 & N
+c. N & N
+d. N ^ 2 & N ^2
+46-The protected element of a class  can't be accessed by
+a. member functions of the same class
+b. member functions of the derived class
+c. member functions of any other class in the same program (Ans.)
+47-NFS uses same file structure as unix
+48-To solve an expression which of following trees will you use ?
+a. postfix
+b. infix
+
+There were two papers one was aptitude ( 36 questions) and other was 
+technical(20 questions)
+
+1: given an expression tree and asked us to write the in fix of that expression
+
+four choices
+
+
+2:
+  global variables in different files are
+
+a:at compiletime
+b) loading time
+c) linking time
+d)execution time
+
+3)size of(int)
+a) always 2 bytes
+b) depends on compiler that is being used
+c) always 32 bits
+d) can't tell
+
+4)which one will over flow given two programs
+2
+prog 1:                                 prog2:
+
+main()                                  main()
+{                                       {
+int fact;                                       int fact=0
+long int x;                             for(i=1;i<=n;i++)
+fact=factoral(x);                               fact=fact*i;
+
+}                                       }
+
+
+int factorial(long int x)
+{
+
+if(x>1) return(x*factorial(x-1);
+}
+
+a) program 1;
+b) program 2;
+c) both 1 &2
+d) none
+
+}
+
+5) variables of fuction call are allocated in
+a) registers and stack
+b) registers and heap
+c) stack and  heap
+d)
+
+6)
+
+    avg and worst case time of sorted binary tree
+
+
+7) data structure used for proority queue
+   a) linked list b) double linkedd list c)array d) tree
+
+8)
+
+ main(){
+char str[5]="hello";
+if(str==NULL) printf("string null");
+else printf("string not null");
+}
+what is out put of the program?
+a) string is null b) string is not null c) error in program d) it executes but p
+rint nothing
+
+
+
+9)there are 0ne 5 pipe line and another 12 pipe line sates are there and flushed
+ time taken to execute five instructions
+
+a) 10,17
+b) 9,16
+c)25,144
+d)
+
+
+10)
+
+for hashing which is best on terms of buckets
+a)100 b)50 c)21 d)32  ans 32
+
+11)
+
+
+void f(int value){
+for (i=0;i<16;i++){
+if(value &0x8000>>1) printf("1")
+else printf("0");
+}
+}
+what is printed?
+a) bineray value of argument b)bcd value c) hex value d) octal value
+
+12)
+
+
+void f(int *p){
+static val=100;
+val=&p;
+}
+main(){
+int a=10;
+printf("%d ",a);
+f(&a);
+printf("%d ",a);
+}
+what will be out put?
+a)10,10
+
+13)
+
+struck a{
+int x;
+float y;
+char c[10];
+}
+union b{
+int x;
+float y;
+char c[10];
+}
+which is true?
+a) size of(a)!=sizeof(b);
+b)
+c)
+d)
+
+14)
+
+
+# define f(a,b) a+b
+#defiune g(c,d) c*d
+
+find valueof f(4,g(5,6))
+a)26 b)51 c) d)
+
+15)
+
+find avg access time of cache
+a)tc*h+(1-h)*tm b)tcH+tmH
+
+c)    d)   tc is time to access cache tm is time to access when miss occure
+
+16)
+
+main()
+{
+char a[10]="hello";
+strcpy(a,'\0');
+printf("%s",a);
+}
+out put of the program?
+a) string is null b) string is not null  c) program error d)
+
+17)
+
+simplyfy k map
+
+1 x x 0
+1 x 0 1
+
+18)
+
+int f(int a)
+{
+a=+b;
+
+//some stuff
+
+
+}
+
+main()
+{
+x=fn(a);
+y=&fn;
+what are x & y types
+a) x is int y is pointer to afunction which takes integer value
+
+
+
+19)  char a[5][15];
+int b[5][15];
+address of a 0x1000 and b is 0x2000 find address of a[3][4] and b[3][4]
+assume char is 8 bits and int is 32 bits
+
+a) b) c) d)
+
+there are 20 questions all in techinical paper and 36 questions in appititude te
+st
+
+in appititude thay have given all diagrams and asked to find what comes next
+
+thay are quite easy and i hope if u practice r.s aggraval u can do it easily
+
+for tecnical thay have given 1 hr for 20 questions and for not technical thay ha
+ve given only 40 min
+and 36 questions
+
+this is the paper i have right now
+
+1. main()
+   {
+    fork();
+fork();
+fork();
+printf("\n hello");
+}
+
+How many times print command is executed?
+
+2.main()
+{
+ int i,*j;
+  i=5;
+j=&i;
+printf("\ni= %d",i);
+ f(j);
+
+printf("\n i= %d",i);
+}
+
+void f(int*j)
+{
+int k=10;
+  j= &k;
+}  
+
+output is
+a 5 10
+b 10 5
+c 5 5
+d none
+
+3.
+  some question on pipeline like you have to findout the total time 
+by which execution is completed for a pipeline of 5 stages.
+
+4.
+
+  main()
+{
+   int *s = "\0";
+
+   if(strcmp(s,NULL)== 0)
+     printf("\n s is null")p
+    else
+     printf("\n s is not null");
+}
+
+5. 
+  some syntax which returns a pointer to function
+
+6.  size of integer is
+    a. 2 bytes
+    b 4 bytes
+    c. machine dependant
+    d compiler dependent.
+
+7.max and avg. height of sorted binary tree
+
+a. logn n
+b n logn
+
+8.
+  some question. like the number was shifted everytime by one and bitwise and with 10000000.
+  one was supposed to find what the code was doing.
+  I feel the answer was most probably finding decimal value.
+
+9. int a[5][4]
+   int is 2 bytes base address for array is 4000(Hexa)
+   what will be addr for a[3][4]?
+   int is 4 bytes same question.
+
+10.
+  implementation of priority queue
+  a. tree
+   b linked list 
+    c doubly linked list.

@@ -1,0 +1,19 @@
+
+           "     Qns( not all ; not the exact qns):
+ 
+i) aptitude : 75 qns 60 min.
+ 
+     mostly GRE type analytical, reading comprehension, logical reasoning etc.
+ 
+ii) tech ( multiple choice with negative marking) :
+ 
+ 
+1.      regarding cache access : cache access = 2 ns. main mem = 100 ns.
+         cache hit ratio : 97% ... what is time taken?
+ 
+2.      pipelined processor : 4 stages.
+         mem read at stage 2.
+         register reads : beginning of cycle 3 and writes end of cycle3.
+         mem write at stage 4.
+         what r the possible hazards?
+ 

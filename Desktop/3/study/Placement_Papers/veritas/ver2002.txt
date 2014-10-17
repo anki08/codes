@@ -1,0 +1,96 @@
+CSE Department's Web-mail Service
+
+
+
+From: Shiladitya Biswas mt cse <sbiswas@cse.iitk.ac.in>
+To: <mtech2001@cse.iitk.ac.in>
+Date: Mon, 29 Jul 2002 22:10:58 +0530 (IST)
+Subject: veritas '02 paper at IISc
+
+
+this is part of the veritas paper of this year....
+1) f(0) <= f(1) <= f(2) <= ...
+  g(0) <= g(1) <= g(2) <= ...
+  h(0) <= h(1) <= h(2) <= ...
+
+ That is given three monotonically non-decreasing functions asked us to 
+give
+algorithm to find the smallest common value such that
+
+ f(i) = g(j) = h(k) for some i, j, k
+
+
+2) Given an array consisting of both +ve and -ve numbers ... give a O(n)
+algorithm to find the max subsequence sum (standard problem see Allen 
+Weise
+book)
+
+
+3) Given a hetrogeneous circular doubly linked list with the following
+node definitions
+
+  struct A {
+    char data1;
+    int  data2;
+    void *ll_prev;
+    void *ll_next;
+    int  thisdata;
+  };
+
+  struct B {
+    int data1;
+    chat data2;
+    int data3;
+    void *ll_prev;
+    void *ll_next;
+    int thisdata;
+    char data4;
+  };
+
+Each node 'thisdata' field which denotes whether it's ll_prev and ll_next
+point to type A or Type B node ...
+
+  thisdata = 1  -- Type A node
+  thisdata = 2  -- Type B node
+
+Your given a pointer to the first node of the list ... the first node
+is of type A.  Give an algorithm to add a Type B node
+
+
+4) Consider the following function
+int X = 0;
+
+  void somefunc(int p, int q) {
+     int i;
+
+     for(i=p; i<q; ++i) {
+        somefunc(i+1, q);
+        ++X;
+     }
+  }
+
+If q>p always ... give a formula/expression to determine the no.of times
+variable X is incremented in terms of p and q.
+
+the objectives will be on os algo c etc
+ best of luck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           Powered by AtDot
+
+
+

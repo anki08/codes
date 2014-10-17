@@ -1,0 +1,22 @@
+
+dear rajesh,
+ 
+dont be frightened about the interview --- i have attended the skytech interview previously this year --- they had asked a few questions of which i remember a few as -
+ 
+in C++
+regarding inheritance ( most probably multiple inheritance)
+ 
+in SQL
+how to select 5 rows out of 200 rows returned by a select statement
+something regarding use of distinct in select statement
+ 
+HR
+locational preference
+would you copy a job work previously done by someone if needed
+your area of liking(programming,mainframe etc)
+ 
+well the persons conducting the interview were pretty cool and they never disturbed me in any way --- be confident and give stress on C,C++,SQL etc
+ 
+all the best --- fyi i didnot get chance there.
+ 
+ 

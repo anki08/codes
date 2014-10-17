@@ -1,0 +1,455 @@
+Infy PSG tech
+
+. sakundala devi escalator pblm (21 steps)
+
+2. age problem. ( grandma = 81 father =50 wife = 25, son = 5, daughter = 1)
+
+    Here pblm is 2 find the age of grandma.
+
+3. probability. that is total 100, 80 hav phone, 75 have car, 70 have house, 85 have somthing. Howmany have everything. ans : 42
+
+4. analytical pblm. diamond,emerald,gem,like take mock exam from barrons/CAT guide. I cleared this with all right and fully correct. lightly difficult.
+
+5. Reasoning pblm : Card pblm. Yello,green,bk\lue, Red no one card has both side same color like.
+
+6. 3 color apples. How much taken least to take same color apples. (ans: 7)
+
+7. lodge and two team members take the lodge pblm.
+
+8. 1/3 of kids were playing ahead of me. 3/5 of kids behind me find whole kids in amount.
+
+ (ans : 12)
+
+9. i cudn't remember
+
+10. i cudn't remember
+
+ 
+
+All are previous paper.
+
+------------------------------------------------------------------------------------------------------
+iit chennai
+
+           Infosys 8-8-2004 SOLUTIONS
+
+                       ----------------------------
+
+(1). Three kinds of apples are mixed.How many should be picked to 
+ensure atleast 3 of one kind ?                                       
+                                                        
+                                  (3m)   Ans: 7.
+Solution:
+If u pick 6, at the worst case 2 from each type will come . a a b b c 
+c.
+When we pick the 7 th it matches with any one of the three .
+
+(2) Refer "Brain Teasers" Ravi  Narula,Chapter 1,question
+"Dog Fight".
+      A little modified question like
+
+Out of 100 people 
+(i)85 have car,
+(ii)75 have house,
+(iii)70 have bags………
+(iv)….
+(v)…..
+      How many have all the three?                        
+                 Ans: 10.
+
+Solution:
+Those who don't have car            ==  15
+Those who don't have house          ==  25
+Those who don't have bags           ==  30
+Those who don't have..........      =
+---------------------------------------------------
+Add all                            ==   90
+
+So 90 (a union of all DOES NOT's)  is a combination of those who DOES 
+NOT have 1 or  2 or 3 or 4  things what ever it  may be.Then 
+remaining 10 people (are not associated with the word 'DOES NOT' in 
+any way) There fore they have all the 4 things.
+
+Ans: 10.
+
+
+(3) As the elevator is not functioning, I am coming down in a stairs. 
+after 7 steps down, i found my Proffessor standing down at the end of 
+the stairs. and he is coming up. We both are walking in our own speed 
+and after greeting  we crossed each other. and  when there were 4 
+more steps to get down, I found that my proffesor just completed 
+crossing the  stairs. And for my each of one step, he took 2 steps. 
+Then how many steps were there in the stairs ?                  
+                                                
+                  
+                                                 Ans: 22.
+
+Solution:
+Let the steps b/n step no.7  and (last step – 4) == x
+When A goes x, B goes 2x steps
+B climbed all the steps  4+x+7 when A took x steps
+4+x+7   ==  2x
+x="
+
+
+(4) A person has a son.His son's age is five times his daug's age. 
+His  wife's age is 5 times his son's age.His age is twice his wife's 
+age. The total  of all this ages is equal to his son's grandma's age 
+who celebrated her 81st birthday this year. What is his son's 
+age?                        Ans:(Needed???) 5 years.
+
+Solution:
+Let daughters age == d
+d+5d+25d+50d == 81
+d==1
+son=]==5
+
+(5) Four persons A, B, C and D are playing cards.Each person has one 
+card, laid down on the table below him, which has two different 
+colours on either side. They see the color on the reverse side and 
+give the following comment.
+A: Green or Blue
+B: Neither Blue nor Green
+C: Blue or Yellow
+D: Blue or Yellow
+
+The colours visible on the table are respectively Red, Green, Red* 
+and Blue. Given that out of the 4 people 2 always lie find out the 
+colours on the cards each person.                                 (8 
+marks)
+*(DURING THE TEST AFTER SOME TIME THE INVIZILATORS INFORMED US TO 
+MODIFY THE                 QUESTION Red AS Yellow i.e. the visible 
+colors are Red, Green, Yellow and Blue).
+
+ANS: G,B,R,Y respt. 
+Solution:  
+ANS: Green,Blue,Red,Yellow respt.
+     A : true
+     B : false
+     C : false
+     D : true  
+(These Values Have satisfied all conditions. )
+(6). Rahul took part in a cycling race with many others in a circular 
+closed circuit. After pedaling for several minutes, he found that 1/3 
+rd of the cyclists ahead of him and 3/4 th of the cyclists behind him 
+together formed the total no. of  participants. How many were 
+participating in the race? 
+Ans:13
+Solution:  
+Since it is a CIRCULAR LAP the boy can    count all the other  boys 
+(except him) as the no.  of boys in-front of him.
+     Similarly the no of boys behind him are, all the boys except 
+him.So both r same let it be  x==( all   the boys except him.)
+     [(1/3) * x]  +  [(3/4) * x]  ==  x  + 1
+     since x + 1 == total no.of boys (including rahul)
+     solving x= ;         x+1=
+Ans:13
+
+(7) A boy goes to school from his house.On one fourth of his way to 
+school, he crosses a machinery 
+station. And on one third of his way to school, he crosses a Railway 
+station. He crossed the machinery station at 7:30 and he crosses the 
+Railway station at 7:35. When does he leave the house & when does he 
+reach the school ?                              
+                   Ans : 7:15 and 8:15
+
+Solution:  
+let dist be x fom home to school
+
+1/3*x-1/4*x  took 5 min
+x/12 took 5 min
+x will take 60 min
+
+1/4*x will take 15 min.
+hence Ans : starting time 7:15 and reaching time 8:15
+
+(8) 4 multiple choice questions were asked each having 5 options. 
+A man is preparing a decorative showcase for his precious stones A, 
+B, C, D, E, F, G. There are two shelves, one right and the other 
+left. 
+A is put on the left side, while B is put on the right side. C cannot 
+be put where A and D are put, whereas E and F have to be put together.
+
+There were four questions asked regarding the presence of stones, for 
+example,
+
+(i) Which of these stones are be put in the left shelf?
+(a)    A, B, C
+(b)   A, D, E
+(c)    A, D, F
+(d)   B, C, F
+The problem is very simple and the four questions were exactly like 
+the 
+one above, with certain simple conditions imposed on the presence of 
+B 
+and/or E on the right or left shelf.                       (8 marks)
+
+Ans: (1).A (2).A (3).B (4).E        (check them)
+
+(9) There r some groups and some lodges.(Not very sure about this 
+ques).
+1.      Each person belong to exactly 2 lodges.
+2.      One lodge is associated with exactly three members.
+3.      Any pair of two lodges  consists of exactly one common person 
+from a group(or from the group? I don't remember).
+Find
+1.No.of persons in a group.
+2. No.of lodges.                                      
+                    Ans: 6,4(check it)
+
+(10). A Boy `A' bought a Hat & Suit for Rs.15. His Girlfriend
+`B' 
+bought a Suit with as much as cost of A's Hat. Then with
+remaining 
+money she bought a Dress. The dress costs one rupee less than 
+A's 
+hat's  cost. Then she told him that had they used their hat money
+to 
+buy hats such that her hat costs 1 ½ times his hat they would have 
+spent  equal money on their purchase. The boy asked ", Can u tell
+the 
+cost of my hat I bought?".
+1.      Answer it.
+2.      How much they spend altogether ?
+Ans: (1)6.5  (2)29
+
+SOLUTION:
+-------------
+Let s  == suit;  h==hat;   d==dress;
+s(a) + h(a) =...........(i)
+h(b) + d(b) ==?............(ii)
+since h(b)==s(a) given ......(iii)
+
+(ii)->  s(a) + d(b)== ?
+   given d(b)==h(a)-1.....(iv)
+      ->   s(a) +h(a) -1 == ? ==>(15 -1)
+
+therefore, (ii) =-1 == 14  ==> h(b) + d(b)  =…..(v)
+Had they bought hats at some Rs:x and Rs:(3/2)*x (ratio of 1 : 1 1/2)
+with their hat money their  purchases would have been be equal i.e 
+Suit A + hat A  == Hat B + Dress B       ……..(vi)
+Now their hat money was  == h(a)+h(b)
+                    from(iii) ==> s(a) +h(b) =
+dividing 15 in 1 : 3/2 we get 6,9
+
+(vi) ==>
+S(a)+ 6 == 9 + d(b)
+S(a)+ 6 == 9 + h(a) - 1
+s(a) == h(a) + 2
+
+from (i)substituting s(a)=-h(a)
+==>15 - h(a) == h(a) + 2
+h(a)== 13/2 == 6.5
+
+total money == 15+14=)       from i and v
+
+A 's hat==6.5               B's Hat == 8.5   
+A 's suit==8.5              B's dress ==5.5
+(1) 8.5 + 6.5 == 15     (TRUE)
+(2) 8.5 + 5.5 == 14(B's hat is 1 less of A)(TRUE)
+(3) had they bought hats at 6 and 9 Rs (1 : 1 1/2)their     purchases 
+would have been be equal i.e 
+Suit A + hat A  == Hat B + Dress B
+    8.5 + 6 == 9 + 5.5(TRUE)
+Hence these values r the correct answers.
+
+ 8th august : Guys My name is Srikanth Pai B.
+Tragedy happened with me when I saw the result of
+Infosys test. After solving 8-9 questions correctly I
+have been thrown out? just bcause of English part. I
+am from kannada medium. Friends tell me whether
+studying in kannada in karnataka is any sort of crime.
+
+Why   
+
+1. In a box 3 types of balls are there. What is the
+minimum and maximum number of balls should be taken
+form the box such that at least three balls are of
+same kind.
+Ans: min 3, max 7
+
+2. Since lift was not working X decided to come down
+the building through steps. When here came down 4steps
+he saw Y coming up. When X is yet to cover 4 step down
+he found that Y has already reached the top. Y is
+twice as fast as X. Totally how many steps are there.
+Ans: 22
+
+3.In a merry-ground race is going on. A runner says
+1/3 of the runner are behind me and ¾ of the runners
+are ahead of me. Totally how many runners are there.
+Ans: x/3+x/4=X+1  since merry ground is round.
+
+4.My sons age is five times as my daughter, my wife is
+five times my son, I am twice as old as my wife. My
+mother is celebrating 81st birthday anniversary. My
+mothers age= my age+wife +son+daughter.
+Then what is my sons age.
+Ans:5
+
+5. X and Y went to shopping. X brought a shirt and
+cap. He payed total 15.  Y brought cap and dress
+    Cost of X’s shirt= Y’s Cap.  Y made a statement ,
+my dress costs just one rupee less than ur cap.
+    X made a statement: If we sum the cost of our hate
+then mine is 3/2 of yours and we spent equal   amount.
+What is the cost of the X’ hate and what is the total
+amount of money they had.
+Ans: This was the only problem which I was not
+knowing.
+
+6. A person X walks to his college daily. At ¼th of
+his way he crosses railway station at 7.30.  1/3rd of
+the way he crosses bus stand at 7.35. At what time he
+leaves the home and at what time he reaches the
+college.
+
+
+7. There were seven types of jewels. Let a,b,c,d,e,f,g
+    There is a case with 2 apartment. Left and the
+right. In each apartment only three jewels can be
+placed
+    Condition: 
+Ø	A must be shown in the left case
+Ø	B must be shown in the right case
+Ø	C,D must to shown together
+Ø	f is shown then not in the case containing B and g 
+Then there were four questions. Any child can also
+answer this question. Do not worry about this problem.
+If u get this problem. 8 marks will be there in ur
+packet.
+
+8. There were four peoples playing the cards. a,b,c,d
+( u can fing this in old paper 8 marks. I got answer
+in ……… 10 seconds. Yeas really! but what is the use ).
+No card has same color in two phases. There are two
+red color sides, 2 yello, 2green and 2 blue.
+   They make a statement.
+        A: …., B…., C…., D… .  This problem u will get
+I the old papers. 8 marks.
+    
+
+
+English Part:  U r suppose to answer 45 questions in
+30 minutes. For English medium these are like childish
+questions but for kannada medium ……?????????????????.
+
+
+detaled solutions
+
+HI,HERE'S NIT ROURKELA INFY(2004) QUES.....
+
+the test pattern consisted of 60mins of analytical and 30 mins of english that consisted of comprehension,correct sentences,basic english.for english refer 2 barron's guide.
+
+out of 206 they shortlisted 75 for interviews and then finally selected 47.
+
+the interviews were cool.they mainly were asking hr and puzzles to solve.also were asking abt the budget.some interviews ran for 15mins and others for 5mins.
+
+following are the analytical questions.almost al were from old papers and from this years paper.do shankuntala devi and george summers.
+
+1. in a class there are less than 500 students . when
+it is divided by 3 it gives a whole number. similarly
+when it is divided by 4,5 or 7 gives a whole number.
+find the no. of students in the class.
+
+ans: 420
+
+2. Uncle reuben and aunt cynthia came to town to shop reuben bought a suit and hat for $15 cynthia paid as much as for her hat as reuben did for his suit then she spent the rest of their money for a new dress on the way home cynthia called reuben's attention to the fact that his hat cost $1 
+more than her dress then she added if we had divided our hat money differently so that we bought different hats mine costing 1 and 1/2 time cost if yours then we each would have spent the same amount of money in that case said uncle reuben "how much would my hat have cost" 
+
+Ans : Uncles hat costs $6.4 (total money was $29) 
+
+
+3.. four family names are given and their frends name are given but not in order.( u hav to find which frend belongs to which family) Each frend prepares salad using 3 different fruits . they are given apple, cherry, grape, banana., no two frens uses the same combination.
+Various conditions are given and 4 ques asked. 
+Which fruit did mandy didn't use?
+Who is flures friend?
+Name the fruits common btwn Erica and stacy?
+This is slightly tough.(8 marks)
+Clue: ( fill the familys name in the order given in ques ppr and respective frends name this is wht I got, im sure) .
+Family name frends name
+jo Mandy
+flure Robin
+Erica
+Stacy
+(the other two familys name I don't remember)
+
+4.Find the 5 digit number which has 
+2 digits are odd numbers
+Digit 1 is one less than digit 3.
+Digit 3 is the highest
+There are no duplicates
+Digit 2 is the lowest
+Digit 4 is between digit 1 and digit 2 and digit 5 is half of digit 4
+
+Ans: 71842 
+5.here is a simple mathematical puzzle set by Longfellow in his own flowery, poetical language.
+If 1/5th of a hive of bees flew to the badamba flower, 1/3rd flew to the slandbara, 3 times the difference of these two numbers flew to an arbour, ad one bee continued to fly about, attracted on each side by the fragrant ketaki and malati, what was the total number of bees?
+
+Ans: 15
+
+6.in a race 5 people took part...Samantha beat jack..louise was not the last,jack lost to jim...denise lost to louise and...in that order(don't rem the ques.but was easy to analyze) who won?
+
+ans: Samantha
+
+7.there was a ques on some murder case.there were 6 people and 6 professions.amongst them one was the murderer,one victim,one judge,one hangman,one policeman,and one witness.the witness didn't see the event but heard some altercations followed by bullet shot.(conditions were given like,..)
+a.mark knew the victim and the murderer
+b.the judge asked clark to give his account of shooting
+c.xxx was the last one to see fhillip alive.
+d.the policeman picked up graham from the place of murder
+(there were two more conditions)it was easy to solve.
+Find who was the…..
+a.murderer
+b.victim
+c.judge 
+d.witness
+
+8. (don't remember the exact question)a man while sorting files picks up file number one,misses one, picks up file no. 2,mises two files,and so on...after that he found that he picked up 5% of the files. How many files were there?
+
+Ans:39
+
+9.a man planting trees....that double every day.it took 50 days to COMPLETELY PLANT ALL THE TREEES.how many days it took 2 plant half the no. of trees??..
+ans-49 
+***********************************************************************************************************************************************************************************************
+Infy paper on 13th july at VNIT, Nagpur.
+q's not in order
+
+cut off : probably 30 or 25 marks out of 50 for logical and for eng paper not known.
+41 shortlisted. interview was merely a formality with routine q's.
+
+
+1. Problem based on sets. 100 ppl. 85 are married, 70 have phone, 75 have house, 60 have car. find ppl having house, car, phone and r married?? easy set problem. i am not sure abt figures but find total ppl who donot have these things and subtract from 100 to get ppl having all these.
+ans. 10
+
+2. three triplets annie, fanny, danny. one spoils kitchen. parents cant find who. only one of them is telling truth. three statements. find who spoiled kitchen.
+ans. annie.
+
+3. a problem on fencing. find length and width. very simple. u can do it easily. just look at the condition of one side used by existing wall.
+ans. 12, 36
+
+4. village and town. in between a hill. a person travels on cycle 8 km uphill and 24 downhill to reach town continuously in 2hrs 50 min. then he comes to village in 4 hrs and 30 min. find his speed uphill and downhill.
+ans. uphill 6
+    downhill 16
+
+5. find wizard's age. his age is 3 times son's age, his father's age is 40 more than twice his age. total of their ages is 1240.
+ans. 360
+
+6. there r some steps. i come down 7 steps then see a man at bottom. then he comes up and i go down at same speed(my speed). when 4 steps r remaining for me i find tht man has reached the top. for my single step downwards he took 2 steps up. find total steps.
+ans. 22 steps.
+
+7. the usual temprature prob of infy. a man asks weatherman what was temp for last 5 days. he says tht he cant remember but all r integers and did not repeat and close to each other. their product is 12. find all temp.
+ans. -1, -2, 1, 2, 3.
+
+3 big questions on logical thinking.
+
+prepare as many  previous infy papers as possible
+
+################################################################################################################################################
+
+On Tue, 03 Aug 2004 aditya_makam wrote :
+>   hai,
+>      I am happy to receive u r reply. I want ibm and infy papers. Sorry yaar ,i dont have any papers. All those i have are downloaded from freshersworld.com. If i get any papers i will send to u. Presently what do u do?
+>              Thanking you very much,
+>                                                      yours friendly,
+>                                                            aditya
+

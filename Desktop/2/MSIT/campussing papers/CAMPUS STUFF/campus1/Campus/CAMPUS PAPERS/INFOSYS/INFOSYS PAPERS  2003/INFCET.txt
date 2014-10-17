@@ -1,0 +1,35 @@
+Infosys - CET, July 2003
+
+Two tests, no interview - "Logical & Mathematical Reasoning" (1 Hr) and "Communicative English" (30 mins).
+Math reasoning - 11 questions, easy ones have 2 marks each. Qs of 8 & 6 marks are also there. total marks 50
+English - Very easy
+
+1. A frog goes 3 metres up in a well in a day and goes 2 metre down in night. How time will it take to cover 30 metres.
+ans -28
+ 
+2. A+B+C+D=D+E+F+G=G+H+I=17 .A to I are different digits between 1 to 9. A=4.Find the value of D & G.
+ ans 5&1
+
+3. Find the number of numbers that can be formed by assuming one number left to 15 and one right to 15 so that the 4 digit number so formed is exactly divisble by 15.
+ans:6
+ 
+4. There is a faulty weighing machine such that if there is a one kg weight on one side, then 8 melons are equivalent on the other side of weighing machine....If the 1kg weight is placed on the other side, then 2 melons weigh equal to the 1 kg stone.....what is the weight of the melon? please note that all melons weigh equal
+ans:250gms
+
+5.GRE Logical reasoning---a,b,c,d persons are there.they are pianoist,violinst,singer,drummer not in same order. Some condition are given and there were some logical statements based on this..identify which one is what..
+
+6.There are five dolls kept one in the other. They are of different colours, different names. Based on some conditions the order in which the dolls are placed in one another is to be found out...
+
+7.a question based on venn-diagram...there are 3 newspapersP,Q,R. a  % read the P,b% read Q, c% read R, some % read P&Q....total number of persons are given.....we have to find out the number of persons reading each newspaper
+
+8.There are 5 persons coming back after winning medals such as 1 gold, 1 silver, 1 bronze and other as 1st ,2nd , 3rd position....The persons winning gold and silver are lying. There are some conditions given and it is to be recognised who has won which prize..
+
+9. work can be done by 4 people in 32 days . how many more days will it take if 16 people join them 2 days after?
+ans:10/3(check)
+
+english test----30 minutes--50 marks...50 questions
+There was a reading comprehension.....about some scientific-economic zones in china...---easy
+ 
+Normal grammar questions regaring correct verb tense filling, choosing correct of out many..(like a person who kills 10 persons is ..... choice is of murderer, killer )..fill in the blanks about what is the correct spellings of words like depreciate..given some word with similar pronounciation but different meaning..
+Sentence correction..eg this is the time ........ my watch(by/in) etc
+

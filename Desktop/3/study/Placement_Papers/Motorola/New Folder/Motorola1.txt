@@ -1,0 +1,115 @@
+> Hi    ,
+> I am sending u the MOTOROLA PAPER which they
+> conducted here.paper consists of 20 questions & total
+> time was 40 min.paper was very easy
+> The paper is
+> 1.Big Oh notation is
+> a.
+> b.f(n) is O(g(n)) for all c & k such that f(n)>c*g(n)
+> for all n>k;
+> c.
+> d.
+> 
+> 2.on doubling the problem space f(n)=2^N the
+> complexity becomes
+> a.square
+> b.double
+> c.four times
+> d.reaches very high value
+> 
+> 3.which of the following is mot conducvise to use
+> linked list
+> a.sequential search
+> b.bubble sort
+> c.selection sort
+> d.binary sort
+> 
+> 4.implementing Queue using OOP's & JAVA .is it
+> possible to delete randomly an element using two
+> pointers from the queue
+> a.it is contradicting from the basic nature of the
+> Queue ----
+> b.technically possible but the attributes has to be
+> public
+> c.not possible becoz  the links has to be private.
+> d.
+> 
+> 5.how would u define postfix operation in c++
+> a.it cannot be defined becoz it requires oblect on its
+> rhs.
+> b.no need to define becoz prefix operation is more
+> efficient.
+> c.by passing a dummy argument
+> d.
+> 
+> 6.which of the following is false for the binary tree
+> a.every binary cannot be balanced
+> b.for every binary tree there exists a balanced binary
+> tree
+> c.if no. of nodes is even  the tree is always
+> balanced.
+> d.'   '''''''''''''''''odd   
+> '''"""''''''''''''"""'''''''''.
+> 
+> 7.in C no. of ways of passing arguments
+> a.pass by value only
+> b.pass by value & pass by reference
+> c.pass by value & pass by pointer
+> d.pass by reference only
+> 8. same as question (7) (choices are also same) but in
+> C++
+> 
+> question 9 to 11 FILL in the BLANKS 
+> 9.in QUICKSORT of N elements no. of comparison  is 
+> _______________ for the worst case &  _______________ 
+>   for the average case.
+> 
+> 10.in BUBBLE sort no. of comparison is_____________ & 
+> exchanges is __________ for the average case.
+> 
+> 11.in SELECTION sort no. of comparison is
+> ______________ &   exchanges is ___________ foe the
+> average case.
+> 
+> 12.which of the operator cannot be overloaded
+> a.?:
+> b.
+> c.
+> d.->
+> 
+> 13.in C++ what is templates
+> a.
+> b.
+> c.
+> d.
+> 
+> 14 deriving the class as private 
+> a.
+> b.
+> c.
+> d.
+> 
+> 15.in JAVA what does notifyall() means
+> a.-
+> b.
+> c.
+> d.
+> 
+> 16. JAVA  beans
+> a. b.  c.. d..
+> 17.event handling in JAVA
+> a. b. d. c.
+> 
+> 18. in multithreading if two events are to happen
+> their order of happening
+> a. b. c. d.
+> 
+> 19.java contest
+> 20. what is the o/p 
+> int I=7;
+> printf("%d",I++*I++);
+> a.56
+> b.49
+> c.compiler dependent
+> d.
+> 

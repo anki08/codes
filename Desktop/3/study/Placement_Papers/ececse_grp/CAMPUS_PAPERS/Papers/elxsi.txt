@@ -1,0 +1,308 @@
+in rec-t tata elxsi condusted a seperate test for
+those who r willing to join their vlsi
+
+A/D IS EQUIVALENT TO:  ANS:MODULATION
+
+2.0 TO 1 VOLT TO DETECT 1 MICRO VOLT WHAT BIT A/D IS
+NEEDED.
+
+ANS: 20 BIT
+
+3.brown black red what is value of resistance:1k
+
+4.In public addressing  systems in what mode
+transistor should be
+
+a: active region b: saturation c:cut off
+
+5)bit on aliasing prevention what should be sampling
+freequency
+
+ans:Fm>= FS/2....
+
+6)TO ADDRESS 32 BIT 48 K MEMORY..HOW MANY ADDRESS
+LINES NEEDED...
+
+ANS:(16 ADDRESS LINES) PLEASE CHECK SOME DOUBT...
+
+7)5 X 7 DOT MATRIX PRINTER GAVE SOME COUNT OF ASCII
+CHARACTERS...
+
+HOW MUCH MEMORY NEEDED..
+
+ANS:
+CHARACTERSX5X7....
+
+8)cb AMPILFIER IS USED FOR :CURRENT  AMPLIFIER...
+
+9)MAX VOLTAGE ACROSS TRANSISTOR WILL BE IN -----------
+REGION
+
+A)CUTOFF  B)ACTIVE     C)SATURATION...
+
+ANS: A
+
+10)ONE CMOS GATE GIVEN WE HAVE TO TELL WHAT IS THAT
+GATE
+
+ANS:NAND GATE
+
+11)4K RAM ADDRESS LINES 0000 TO 3FFF: DECODER REQUIRED
+BE...
+ANS:(4:2  MAY BE)
+
+12)THERE IS 11 ADDRESS LINES AD0 TO AD10.. 8 DATA
+LINES AND 8 ADDRESS LINES
+
+THEN EACH CHIP SHOULD CONNECT TO PROCESSOR SHOULD
+POCESS ONE CHIP SELECT LINE..
+
+HOW MANY  PROCESSORS IT SHOULD  CONNECT...
+
+ANS:8 CHIPS...
+13)COPROCESSOR IS USED FOR ----------------
+
+ANS MULTITASKING(MAY BE)....
+
+14)UNITY GAIN BAND WIDTH GIVEN AS 10 POW 6..IF GAIN IS
+20 WHAT IS BAND WIDTH,,,OF OPAMP
+
+ANS:50K
+
+15)THEY GAVE ONE STATE DIAGRAM CONSISTS OF 5 STATES
+INCLUDING ONE IDLE STATE...
+
+HOW MANY FFS NEEDED:(ANS:3)
+
+16)ONE QUESTION ON SET UP AND HOLD TIME VIOLATIONS 
+
+ANS:D  (VERY EASY)
+
+17)THEY GAVE 3 FFS.. COMMONLY CONNECTED TO ONE 
+CLOCK..
+
+THEY GAVE SETUP TIME AND HOLD TIME OF FF(FOR ALL SAME
+TIME)  IP TO
+WHAT MAX FREEQUENCY WE CAN OPERATE..THEY GAVE EACH FF
+PROP DELAY ALSO...
+
+ANS:1/(3* FF DELAYS+ SET UP TIME+HOLD TIME)
+
+DOUBT...
+
+18)WHICH SIGNAL IS NOT IN ROM..(RD BAR)
+
+19)DMA SI FOR :::  ANS MAY BE C(i.e is including 2
+conditions)
+
+20)in cro two ch given to get circle we have to put
+phase difference 90 degress..
+
+21)s=r=1 is not working in sr ff becoz at a time
+q=qbar=1:
+
+22)malloc(0) is returns what..
+
+23)c &c++ common thing is: structure 
+
+24)i=0
+
+printf("%d%d%d"i,i++,++i);
+
+ans:2 1 1 
+
+25)a bit on VMS(virtual memory syatem)..
+
+ram ayipota hard disk ni vaadutundi is answer..
+
+26)int *ptr[25]...  represents what
+
+array of pointers...
+
+27)a question on constructors and destructors...
+
+
+
+This is infosys paper conducted at REC alhabad 2002.
+1)There are 111 players. For each new match they use
+new ball. if any player 
+loses any match he is eliminated. So what is the
+number of balls used totally? 
+Ans.110 balls(3M)
+
+2)There is a spider hanging in the corner of a room,
+it forms web an amount of 
+double to the previous day To fillup the room it took
+a total of 30 days. if an 
+another spider joins the first on which is equally
+capable of first one. How 
+many days it takes for both the spiders to fill the
+room.
+Ans. 29days(3M)
+
+3)In a box there are 17 blue,11 yellow,9 orange 34
+green 2 violet ties 
+available. What is the min. no. of ties to be taken
+out of thebox, to make a 
+part of same ties. 
+Ans. 6 ties.
+
+4)Iskandar is very clever and he has a little
+conversation with kumar. Iskandar 
+asks about the ages of kumar's children. Kumar answers
+not in a direct way.
+
+kumar:- The product of their ages in equal to 36.
+Iskandar:-give me some more more information. 
+kumar:- sum of their ages is equal to your age.
+Iskandar:-(Think for several minutes) tell me
+something more
+kumar:-my son's age is one more than my daughter's
+age.
+What are the children's ages
+Ans: 3,3,4
+daughter-3,3
+son-4
+
+5)In a company almost every one reads one paper. The
+daily news read by 70%. 
+The courier -45%. The inquirer is read by 60% if the
+total population is 29040. 
+One fourth of them reads daily news and the courier
+and 35% reads daily news 
+and inquirer.
+30% reads inquirer and courier.
+One tenth of population reads three of them. Then 
+(i) How many people read the daily news only.
+(ii)How many people read the courier only and how many
+read the inquirer only
+(iii)How many people read no paper at atl?
+Ans:(i)5808(20% of 29049)
+(ii) 0 (0% of 29040), 1452(5% of 29040).
+(iii) 1452 (5% of 29040)
+
+6)In the first innings of first test of India against
+westindies at Bridgetown 
+in 1971, there are 3 bowlers from India.Bishansingh
+bed,Venkataraghavan, E.A.S 
+prasanna depending upon the following statements can u
+make the no.of wickets 
+each took?
+(a) Either Bishansingh Bedi took 5 and Raghavan 3 or
+prasanna took one more 
+wicket than raghavan.
+(b) Eithere bedi took half of wickets or one runout is
+there.
+(c) bedi's victims and twice the prasanna's wickets is
+one more than 3 times of 
+raghavan's wickets.
+Ans: bedi-2,raghavan-3 prasanna-4.
+
+7) Some robbery has been happened in a bank. The
+details about the posture of 
+theief has been given as
+(a) The gaurd says thief had blue eyes, tall and
+wearing vest and hat.
+(b) The clerk says thief had dark eyes,shorter wore
+vest and 
+hat.                     (8M)
+(c) The secretary says thief had green eyes medium
+height, wore rain coat and 
+hat.
+(d) The director says thief had grey eyes, taller and
+waring vest but not hat.
+Ans: answer not sure pl try.
+
+8) Green,grey black,plumb brown ages and house names
+problem there are 10 
+conditions are given 
+house names
+are-seaview,oakhouse,crompton,midcottage,pathway hill.
+hint: 58 / 56 lived okhlon 
+Ans:ages are-58,56,60,62,64
+
+9)There are 5 men and 5 women. They how to sit in sit
+in a cinema theatre in 
+such a way that men how to occupy the odd no. of
+places. 
+Men are L,M,N,P,Q and women are U,V,W,S,T.
+O wife has to sit right to the husband.
+(i) W wont sit extreme right and her husband will not
+sit extreme left 
+(ii) N has to sit iscat from the right
+(iii) W's husband always has to sit next to T.
+(iv)M and his wife how to sit in the middle seats.
+(This question was somewhere in GRE book)
+
+Finally u have to write an essay on the following
+topics. My suggestion plz 
+attempt the essay which is related to IT field coz
+those were shortlisted here 
+in rec,trichy.
+
+(a) IT in entertainment industry.
+(b) Profit on cost of Quality.
+
+
+THIS IS THE INFOSYS PAPER CONDUCETD AT KREC 2002.
+
+1) there are 3 chests.each chest consists of 2
+desks.each desk
+consists
+of either emerald or ruby.three chests consists 
+emerald emerald
+,ruby ruby,emerald ruby.there are three slips.what is
+the
+probability that
+only one slip was attached wrong.
+ans:0
+
+2)there are some brothers and sisters in a family.each
+brother 
+has
+as many sisters as many brothere.each sister has half
+as many sisters
+as brothers.
+ans 4 brothers and 3 sisters.
+3)there are some kinds of tea.one 5bits/pound,3
+bits/pound.
+by mixing those two a quantity of 4o pounds. and sold
+it for 6
+bits/pound.and got  a profit of 33 1/3%.what is
+quntity of
+5bits/pound.
+ans:30
+
+4)one vehicle travells 135 miles in first 2 hours.and
+104 miles 
+in
+the next 2 hours.the vehicle looses its power at
+constant rate 
+per
+hour.
+what is distance travelled in the first  and fourth
+hour.
+ans :some fractions in 71.375... and
+(71.375-(7.75*3))....
+5)this problem using sets
+whole people is given
+sinple ans. 400
+6)there are 11 people .in drinks meating.each has to
+touch each
+glass.
+only one time.so many sounds of glasses
+ans :55
+7)some conversation is given from 5 people each having
+3
+statements.
+one is wrong among three.who had seen circus.
+8)analytical simple question.
+9)there is some statemnts
+they asked who is who.
+
+Finally u have to write an essay on any one of the
+following
+topics. 
+1.IT in entertainment industry.
+2.whethwer you prefer to live in big city or small
+city.

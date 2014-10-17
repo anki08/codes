@@ -1,0 +1,128 @@
+1) Written: Written was quite simple. The whole paper was divided into
+two sections. Section 1 was basically C, FAT and Data Structures
+Questions and Section 2 was for Coding, Testing and Design questions.
+
+Section A (10 questions)
+
+1) Output of the following code :
+
+int main()
+{
+       int x = 6;
+       x = x ^ x;
+       printf (“%d\n”, x);
+       return 0;
+}
+2) Output of following code :
+
+int main()
+{
+       char*str;
+       scanf (“%s”, str);
+
+       switch (str) {
+               case “Sun”:
+                       printf (“Sunday\n”);
+                       break;
+               case “Mon”;
+                       printf(“Monday\n”);
+                       break;
+               ……
+               ……
+}
+}
+3) Output :
+
+int main()
+{
+       int x, y;
+       printf (“%d\n”, scanf (“%d %d”, &x, &y));
+       return 0;
+}
+For input x = 100, y = 300
+
+4) Output:
+
+int main()
+{
+       char *str = “junk”;
+       scanf (“%[A telephonic girl]”, str);
+       printf (“%s\n”, str);
+       return 0;
+}
+5)
+
+6) A function : Recursive version of “Repeated Squaring Algorithm”. So
+you have to answer what the function will return.
+
+7) The following function will :
+
+double round(double x) {
+       return (int)(x + 0.5);
+}
+a) Always work, b) Partially Work, c) Compilation Error, …..
+8) Output :
+
+int main()
+{
+       int x = 6;
+       int y = 10;
+       int z;
+       z += x – y;
+       printf (“%d\n”, z);
+       return 0;
+}
+9) Static Variables
+10) Output : Simple looping problem
+Section B
+1) Code for Product Array Puzzle. (In best time and space
+complexities, robust, elegant code)
+2) Test cases for Find in Wordpad.
+3) Data Structure that can be useful for the calculation like ab mod m.
+Interview Round:
+1) First Round: Directly with head (26 years experience). Very
+friendly, intelligent and great guy and a good observer too. He first
+asked, “Tell me about yourself.” Seriously speaking, I was not
+prepared for such HR questions. So I started with whatever came into
+my mind. After that, he gave me a state-event machine for validating a
+sentence and told me to code for that. So I wrote the code for that.
+The code was basically, with loops and conditions. So he further told
+me that if I add any new state (suppose for punctuations) in this
+machine, you will have to change your whole code. So “Is there any way
+you can improve it?” So I thought for 2-3 minutes and gave him a DP
+Solution. So It was like, for each state Si, when I get some event Ei,
+I will move to state Sj. So I preferred to create a table (2-D Array)
+for that. And after some time, I could recall that the table was
+“Predictive Parsing Table”. So I told him that it was predictive
+parsing table. He agreed and told me to write the code. I wrote the
+code and he was happy with that. After that, he told me to write the
+test cases for that. I gave him some test cases. And he further added
+some cases for that. Actually, for the Sentence validation, I just
+gave him test cases for English Language. So he told me why I didn’t
+think of Hindi or other language. Further he gave me some reasoning
+for that. Last question he asked me, “Do you have any questions for
+me?” I asked some questions and this was my first round. And called
+further for 2nd Round.
+2) Second Round: Guy with 16 years Experience. He started with the
+question, “Why Microsoft?” I replied him. So he gave me first question
+to find the Least Common Ancestor for the given two numbers in a BST.
+So I thought for a moment and told him my approach. And he told me to
+write the code. I wrote the code and after that I gave the flaw in my
+own code. ? Actually, the way I solved the problem, did not verify
+whether given two values are present in the BST. Apart from that, my
+solution was recursive one. So he told me to write the Iterative
+solution, solving the verification problem too. I took 5 minutes to
+think and write the full code for this. He was satisfied with that.
+After that, he asked me “tail” command in UNIX and told me to give the
+approach and SEEK was not available to jump here and there in file. So
+first I gave him double pointer solution. But he told that this read
+the file two times. So I gave him one pointer solution with some
+auxiliary space. He was satisfied with the approach. And asked me some
+OS questions about Virtual Memory, Locks and Synchronization. This was
+the 2nd round.
+3) Third Round: Guy with 6 years Experience. He gave his own
+introduction and then asked mine too. Question was to find the longest
+palindrome in the given string. I gave him solution after discussing
+for a long time with different approaches. I gave him two solutions.
+After that, he asked me some HR questions.
+Other guys were called for 4th round too.

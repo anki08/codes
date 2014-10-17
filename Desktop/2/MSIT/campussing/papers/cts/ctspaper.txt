@@ -1,0 +1,29 @@
+1.Train A starts from station A at 11.am.Train B starts from station B at 12 noon.the speed of train A is 4 kmph,train B is 1 kmph for the first hour,2 kmph for the 2nd hour,3 kmph for the 3rd hour etc.At what time do the two trains meet?	ans:2 PM
+2.There is a coin collection.100 coins in all.4 peopke collect coins.Each collects a minimum of 10 coins.and each has different number of coins.the numbers are even. (4 questions based on this)
+3.Moped problem based on time and distance
+4.Find the number of integers divisible by either 3 and 12 from 1 to 999.
+5.Find the number of integers divisible by either 3 or 2 from 100 to 200 including both,
+6.There is a cube of side 4 cm.The faces are coloured in red.the cube is cut into pieces of size 1 cm.How many cubes have no colour	Ans:8
+7.There are 80 coins.One coin is counterfeit in weight.How many minimum weighings are required to find out the counterfeit coin?	Ans 4
+8.There are 31 kgs of rice .With a  1 kg weight,Find out the minimum number of weighings required to weigh 31 kgs.
+9.there are four contestants in a beauty contest.they aer Ms.UP,Ms. MP,
+Ms.AP and Ms.WB.each is wearing a different colour saree(red,blue,green and white).They are seated in a row.The winner and runner are not sitting near each other.Ms.WB is noehter the winner nor the runner.the green and white saree contestans are sitting in either end and the green color saree contestant is the runner up.
+4 questions based on this
+10.there is a pack of cards.Find the sum of integers excluding all the picture cards.	Ans.216
+11.Two questions based on figure. Given at the end.
+12.There are 2 cars moving in opposite directions.the distance between them is 300cm.They move forward for 100cm with a speed of 50 cm/s,and omes back 50 cms at 25cm/s.after how many seconds will the cars collide?
+13) There is a room with 12 slots for painting. The details about the paintings are as follows:
+	18th century paintings - 3
+	19th century paintings - 2
+	20th century paintings - 4
+ Make up a sequence so that the paintings may be arranged with the following rules.
+ 1) The 5th slot is always empty.
+ 2) There must be an empty slot between paintings of different groups (century).
+ 3) The paintings of the same group can be placed together. 234679101112
+    
+	A set of questions were asked with the pattern that was framed.
+
+
+14)Find the area of the square which is covered by the circle.
+The area is 1/3 area of the square. Find the side of the square.
+15)Find the number of squares.

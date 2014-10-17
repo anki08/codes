@@ -1,0 +1,330 @@
+BOI C questions 1998
+
+The 1998 BOI Technical paper consisted of three parts.
+#1> Proficiency in C. 
+       Number of questions: 20. Time: 40 minutes.
+#2> Proficiency in Database Management. 
+       Number of questions: 15. Time: 20 minutes.
+#3> Proficiency in Object Oriented Concepts 
+       Number of questions: 15. Time: 15 minutes.
+
+1. Given below are two sets of statements:(a) & (b). Select the correct 
+     observation: 
+
+a> const char *p="Hello"; p="World";
+b> char * const p="Hello";  p[1]='P';
+
+A. Both a & b are correct since non-const data/pointer is being         changed in both cases. 
+B. Both a & b are wrong since const data/pointer cannot be changed once assigned.
+C. a is correct, b is wrong.
+D. a is wrong, b is correct.
+
+
+
+2.   int height=34;
+void main()
+{
+    int height=height;
+
+    cout << height;
+}
+
+A. 34
+B. 0
+C. Undefined
+D. Error
+
+3.   void main()
+{
+    int a[3]={ 1,2,3 };
+    int i=1;
+
+    cout << a[i];
+    cout << i[a];
+}
+
+Is there a problem here? If not, what is the output?
+
+4.   void main()
+{
+    "Bunka"[2]='P';
+}
+
+Select the correct statement:
+A. Error: lvalue required
+B. Error: A string literal is a const char * and hence cannot be modified directly.
+C. A string literal has the data type char * and hence cannot be modified.
+D. The code compiles but memory access error at run-time.
+
+5.   Write is the output?
+      
+     void foo()
+{
+    static int i=5;
+    for(int j=i+3; i<j; i++)
+        printf("%3d",i);
+
+    printf("\n");
+}
+
+void main()
+{
+    for(int i=0; i<3; i++)
+        foo();
+}
+
+6.   # define MAX(a,b)a>b?a:b
+void main()
+{
+    int a=3,b=4;
+    printf("a=%d b=%d MAX=%d", a, b, MAX(a++,b++));
+}
+
+Select the correct output from the following:
+A. a=4,b=5,MAX=5
+B. a=4,b=5,MAX=6
+C. a=5,b=6,MAX=5
+D. a=4,b=6,MAX=5
+
+
+
+6. What is the output?
+
+void main()
+{
+    union
+    {
+        int a;
+        char c;
+    } num;
+
+    num.a=325;
+    printf("%d",num.c);
+}
+
+Select the correct output:
+A. 69
+B. 25
+C. 45
+D. -39
+
+
+8.   void main()
+{
+    union
+    {
+        int a;
+
+        struct
+        {
+            char b;
+            char c;
+        }ch;
+    }num;
+
+    num.a=300;
+    num.ch.c++;
+
+    printf("%d",num.a);
+}
+
+Select the correct output:
+A. 456
+B. 565
+C. 556
+D. 645
+
+9.   # include <conio.h>
+# include <stdio.h>
+void main()
+{
+    static int a[]= { 0,1,2,3 };
+    static int *p[] = { a, a+1, a+2, a+3};
+    int **ptr=p;
+
+    *++*ptr;
+
+    printf("%d %d %d",ptr-p, *ptr-a, **ptr);
+}
+
+Select the corect output:
+A. 110
+B. 221
+C. 011
+D. 210
+
+10.  What is the output?     
+     void main()
+{
+    int n=4;
+
+    printf("%d %d %d", ++n, ++n, ++n);
+}
+
+A. 567
+B. 765
+C. 444
+D. 555
+
+11.  int func(int p, int q)
+{
+    return (p+q);
+}
+
+void main()
+{
+
+    int x=1, y=2, z=3;
+
+    printf("%d",func((x+3,y+=1),z--) );
+ }
+
+Select the correct output from the above code
+A. 6
+B. 5
+C. Compiler Error, Type mismatch
+D. Compiles, but undefined behavior
+
+12. What is the result of the following program?
+void main()
+{
+    char i;
+
+    for( i=0; i<200; i++)
+    {
+    }
+
+    printf("%d",i);
+ }
+
+13.  Write the output
+
+void DoubleBoth(int i, int *j)
+{
+    i*=2;
+    *j *=2;
+}
+
+void main()
+{
+    int i=3,j=4;
+
+    DoubleBoth(i,&j);
+    printf("%d %d",i,j);
+ }
+
+A. 6 8
+B. 3 4
+C. 3 8
+D. 6 4
+
+14.  What is the output of the code?
+
+int bitmagic(unsigned x, unsigned y, unsigned z)
+{
+    return (((~(1<<z)) &x) | ((1<<z) &y));
+}
+
+void main()
+{
+    printf("%d", bitmagic(2,4,2));
+}
+
+A. 6
+B. 5
+C. 4
+D. 3
+
+15.  What is the output displayed?
+
+int m=5;
+void setptr(int *ip)
+{
+    ip=&m;
+}
+
+void main()
+{
+    int n=2;
+    int *pn=&n;
+
+    setptr(pn);
+    printf("%d",*pn);
+ }
+
+A. 2
+B. 3
+C. Undefined
+D. Syntax error
+
+16.  void main()
+{
+    char a[] = "HelloWorld";
+    int *p=(int*) &a[0];
+    int n, nlen=strlen(a);
+
+    for(n=0; n<nlen; n++)
+        printf("%c",*(p+n));
+ }
+
+Select the correct output
+A. Helloworld
+B. Undefined
+C. HelloWorl
+D. Indefinite loop
+
+17.  void main()
+{
+    enum days
+    {
+        saturday,
+        sunday=0,
+        monday=0,
+        tuesday
+    } today;
+
+    printf("%d %d %d", saturday, sunday, monday);
+}
+
+Select the correct output
+A. -1 0 0
+B. 0 0 0 
+C. Compiler Error: each enumerator should have unique values
+D. -1 0 1
+
+18.  void main()
+{
+    enum days
+    {
+        saturday,
+        sunday
+    } today;
+
+    enum days yesterday;
+    int i=sunday;
+    yesterday=0;
+
+    printf("%d %d", i, yesterday);
+ }
+
+Select the correct output
+A. 1 0
+B. 2 0
+C. Compiler Error on Line 2
+D. Compiler Error on Line 1
+
+19.  void main()
+{
+    int n=0;
+    for(n=0;n<200;n++)
+    {
+        if (n>=101) continue;
+        printf("\n%d" ,n);
+    }
+}
+
+20. Variable declared within a bock of code are by default
+A. Register
+B. Extern
+C. Static
+D. Auto 

@@ -1,0 +1,150 @@
+
+    
+ 
+CURRICULUM VITAE
+
+
+R.S.PRAVEEN KUMAR
+387/b, Pipeline Road
+Hanumanth Nagar
+Bangalore-19
+
+ph:2274121
+
+Email: praveen_r_s@usa.net
+       praveen_r_s@hotmail.com	
+
+Objective: To be one of the best professionals in the software industry.
+
+Educational Qualification: Presently doing VIth Semester M.C.A.
+
+Likely date of completion of M.C.A: November 2000.
+
+COURSE YEAR INSTITUTION BOARD PERCENTAGE
+
+
+MCA
+V Sem 2000 S.I.T Tumkur Bangalore University 78.1
+
+MCA
+IV Sem 2000 S.I.T Tumkur Bangalore University 76.7
+
+MCA
+III Sem 1999 S.I.T Tumkur Bangalore University 73.1
+
+MCA
+II Sem 1998 S.I.T Tumkur Bangalore University 72.4
+
+MCA
+I Sem 1998 S.I.T Tumkur Bangalore University 71.6
+
+B.B.M 1997 Oxford college Bangalore University 51.8
+banglore
+
+PUC 1994 Sarvodaya college P.U.C Board 61.8
+tumkur
+
+SSLC 1992 Govt.high school Karnataka Secondary 63.5
+Education Board
+
+
+
+
+Skill Sets:
+
+Languages : Pascal, Cobol, C, Java-1.2, HTML,servlet,RMI,JSP
+R D B M S : Oracle-7.3
+GUI : Visual Basic 5
+Operating System : MS-Dos, Windows (95\98)
+Exposure to Internet
+
+
+PROJECTS UNDERTAKEN
+
+Presently Working as Project Trainee in ASML (Advanced 
+					      Synergic Microsystems Ltd)
+(As a part of my VI Sem M.C.A Curriculum)
+
+Project Name  : TrucksIndia.com
+OS, S/w	      : Windows NT, java2,JSP,EJB,Oracle-8i
+Description   : TrucksIndia.com is a B2B Portal developing for Automating 
+		the Transportation activities.
+
+
+Project Name : Event Management for BROWSE 1999 & HALCYON 1999
+Client : S.I.T, Tumkur
+OS, S/w : Windows 98, Visual Basic 5, and MS-Access
+Description : Registration for Browse/Halcyon 1999 includes registration
+	      of different colleges, participants names, events 
+	      conducted, results, which colleges and student participating
+              in which events, reports etc.
+
+Project Name : Library Management
+Client : S.I.T, Tumkur
+OS, S/w : Windows 98, Visual Basic 5, and MS-Access
+Description : Library Management includes recording information of books 
+	      that are available in the library for both reference and 
+	      issue sections & Library transaction like issue, renew, 
+	      return, reports etc.
+
+Project Name : Disk Statistics
+OS, S/w : MS-Dos, C'
+Description : This was a part of IV Sem. MCA Curriculum.
+	      This Project gives the statistical information about the 
+	      secondary storage device like Hard disk and Floppy disk. 
+	      Available disk Space,Disk FAT, Disk Status & Disk Wastage.
+
+Project Name : Simulation of Network Chat Room (Socket Communication)
+OS, S/w : Windows 98, Java 2.
+Description : This was a part of IV Sem. MCA Curriculum.
+	      This Project allows the client and server to communicate 
+	      each other.
+
+Project Name : Automation of Leading Computer Rental services.
+OS, S/w : Windows 98, Visual Basic 6 & Oracle 7.3.
+Description : This was a part of IV Sem. MCA Curriculum.
+	      This Project is intended to automate the operation of 
+	      Rental services of the computer peripherals, which is 
+	      carried out in Leading Computer.
+
+Project Name : Design of Text Editor
+OS, S/w : MS-Dos, C'
+Description : This was a part of III Sem. MCA Curriculum
+	      This editor is a menu driven serves necessary text editing 
+	      facilities.
+
+
+
+Personal Details:
+
+Permanent Address: S\o R.L.Subbaram Setty
+General Merchants
+Akkirampura
+Tumkur (Dist.)
+Karnataka
+Ph: 91-08138-4026
+
+
+Date Of Birth: 20-03-1977
+
+Languages: English, Kannada, Hindi, Telugu
+
+Hobbies: Music, Travelling in Bikes.
+
+
+References:
+
+Dr. C.B.Akki		 Mrs. N.R.Sunitha
+Prof. & Head 		 Senior Lecture
+Dept. of CSE 		 Dept. of CSE
+SIT Tumkur. 		 SIT, Tumkur
+
+I declare that the above information is true to the best of my knowledge
+
+
+Place:Bangalore
+
+Date:6-9-2000
+R.S PRAVEEN KUMAR
+ 
+ 

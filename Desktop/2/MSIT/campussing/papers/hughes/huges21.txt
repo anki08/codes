@@ -1,0 +1,1004 @@
+ 
+HUGHES-99
+SECTION A:30 BITS
+SECTION B:20 BITS
+SECTION C:20 BITS
+SECTION A IS COMPULSORY
+ATTEMPT EITHER SECTION C OR SECTION B
+FOR ELECTRONICS BACKGROUND,IT IS BETTER TO ATTEMPT SEC B
+
+SECTION C:
+1.an lead compensator zero is at Z=Zc, pole is at P=Pc
+then the following is correct
+a.Pc >Zc,pc<0,zc<0
+b.
+c.
+2. gain margin of g(s)h(s)=1/s(s+k);
+a. sqrt(1+k2)
+b.0
+c.infinity
+d.1
+3.machestor code does not improves
+A. clock recovery
+b. bandwidth efficiency
+c.
+4.possion distribution is used for
+a. used in FSM
+b.
+c.used for queuing delay system of mutually identical events of arrival
+d. both a and c
+5. no.of filpflops for mod 11 counter
+a.four
+b.five
+c.
+6. no of comparators required for 4 bit parallel A/D comparator
+a. 4
+b. 16
+c. 15
+d. none
+7. if even parity is used for parity generation, what is the
+hamming distance
+(simple fig is given)
+ans:2
+8. the code set is {00000,00111,11100,11011}
+what is the error detecting and correcting capability?
+ans:2,1
+9. operational amp characteristics following is correct:
+1. input impedance is 0
+2. output impedance is infinity
+3. input impedance is infinity
+4. gain is infinity  
+which combinations are correct?
+10. band pass signal having frequencies 2.5k and 4.5k?give the
+sampling freq
+a. 9k
+b. 4k
+c. 4.5k
+d. 7k
+11. defination of avalanche diode multiplication
+12. more no of ripples are present in the diagram?which is correct
+a. lower order filter
+b. high order filter
+c.
+13. if CPU have one interrupt pin and on to connect with external
+devices with some priority?
+which type of the following is used?
+a. parallel priority interrupt
+b. daisy chain
+c. RS filpflop
+d.
+14. one megabit file transfer, serially on 9600 baud one start bit and
+two stop bits, then how much time it takes (approx)
+a. 4 hours
+b. 2 hours
+c. 20 minutes
+d. 2 minutes
+15. IEEE 802.5 is
+ans: TOKEN RING
+16. Code sequence is given
+what is the error correcting distance?
+17. bit stuffing used in HDLC Protocol for
+ans: b is correct(read on text book)
+18.
+19.
+20.
+section A AND B:(BOTH MIXED)
+1. If "AaBbCc" is passed to the char
+char x(*a)
+{
+a[0]?x(a+1):1;
+printf("%c",a[0]);
+return 1;
+}
+what will be the output?
+2. f(*p)
+   {
+   p=(char *)malloc(6);
+   p="hello";
+   return;
+   }
+   main()
+   {
+   char *p="bye";
+   f(p);
+   printf("%s",p);
+   }
+   what is the o/p?
+   ans:bye
+3. when the program counter is incremented in the instruction cycle
+a. fetch cycle
+b. int cycle
+c. execuation cycle
+d.
+4. two sorted lists of n elements will take at least
+fine the order of complexity?
+a. 2n
+b. n/2
+c. square(n)
+5. logic diagram is given? find the expression
+ans: OR gate
+6. question on JAVA string
+ans: string ends without a null character
+7. cache access time is 100ns. main memory access time is 1000ns, hit ratio
+is .9, find mean access time?
+ans :200ns
+8. which is not suitable to find out IP address
+ans:ARP
+9. about deadlock condition
+10. convert 41.6875 into binary
+11. read about IP AND IPX
+12. read about NFS
+13. DHCP is
+a. for routing
+b. for network address conversion
+c. for diagnosis
+d.
+14. execution phase can be
+a. pipelined
+b. no parallelism is possible
+c. vector processing
+d.
+15. In public key algorithm , A wants to send message to B .....
+ which key is used
+a. A public key
+b. A private key
+c. B public key
+d. B private key
+16. to prevent replay attacks in transmission
+a. symmetric encoding
+b. Asymmetric encoding
+c. for every exchange, key should be changed
+17. virtual functionality is used in C++
+a. dynamic binding
+b. if the derived func is present but base class not present
+c.
+18. if there are n nodes in a binary tree, how many null pointers are
+there
+ans:n+1;
+19. if heap sort contains n elements, no of comparsions required are
+a. log(n)
+b. height of heap sort
+c.
+d.
+20. question on ICV(integrity check)
+21. which of the following is efficient in terms of space
+a. insertion sort
+b. quick sort
+c. selection
+d. both a and c
+22. in 32 bit representation, the range of numbers in 2's complement
+form
+ans :-2 to the power of 31 to 2 to the power of 31 minus 1
+23. about normalization
+24. socket is implemented in TCP Layer. which of the following is
+related to TCP layer
+ans: port number
+25. in reentrant procedure, which should be not used for passing
+parameters?
+a. passed by reg
+b. by direct
+c. by indirect
+d. by stack
+26. which is related to thread
+a. separate switching reg
+b.            "        stack
+c.            "        address space
+d.
+27. flow control is used for
+a. congestion at receiver
+b.
+c.
+d.
+28. 5 questions on DBMS are there
+29. in global static variable , declartion in a file
+a. localization of scope
+b. persistance of the value through out the file
+c.
+d.
+30. in sorted table contains elements , which of the searching is
+false
+a. hash table
+b. binary searching
+31. in demand paging overhead of context switching is more due to
+a. copy processes from disk to memory
+b. viceversa
+c. to get associative table
+d. swapping to the disk
+32. when write through is better than write back(related to cache
+memory)
+33. which is false when normalization is used?can't express
+34. I :verification: are we doing right product
+    II: validation:are we doing product right
+    a. I AND II ARE TRUE
+    b. I AND II ARE FALSE
+    c. I TRUE AND II FALSE
+    d. I FALSE AND II TRUE
+35. A table contains less than 10 elements which one is fastest
+a. bubble sort
+b. selection sort
+c. quick sort
+36. about subroutine, precondition is false. what about post condition
+a. post condition is not defined
+b. post condition is always true
+c.
+d.
+37. When static variables are used, which one of the following is
+not possible?
+a. dynamic run time
+b.
+c.
+38. in product of x and y,
+        if(x=0|y=0)
+                y=1;
+        else
+                y=0;
+         (not cleared)
+what is cyclometric complexity?
+   a. 3
+   b. 2
+   c. 1
+   d. 0
+39. CREATE TABLE NEW AS SELECT BIG FROM EMP
+     The above SQL statement is correct or not?
+     (question is not cleared)
+40. path testing is
+a. white box
+b. black box
+c. installation test
+d. environment test
+41. program is given?
+
+
+above algorithm represents what type of
+search?
+a. binary search
+b. interpolation search
+c. sequential search
+d.
+(may be "b" is correct);
+42. if x->y in a relation R, x1 and x2 are in x, y1 and y2 are in y
+(question not cleared), about functional dependancy
+a.x1=x2 and y1=y2
+b.
+c.
+43. in a down loading from website ,which one is correct?
+ans: check the byte code and indicate the error, if any.
+44. about UDP
+one Address is given but that is not the state table
+what will it do the packet
+a. packet is discarded
+b. packet is sent to ethernet server
+c. packet is sent to other address
+d.
+45. in associated memory for fast accessing
+which one is used
+a. single linked list
+b. double  "
+c. hash table
+ 
+There were two papers one was aptitude ( 36 questions) and other was 
+technical(20 questions)
+
+1: given an expression tree and asked us to write the in fix of that expression
+
+four choices
+
+
+2:
+  global variables in different files are
+
+a:at compiletime
+b) loading time
+c) linking time
+d)execution time
+
+3)size of(int)
+a) always 2 bytes
+b) depends on compiler that is being used
+c) always 32 bits
+d) can't tell
+
+4)which one will over flow given two programs
+2
+prog 1:                                 prog2:
+
+main()                                  main()
+{                                       {
+int fact;                                       int fact=0
+long int x;                             for(i=1;i<=n;i++)
+fact=factoral(x);                               fact=fact*i;
+
+}                                       }
+
+
+int factorial(long int x)
+{
+
+if(x>1) return(x*factorial(x-1);
+}
+
+a) program 1;
+b) program 2;
+c) both 1 &2
+d) none
+
+}
+
+5) variables of fuction call are allocated in
+a) registers and stack
+b) registers and heap
+c) stack and  heap
+d)
+
+6)
+
+    avg and worst case time of sorted binary tree
+
+
+7) data structure used for proority queue
+   a) linked list b) double linkedd list c)array d) tree
+
+8)
+
+ main(){
+char str[5]="hello";
+if(str==NULL) printf("string null");
+else printf("string not null");
+}
+what is out put of the program?
+a) string is null b) string is not null c) error in program d) it executes but p
+rint nothing
+
+
+
+9)there are 0ne 5 pipe line and another 12 pipe line sates are there and flushed
+ time taken to execute five instructions
+
+a) 10,17
+b) 9,16
+c)25,144
+d)
+
+
+10)
+
+for hashing which is best on terms of buckets
+a)100 b)50 c)21 d)32  ans 32
+
+11)
+
+
+void f(int value){
+for (i=0;i<16;i++){
+if(value &0x8000>>1) printf("1")
+else printf("0");
+}
+}
+what is printed?
+a) bineray value of argument b)bcd value c) hex value d) octal value
+
+12)
+
+
+void f(int *p){
+static val=100;
+val=&p;
+}
+main(){
+int a=10;
+printf("%d ",a);
+f(&a);
+printf("%d ",a);
+}
+what will be out put?
+a)10,10
+
+13)
+
+struck a{
+int x;
+float y;
+char c[10];
+}
+union b{
+int x;
+float y;
+char c[10];
+}
+which is true?
+a) size of(a)!=sizeof(b);
+b)
+c)
+d)
+
+14)
+
+
+# define f(a,b) a+b
+#defiune g(c,d) c*d
+
+find valueof f(4,g(5,6))
+a)26 b)51 c) d)
+
+15)
+
+find avg access time of cache
+a)tc*h+(1-h)*tm b)tcH+tmH
+
+c)    d)   tc is time to access cache tm is time to access when miss occure
+
+16)
+
+main()
+{
+char a[10]="hello";
+strcpy(a,'\0');
+printf("%s",a);
+}
+out put of the program?
+a) string is null b) string is not null  c) program error d)
+
+17)
+
+simplyfy k map
+
+1 x x 0
+1 x 0 1
+
+18)
+
+int f(int a)
+{
+a=+b;
+
+//some stuff
+
+
+}
+
+main()
+{
+x=fn(a);
+y=&fn;
+what are x & y types
+a) x is int y is pointer to afunction which takes integer value
+
+
+
+19)  char a[5][15];
+int b[5][15];
+address of a 0x1000 and b is 0x2000 find address of a[3][4] and b[3][4]
+assume char is 8 bits and int is 32 bits
+
+a) b) c) d)
+
+there are 20 questions all in techinical paper and 36 questions in appititude te
+st
+
+in appititude thay have given all diagrams and asked to find what comes next
+
+thay are quite easy and i hope if u practice r.s aggraval u can do it easily
+
+for tecnical thay have given 1 hr for 20 questions and for not technical thay ha
+ve given only 40 min
+and 36 questions
+
+this is the paper i have right now
+
+1. main()
+   {
+    fork();
+fork();
+fork();
+printf("\n hello");
+}
+
+How many times print command is executed?
+
+2.main()
+{
+ int i,*j;
+  i=5;
+j=&i;
+printf("\ni= %d",i);
+ f(j);
+
+printf("\n i= %d",i);
+}
+
+void f(int*j)
+{
+int k=10;
+  j= &k;
+}  
+
+output is
+a 5 10
+b 10 5
+c 5 5
+d none
+
+3.
+  some question on pipeline like you have to findout the total time 
+by which execution is completed for a pipeline of 5 stages.
+
+4.
+
+  main()
+{
+   int *s = "\0";
+
+   if(strcmp(s,NULL)== 0)
+     printf("\n s is null")p
+    else
+     printf("\n s is not null");
+}
+
+5. 
+  some syntax which returns a pointer to function
+
+6.  size of integer is
+    a. 2 bytes
+    b 4 bytes
+    c. machine dependant
+    d compiler dependent.
+
+7.max and avg. height of sorted binary tree
+
+a. logn n
+b n logn
+
+8.
+  some question. like the number was shifted everytime by one and bitwise and with 10000000.
+  one was supposed to find what the code was doing.
+  I feel the answer was most probably finding decimal value.
+
+9. int a[5][4]
+   int is 2 bytes base address for array is 4000(Hexa)
+   what will be addr for a[3][4]?
+   int is 4 bytes same question.
+
+10.
+  implementation of priority queue
+  a. tree
+   b linked list 
+    c doubly linked list.
+
+***********************************************************************************
+******************Hughes paper in DCE************
+All ques. had four options.
+1- What is max. no. of hops in hypercube n/w  with n (=2 ^ p) to go from one node to another ?
+a. p
+b.      log p
+c. n ^ 2
+2- What is Kerberos ?
+ans. Authentication Protocol.
+3-In completely connected multiprocessor system with n processors 
+, links will be of the order of
+a. O(n ^ 2)
+b. O(2 ^ n)
+c. O(n/2)
+4-When quick sort gives worst performance ?
+ans. When elements are in order.
+5- o/p of  each sorting step of 8 elements was given and had to recognise which sorting algo.?
+Ans. Bubble sort (Not Sure , Check it out )
+6-In worst case ,which sort is best out of following sorts?
+a.heap
+b.selection
+c.quick   (ans.)
+d. insertion
+7-Three very simple gate circuits each having inputs A,B,C,D were 
+given and had to tell ,which two give same result ? (DeMorgan's Law was used in solving )
+Ans was (a) &(c) (o/p  of a & c was coming to be AB +CD)
+8-K-map given,had to tell simplified function
+Ans was perhaps AB+AD +AC+BCD
+K-Map was
+              CD`
+        AB      0       0       0       0
+                0       0       1       0
+                1       1       1       1
+                0       1       1       1
+9-What is Function Point ?
+Ans. S/W estimation technique
+10-p points to an integer. We don't want p to change value. In C, what declarations will we use?
+A const int *p
+b.int *p
+c.int const *p
+e. int* const p (perhaps ans.)
+11-Diff  between  2NF &3NF ?
+Ans. D (last option)
+12.Which does not use client server model ?
+a. Email
+b. Web access
+c. C. Telephone call
+d. N/w file system
+13-In a pipeline having 3 stages, each having reliability of 0.9 
+,what is overall reliability of pipeline?
+a. 0.9
+b. 0.729
+c. 0.81
+14-2level cacheis there first level cache's access time is 100ns,second 
+level cache's access time is 33ns & memory access time is 1000 ns 
+. Wh at is total memory access time ?
+ans. 140 ns
+15-In public key cryptography,Awillsend message to B
+ans. Using B's public key
+16-What does projection of a relation give?
+Ans.gives vertical partition of relation corresponding to specified columns.
+17-For disk or direct access storage, which is best ?
+a.      AVL
+b. B-tree
+c. Red tape ...
+18-There is a tree with inorder threading Node B is inserted as 
+left child of nade A. Node A already has right child . Where will the null ptr of B point ?
+ans. Parent of A (perhaps)
+19-There is a diskless workstation. Which will be the first protocol it will use ?
+a       FTP
+b. ARP
+c. HTTP
+d.  RARP
+20-Compiler keeps which of following ?
+ans. Symbol table
+21- 'ping' command uses which protocol ?
+ans. ICMP
+22-Merge sort uses which technique?
+Ans. Divide and Conquer
+23-Program counter is incremented in
+a. fetch (ans)
+b. decode
+c. execute
+24-what does the following program do ?
+        f(int n)
+        {
+        int c;
+        while(n)
+        {
+        n&=n-1;
+        c++;
+        }
+        print c;
+        }
+ans. Program prints the no. of set bits in no.
+25-What is this called (char *) (*(*(*A[X]) ( ) )) ( )
+ans. Array of X pointers to a function returning pointer to functions that are returning pointer to
+char (not sure )
+26- For synchronisation in distributed computing, what should not be there ?
+a. all machines are synchronised by a global clock
+b. all systems should have their own clock (perhaps ans)
+27-Java applet of a moving /waving file is running on one machine then it means
+a.Java's executable code is downloaded and running on the m/c
+b.A virtual X server is running on that m/c while the actual program is running on the web server.
+28-What is in RSA algo. ?
+a. First the session key is encrypted & then whole message is encrypted using RSA Algo.
+b. Message is encrypted using RsA algo.
+c. First Rsa algo is used &then encrypted with the session key.
+29-What is dirty read?
+a. Transaction reexecutes and gives diff. Results from the original execution
+b. Read is done when the transaction is not yet committed
+30-What is coupling ?
+a. It tells the strength of interconnection between two program units.
+b. It tells the strength of interconnection between twtrength of 
+interconnection between two program units.
+b. It tells the strength of interconnection between twwwtrength 
+of interconnection between two program units.
+b. It tells the strength of interconnection between twwwo program units and one program unit
+31-Any n/w on the computer can have only
+a. one domain &one IP
+b. more than one domain & more than one Ip
+c. one domain and more than one IP
+d. more than one domain & one IP
+32-Which one does not have file descriptor ?
+a. process
+b. keyboard
+c. pipe
+d. socket
+33-What does CONNECT BY means
+a.connect to a different databaser for retreival
+b.arrange in tree ordered structure
+34-In two phase commit protocol, why log is used during transmission &reception ?
+a. To retrieve the status in case of crash
+35-In which algo. Waiting time is minimun?
+Ans, SJF
+36-How many address bits are there  in Ipv6
+ans. 128 bits
+37-During run time heap is managed by
+a. a user process in kernel mode
+b. A system process manages heap for all the processes
+c. A system process  for each process
+d. A user process in user mode
+38-In which of following search is efficient?
+a. height balanced tree
+b. Weight balanced tree
+c. Binary tree
+39.A ques. on resource relocation, sharing ( I don't remember more 
+than this regarding this ques.)
+40-some ques. options were sth like
+a. transparency control
+b. Migration control
+c. Concurrency control
+41-X:In DFD, input is converted into output by passing through various functional units
+Y:DFD cannot be used in object oriented design
+a. both X& y are correct
+b. both X & Y are incorrect
+c. X correct, Y incorrect
+d. Xincorrect, Y correct
+42-Where regression testing is used ?
+a. Dynamic analysers
+b. Loaders
+43-For Java interfaces , what is true ?
+a. Functions declarations are not given'
+b. Variables are not declared
+c. Instance variables are not used
+44-In a linked list, we can delete a node in order of
+a. 1
+b. n
+c. n ^ 2
+45-If there are N people and we have to do symmetric & asymmetric 
+cryptography, how many keys would
+be used in these cases respectively?
+a. N & N ^ 2 (probably ans)
+b. N ^ 2 & N
+c. N & N
+d. N ^ 2 & N ^2
+46-The protected element of a class  can't be accessed by
+a. member functions of the same class
+b. member functions of the derived class
+c. member functions of any other class in the same program (Ans.)
+47-NFS uses same file structure as unix
+48-To solve an expression which of following trees will you use 
+?
+a. postfix
+b. infix
+
+
+
+> Here are some questions of Hughes software system computer part:-
+> 
+> Q. 1 void x(char* a)
+>          {
+>              (a[0])?x(a+1):1;
+> printf("%c",*(a+0));
+> return 1;
+> .........;
+> }
+> Input string 'a' is assigned as AaBbCc , what is the output?
+> Ans.-cCbBaA
+> 
+> Q2 a question on  digital gates   ANS is OR gate.
+> 
+> Q3 what is the binary representation of 41.6785
+> 
+> Q4 if the precondition for a subroutine does not hold then 
+>                         1.postcondition does not hold 
+>                         2.postcondition may or may not hold
+>                         3. ?
+>                         4. ?
+> Q5. In java 
+> 1. java strings are mutable.     And some other options on java strings
+> 
+> 
+> Q6.  Void f(char *p)
+>           {
+>          p = (char*)malloc(6);
+>          strcpy(p,"hello");
+>          }
+>  void main( )
+> {
+> char *p = "BYE";
+> f(p);
+>  printf("%s",p);
+> }
+> ANS BYE
+> Q7. A question on write through and write back algo.
+> Q8. What is concerned with transport layer.
+>    Ans  PORT.
+> Q9. A server can work with ip and ipx protocol.how the server will
+> determine to which protocol the incoming packet coresponds .
+> Q10. For which purpose dhcp is used    ANS ip address
+> Q11    global vaariable defined as ststic will serve the purpose of ---
+>           Q12 Question on NFS   ANS It uses the same semantics as unix for
+> file system
+>    Q13. Program counter is incremented typically in which uses  ANS fetch
+> Q14 NO of NULL pointers in a tree with n leaf nodes ANS N+1
+> Q15.thread take less time than process context Why? Ans. Address space is
+> same.
+> Q.16 Which algo is best for sorting 10 elements?
+> Ans. 1> binary tree 2> selection 3> bubble 4> none
+> Q.17 a question on ICV(networking)
+> a) When A sends an ICV and message, B computes ICV , checks It with given
+> ICV,and decodes Message
+> b) Similar other
+> Q.18 When server A sends a time request to server B, (time
+> synchronization), and response becomes past,  What does A do?
+> a) resets its own clock
+> b) resends time request again
+> 
+> Q.19 in public key encryption what does A do such that It is not visible
+> to others?
+> a) A uses public key part of A
+> b) A uses private key part of A
+> c) A uses public key part of B
+> d) A uses private key part of B
+> Q.20 function dependency can be described as:
+> Q.21 q. on findind cyclometric complexity of the given program
+> 1> 7 2>5 3> 4 4> 0
+> Q.22 Codd's rule related to database       
+> Q.23 path testing comes under
+> A) white box 
+> B) black box
+> Q.24 when an ip address is not in the computer adresss resolution file
+> what does It do with that packet
+> a)Ignores It
+> c) sends It to default gateway
+> d)  sends It to ethernet server
+> Q.25 execution divided in different stages then this is called ANS.
+> Pipelining
+> Q.26 in C the macros are
+> ANS. converted in to inline code during preprocessing 
+> Q.27 X: verification means doing the right things
+>           Y: validation means doing things right
+> a) both true
+> b) both false
+> c) one true one correct
+> Q.28 void insert (key, r)
+> Keytype key, data
+> {
+> if (n>=max)
+> ERROR
+> Else
+> R[n++].key=k;
+> Which is best?
+> 1> sequential search
+> Q.29 which is best for associative list searching?
+> 1) single linked list
+> 2) doubly linked list
+> 3) hash table
+> Q.30 A question based on SQL  ?
+> Q.31 which is not necessary condition for deadlock?
+> 1> mutual exclusion
+> 2> no preemption
+> 3> is ANS.
+> 4> Circular wait
+/=====================================
+>From Venky...
+/+++++++++++++++++++++++++++++++++++++++++
+
+questions.
+==> 1. a processor has two level cache.Their access time (level1 
+and level2) is 100ns and 300ns respect.Memeory access time is 1000ns$
+==> ans is 140 (b)
+==> 2.diskless server uses
+==> a rarp
+==> b arp
+==> c ftp
+==> d.telnet
+==> ans rarp
+==> 3.which one of them is not a client server
+==> e-mail
+==> telephone
+==> webserver
+==> and one more
+==> ans is e-mail or telephone.
+==> 4.Which one is used to represent operations
+==> infix
+==> postfix
+==> binarytree
+==> and one more
+==> ans binary tree 
+==> 5.one qustion was on private key and public key.The quest. was 
+if a wants to send a message to b that no one other that b should $
+==> A private key
+==> A public key
+==> B private key
+==> B public key
+==> 6.compliers maintain
+==> ans is symbol table 
+==> 
+/++++++++++++++++++++
+>From Diwakar...
+/+++++++++++++++++++++++
+1) what a java interface not have ?
+     ans - instance variables
+ 2) what is done with java code on a web-page
+    ans - downloaded and executed on ur pc
+ 3) what is the order of deleting a node from a linked list given a ptr 
+to it 
+    ans O(n)  ( since u have to traverse the list to reach the prev.
+node)
+ 3) what is RSA
+ 4) how can A send a messageto B so that B knows its from A 
+    ans A uses his private key so that B can use A's public key
+ 5) what is the best sort in worst case
+   ans heap sort
+ 6) what is the given sorting
+   ans selection ( check it )
+ 7) what can access protected memebers of a class
+   ans other classes of that program
+ 8) what protocol is used by a machine to map an ip to hardware address
+  ans arp
+ 9) what is the size of ipv6
+  ans 128 bits
+ 10) what protocol has ping 
+  ans icmp
+ 11) how many keys are needed in symmetric and asymmetric crptography?
+    ans - i dont know 
+ 12) one on a right threaded tree
+ 13) very easy k-map  
+    ans i think its b)
+ 14) very easy ckt 
+     ans choice which has option : a&c are equivalent
+ 15) what in unix 
+ 
+ 
+Satellite Networks The Hughes Network Systems (HNS), VSAT product line is designed to provide cost-effective telecommunications to a wide array of industries around the world. VSATs are effective tools for LAN internetworking, multimedia image transfer, batch and interactive data transmission, interactive voice, and broadcast data and video communications.
+
+Wireless Networks Hughes Network Systems developed the AIReach family of universal wireless products to meet a broad spectrum of applications in demand, including digital mobility, wireless local loop, wireless data, and broadband business applications.
+
+Enterprise Networks Hughes Network Systems (HNS) Radiant family of networking products include award-winning backbone, internet- working, and edge switches with a single network management system, providing reliable and flexible solutions for the public and private service provider.
+
+Consumer Satellite Products HNS offers a series of consumer satellite products designed to provide world-class, direct-to-home satellite TV and Internet access.
+
+CableServe CableServe is an integrated access system designed to enable HFC cable television distribution networks to carry telephony and broadband data.
+
+Explore a world of satellite solutions
+
+VSAT Overview
+
+Why Use VSATs?
+
+VSAT networks provide rapid, reliable satellite transmission of data, voice, and video to an unlimited number of geographically dispersed sites or from these sites to headquarters.
+
+What Equipment Do I Need for My VSAT Network?
+
+Each site is equipped with a VSAT terminal consisting of an antenna, outdoor electronics mounted on the antenna for signal reception/transmission, and indoor electronics for connection to customer computer, telephone, and video equipment.
+
+Shared Hub Services
+
+Technical Support Services
+
+Customer Assistance Center
+
+Hughes Shared Hub Services Cost-effective real-time communications across town, or across the country.
+
+Shared hub services from Hughes Network Systems: Making Satellite Technology work for your business.
+
+Today, businesses in a wide variety of industries are relying on VSAT (very small aperture terminal) satellite networks to help them communicate with their remote locations no matter where they are across town, or across the country.
+
+Even for businesses with relatively small numbers of remote sites, satellite networks can be one of the most cost-effective ways to obtain efficient, on-line communications.
+
+The central the heart of your network.
+
+VSAT networks rely on a central hub station to serve as the transfer point between the remote locations, the satellite, and company headquarters or data center. The hub contains the necessary uplink/downlink equipment to transmit signals to and from the satellite.
+
+For many companies, it is not desirable or feasible to own and operate their own dedicated hub. The solution: shared hub services from Hughes.Shared Hub Services from Hughes give you the efficiency of on-line communications at a cost that agrees with your bottom line.
+
+Hughes Network Systems owns and operates four full-service satellite hubs located across the country. The hubs operate seven days a week, 24 hours a day. For a reasonable monthly fee, you have all the advantages of on-line satellite communications:
+
+Data transmission Real-time video Audio transmission Disaster recovery Pilot programs for new networks or applications
+
+Using shared hub services means you avoid the expense of building your own hub and maintaining a technical staff to run it. You contract for only the amount of satellite bandwidth that you need on satellites built by the world's largest satellite manufacturer. And when your network needs to grow or change, you can count on Hughes to reconfigure the network quickly with a minimum of expense.
+
+Disaster recovery: being ready for the unexpected.
+
+No one likes to think that a disaster either natural or could hit the network. But in the event of a hub failure, whether it's a shared hub or a hub dedicated to one company's operation, Hughes is ready to put you back in business.
+
+The Germantown hub provides complete backup service in the event of disaster. Hughes can bring your network back up rapidly and will keep it operating while hub repairs are underway. As soon as the hub is repaired, we switch you back to normal operation.
+
+Let us show you how Hughes Shared Hub Services can help you advance the way your business communicates. Call 301-601-2610.
+
+The heart of HNS' technological leadership is its family of Satellite earth stations and services.
+
+Consumer Satellite Products
+
+DirecTV Systems HNS-brand system for direct-to-home reception of satellite-delivered DIRECTV programming.
+
+DirecPC HNS' satellite receive system and service that provides up to 400 Kbps Internet access.
+
+DirecDuo HNS' hybrid satellite receive system that provides satellite-delivered TV reception and DirecPC Internet access using the same antenna.
+
+ 
+                                 
+
+                                                                                 Back
+
+ 

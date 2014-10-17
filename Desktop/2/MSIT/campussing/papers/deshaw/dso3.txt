@@ -1,0 +1,56 @@
+   
+ 
+ 
+
+   
+
+
+DE-SHAW SOFTWARE,HYDERABAD. 
+
+--------------------------- 
+
+SECTION-A 
+
+  
+
+Write the programs for the following problems in C. 
+
+  
+
+ Q. Swapping two variables x,y without using a temporary variable. 
+
+ Q. Write a program for reversing the given string. 
+
+ Q. The integers from 1 to n are stored in an array in a random  fashion. but one integer is missing. write a program to find the  missing integer. 
+
+Q. Questions  on pointers asking to find whether it is correct from syntax point of view. and if  it is correct explain what it will do.(around 15 bits). 
+
+  
+
+SECTION-B 
+
+ 
+
+Q. write a c program to find whether a stack is progressing in forward  or reverse direction. 
+
+Q  write a c program that reverses the linked list.
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

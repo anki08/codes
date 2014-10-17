@@ -1,0 +1,156 @@
+
+___________________________________________________________________________________
+
+COMPANY NAME : HUGHES
+------------------------------------------------------------
+DATE OF TEST : 2003
+------------------------------------------------------------
+PLACE OF TEST: 
+------------------------------------------------------------
+MODE 	   : Off-Campus
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+
+-----Original Message-----
+From: mk_grps 
+Sent: Sunday, August 10, 2003 6:45 PM
+To: CHETANA-JOBS@yahoogroups.com
+Subject: [CHETANA] (Paper Pattern)Hughes Paper
+
+
+Hi all,
+
+here is recent Hughes paper i got hold of.
+
+regards,
+Mrityunjay
+
+
+1. One question of Set Theory Like there Are two sets A and B and
+(A-B)union(B-A)union(A intersection B) 
+is equivalent to 
+
+Ans. A union B 
+Union and intersection are in there sign conventions. 
+
+
+
+2.One question of probability 
+Like between 100 and 999 how many no have the prob that they does 
+not contain  7
+
+ans. 16/25 (not sure u can check by own) 
+
+3. Of Newton Rapson method... 
+
+Ans. Converges to root2(check it) 
+
+
+4. Of power set A set contains {(fi),a,{a,b}} what is the powerset 
+of it 
+Ans. 8 
+
+5. A question of logic gates 
+Ans. U can got the answer very easily 
+
+6. A question on the Booths algo 
+Ans. The sequence is 1010101010101010 
+
+7. Relative addressing mode is used for 
+Ans. Dont know. 
+
+8. How many 4 input multiplexer will be used for making of an 16 pin
+multiplexer 
+Ans. 8. 
+
+9.For how many numbers there is no difference between little endian 
+and big
+endian 
+Ans. 256 
+
+10. For the multiplication of two 8 bit numbers how much ROM will be 
+used 
+Ans. 64k*16 ROM(Check it) 
+
+11. Why direct mapping is not good for the mapping of Cache Memory. 
+Ans. Dont know 
+
+12. What is the main property of Desiy I/O Sytem 
+Ans. 
+
+13. A question on the nyquist theorem 
+Ans. 18000 bps 
+
+14. What is the shannon theorem... 
+Ans. Refer to data communication(Stalling) book 
+
+15. CSMA/CD protocol is used in 
+Ans. Ethernet 
+
+16. What is the limitation of the Pulse Code Modulation 
+Ans. Refer to data communication book 
+
+17. In CSMA/CD 
+Ans. The Access to the channnel is probabilistic. 
+
+18. For an IP Router how many IP addresses 
+Ans. Check it i think Answer is Only One. 
+
+19. Which protocol u used when you want to know the IP address 
+corresponding to
+a MAC Address 
+Ans. RARP 
+
+20. Which part of the IP header is used for the time limit of the 
+packet. 
+Ans. TTL 
+
+21. Which PageReplacement algo will give the best result 
+Ans. By replacing that page which has the next reference after a long
+time.(optimal algo) 
+
+22. What the code will be said when it is called by another part and 
+it is not
+completed yet 
+Ans. Reentrant Code. 
+
+23. three questions on the simple programs 
+
+24. There is a sequence of no and prepare a binary tree and tell how 
+many nodes
+are in the left and right sub tree. 
+Ans. Check it Ans (4,7) 
+
+25. What is the rank of the graph 
+Ans. e-n+k 
+
+26. One question on the multithreading 
+Question I cannot remembered. 
+
+27. Which traversal of the tree gives the node in the ascending 
+order. 
+Ans. Inorder 
+
+28. What is garbage collector. 
+Ans. 
+
+
+
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

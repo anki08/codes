@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+ main()
+ {
+  struct t
+  {
+   int i;
+  } a,*p=&a;
+  p->i=10;
+  printf("%d",(*p).i);
+ }
+
+ANS: 10
+
+
+
+

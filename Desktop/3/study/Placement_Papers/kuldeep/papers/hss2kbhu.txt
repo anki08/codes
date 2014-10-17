@@ -1,0 +1,93 @@
+HUGHES at IISC 2000 
+=====================================================================
+
+q1) special charracter of c++ regarding oop;
+a) funs overloading, b?) polymerisation vc) virtual funs d) data 
+
+encapsulation
+  {
+int i=4000;
+int j=9000;
+main()
+{
+printf(,i,j);
+f(&i,&j);
+printf((i,j);
+f1(&i,&j);
+printf(i,j);
+
+
+
+f( int *a, int *b)
+{
+int *temp;
+temp=a;
+a=b;
+b=temp;
+}
+f1(int *a,int *b)
+{
+*b=*a;
+*a=500;
+}
+3) using declaration ---- namespace funda;
+4) few questions on inheritence including  protcted --- pointer to base 
+derived class.
+
+
+5) port address is unique at 
+   a)globaly, b)...
+6)    ((5+4)*8)*(16+9)*5)  convert to prefix
+7) there r 2 dices. probabilty to get 7
+a) 5/36   b) 7/36   c) 1/36  d) 9/36
+
+8)     4R balls,  5G , 6Y,5O balls. no. of balls are kept linearly . no 
+of permutayion that similar color balls will be together.
+20!  ,    6!5!,   4!5!,   none
+
+9)    a man has color blindness then what will be permutations. ans  
+may be 24,2,10, none
+
+
+10_   if  the man has closes his eye and arranges then what is the 
+probability 
+   20,12,24, none 
+
+
+11 3 boys: 3 girls a,b,c: x,y,z a,c unmarried   , a& b  have a dog. a 
+thinks the dog will be with his wife. B's wife thinks that her dog is 
+with  his husband. they r seated in a line c can sit near  x but not near 
+y,z. now they have to sit like the distace between dogs is near.
+no. of seats between dogs
+( one dog is at first other is at 5th)
+
+12) tell the sequence azcxyb
+13) X.42 is in which layer
+14) TCMP or somewhat like this protocol
+15) -------!---------!--------
+               !             !
+               !              R
+              Z(diode)!
+______!______!____
+
+ans) clipper , damper, rectifier, trigger ckt
+
+
+16 
+flush as in toilet can be considered electrically as
+a) capaciter b) inductor c) trigger ckt
+
+
+17)    haruard code is 
+a) orthogonal b) 1
+
+18) which is better 
+1)semaphore,2) monitor c).....
+
+
+19 single bit parity checketr can detect 
+1) 1 bit error  2) 2 bit error etc
+
+20motion estimation is used in 
+1) satellite 2) communication 3) video
+

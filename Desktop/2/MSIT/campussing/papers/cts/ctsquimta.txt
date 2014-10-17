@@ -1,0 +1,120 @@
+CTS 2003 COIMBATORE
+
+
+1)
+
+  
+
+  Diameter of circle is d, Find length of string.(outer string that covers the circle)
+
+Ans: d (pi + 3)
+
+2) Diamond's value is proportional to its weight2  .When the diamond broke wts of pieces in ratio 1:2:3:4:5.
+
+  Total loss in value is 85,000.What is the value of the diamond twice the wt of the original diamond.
+
+Ans  : 4,50,000
+
+3)Person X join a job at 20 yrs.First 3 years sal =10,000 p.a. Afterwards every year inc of 2,000 per year for 10 year. Then sal become const till retirement. at retirement avg sal is 25,000. ( thro'out career) what age he retires.?
+Ans:48
+
+4)In an island there r tribals who speak lang of atmost 4 words.Lang consists of 4 alphabets.How many words can be formed in that language?    Ans 340
+
+5) It was found that the cause for the malaria was the swamp marsh and so r swamps were drained .Mosquito the real cause for malaria due to lack of breeding grounds (Swamps) also was wiped out. What does this illustrate?
+
+(Ans : (Possible) when many conditions form a result eradication of one cause also eradicates the result)
+
+6)An officer kept files on his table at various times in the order 1,2,3,4,5,6 .Typist can take file from top whenever she has time and type it.What order she cann't type.?
+
+(Ans : 4,5,6,2,3,1)
+
+7)A and B r fighting .B fires 3 times as many missiles as A.  Total hits: total misses = 1/7 .B's misses 357.B's hits - A's hits = 66.A's hits? 27/11
+
+8)40 shots taken.50p for a hit.10p for a miss.(he have to give).Finally he has Rs.5.How many hits.? Ans 15
+
+9)Find avg of a,b,c,d,e .Given data : avg of any 4 num =avg of any 3 num 2)(a+b)² = 36
+  
+    Which of the abv are sufficient?
+
+10)What is the difference in times btwn clk 1 & clk2.
+
+1)	both show same time 6 hrs back  2 ) 1 clk gains 1 min an hr,clk2 gains 2 min an hour.
+Like abv….
+
+11)A takes 9 strides to B's 7 strides. A stride = 1meter.B stride =1.2m B gets the start of 24m.What dist should A travel to overtake B?360m
+
+12) Tortoise gets 100 m head start. Hare is 10 times faster as tort. What is the dist traveled by hare to catch up tort.?111.11m
+
+13)4 weights r weighed in pairs. Weights of pairs are determined as 103,105,106,106,107,109 What is the min wt?
+Ans 51
+
+14) Constant cost = 300
+      and 1.75 / copy. How many copies  should he sell at 7.75 /copy to make a profit.51
+
+15) 
+ 
+Find the perimeter  ? ANs 28
+
+16) 20 members avg =10.5. 3 memb of 11.5,12.5,13.5 left and 3 memb of 10.5,12.5,14.5 joined along with a teacher of 21 yr.Now avg = ….Ans 11.
+
+17) 
+
+    
+  Find the area of shaded. Radius  of circle = 1cm…..Arcs r drawn with center at circumference. 
+
+18) 
+
+    
+
+   Find the area of the shaded portion?
+
+19)	Solid cube of 6 * 6 * 6. This cube is cut into to 216 small cubes.(1 * 1 * 1).the big cube is painted in all its faces. Then how many of cubes are painted at least 2 sides.  (Ans 56)
+
+20)	A Bacteria is doubling at every 4 min. After 40 min 1024 bact. Then 256 when>…..? Ans : 32 min
+
+21)	A bag contains 3 balls of 11 different colors each. Find the min no of chances to find at least 3 balls of same color?
+
+Ans  : 23 
+
+22)	If x² < 4 then 100/x is….?  Ans : 100/x > 50 &  100/x < -50.
+
+23)	If [x] is the int less than x and |x| is the abs val of x.Then max of [x]/|x| is Ans d)none
+
+24)	A work in 12 days b in 15 days. Find the no of days if they work on alternate days. Ans 13 ¼
+
+25)	A,B,C r positive int.Out of them 2 r odd. Then 5²a   + ( b-5)3 (c-3)² = ? Ans : always odd.
+
+26)	A squarer side is 5cm.If a square of side 10cm is hinged @ the center of the prev square. when they r rotated common area to both squares  (Ans : Does not change)
+
+27)	3p² + pq + 5q² is even. If  
+
+a)	If p is odd, q is odd
+b)	If p is even, q is odd
+c)	If p is odd ,p is even
+d)	Atleast one of p and q is odd.
+
+         Choices are given. Ans : 4) None of these
+
+28)	A lady has to feed a dog for the one week from Monday to Sunday .She has food types M,N,O,P,Q,R,S .
+
+MNOP à protein enriched RS -à vitamin enriched. Vitamin enriched cannot be fed on consecutive days.
+
+Conditions given : M should be fed before S.
+ M should be fed before Q. 
+R Should be fed before S.
+Before N and Q there should be four types.
+                   Based on this 3 ?s are asked.All r easy to answer…
+29)	A man bought at the cost of 5 plums a rupee and 2 oranges a rupee.He sells 10 plums and 6 oranges at the selling price of 4 plums a rupee and 3 oranges a rupee.What is his gain or loss? Ans loss of 50p.
+30)	Out of 32 books the cost of 10 books is Rs. 50 each and he got a profit of 4%. He sells 15 books at a profit of 3.8461% on the selling price of  Rs 70. The remaining cost is 576. The remaining books are sold at Rs 74. What is his total profit. No profit
+31)	Two solutions have  milk & water in the ratio 7:5 and 6:11.Find the proportion in which these two solutions should 
+Be mixed so that the resulting solution has 1 part milk and 2 parts water?
+a)35:3  b)21:36 c)not possible                  Ans :c
+
+Further qs are from reading comprehension.(verbal reasoning) All are easy to answer if u read carefully. 
+ We are not able to get the remaining questions.
+
+                                                 All the best -                  CEGians.
+      
+
+
+

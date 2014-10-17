@@ -1,0 +1,276 @@
+   
+ 
+ 
+
+   
+
+DESHAW 97
+
+
+PART 1 TIME:20 MIN
+* 20 QUESTIONS , EACH QUESTION CARRIES 2 MARKS
+
+1. A solid ice of 11 x 8 x2 inches is made into rod of dia 4 inch. What is the length of rod?
+ans: 3.5 inch
+
+2. There were 750 people when the first song was sung. after each song 50 people are leaving the hall. How many songs are sung to make them zero?
+ans:16
+
+3. A person is climbing of 60 mts . for every minute he is climbing 6 mts and slipping 4 mts . After how many minutes he may reach the top?
+ans: (60-6)/2 +1 :28
+
+4. How many zeros are there in  the product of the integer from 1to 100?
+
+
+5. A can do work in 2 hours. B can do a work in 3 hours. What is the  shortest time they can finish the work?
+ans: 1hour 12 min.
+
+6..Salary is increased by 1200, tax is decreased from 12% to 10% but A is paying same amount as tax . What is the previous salary?
+ans:6000
+
+7. The least no. which is when divided by 4,6,7 leaves a remainder of 2 ?
+ans: 86
+
+8. A man is driving the car at twice the speed of auto. One day he drove the car for 10 min. and car failed. He left the car and took an auto to go to  the office. He spent 30 min. in the auto. What will be the time take by the car to go to office?
+ans:25 min
+
+9. A report has 20 sheets, each of 55 lines and each such a line consists of 65 characters. If the report has to be retyped with each sheet having 65  lines and each line have 75 characters, the percentage of reduction of no of sheets is closest is to?
+ans: 25%
+
+10. Out of 100 families in the neighborhood , 55 own radio, 75 own TV and 25 own VCR. Only 10 families have all of these, and each VCR owner has a TV. If 25 families have the radio only, the no. of families which have only TV are?
+ans: 30
+
+aptitude:
+
+
+Kya Kya is an island in the south pacific . The inhabitants of Kya Kya always answer any question with two sentences, one or which is always true and other is always false.
+Q. You are walking on the road and come to a fork. You ask the inhabitants Ram, Laxman, and Lila as" which road will take me to the village?"  Ram says: I never speak to strangers. I am new to this place.  Laxman says: I am married to.Lila. Take the left road. Lila says: I am married to Ram. He is not new to this place. 
+
+ans: left road take you to the village
+
+Q. You find that your boat is stolen. U questioned three inhabitants of islands and their replies are
+john : I did not do it. Mathew did not do it
+Mathew : I did not do it. Krishna did not do it
+Krishna: I did not do it; I do not know who did it.
+ans: Mathew stole the boat
+
+Q. You want to speak to the chief of village. U ask three fellows Amar, Bobby, Charles and Bobby is wearing red shirt.
+Amar : I am not Bobby`s son ; the chief wears red shirt
+Bobby : I am Amar's father ; Charles is the chief
+Charles : The chief is one among us; I am the chief
+ans: Bobby is the chief
+
+Q. There is only open plot in the village (island). You interviewed three men  Koisk, Larry and Mishra.  U also notice that Koisk is wearing a cap. Mishra says : Larry's father is the pilot. Larry is not the priest's son. Koisk : I am the priest on this island. Only priests can wear caps. Larry : I am the priest's son . Koisk is not the priest.
+ans : Koisk is the pilot
+
+Q. typedef struct{
+char *;
+nodeptr next;
+} * nodeptr;
+what does nodeptr stand for?
+
+Q. supposing that each integer occupies 4 bytes and each character 1 byte , what is the output of the following programme?
+#include<stdio.h>
+main()
+{
+int a[] ={ 1,2,3,4,5,6,7};
+char c[] = {' a','x','h','o','k'};
+printf("%d\t %d ", (&a[3]-&a[0]),(&c[3]-&c[0]));
+}
+ans : 3 3
+
+Q. What is the output of the program?
+#include<stdio.h>
+main()
+{
+struct s1 {int i; };
+struct s2 {int i; };
+struct s1 st1;
+struct s2 st2;
+st1.i =5;
+st2 = st1;
+printf(" %d " , st2.i);
+}
+ans: nothing (error)
+expl: diff struct variables should not assigned using "=" operator.
+
+Q. What is the output of the program?
+#include<stdio.h>
+main()
+{
+int i,j;
+int mat[3][3] ={1,2,3,4,5,6,7,8,9};
+for (i=2;i>=0;i--)
+for ( j=2;j>=0;j--)
+printf("%d" , *(*(mat+j)+i));
+}
+ans : 9 6 3 8 5 2 7 4 1
+
+Q
+fun(n);
+}
+int fun( int n)
+{
+int i;
+for(i=0;i<=n;i++)
+fun(n-i);
+printf(" well done");
+
+}
+How many times is the printf statement executed for n=10?
+ans: zero
+expl: Before reaching to printf statement it will goes to infinite loop.
+
+Q.What is the output of the program?
+main()
+{
+struct emp{
+char emp[];
+int empno;
+float sal;
+};
+struct emp member = { "TIGER"};
+printf(" %d %f", member.empno,member.sal);
+
+Ans: error. In struct variable emp[], we have to give array size.
+If array size given
+ans is 0, 0.00
+
+Q. output of the program?
+# define infiniteloop while(1)
+main()
+{
+infiniteloop;
+printf("DONE");
+}
+ans: none
+expl: infiniteloop in main ends with ";" . so loop will not reach end;
+and the DONE also will not print.
+
+Q. output of the program?
+
+main()
+{
+int a=2, b=3;
+printf(" %d ", a+++b);
+}
+
+ans:5
+expl: here it evaluates as a++ + b. 
+
+Q. output of the program?
+
+#define prn(a) printf("%d",a)
+#define print(a,b,c) prn(a), prn(b), prn(c)
+#define max(a,b) (a<b)? b:a
+main()
+{
+int x=1, y=2;
+print(max(x++,y),x,y);
+print(max(x++,y),x,y);
+}
+ans: 3 4 2
+
+Q. which of the following is the correct declaration for the function main() ?
+ans: main( int , char *[])
+
+Q. if ptr is defined as
+int *ptr[][100];
+which of the following correctly allocates memory for ptr?
+ans: ptr = (int *)(malloc(100* sizeof(int)); 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

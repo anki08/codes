@@ -1,0 +1,129 @@
+___________________________________________________________________________________
+
+COMPANY NAME : HEXAWARE
+------------------------------------------------------------
+DATE OF TEST : 29 Nov 2003
+------------------------------------------------------------
+PLACE OF TEST: Chennai
+------------------------------------------------------------
+MODE 	   : Off-Campus
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+-----Original Message-----
+From: Paul Panjikaran 
+Sent: Friday, December 05, 2003 7:33 PM
+To: CHETANA-JOBS@yahoogroups.com
+Subject: [CHETANA] (Job) I got job in HEXAWARE + (info) recruitment process info
+
+hello friends
+i'm pleased to inform u that i got into hexaware technologies chennai. the test was on 29th november and i had a call 
+
+letter.i don't think they let anyone in who didn't have 1.the test pattern was the one posted earlier in the group.100 
+
+questions 1 hr,no negative marking.the questions were pretty simple,the prime importance is speed.the shortlisted people 
+
+had gd the same day.the gd topic for my group was are managers made or born.speaking well is of primary 
+
+importance.they took 2 out of 12.there is huge elimination for gd as only 1 or 2 are selected out of 12.i had my interview 
+
+on 1st dec,a few of those who cleared the gd had interview on the same day also.u'll be given a choice of topic and 
+
+some questions will be asked.importance is to be thorough on basics and be very positive and confident.there is not 
+
+much elimination in the interview but u never know. the questions i was asked was to predict the output of the following 
+
+program
+
+
+void main()
+{
+ int a=3,c=4,c=5;
+ a=b+c;
+ c=a+b;
+ b=a+c;
+ printf("%d %d %d",a+b,b+c,c+d);
+ a=b*c;
+ c=a*b;
+ printf(%d %d",a.c);
+}
+
+
+
+then another one was to print '*' like this
+               *
+             ***
+           *****
+         *******
+n times
+
+
+then pass by reference and pass by value....
+
+
+whether pointer is a datastructure,few related questions...
+
+
+then a few hr questions...
+
+
+there is a bond for 2 yrs and we were called on 3rd for it and training started on 4th.,around 30 people got through out of 1200...(approx)
+
+
+i thank chetana ma'am for her excellent work.the amount of information flow in this group is admirable,thousands are 
+
+helped in some way or the other.it takes a huge amount of patience,time,dedication and of course money to keep this 
+
+group running as it is...u r doing an excellent job..way to go...!!!
+
+
+i've been hunting for a job for the last 5 months,its been a very very trying and depressing time and this group has kept 
+
+my hopes alive.friends this is what i  have to say...ur time will come,the oppurtunities will come...be sure u r prepared 
+
+when they do...make sure that whatever chance that u get does not go to waste due to lack of preparation.there is only 
+
+so much that u can do...
+
+
+here are my efforts for the last 5 months
+
+
+
+itc infotech  tech support resigned after 2 days.
+accenture  cleared test and gd but didn't get through interview
+kshema technologies didn't clear test
+tcs  cleared test but the interview was pathetic though i was quite prepared...
+satyam  didn't clear test
+cts  didn't clear test
+itti  cleared test but got through hexaware before i could appear for itti interview
+
+and of course a million resumes sent by mail and a hundred miles on foot to companies....
+
+
+don't give up hope friends...
+
+
+i'll post whatever openings i come across...
+
+
+take care
+Paul
+
+___________________________________________________________________________________
+Visit: "www.chetana-jobs.com" for Previous Papers
+--------------------------------------------------------------------
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

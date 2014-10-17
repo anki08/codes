@@ -1,0 +1,63 @@
+CTS Apti Question paper (Colour:  Yellow)
+
+There are other three colours also.  We received only yellow Question papers. 
+ 
+ 
+1.	If all the 6 are replaced by 9,  then the algebraic sum of all the numbers from 1 to 100(both inclusive) varies by                                             Ans: 330
+
+2.	The total no. of numbers that are divisible by 2 or 3 between 100 and 200(both inclusive) are                                                                          Ans:67
+
+3.	From a pack of cards Jack, Queen, King & ace are removed.  Then the algebraic sum of rest of the cards is                                                       Ans:216
+
+4.	The average temperature of days from Monday to Wednesday is 37 degree Celsius and that of from Tuesday to Thursday is 34 degrees.  The temperature of Thursday is 4/5th of Monday.  Then the temperature of Thursday is                                                                                          
+                                                                                                        Ans: 36 degrees   
+5.	Swetha, Tina, Uma and Vidya are playing a gambling.  In this different people          lose in different games-in the reverse alphabetical order.  The rule is that if one loses she should double the amount of others.  At the end of 4th game each of them have same amount of money (Rs.32).  Which one of them started with the least amount? (6) Which one of them started with the largest amount of money?  (7.) At the end of the 2nd game what is the amount of money with uma?                
+                                                                                        Ans: Vidya, Swetha, Rs.8
+8.    A cube of 12 mm is painted on all its side.  If it is made up of small cubes of                      size 3mm.   If the big cube is splitted into those small cubes, the number of cubes that   remain unpainted is                                                                
+ Ans: 8
+
+9.     B is 50% faster than A.  If A starts at 9 A.M. and B starts at 10 A.M.  A travels at a speed of 50 km/hr.  If A and B are 300 kms apart, The time when they meet when they travel in opposite direction is                                     Ans:12 noon
+
+10.	A graph will be there.  Inside the graph sheet there will be a Quadrilateral. We have to count the number of squares in the Quadrilateral.
+
+11.	You are  having 31kg of rice. You are provided with a 1kg stone for weighing. In how many weights the 31kg of rice can be weighed. Ans: 5
+
+12.	A starts at 11:00AM and travels at a speed  of 4km/hr. B starts at 1:00PM and travels at 1km/hr for the first 1hr and 2km/hr for the next hr and so on. At what time they will meet each other.  			Ans: 3
+
+13.	There are 80 coins, among them one coin weighs less compared to other.  You are given a physical balance to weigh. In how many wieghings the odd coin can be found.					Ans:5
+14.	Dia of the circle 4cm. The shaded part is 1/3 of the square area. What is the side of the square.					Ans:  root of 3pi  
+
+15.	A,B,C, can do a work in 8,14,16 days respectively. A does the work for 2 days. B continues from it and finishes till 25% of the remaining work. C finishes the remaining work. How many days  would have taken to complete the work							Ans:13
+
+16.	Raja went to a beauty contest .his wife was eager to know the result he told that the lady wear a yellow sari was winner. Miss. Andhra Pradesh Miss. Utter Pradesh, Miss. Maharashtra, Miss. West Bengal were the participants all  the participants sat in a row. The conditions are (A) The woman wore yellow sari won the competition. (B) Miss. West Bengal was neither the runner-up or winner.(C) Miss. West Bengal was not at either ends.(D) Miss. Maharastra wore the white sari.(E) The women wore white sari and yellow sari sat at extreme ends.(F) The runner-up and winner did not sit together. [This was the passage given and the questions were easy]
+
+17.	The ratio of white balls and black balls is 1:2. If 9 gray balls is added it becomes 2:4:3. Then what is number of black balls.		Ans:12
+
+18.	There are 10 coins. 6 coins showing head. And 4 showing tail. Each coin was randomly flipped (not tossed) seven times successively.after flipping the coins are 5 heads 4 tails one is hided the hided coin will have what.(head)
+
+19.	Two cars are 500 cm apart. each is moving forward for  100 cm at a velocity of 50 cm/s and receding back for 50 cm  at 25 cm/s at what time they will collide with each other.
+          (18)
+20.	People near the sea shore are leading a healthy life as they eat fish.but people at other part of the city are also healthy. Inference.
+
+21.	It is found from research that if u r a drunken then u have a less chance for chronic heart diseases. Inference.
+
+22.	A-B+c>A+B-C i) B is +ve, ii) B is -ve when it will hold true.(2)
+
+23.	i) C.P is Rs 120 and profit is 30%
+ii) C.P is Rs 210 and profit is 20%
+we can find the S.P by using
+i)only ii)only  both i &ii neither i&ii
+         
+24.   How will u find distance between Nagpur and Mumbai?I took one hour more when I travel 
+at 80 km/hr than at 90 km/hr.
+
+25. 100 coins were collected by four persons  each collected more than 10 each collected a different number each was an even number find what is the max possible no of coins, two more questions based on the same passage.64 14 12 10
+
+          26. A car travels from B at a speed of 20 km/hr.The bus travel starts from A at a time of 6 A.M.There is a bus for every half an hour interval.The car starts at 12 noon.Each bus travels at a speed of 25 km/hr.Distance between A and B is 100 km.  During its journey ,The number of buses that the car encounter is (17)
+
+27.	The ratio of the ages of the father and the son is 5:3, After 10 years it will be in the ratio 3:2.  What will be their ages.  60 40
+28.	There was a Island.  In that Island there was Rubys and Emeralds.  Those were available in plenty.  0.3 kg of ruby is 4 lakhs and 0.4 kg of emeralds is 5 lakhs.  Jayanth is buying 12 kg of Ruby and emerald.  Choices will be given .  Jayanth  has to carry both ruby and emerald to the maximum profit. 
+29.	Varun buys 8 books,10 pens and 2 pencils and Babu buys 6 books, 5pens and 5 pencils.  Babu pays 50% more than Varun.  What is the amount Varun spends in buying pencils.
+30.	Prakash and Revathi rent a fancy shop.  Prakash imposes the following restrictions on Revathi for buying clips,stickers and lip sticks.  The number of clips is twice the no. of stickers.  The no. of lipsticks should be more than the sum of clips and stickers.  Cost of clip is 1 rupee.  Cost of lipstick is twice the clips.  Cost of 1 lipstick is the cost of four stickers.  Then What is the amount that Prakash spents for Revathi.         Answer choices will be given. 
+
+                                                                                                                                                 

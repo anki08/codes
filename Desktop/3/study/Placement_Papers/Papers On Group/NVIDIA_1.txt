@@ -1,0 +1,59 @@
+there were 10 questions..
+
+4 X 3 marks
+***********
+
+1. room lighting.. room with 100 bulbs and switches..
+100 people goes in one by one.
+1st person toggles all switches
+2nd person toggles all switeches which r multiles of 2 ( 2,4,6..)
+and so on ( till 100th person toggling only 100th switch)
+once finished with all , which all bulbs r on..
+
+2. ieee single precision format for 1/5.
+form : 1 signbit, 8 bits for exponent, 23 bits for mantissa
+
+3. elevator of 60 steps, one kid going up also climbs 15 steps during the
+upward motion. another kid runs up in the downward elevator and reaches
+top along with the first kid ?? how many steps are covered by second kid
+
+(answer = 45 + 60 = 105)
+
+4. find the minimal exp for a > b, where a=a0a1 and b=b0b1.
+
+5 X 6 marks..
+**********
+
+5. find an fsm for any no which is divide by 3.
+
+6. one c ++ class prog.. i don't remember it..
+
+7. one digital logic ckt problem. in signal , clk and out signal are
+given.. give the ckt..
+
+8. one cpu-cache hitting problem..
+
+9. shift register.. (b0b1 selection bits..
+00 - shift lft
+01 - shift right
+10 -
+11 - toggles q1 q2 ( hint : uinversal shift register)
+
+10th question (8 marks, true or false)
+total of 12 questions or so..
+questions included on ASIC, HDL, TCP etc..
+
+all the best...
+anoop.
+#############################################################################
+
+ANOOP KUMAR B anoopkumar_b@yahoo.com <mailto:anoopkumar_b@yahoo.com>
+M TECH (COMMUNICATION)(PC LAB RA) anoopkumarb@rediffmail.com <mailto:anoopkumarb@rediffmail.com>
+ROOM NO: A-301
+HOSTEL NO: 12 Ph(internal) : 5756 (PC Lab)
+IIT POWAI.
+MUMBAI-400 076
+
+<http://www.ee.iitb.ac.in/uma/~akb>
+
+

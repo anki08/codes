@@ -1,0 +1,303 @@
+   
+   
+
+
+
+1. If s is an infinite set such that s1Us2Us3........Usn = s ( U
+represents union symbol of sets).which of the following is true.
+a. at least  one of the sets si should be infinite.
+b. only one set should be infinite.
+c. at least one of the sets si should be finite.
+d. only one set should be finite.  ( ans = a)
+
+2. P(A) = 0.5   P(B) = 0.6  P( A union B) = 0.7
+    P( A intersection B) = ?   ( answer = 0.4)
+
+3. The following diagram represents shift regesters
+   at 0 time the out put is 0110. what is the out put after four clock
+periods.
+
+        ------------------------------------------------------
+        |           |             |         |              |
+
+    |----
+    |   |           |             |         |              |
+    |   ________________________________________________________
+    |      |                |         |          |
+    |      |                |         |          |
+    |      |                |         |          |
+    |      |                |         |          |
+    |_nor==|                |         |          |
+     gate====================         |          |
+         ============================ |          |
+        =========================================|
+           |                |         |          |
+           |                |         |          |
+          A                B         C          D
+       ( arrow symbol's pointing downward for all lines )
+
+       ( from NORGATE arrow pointing upwards on the line )
+        ( from NORGATE  A B C D lines are connected)
+        ( NORGATE is connected to top 4 boxes by a line)
+
+   a. 0100
+   b. 0111
+   c. 1000
+
+4.  what is the use of dirty bit in page table?
+
+5.  what is source bridge routing ?
+
+ 6.     Function(  i , k)
+        begin
+              If i = 0  then
+                F = s or 0
+                 else
+                   F = k
+ end
+          Function  G(x)
+          begin
+                G =  F ( x , x*G(x-1) )
+ 
+        what parameter passing mechanism should be used to terminate
+this
+ programme      when we invoke   G(s or 5)?
+    a. call by name
+    b. call by value
+    c.  call by reference
+    d. call by  value result
+          ( ans = a)
+ 
+ 7.  In C++ language class declaration the variables that are declared
+in
+ private can be used in
+    a. only in the functions declared in public clause
+    b. All the member functions of the class
+    c. Any function in the programme
+    d. None of the above
+     (ans = b )
+ 
+ 8. which of the following is hetrogeneous type
+   a. stack
+   b. Queue
+   c. file
+   d. Record
+    ( ans = d)
+ 
+ 9.  If any programme language has a facility to declare new data types
+ then that is so called
+ a.over loading
+ b.Encapsulation
+ c.Apprehensive
+ d.Extensible
+       ( ans = d)
+ 
+ 10.      For i = 2 to n  do
+           For j = n  downto   i do
+         If   a[ j-1] <  a[j] then
+        begin
+        x = a[ j-1];
+        a[j-1] = a[j];
+        a[j] = x;
+        end;
+   The above programme is for
+ a. Tree sort
+ b. Bubble sort
+ c. Insertion sort
+ d. shell sort
+     ( ans = b )
+ 
+ 11. In a binary search tree the nodes have values 1,2,3,4,5,6,7,8.
+  which of the following is correct if it is written in pre-order
+  traversal.
+  a. 5 3 ............
+  b. 5 3 ...........
+  c. 5 3 .............
+  d.  5 3 2 1 4 7 6 8   ( ans = d )
+ 
+ 12. The product of sums of    B *  D BAR + C BAR *D
+ BAR).
+    a.  ( B+D) (C BAR + D BAR)
+    b.  ( B+ D BAR) ( C BAR +D)
+         ( ans  = a )
+ 
+ 13.In a binary tree if every node is greater then or equal to it's
+ children  then such a tree is so called
+        a. AVL tree
+        b. HEAP
+       ( ans = b)
+ 
+ 14.  What is the use of BUFFER CACHE
+        ( ans = To improve the disk performance)
+ 
+ 15.  Router A passes packet to Router E in the path
+       A-- B-- C-- D-- E.    due to error in routing table the router D
+ passes this packet to X and later it finds error and generates ICMP
+ message. this message is processed by
+    a. ROUTER A
+    b. ROUTER B
+    c. ROUTER C
+    D. ROUTER D
+     ( ans =  a )
+ 
+ 16.  TCP uses
+      a.   1 WAY HAND SHAKE SIGNALS
+      b.   2      -DO-
+      c.   3      -DO-
+      d.   4      -DO-
+       ( ans = c )
+ 
+ 17. To form a heap from the following  list of elements  how many no of
+ exchanges are needed?
+        89 , 17 , 40 , 11 , 15 , 10 , 5 , 0 .
+       (answer = 0)
+ 
+  18.In which of the following memory allocation method the external
+ fragmentation  will occur.
+  a.  SWAPPING
+  b.  PURE DEMAND PAGING
+  c.  MULTIPLE PARTITION OF CONTIGUOS MEMORY
+  d.  NONE OF THE ABOVE
+          (  ans = c )
+ 
+ 19.  Use as many processors as required to perform the following
+ operations. to calculate one arithmetic expression it will take one
+unit
+ of time. how many units of time will it take to perform  the following
+ arithmetic expressions.
+         A = A+C
+         B = A-B
+        C = A*E
+        D = A/F
+        E = C+D
+        F = A-C
+ a. 0
+ b. 1
+ c. 2
+ d. 3
+       ( ans = d )
+ 
+ 20. Which of the following is not correct
+ a.Router  operates at network layer
+ b.Bridge  operates at data link layer
+ c. repeater operates at data link layer
+   ( ans = c)
+ 
+ 21.Zero suffling is used in many data link layer protocol which is for
+ a. signal transitions to the receiver clock
+ 
+ 
+ 22. In a single processor machine the following jobs 25 , 15, 3, 2 , 5
+are
+ entered at 0 time . if these are scheduled what is the minimum average
+ time for the completion of all these jobs.
+ a.50
+ b.128/5
+ c.10
+ d.92/5
+       ( ans = d )
+ 
+ 23.  The numbers of possible functions from a set with m  no. of
+elements
+ to a set with n no. of elements.
+ a. m*n
+ b. m to the power n
+ c. n to the power m
+ d. m *(  n to the power m)
+     ( ans = c )
+ 
+ 24. Quantization noise is occured in
+ a. pulse code modulation
+ b. pulse width modulation
+ c. Frequency division multiplexing
+ d. time division multiplexing
+ 
+ 25.The 4k set associated memory is arranged as sets with each set
+contains
+ 4 blocks.each block contains 64 words. the no. of bits required in SET
+ and BLOCK registers to get a word.
+ a. 15, 4
+ b. 4 , 6
+ c. 6 , 4
+ d. 3 , 7
+ 
+ 26. Page stealing is
+ a. use pages in another work set
+ b. it always with thrashing
+ c...............
+ d............
+ 
+ 27. shannon- harthy low is for
+ a. signal rate
+ b. band width
+ 
+ 28. The way set associated memory is
+ a. better than direct mapped cache
+ b. complicated than 4 way set associative memory
+ 
+ 29. For what value of k
+     4 x*x -8*x*y + k y*y = 0
+    represents two straight lines that are passed through the origin and
+ not parallel.
+ a.9
+ b.3
+ c.0
+ d.4
+ 
+ ******************************************************************************
+Enjoy it.
+
+
+
+
+
+With love
+
+ Vijay
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+        
+
+                Vijay Bhaskar Reddy D
+
+                #207,Brahmaputra,
+
+                IIT Madras,
+
+                Chennai -600036.
+
+                
+
+        ph :(044) 2351326  (Hostel)
+
+        
+
+            (044) 2351365   Extn  : 5612 (Hostel)
+
+                                  : 3524 (Lab)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+
+   
+   
+   
+     _________________________________________________________________
+   
+   
+   _____ _________ _______ ____ ________ ______
+   
+   
+   
+   Powered by WhoWhere? 
+   
+   ©1995-1998 WhoWhere? Inc. All Rights Reserved.

@@ -1,0 +1,161 @@
+ORACLE @ IIT Madras on 22nd July, 2004
+
+Pattern and Interview
+
+Written test
+---------------
+Two sections of 30 question each.
+Section 1: Aptitude
+Section 2: Technical
+
+Total time duration is 1 hour. 
+No time restriction on any section. 
+You can start with any section. 
+Give more time to technical section and start with it
+only. 
+There was NO negative marking, so attempt all the
+questions.
+
+Offer was
+4.00 p. a for graduates and 4.35 p. a. for post
+graduates.
+
+Section 1
+-----------
+Section was easy but quite time consuming. Cant do any
+question if preparation is not there.
+
+Questions on: 
+
+Geometry, 
+Say a circle is inscribed inside an equilateral
+triangle of side 6m. To find the area of the square
+which can be inscribed in the circle?
+
+Mensuration,
+Volume, area, etc.
+
+Time and distance problems,
+Train speed, boat and river problems.
+
+Data Interpretation,
+Some data and graphs and than some 4-5 questions on
+it.
+
+Verbal,
+Sentence completion and synonyms.
+
+
+
+
+
+Technical Section,
+---------------------
+
+10 questions on C
+5 questions on C++
+3 questions on Data Structures
+12 questions on DBMS
+
+C questions were on output, errors, etc.
+C++ questions on OOPS concepts.
+DS questions on algorithm and hashing.
+DBMS questions include triggers, general fundamentals,
+etc.
+
+Should have proper knowledge of DBMS and OOPS
+concepts.
+
+
+
+Interview
+
+Total 25 were short listed for direct interview.
+And some 75 more for 2nd written test.
+
+Those who were called after 1st written test were
+mostly from CSE branch and were interviewed for
+Bangalore IDC for Server Technology.
+
+And those who were called after 2nd written test were
+called for Hyderabad IDC for E-Biz solutions.
+
+I attended for server technology.
+
+Just be casual and confident.
+There were two rounds of interview.
+Both were technical.
+1st one was some 15 minutes long and the other one
+went for some half an hour.
+
+The 1st interview was taken by only one person while
+the 2nd one was taken by a panel of 2 senior members.
+
+Finally 12 were short listed for 2nd interview.
+
+They will ask everything what you have mentioned in
+the resume. So be careful while preparing it. Just
+strike out all those technologies with which you are
+not comfortable even though you have used somewhere.
+Put some databases projects in it.
+
+
+
+1st Interview.
+
+- Introduce yourself.
+- Difference between DBMS and RDBMS
+- Draw E-R diagram for relating Manufacturing unit,
+warehouse unit and transportation unit.
+- What are Java Servlets?
+- Difference between servlets and JSP.
+- What are 2-tier and 3-tier architectures?
+- Project work.
+- To write a C program to find if a given string is a
+part of Fibonacci series or not.
+(Actually a tricky question, as we are not given a
+character array, rather one string of numbers is
+given. So the main part is to find the starting number
+of the series.
+Say string is &#147;23581321&#148;; here series start
+with 2 and than 3 and so on. So task is to fine
+whether 2 is starting number or 23 or 235.&#148;
+
+2nd Interview
+
+- Difference between windows 95/98 and NT.
+- E-R diagram for Student-Course relation.
+- Concepts on unique, primary and foreign keys in data
+base.
+- Can foreign key be NULL?
+- To sort an array of element. Element are either 0 or
+1.
+Justify you method and find time complexity of it.
+Basically they are looking for some O (n) solution.
+- What is Java Scripts? Can we use them in Applets?
+- Again question on servlets, JSP, CGI/Perl.
+- Advantages of Java over other programming languages.
+- Difference between Java and C++.
+- What is in-order traversal in trees?
+- How you could do level-order traversal in trees.
+- What are virtual functions in C++?
+- What do you mean by function pointers?
+- What is polymorphism?
+- What is run-time polymorphism?
+- Function overloading in Java.
+- What is http?
+- Where all http is used?
+- Your project work and questions related to it.
+- What are FDM, FDMA and CDMA?
+- Bluetooth technology- what type of network is it?
+
+=====
+------------------------------------------------------------------------------------------------------
+The Little that has been done should not blind us to do the vast that remains to be done
+
+--S.Radhakrishnan
+
+------------------------------------------------------------------------------------------------------
+
+
+

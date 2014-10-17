@@ -1,0 +1,39 @@
+
+
+
+--------------------------------------------------------------------------------
+
+CMC Ltd.              CMC -1   
+ 
+ 
+ 
+Profile:       
+            
+
+            CMC was set up  by the government of India in 1976. Initially the thrust was on providing high quality maintenance service.   It works in fields like software development, training and system integration services.
+
+            This company is a global provider of enterprise software solutions and services. It  provides services in designing, building, implementation, and support  IT solutions  that out last  management fads or  technology  upheavals - due  to which Swatch, Intel, Indian Airlines, ICICI, Indian Railways, Department of Space, IOC, NSE, IOCL, UTI  and  Sunkist Growers, among others, chose to be its clients. They have  projects in  the key industries  like insurance sector, ERP, open universities  stock exchanges, power sector, and defense.
+
+            CMC's R&D center is located at Hyderabad. The center has developed new technologies which include DGPS based vehicle tracking system, embedded systems for defense, distribution, automation, internet/ intranet technologies, pervasive computing, off-line signature verification, networking areas - consultancy for establishing VSAT networks, VHF/UHF packet radio network, credit card automation and integration/ consultancy for establishing WAN/ LAN based on fiber optics, structured cabling ethernet switches, routers etc.
+
+            The company has also entered into a tie-up with Compaq Asia and has been appointed their National Systems Service Provider. CMC is the leading third party maintenance company in India and the second largest player in domestic software development as per a survey done last year. The company has entered into a strategic tie-up with Baan, one of the leading ERP solution provider and NCR for marketing its banking packages.
+
+            The company opened new centers with Novell at Pune, Calcutta and with Borland at Mumbai, Calcutta, Bangalore and Hyderabad. 
+
+For more information about this company visit their homesite at http://www.cmcltd.freshersworld.com 
+
+Written Test:     
+           
+
+The test has around 80 Questions which are of MCQ type.There maybe negative marking.
+The written test consists of the following sections:
+
+Analytical Reasoning Section -- 30 Questions
+Data Sufficiency Section -- 30 Questions
+Arithematic Section -- 20 Questions
+
+Test1   
+Interview:               
+            The test is followed by a Technical and a HR interview. The technical interview is highly specialized and covers almost all  subjects  you  have done  in  your curriculum. The  information on  the interview  is  pretty sketchy  but it consists  of  both technical grilling and HR interview. 
+
+

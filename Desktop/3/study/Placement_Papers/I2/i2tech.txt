@@ -1,0 +1,253 @@
+>i2 Technologies
+>- ---------------
+>
+>
+>1)  convert  0.9375 in to binary
+>ans: None of the above
+>
+>2)  Meaning of   X?Y:Z
+>ans :  if (x!=0) Y ;else Z;
+>
+>3)  Some function is like this
+>
+>swap( int a,int b)
+>{
+>int temp;
+>temp=a;
+>a=b;
+>b=temp;
+>}
+>
+>If any arguments send to that function and Values
+>changed want permanently What to do ?
+>
+>Ans: put *a and *b inplace of a & b
+>
+>
+>4)   Some thing like
+>
+>a=25 (Some Value exactly dont know);
+>y=64;
+>MUL a,y;
+>a>>=6;
+>
+>What is the Value of  'a'
+>Ans: No change in value same come .
+>
+>5) Some problem on And & Or & Not Gates
+>Given Some figure and asked O/P
+>
+>Ans :  A ^(--B)
+>
+>6)
+>One Array Given Like
+>A={ 2,6,5,9,12,..}  These are Rough numbers Not
+>Exact.
+>And Some Bubble sort algorithem Given And At each
+>and
+>every Stage of Exchanging Values Some counter
+>incremented.
+>And Final result is Sorted Array. Question Is value of
+>Counter
+>
+>Ans :  13
+>
+>7)Some program Given Like
+>First opened a File for Write only and Write
+>"HELLO\n" in
+>the file then File is closed.Then Same File once
+>again Opened
+>And Write "WORLD" in That file and Closed.
+>How Many Charactars Stored in that File ?
+>
+>Ans : 5
+>
+>8)  One Question Like
+>
+>1a0 * 10b0
+>---------   = 100
+>1010
+>
+>Question Is Like this. What Is the Value of a & b?
+>
+>Ans: a=0 & b=1;
+>You Please do in Exam b'cos This is not Exact
+>question.
+>
+>9)  Small Program Given On Printer Like
+>
+>If(x)
+>{
+>If(x!=0)
+>{
+>Some Stuff...
+>}
+>}
+>
+>Qustion I Forgot ,But I Know Answer
+>Ans:  The Statement  If(x!=0) Is REdundant.
+>
+>10) One Question Is Like This
+>1MB actual Memory And 10MB Virtual Memory Is
+>available
+>Suppose If Some address Like FF000 Is Used in
+>Program
+>What will Be the result ?
+>Question Is Some thing like That..
+>
+>Ans :  Program Successfully Works.
+>
+>11) Some Problem Given On Switch and Case
+>Problem I forgot
+>
+>Ans: 8,8,8
+>
+>12) To Increase The Range of a Floating point Member
+>?
+>
+>Ans :  Mantissa Should be Decreased
+>And Exponential Should be Increased
+>
+>13) One problem on SQL ,
+>Idont Know The Q & A , B'cos Question cannot
+>understandable
+>To a Mechanical Student.
+>
+>14) Which Of The Follwing Is FALSE
+>a)
+>b)
+>c)
+>d)
+>Ans : If Server Is not responding Client Will
+>remain Always passive.
+>
+>15) Which Of the Follwing is FALSE
+>
+>a)
+>b)
+>c)
+>d)
+>Ans: All Functions Are Work by call by Value only
+>
+>16) Which Of The Following Was TRUE
+>a) p=(struct node *) malloc (sizeof(node));
+>b)
+>c)
+>d)
+>Ans : ( a )
+>
+>
+>Total 20 Questions Are Given ,
+>These Are I remembered.
+>
+>
+>One BIG Problem  For 20 Marks.
+>
+>I)   Write A programme On
+>
+>Two Schhols Are There and In Each School Some
+>Classes
+>Are There. And The Data Of Schools (students)Like
+>This.
+>
+>1A 25 1B 35  1C 23 2A 27 2B 15 3A 25 ...  $
+>
+>1A 20 1B 23 2A 25 2B 39 .... $
+>
+>Each School Data Ends With   $ ( I/P ends when $
+>entered)
+>In the above  1A 25 means
+>1 -- First Class
+>A -- Section
+>25 -- Strength Of That.
+>
+>We Want To Merge To Schools And Form one School.
+>Write A programme Which Takes TWo Schools Data and
+>Gives The Similar Format O/P of 3rd School Which
+>is The Combining Of Both Schools.
+>
+>The ProGramme Is Must be USING  Dynamic Structures ?
+>
+>ProGram Should Be Reading The DATA of TWO Schools
+>And
+>Give The FINAL O/P In SAme Format Of I/P ?
+>
+>
+>
+>
+-----------------------------------------------------------------
+>
+>PART -2
+>
+>Complete Questions On PSYCHOLOGY.
+>
+>Every One Can Do EAsily
+>
+>
+-------------------------------------------------------------
+>
+>
+>
+>VODNALA
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>|  _  | (_| |\ V /  __/  | (_| |  | | | | | (_|  __/
+>  | (_| | (_| | |_| |
+>|_| |_|\__,_| \_/ \___|   \__,_|  |_| |_|_|\___\___|
+>   \__,_|\__,_|\__, |
+>|___/
+>
+******************************************************************************
+>
+>
+*****************************************************************
+>
+>
+>
+>
+>
+>
+>--------- End Forwarded Message ---------
+>
+>
+>
+>Get your FREE Email at http://mailcity.lycos.com
+>Get your PERSONALIZED START PAGE at
+>http://personal.lycos.com
+>
+>--------- End Forwarded Message ---------
+>
+>
+>
+>Get your FREE Email at http://mailcity.lycos.com
+>Get your PERSONALIZED START PAGE at
+>http://my.lycos.com
+>
+>__________________________________________________
+>FREE Email for ALL! Sign up at http://www.mail.com
+>
+>
+
+
+=====
+
+__________________________________________________
+Do You Yahoo!?
+Bid and sell for free at http://auctions.yahoo.com
+

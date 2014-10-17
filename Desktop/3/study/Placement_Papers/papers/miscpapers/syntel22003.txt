@@ -1,0 +1,276 @@
+Syntel 
+===========================================================================
+ 
+   
+
+FLOW CHART:
+
+ 1) Some flow chart is given. Five question on this flow chart.
+
+
+        i.        Whether  i will take the value 0
+
+       ii.        Find value of i
+
+      iii.        Find value of a
+
+       iv.        Find value of j
+
+
+ Answers:
+
+        i.        Yes
+
+       ii.        -4
+
+      iii.        13
+
+       iv.        29
+
+
+ 2) One more flow chart. Five questions
+
+
+        i.        s value at 6th iteration
+
+       ii.        value f3 when n=6
+
+      iii.        f3 doesn't take which value
+
+       iv.        When s=57 what is the value of f3
+
+        v.        What is the value n when program terminates.
+
+
+ Answer
+
+       i.        31
+
+      ii.        34
+
+     iii.        9
+
+      iv.        89
+
+       v.        11
+
+
+ Formulae involved in the flow chart:  
+
+ S = N2  - ( N – 1)
+
+ F3 = F1 + F2
+
+ F1 = F2
+
+ F2 = F3
+
+
+
+ mug this flow chart.. same flow chart came for us..it is very 
+
+ difficult to remember the ques.. i am sorry that i cudnt able to 
+
+ reproduce.. for the 3rd Section i remember few que: 
+
+                                                                                                                                                   freshersworld.com
+
+ Section 3:  1- problem on tower of hanoi-- ans 7
+
+  2  problem on fig. find the shaded area, square of  size 14cm.. ans: 42 
+
+  3. problem on symmetric fig ;; ans less than the  1172  (check) . 
+
+  4. few questions on blood relationship.. (refer r.s.  agrawal reasoning) 
+
+      sample ques..man looking at photo tells  that " the daughter of this person is the only son etc..." try to  familiar on      this ..
+
+  5 . again ques on relationship..; 6 persons are   there A, B, C, D, E, F.  
+
+                             i) how many male: ans -4
+
+                             ii)how many female- ans 2
+
+                             iii) how D related to A; - similar   ques ..easy ..
+
+  6)u have the series of letters..need to find the  odd  one out.. 
+
+                         tips: u identify the pattern all the choices  follow the pattern except one..
+
+
+       eg: given words are say ..ABCD , JKLM,  OPQR,  UVWX,  EGHI  
+
+            in this the last set do not follow the pattern.. 
+
+ in case of ABCD- all are continious.  JKLM , OPQR, UVWX..follow same all are continious ..
+
+       
+
+ If u see the EGHI – this is not continious as EFGH shud me there..got it …
+
+
+ U have 4 ques on this..easy one..
+
+
+ 6) u have to fill the missing letter in the series.. little bit 
+
+ tough.. 4 ques..but easy..
+
+ 7) u have 3 figure –based on the figures ques asked.. easy one.. 
+
+                 
+
+       eg: Fig Triangle means Strong
+
+             Fig Square means Tall 
+
+             Fig Circle means Fair.
+
+ Ques asked is find the number that represents Strong Tall and Fair 
+
+ persons.. easy one ..
+
+ So u have 3 ques on this pattern.. 
+
+
+ 8) u have ques on flow chart..easy..very simple..
+
+
+
+ NOTE:  they r looking for the toppers ..so if u r the topper than 
+
+no 
+
+ probs. Mostly CGPA of 8 + is they expect. To shortlist. 
+
+ 
+     Syntel 
+ 
+   
+
+Pattern
+
+3 sections
+
+No Negative Marking
+
+Section I - Verbal - 25 qns - 15 mins
+
+Section II - Quantitative Aptitude - 30 qns - 45 mins
+
+Section III - Logical Reasoning - 30 qns - 30 mins
+
+
+Total 85qns - 90 Mins
+
+
+Section - I - Verbal - 25 qns in 15 mins, refer Barron's GRE guide.
+
+
+Synonyms
+
+Analogies
+
+Fill up the sentences
+
+Find the Word that has to be replaced
+
+Form a Sentence and find the last word
+
+
+
+
+Section - II - Quantitative Aptitude 30 qns in 45mins - please refer Quantitative Aptitude by R.S.Agarwal to prepare.
+
+
+few qns i remember are                                                                                                      freshersworld.com
+
+
+
+      The highest Score in an innings was 3/11 of the total and the next highest was 3/11 of the reminder. If the scores differed by 9, find the total score.
+
+a)      151            b) 161            c) 121      a      d) 101            e) 137
+
+Ans: c
+
+      A boy was asked to multiply a certain number by 53. He multiplied it by 35 and got his answer less than the correct one by 1206. Find the number to be multiplied.
+
+a)      37            b) 67      a      c) 87            d) 97            e) 107
+
+     Ans: 67
+
+A Problem like this not exactly the same but on same model.
+
+      If the manufacturer gains 10 %,  the wholesale dealer 15 % and the retailer 25 % then the cost of Production of a table, if the retail price is Rs.1265
+
+a) 632.50      b) 800            c)  814            d)       834.24
+
+Ans: b
+
+      A trader marks his goods up by 50% and declares two successive discounts of 20% each. What is his overall gain?                                                
+
+a) 10% gain      b) 4% gain      c) 4% loss (A)      d) 10% loss      e) No loss  No gain
+
+Train Problems - 3 as finding speed of train, how many secs it will cross each other etc.
+
+
+Age problems -3 , find mothers age,fathers age etc.
+
+
+Statistics Problems(probability) as A-this much , B-This Much, A n B-this much and A u B - ?
+
+
+Angle Problems which deals with triangle - 3 problems.
+
+
+                                                                                                                                                 freshersworld.com
+
+
+Section III - Logical reasoning - 30 qns in 30 mins.
+
+
+  Tower of Hanoi Problem - Ans : 7
+
+
+  problem on fig. find the shaded area, square of size 14cm.. ans: 42 
+
+
+  problem on symmetric fig ;; ans less than the 1172(check) . 
+
+
+  Blood Relation Problems - 3                                                                                            freshersworld.com
+
+
+
+  Then a passage is given on blood relation and 4 qns asked
+
+  how many male: ans -4 and few etc.
+
+
+  Find odd man out of the given series - 3 problems 
+
+  pretty simple put A-Z and number them 1-26 and then u can find easily odd man out.
+
+
+  Find the missing letter - was a bit tough to establish relation - 3 problems
+
+
+  u have 3 figure -based on the figures ques asked.. easy one..                 
+
+  eg: Fig Triangle means Strong         Fig Square means Tall          Fig Circle means Fair.
+
+  Ques asked is find the number that represents Strong Tall and Fair persons.. easy one ..
+
+   ANs : 4
+
+   ANother question Women,Sub inspector,graduates -  Ans: 3
+
+
+  An Flow Chart - GIven Units - 250 
+
+  find final Value with formulae - (units*1.25) and few calculations like this Ans:506.25
+
+
+  And two tedious flow charts couldn't remember them and the answers. 
+
+ 

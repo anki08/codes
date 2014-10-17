@@ -1,0 +1,431 @@
+
+
+
+  this is the TCS C paper.it actually contains 50 questions.but i am 
+ 
+sending only 43 questions.though 46 questions are available only these are 
+
+visible.so it is i am sending 43 only.the set code is 'D'.
+
+
+1.The C language terminator is 
+  a.semicolon  
+  b.colon
+  c.period
+  d.exclamation mark
+2.What is false about the following
+  A compound statement is 
+  a.A set of simple statments
+  b.Demarcated on either side by curly brackets
+  c.Can be used in place of simple statement
+  d.A C function is not a compound statement.
+3.What is true about the following
+  C Functions
+  a.Need not return any value
+  b.Should always return an integer
+  c.Should always return a float
+  d.Should always return more than one value.
+4.Main must be written as
+  a.the first function in the program
+  b.Second function in the program
+  c.Last function in the program
+  d.any where in the program
+5.Which of the following about automatic variables within a function 
+  is correct ?
+  a.its type must be declared before using the variable
+  b.they are local
+  c.they are not initialised to zero
+  d.they are global.
+6.Write one statement equalent to the following two statements
+  x=sqr(a);
+  return(x);
+  Choose from one of the alternatives
+  a.return(sqr(a));
+  b.printf("sqr(a)");
+  c.return(a*a*a);
+  d.printf("%d",sqr(a));
+7.Which of the following about the C comments is incorrect ?
+  a.commentscan go over multiple lines
+  b.comments can start any where in the line
+  c.a line can contain comments with out any language statements
+  d.comments can occur within comments  
+8.What is the value of y in the following code?
+   x=7;y=0;
+   if(x=6)
+    y=7;
+   else 
+    y=1;
+  a.7
+  b.0
+  c.1
+  d.6
+9.Read the function conv() given below
+  conv(int t)
+   {
+    int u;
+    u=5/9 * (t-32);
+    return(u0;
+   }
+  What 
+  a.15
+  b.0
+  c.16.1
+  d.29
+10.which of the following represents true statement
+   either x is inthe range of 10 and 50 or y is zero
+   a.x>=10 && x<=50 || y==0;
+   b.
+   c.
+   d.
+11.Which of the following is not an infinite loop ?
+   a.while(1){
+     ....
+     }
+   b.for(;;){
+     ...
+     }
+   c.x=0;
+     do{
+     /*x unaltered within theloop*/
+     ...
+     }while(x==0);
+   d.# define TRUE 0
+     ...
+     while(TRUE){
+     ....
+     }
+12.what does the following function print?
+   func(int i)
+   {
+   if(i%2)return 0;
+   eale return 1;
+   }
+   main()
+   {
+   int =3;
+   i=func(i);
+   i=func(i);
+   printf("%d",i);}
+   a.3
+   b.1
+   c.0
+   d.2
+13.how does the C compiler interpret the following two statements
+   p=p+x;
+   q=q+y;
+   a.p=p+x;
+     q=q+y
+   b.p=p+xq=q+y                      
+   c.p=p+xq;
+     q=q+y          
+   d.p=p+x/q=q+y
+   
+   For questions 14,15,16,17 use the following alternatives
+   
+   a.int
+   b.char
+   c.string
+   d.float
+14.'9'
+15."1 e 02"
+16.10e05
+17. 15
+
+18.read the folllowing code
+   # define MAX 100
+   # define MIN 100
+   ....
+   ....
+   if(x>MAX)
+     x=1;
+   else if(x<MIN)
+     x=-1;
+     x=50;
+   if the initial value of x=200,what is the vlaue after executing this code?
+   a.200
+   b.1
+   c.-1
+   d.50
+19.a memory of 20 bytes is allocated to a string declared as char *s
+   then the following two statements are executed:
+   s="Etrance"
+   l=strlen(s);
+   what is the value of l ?
+   a.20
+   b.8
+   c.9
+   d.21
+20.given the piece of code
+   int a[50];
+   int *pa;
+   pa=a;
+   to access the 6th element of the array which of the following is incorrect?
+   a.*(a+5)
+   b.a[5]
+   c.pa[5]
+   d.*(*pa + 5)
+21.consider the following structure:
+   struct num nam{
+                int no;
+                char name[25];
+                };
+   struct num nam n1[]={{12,"Fred"},{15,"Martin"},{8,"Peter"},{11,Nicholas"}};
+   .....
+   .....
+   printf("%d%d",n1[2],no,(*(n1 +  2),no) + 1);
+   What does the above statement print?
+   a.8,9
+   b.9,9
+   c.8,8
+   d.8,unpredictable value
+22.identify the in correct expression
+   a.a=b=3=4;
+   b.a=b=c=d=0;
+   float a=int b=3.5;
+   d.int a;
+     float b;
+     a=b=3.5;
+23.regarding the scope of the varibles;identify the incorrect statement:
+   a.automatic variables are automatically initialised to 0
+   b.static variables are are automatically initialised to 0
+   c.the address of a register variable is not accessiable
+   d.static variables cannot be initialised with any expression
+24.cond 1?cond 2?cond 3?:exp 1:exp 2:exp 3:exp 4;
+   is equivalent to which of the following?
+   a.if cond 1
+     exp 1;
+     else if cond 2
+     exp 2;
+     else if cond 3
+     exp 3;
+     else
+     exp 4;
+   b.if cond 1
+      if cond 2
+       if cond 3
+          exp 1;
+        else 
+           exp 2;
+        else 
+           exp 3;
+        else 
+           exp 4;
+   c.if cond 1 && cond 2 && cond 3
+     exp 1 |exp 2|exp 3|exp 4; 
+   d.if cond 3
+        exp 1;
+     else if cond 2
+	exp 2;
+     else if cond 3
+	exp 3;
+     else
+	exp 4;
+25.the operator for exponencation is
+   a.**
+   b.^
+   c.%
+   d.not available
+26.which of the following is invalid
+   a.a+=b
+   b.a*=b
+   c.a>>=b
+   d.a**=b
+27.what is y value of the code if input x=10
+   y=5;
+   if (x==10)
+   else if(x==9)
+   elae y=8;
+   a.9
+   b.8
+   c.6
+   d.7
+28.what does the following code do?
+   fn(int n,int p,int r)
+   {
+   static int a=p;
+    switch(n){
+ 	case 4:a+=a*r;
+	case 3:a+=a*r;
+	case 2:a+=a*r;
+	case 1:a+=a*r;
+   }
+   }
+   a.computes simple interest for one year
+   b.computes amount on compound interest for 1 to 4 years
+   c.computes simple interest for four year     
+   d.computes compound interst for 1 year
+29.a=0;
+   while(a<5)
+   printf("%d\n",a++);
+   how many times does the loop occurs?
+   a.infinite
+   b.5
+   c.4
+   d.6
+30.how many times does the loop iterated ?
+   for (i=0;i=10;i+=2)
+    printf("Hi\n");
+   a.10
+   b.2
+   c.5
+   d.....
+31.what is incorrect among teh following
+   A recursive functiion
+   a.calls itself
+   b.is equivalent to a loop
+   c.has a termination cond
+   d.does not have a return value at all
+32.which of the following go out of the loopo if expn 2 becoming false
+   a.while(expn 1){...if(expn 2)continue;}
+   b.while(!expn 1){if(expn 2)continue;...}
+   c.do{..if(expn 1)continue;..}while(expn 2);
+   d.while(!expn 2){if(expn 1)continue;..}
+33.consider the following program
+    main()
+    {unsigned int i=10;
+     while(i>=0){
+     printf("%u",i)
+     i--;
+    }
+   }
+   how many times the loop wxecuted
+   a.10
+   b.9
+   c.11
+   d.infinite
+34.pick out the add one out
+   a.malloc()
+   b.calloc()
+   c.free()
+   d.realloc()
+35.consider the following program
+   main()
+   {
+    int a[5]={1,3,6,7,0};
+    int *b;
+    b=&a[2];
+   }
+   the value of b[-1] is
+   a.1
+   b.3
+   c.-6
+   d.none
+36.# define prod(a,b)=a*b
+   main()
+   {
+    int x=2;
+    int y=3;
+    printf("%d",prod(x+2,y-10)); }
+   
+   the output of the program is 
+   a.8
+   b.6
+   c.7
+   d.none
+37.consider the following program sigment
+   int n,sum=1;
+   switch(n) {
+   case 2:sum=sum+2;
+   case 3:sum*=2;
+          break;
+   default:sum=0;}         
+   if n=2, what is the value of sum
+   a.0
+   b.6
+   c.3
+   d.none
+38.identify the incorrect one
+   1.if(c=1)
+   2.if(c!=3)
+   3.if(a<b)then
+   4.if(c==1)
+   a.1 only
+   b.1&3
+   c.3 only
+   d.all
+39.teh format specified for hexa decimal is
+   a.%d
+   b.%o
+   c.%x
+   d.%u
+40.find the output of the following program
+   main()
+   {
+    int x=5, *p;
+    p=&x;
+    printf("%d",++*p);
+    }
+   a.5
+   b.6
+   c.0
+   d.none
+41.consider the following C code
+   main()
+   {
+    int i=3,x;
+    while(i>0)
+    {
+      x=func(i);
+      i--;
+    }
+    int func(int n)
+    {
+     static sum=0;
+     sum=sum+n;
+     return(sum);
+    }
+   the final value of x is
+   a.6
+   b.8
+   c.1
+   d.3
+43.int *a[5] refers to
+   a.array of pointers
+   b.pointer to an array
+   c.pointerto a pointer  
+   d......
+46.which of the following statements is incorrect
+   a.typedef struct new{
+			int n1;
+			char n2;
+			} DATA;
+   b.typedef struct {
+		     int n3;
+		     char *n4;	  
+                     }ICE;
+   c.typedef union {
+		    int n5;
+                    float n6;
+		    } UDT;
+   d.#typedef union {
+		     int n7;
+		     float n8;
+		    } TUDAT;   	
+
+********************************************************************************            
+         Only These Are The Questions Avilable For C Paper.
+ 
+********************************************************************************
+  ANSWERS:	
+-----------
+
+  1-5    D,C,D,C,C
+  
+  6-10   D,C,C,A,D
+
+  11-15  D,C,A,A,A
+
+  16-20  B,C,D,C,A
+ 
+  21-25  C,D,B,D,A
+
+  26-30  C,B,B,A,D
+
+  31-35  B,C,C,C,B
+ 
+  36-40  A,B,A,B,B
+
+  41-45  A,D,D,D,A
+
+  46-50  B,C,C,A,A  
+

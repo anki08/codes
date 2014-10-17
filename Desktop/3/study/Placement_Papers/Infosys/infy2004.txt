@@ -1,0 +1,54 @@
+Infosys Paper:
+                                                                                                                             
+1) In a city, the natives speak only lies and the visitors speak only truth. A new person came to the city and one day he is
+having his lunch around a table. He has a sales person in front of him taking the lunch along with him.There is another
+woman also who is taking lunch on another table. He wanted to know whether the sales person is a native or a visitor.  So,
+instead of asking him directly he asked the sales person to go to woman and to enquire about her. Then the sales person did
+exactly like that and returned back and replied "She is a visitor". Then what did he conclude about the sales person, is he
+a visitor or a native?
+Ans: He is a visitor (I assumed the woman to be a native)
+2) One day three thieves Tommy, Jimmy and Paul have been caught red handed. Tommy said that he did not do the theft and the
+thief may be any one of the other two. Jimmy said that he did not do the theft and the thief may be anyone of the other two.
+Paul also said that he did not do the theft and the thief may be any one of the other two. But the police came to know that
+Tommy lied and that there is only one thief. Who is the thief?
+Ans: Tommy
+3) In a circular race track, one cyclist has observed that 1/5 th of the racers ahead of him and 5/6 th of the racers behind
+him add upto the total number of racers. So how many racers are taking part in total?
+Ans: 31 (out of 31 excluding him, there are only 30, now apply the conditions and see)
+4) A man is going on a bike on a highway. After a while, he observed a kilometre stone with two digits. After one hour
+journey, he observed another kilometre stone with the digits reversed. After another hour he observed the stone with a zero
+placed between the two digits (the digits may be reversed also). What is the speed of the bike?
+Ans: 45 km/hr (16, 16+45=61, 61+45=106)
+5) I am not too sure about the data given. It may be of this kind. You better refer to any text book of puzzles like GRE
+analytical reasoning section. This carries 8 marks.
+It consists of the arrangement of 5 men M,N,P,Q,R and their 5 wives S,T,U,V,W.
+(i) All men will sit only in the odd numbered places.
+(ii) The wives sit by the right hand side of their husbands.
+(iii) W shall never sit at the atmost right end and she is not a wife of the man who sits at the atmost left end.
+(iv) Q is V's husband
+(v)  M and his wife are the pair that occupy the middle pair position.
+(vi) W's husband wants to sit by the side of T
+(vii) V sits immediate next to (one of the men, i don't remember exactly)
+He gave 4 multiple choice bits on the above puzzle.
+6) There is another problem like this(data not exact and the calculation is also lengthy)
+8 boys and 13 men construct 510 walls in 10 hrs.
+12boys and 6 men construct 484 walls in 12 hrs.
+Express the work done by a boy and a men together in walls/hr.
+7) There are three friends A,B and C. A gives to B and C the same amount that they originally have. Now B gives to A and C
+the same amount that they originally have. Now C gives to A and B the same amount that they originally have. After all this
+happened, they each have 24 coins. What is the original number of coins that they have?
+Ans: 39,21,12 (Simple, come from the final result i.e. 24 to back instead of solving it directly.)
+(i am giving the steps from the final ans to backwards. 24,24,24-->12,12,48-->6,42,24-->39,21,12)
+8) A train from New York goes to Washington goes every hour and on the hour. A train from Washington goes back to New York
+every hour and on every half an hour. The journey from New York to Washington takes 5 hrs. So, if a person goes from New
+York to Washington, how many trains will he observe coming in the opposite direction?
+Ans: i put it 11 (since on reaching the destination, there is another train that is just about to start)
+9) If I * I = ME and ME * ME=SHE then what does SHE represent? All letters uniquely represent different digits.
+Ans: 256 (4*4=16, 16*16=256)
+10) This is another 8 mark puzzle.
+Some tribe celebrate their feast day (whopies) on Saturdays such that they celebrate on a Saturday which is as many
+Saturdays away as the larger of the last two digits (eg: in 1963, the larger of the two digits is 6)of the year except if it
+is a leap year.  It would be celebrated whopies one Saturday later than that of a normal year.
+(a) what is the date of celebration of whopie in 1972 given that 1st March is Wednesday? Ans: 1st April
+(b) which is the nearest year in which the whopie was celebrated in February? Ans: didn't try
+                                                                                                                             

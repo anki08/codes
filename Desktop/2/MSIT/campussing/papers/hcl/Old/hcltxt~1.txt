@@ -1,0 +1,117 @@
+this is the HCL infosystem (applications division) 2000 paper 
+over here. complete paper is not available.
+
+--------------------------------------------------------------------------------
+ 
+ 
+    
+i'm giving u the ques of hcl infosystem.ques r not remembered 
+but ans which r correct i'm giviong u.
+1. crack the code
+
+C B I C
+* G C                    this multiplication question which they gave 
+                         was wrong as it can not be solved.so don't worry
+
+------------
+G I
+*
+----------
+9
+----------
+
+ANS C*C=9
+C=3,I=9,
+CI=27=G,and solve for other values.
+there r some more codes in the above multiplication but don't remember
+u can easily get it.
+
+
+2- if the cost price of a radio is 2568/-.and sales tax is 7%.if a person
+wants to buy it 2568/- including sales tax .how much should the cost 
+price reduce to get it ?
+ans 168/-
+
+3-a question about team.consist of 8 member.first take 9.8 sec
+5yh take 10.4 sec.their time taken r in g.p.if a relay race race of
+4*100 m conducted consist of 1,3 5 ,8 which will come first?
+
+ans both will arrive at simultaneously.ans none of these.
+
+4-quesabout a and b 6 m apart.footbal moving .8 m/s.a's vel =1.5 b's
+velocity.after 5 sec they catch the ball. now the distance between
+is 3m.what is dis bet'n a and foot ball?
+ans 2m
+
+5-data insufficiency
+
+how many sons does x have?
+
+there r three conditions given.through which u have to find ans of question?
+in this ques u can't determine whether u is a son or daughter.
+ans all three data in sufficient
+
+
+
+
+now in this section three or 4 option given like statementi is sufficient
+2 statmnt 2 is sufficient.
+3-statmnt 1 & 2 insuufff.
+4-statmnt 1& 2 is needed.
+
+
+6 this ques is about kapil and santosh meeting.
+
+
+from the given condition u an't determine whether santosh met kapil
+on his home or over phone.
+
+ans both data insufficient.
+
+
+
+7 if " tic mic pic " red pant hot
+
+if sic tic fit is green pant dirty
+
+ans so this type of question both data is insufficient 
+8 vasu,s salary and ranjan 's salry
+
+ans all three data necessary.
+
+
+derive conclusion
+
+
+
+8 one restaurant owner closed its restaurant on 1 st september
+
+
+ans (a) 1 st september usaually is not a hot weather
+
+
+9 company prohibit its employer to smoke in cafetaria.susan,s doesn't smoke in
+
+cafetaria.
+
+
+ans (c) susan obeys her company law,
+
+
+
+
+there were 2 puzzle taken for gre 's analytical section.
+
+
+pg no 396 qno 1-4
+
+miss braun, mr white, mr parker, mr allen .
+
+pg no 401 q no 37 -39
+a basebal team has certain pitcher,miller craig hook 
+solve these puzzle from gre. and best of luck
+note total 25 question time 30 min.
+ 
+ the interview was purely personal and partialy technical and was basically
+ cool.
+

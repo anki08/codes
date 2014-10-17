@@ -1,0 +1,463 @@
+ 
+
+
+--------------------------------------------------------------------------------
+
+Satyam Computers              Satyam -1   
+ 
+ 
+ 
+            
+
+PAPER 1--GENERAL APTITUDE
+
+Directions:Each question given below consists of a word, followed by four words or phrases. Choose the lettered word or phrase that is most nearly opposite in meaning to the word in the question.
+
+ANTONYMS 
+
+1. Disregarded 
+(a) heed 
+(b) hopeful
+(c) evade
+(d) dense
+
+Ans. (a)
+
+
+2. Obviate
+(a) becloud
+(b) necessitate
+(c) rationalize
+(d) execute
+
+Ans. (b)
+
+
+3. Superficial
+(a)  profound
+(b) exaggerated
+(c) subjective
+(d) spirited
+
+Ans. (a)
+
+
+4. Abide
+(a) retract an offer
+(b) refuse to endure
+(c) shield from harm
+(d) exonerate
+
+Ans. (b)
+
+
+5. Acerbity
+(a) noteworthiness
+(b) hypocrisy
+(c) mildness of temperament
+(d) lack of anxiety
+
+Ans. (c)
+
+ 
+
+Directions: Each question or group of questions is based on a passage or set of conditions. For each question, select the best answer choice given.
+
+Quesitions 6-9
+
+In a certain society, there are two marriage groups, Red and Brown. No marriage is permitted within a group. On marriage, males become part of their wife's group: women remain in their own group. Children belong to the same group as their parents. Widowers and divorced males revert to the group of their birth. Marriage to more than one person at the same time and marriage to a direct descendant are forbidden.
+
+6. A Brown female could have had
+I. a grandfather born Red
+II. a grandmother born Red
+III. two grandfathers born Brown
+
+(a) I only
+(b) II only
+(c) I and II only
+(d) II and III only
+(e) I,II and III
+
+Ans. (c)
+
+
+7. A male born into the Brown group may have
+
+(a) an uncle in either group
+(b) a Brown daughter
+(c) a Brown son
+(d) a son-in-law born into the Red group
+(e) a daughter-in-law in the Red group
+
+Ans. (a)
+
+
+8. Which of the following is not permitted under the rules stated?
+
+(a) A Brown male marrying his father's sister
+(b) A Red female marrying her mother's brother
+(c) A man born Red, who is now a widower, marrying his brother's widow
+(d) A widower marrying his wife's sister
+(e) A widow marrying her divorced daughter's ex-husband
+
+Ans. (b)
+
+
+9. If widowers and divorced males retained the group they had upon marrying, which of the following would have been permissible?(Assume no previous marriages occurred)
+
+(a) A woman marrying her dead sister's husband 
+(b) A woman marrying her divorced daughter's ex-husband.
+(c) A widower marrying his brother's daughter
+(d) A woman marrying her mother's brother, who is a widower
+(e) A divorced male marrying his ex-wife's divorced sister
+
+Ans. (d)
+
+ 
+
+Questions 10-13
+
+Tom wishes to enroll in Latin AA, Sanskrit A, Armenian Literature 221, and Celtic Literature 701.
+Latin AA meets five days a week, either from 9 to 11 A.M or from 2 to 4 P.M.
+Sanskrit A meets either Tuesday and Thursday from 12 noon to 3 P.M., or Monday, Wednesday, and Friday
+from 10 A.M to 12 noon.
+Armenian Literature 221 meets either Monday, Wednesday, and Friday from 12:30 to 2 P.M., or Tuesday and Thursday
+from 10:30 A.M to 12:30 P.M
+Celtic Literature 701 meets by arrangement with the instructor, the only requirement being that it meet for one four-hour session or two two-hour sessions per week, between 9A.M and 4 P.M from Monday to Friday, beginning on the hour.
+
+
+10. Which combination is impossible for Tom?
+
+(a) Latin in the morning, Sanskrit on Tuesday and Thursday, and Armenian Literature on Monday, Wednesday, Friday
+(b) Latin in the afternoon and Sanskrit and Armenian Literature on Monday, Wednesday, and Friday.
+(c) Latin in the afternoon, Sanskrit on Monday, Wednesday, and Friday,and Armenian Literature on Tuesday and Thursday
+(d) Latin in the morning and Sanskrit and Armenian Literature on Monday, Wednesday, and Friday
+(e) Latin in the afternoon, Armenian Literature on Monday, Wednesda and Friday, and Celtic Literature on Tuesday
+
+Ans. (d)
+
+
+11. Which of the following gives the greatest number of alternatives for scheduling Celtic Literature, assuming that all other courses 
+
+(a) Latin in the afternoon and Armenian Literature Monday, Wednesday and Friday
+(b) Sanskrit on Tuesday and Thursday and Armenian Literature on Monday, Wednesday and Friday
+(c) Latin in the afternoon and Armenian Literature Tuesday and Thursday
+(d) Latin in the morning and Sanskrit on Tuesday and Thursday
+(e) Sanskrit on Monday, Wednesday, and Friday. and Armenian Literature on Tuesday and Thursday
+
+Ans. (a)
+
+
+12. If the Celtic instructor insists on holding at least one session on Friday, in which of the following can Tom enroll?
+(I) Armenian Literature on Monday, Wednesday, and Friday
+(II) Sanskrit on Monday, Wednesday, and Friday
+
+(a) I only
+(b) II only
+(c) both I and II
+(d) I or II but not both
+(e) neither I nor II
+
+Ans. (d)
+
+
+13. Which of the following additional courses, meeting as indicated, can Tom take?
+
+(a) Maths--Monday, Wednesday, and Friday from 10A.M to 12 noon
+(b) French--Monday, Wednesday, and Friday from 11A.M to 12:30 P.M
+(c) English--Tuesday and Thursday from 2 to 4 P.M
+(d) Japenese--Tuesday and Thursday from 1 to 3 P.M
+(e) Old Norse-Icelandic--Monday only from 12 to 3 P.M
+
+Ans. (b)
+
+ 
+
+Questions 14-18
+
+(1) Ashland is north of East Liverpool and west of Coshocton 
+(2) Bowling Green is north of Ashland and west of Fredericktown
+(3) Dover is south and east of Ashland
+(4) East Liverpool is north of Fredricktown and east of Dover
+(5) Fredricktown is north of Dover and west of Ashland
+(6) Coshocton is south of Fredricktown and west of Dover
+
+
+14. Which of the towns mentioned is furthest to the northwest ?
+
+(a) Ashland
+(b) Bowling Green
+(c) Coshocton
+(d) East Liverpool
+(e) Fredericktown
+
+Ans. (b)
+
+
+15. Which of the following must be both north and east of Fredricktown?
+(I) Ashland
+(II) Coshocton
+(III) East Liverpool
+
+(a) I only
+(b) II only
+(c) III only
+(d) I and II
+(e) I and III
+
+Ans. (e)
+
+
+16. Which of the following towns must be situated both south and west of at least one other town?
+
+(a) Ashland only
+(b) Ashland and Fredricktown
+(c) Dover and Fredricktown
+(d) Dover,Coshocton and Fredricktown
+(e) Dover,Coshocton and East Liverpool
+
+Ans. (d)
+
+
+17. Which of the following statements, if true, would make the information in the numbered statements more specific?
+
+(a) Coshocton is north of Dover
+(b) East Liverpool is north of Dover
+(c) Ashland is east of Bowling Green
+(d) Coshocton is east of Fredericktown
+(e) Bowling Green is north of Fredericktown
+
+Ans. (a)
+
+
+18. Which of the numbered statements gives information that can be deduced from one or more of the other statement?
+
+(a) (1)
+(b) (2)
+(c) (3)
+(d) (4)
+(e) (6)
+
+Ans. (c)
+
+ 
+
+Questions 19-22
+
+Spelunkers International offers exploring tours in eight caves: Abbott, Benny, Caeser, Dangerfield, Ewell, Fields, Guinness, and Hope
+(1) Class 1 spelunkers may not attempt cave Ewell, Fields or Hope
+(2) Class 2 spelunkers may not attempt Hope
+(3) Class 3 spelunkers may attempt any cave
+(4) Cave Caesar may be attempted only by spelunkers who have previously explored cave Benny
+(5) Cave Fields may be attempted only by spelunkers who have previously explored cave Ewell
+(6) Only two of caves Benny, Caeser, Ewell, Fields, and Hope may be attempted by any explorer in a single tour
+
+
+19. A class 2 spelunker who has previously explored cave Ewell may be restricted in choosing a tour by which rule(s)?
+(I) Rule(4)
+(II) Rule(5)
+(III) Rule(6)
+
+(a) I only
+(b) II only
+(c) I and III only
+(d) II and III only
+(e) I, II and III
+
+Ans. (c)
+
+
+20. In how many different ways may a class 1 spelunker who has never explored any of the eightcaves before set up a tour of three caves, if she wishes to explore caves Abbott and Caesar?
+
+(a) 2
+(b) 3
+(c) 4
+(d) 5
+(e) 6
+
+Ans. (b)
+
+
+21. What is the maximum number of caves that a class 3 spelunker who has previously explored only cave Benny may include
+in a single tour?
+
+(a) 4
+(b) 5
+(c) 6
+(d) 7
+(e) 8
+
+Ans. (b)
+
+
+22. If x + y = 3 and y/x= 2 then y = ?
+
+(a) 0
+(b) 1/2
+(c) 1
+(d) 3/2
+(e) 2
+
+Ans. (e)
+
+
+23. How many squares with sides 1/2 inch long are needed to cover a rectangle that is 4 ft long and 6 ft wide
+
+(a) 24
+(b) 96
+(c) 3456
+(d) 13824
+(e) 14266
+
+
+24. If a=2/3b , b=2/3c, and c=2/3d what part of d is b/
+
+(a) 8/27
+(b) 4/9
+(c) 2/3
+(d) 75%
+(e) 4/3
+
+Ans. (b)
+
+
+25. Successive discounts of 20% and 15% are equal to a single discount of 
+
+(a) 30%
+(b) 32% 
+(c) 34% 
+(d) 35% 
+(e) 36
+
+Ans. (b)
+
+
+26. The petrol tank of an automobile can hold g liters.If a liters was removed when the tank was full, what part of the full tank was removed?
+
+(a)g-a
+(b)g/a
+(c) a/g
+(d) (g-a)/a
+(e) (g-a)/g
+
+Ans. (c)
+
+
+27.If x/y=4 and y is not '0' what % of x is 2x-y
+
+(a)150%
+(b)175%
+(c)200%
+(d)250%
+
+Ans. (b)
+
+
+28.If 2x-y=4 then 6x-3y=?
+
+(a)15
+(b)12
+(c)18
+(d)10
+
+Ans. (b)
+
+
+29.Ifx=y=2z and xyz=256 then what is the value of x?
+
+(a)12
+(b)8
+(c)16
+(d)6
+
+Ans. (b)
+
+
+30. (1/10)18 - (1/10)20 = ?
+
+(a) 99/1020
+(b) 99/10
+(c) 0.9
+(d) none of these
+
+Ans. (a)
+
+
+31. Pipe A can fill in 20 minutes and Pipe B in 30 mins and Pipe C can empty the same in 40 mins.If all of them work together, find the time taken to fill the tank
+
+(a) 17 1/7 mins
+(b) 20 mins
+(c) 8 mins
+(d) none of these
+
+Ans. (a)
+
+
+32. Thirty men take 20 days to complete a job working 9 hours a day.How many hour a day should 40 men work to complete the job?
+
+(a) 8 hrs
+(b) 7 1/2 hrs
+(c) 7 hrs
+(d) 9 hrs
+
+Ans. (b)
+
+
+33. Find the smallest number in a GP whose sum is 38 and product 1728
+
+(a) 12
+(b) 20
+(c) 8
+(d) none of these
+
+Ans. (c)
+
+
+34. A boat travels 20 kms upstream in 6 hrs and 18 kms downstream in 4 hrs.Find the speed of the boat in still water and the speed of the water current?
+
+(a) 1/2 kmph
+(b) 7/12 kmph
+(c) 5 kmph
+(d) none of these
+
+Ans. (b)
+
+
+35. A goat is tied to one corner of a square plot of side 12m by a rope 7m long.Find the area it can graze?
+
+(a) 38.5 sq.m
+(b) 155 sq.m
+(c) 144 sq.m
+(d) 19.25 sq.m
+
+Ans. (a)
+
+
+SOME QUESTIONS WHEREIN TWO STATEMENTS ARE GIVEN ARE ALSO THERE WHERE YOU HAVE TO TELL WHICH STATEMENT IS CORRECT
+SOME QUESTIONS ALSO APPEARED FROM THE BARRON'S GMAT GUIDE.
+PAGE NO. 439 PASSAGE AND QUESTIONS 1 TO 9
+PAGE NO. 440-441 
+PAGE 442 PASSAGE 2
+ALSO REFER TO BARRON'S GRE BOOK FOR ADDITIONAL ANALYTICAL QUESTIONS.
+
+
+PAPER 2--GENERAL AWARENESS
+
+1. Who is the father of computers 
+2. Expand HTML,DMA,FAT,LAN,WAN,FDDetc 
+3. Which was intel's first microprocessor
+4. Convert 1024 (in decimal) to octa and hexadecimal form
+5. First microprocessor was 
+(a) 8085
+(b) 8088
+(c) 8086
+(d) 80487
+
+6. Give the name of a processor produced by mortorola?
+7. What is the full form of WindowsNT ? 
+8. What is the difference between 8087 and 8086
+
+
+BESIDES THIS QUESTIONS WERE ALSO BASED ON IBM PC CLONES, BASIC QUESTIONS ON GUI
+SIMPLE PROGRAMS LIKE FINDING FACTORIALS, LARGEST OF THREE NUMBERS ETC HAVE ALSO BEEN ASKED IN THE PAST. 
+

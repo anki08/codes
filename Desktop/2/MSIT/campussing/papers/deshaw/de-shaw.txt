@@ -1,0 +1,144 @@
+D-E-SHAW 2002 PAPER AT REC
+WARANGAL.(16/07/2002)
+
+
+IT CONTAINS 3 SECTIONS i.e; A,B,C.
+
+SECTION A: 20 BITS APTITUDE (MAINLY FROM R.S
+AGARWAL)
+
+1. LCM OF 3 PRIME NO.S IS 1729. THE HIGHEST NUMBER
+AMONG THEM IS ?
+
+A 13 B 19 C 23 D 11.
+ANS 19
+2 A SHIP LEFT THE YARD AND TRAVELLED 180 MILES. NOW
+ANOTHER FLIGHT WITH 10 TIMES THE SPEED OF THE SHIP
+STARTED . WHEN BOTH WILL MEET?
+ANS 200 MILES
+
+3 . IF THERE ARE 7 MEMBERS .6 MEMBERS DECIDED TO
+SHARE THE BILL EQUALLY.THE 7th MEMBER PAYED
+THE TIP.WHICH IS 10% OF THE TOTAL BILL AND 10 LESS
+THAN THE AMOUNT SHARED BY EACH SIXBY 20 PAISE THEN THE
+TOATALBILL IS?
+ANS 3 Rs
+
+4 WHAT IS NEXT?(these are not exact values)
+4,20,24,6,2,8,-
+Ans:12
+
+5 A PERSON HAS AN AMOUNT Rs20,000 AND HAS STOCK 93%
+HAVING 4% RETURN. HE SOLD AT THIS PRICE& BOUGHT A
+STOCK AT 101a/b HAVING 5X RETURN WHAT IS THE CHANGE
+INCOME.
+
+ANS 142a/b.
+
+6.WHAT IS NEXT?
+11,13,17,25,32,3747 -
+ANS 58.
+7. THE PRBABILITY OF HITTING A TARGET BY X IS 0.9 AND
+THAT OF B IS 0.8, THEN IF BOTH TRY WHAT IS THE
+PROBABILITY OF HITTING THE TARGET. \
+
+ANS 0.98.
+
+8. THERE ARE 5 RED AND WHITE ---------
+ANS 37/120.
+9. THE LENGTH OF THE ROPE IS 660M. WHAT IS THE MAXIMUM
+AREA COVERED BY THIS ROPE?
+ANS 34650
+10. a MAN IS INCREASING HIS SPEED 5% EVRY hr ANOTHER
+INCREASES 1% IN 1ST AND 3% IN SECOND AND SO.ON WHEN
+THY MEET?
+
+
+11. A TAP CAN FILL THE TANK IN 10hrS,10 HOLES CAN
+EMPTY WITHIN 6hr, OF SAME CAPACITY 15 HOLES WHITH IN
+6hr.if ALL OPERATE THEN THE TIME OF FILLING THE TANK.
+
+
+
+
+
+
+
+
+
+Section B
+1)main()
+{
+int i=7;
+printf("%d",i++*i++) ;
+}
+Ans:56
+2)priority que is use ful in ----
+Ans:heap 
+3)main()
+{
+n=2;
+printf("%d %d",++n,n*n);
+}
+Ans:3,4
+4)declaration ---
+a):public static void main(string args[ ])
+b)
+c)
+d)
+Ans:a,b,cand d
+5)main()
+{
+int a=1;b=2,c=3,d=4;
+c=f(a,&b);
+printf("%d%d%d%d",a,b,c,d);
+}
+
+some function
+Ans:1,-1,-1,4;
+6)awk,sed are used for
+Ans: text field formatting
+7)one more from unix
+8)question on string is not equal to character array
+character of string=s.c_str();
+
+9)main()
+{
+const int i=7;
+int *const q=&i;
+printf("%d",*q);
+}
+10)main()
+{
+int i=2;
+switch(i)
+{
+case 1:int j=6;
+printf("%d",j);
+case 2:int k=7;
+printf("%d",k);
+}
+Ans: (d)compilation error due to declaration in
+switch.
+
+
+
+
+SECTION C
+ONLY ONE QUESTION RELATING TO ALGORTHEMS.
+
+
+WRITE AN ALGORTHIM FOR :ONE FILE CONTAINS MILLION OF
+30 DIGIT BINARY NUMBERS.WRITE AN ALGORTHIM TO ARRANGE
+THE PAIRS OF COMPLIMENTS(X1,,X2)
+IN ANOTHERR FILE.(COMPLIMENT IS : ( X1+X2 =
+1111111111111111111-30)
+
+Interview:
+They have shortlisted 8 guys out of 131.
+In interview they asking in depth what ever may be the
+field in software.
+EX:c,c++,mostly datastructure,java,unix,internet.
+Results are yet to be announced.
+
+

@@ -1,0 +1,1351 @@
+____________
+A causes B or C, but not both
+     F occurs only if B occurs
+     D occurs if B or C occurs
+     E occurs only if C occurs
+     J occurs only if E or F occurs
+     D causes G,H or both
+     H occurs if E occurs
+     G occurs if F occurs
+
+NOTE: check following answers.
+
+ 11. If A occurs which of the following must occurs
+     
+      I. F & G
+     II. E  and H
+    III. D
+
+    (a) I only   (b) II only  (c) III only  (d) I,II, & III
+    (e) I & II (or) II & III but not both             ans:
+(e)
+
+ 12. If B occurs which must occur
+
+    (a)  D   (b) D and G  (c) G and H  (d) F and G  (e) J  
+ans: 
+(a)
+
+ 13. If J occurs which must have occured
+
+    (a) E  (b) either B or C  (c) both E & F  (d) B  (e)
+both B & C  
+ans: (b)
+
+ 14. which may occurs as a result of cause not mentioned
+
+    (1) D   (2) A   (3) F
+
+    (a) 1 only  (b) 2 only  (c) 1 & 2  (d) 2 & 3  (e) 1,2,3
+   ans: 
+(c)
+
+ 15. E occurs which one cannot occurs
+
+    (a) A   (b) F   (c) D   (d) C   (e) J              ans:
+(b)
+
+---------------------------------------------------------------------------------
+
+1.how to delete the folder from windows that gets removed from recycle bin also..
+ANS===shift+delete
+
+2.posix standard date.
+ANS==1970
+
+3.assembly languasge prog .
+ANS==infinte loop.
+
+4.HIMEM in dos 
+ANS==before640 mb...
+
+5.XXX.sys is executed through config.sys..
+option..
+a)booting time
+ANS==don't know..
+
+6.who manage virtual memeory
+ANS==MMU(memory management unit)
+------------------------------------------------------------------
+/*	         		    HCL CONSULTANCY LIMITED
+   There are two cateagiries : Technologies and Application
+   For Technologies there are four sections :
+   a) Computer awareness  (15) b) C programs          (20)
+   c) Analysis of Program (10) d) Analytical Problems (20)
+
+   For Application All questions are Analytical only (Verbal & Q.A)
+   Pre-requisite  : Sound knowledge in C and little of C++
+   For Interviews : C,C++,Networking(layers,TCP/IP,SPX/IPX) & Data Structure
+        in both Application and Technoligies division.  Also they are asking
+        questions from the question paper(technoligies) in which the
+        candidate had commited mistakes or left out
+
+   Note : Refer Programming in ANSI C by Kernignan & Ritche : some c question
+          where taken from it.  Also when asked about which book you are
+          following, don't say Let Us C by Kanitkar, atleast say some really
+          good books like Prog. in ANSI C, Sprit of C etc;
+
+Question from technoligies division :
+
+Section 1 : COMPUTER AWARENESS ( 15 questions)
+
+1) Piggybacking is a concept associated with
+   a) Flow control    b)
+   c) Acknowledgement d) None of the above
+2) Terminal emulation is associated with the OSI layer
+   a) Application    b) Transport
+   c) Presentation   c) Session
+3) Virtual Address is contverted in Physical address by
+   a) Process  b) Operating System
+   c) MMU      c) All the above          ans : c)Memory Management Unit
+4) Decleration of a variable does not gives which one of the following
+   a) size of the variable  b) Scope of the variable
+   c) type of the variable  d) Allocates memory for the variable    ans : d
+5) Same name can't be given to two variables
+   a) within a function  b) across two files
+   c) within a block    d) within a program   ans : c
+6) OLE is associated with
+   a) communication between process in UNIX
+   b) communication between user and NT
+   c) communication between process in NT
+   d) communication between hosts in INTERNET   ans : c
+7) Semaphores is used to
+   a) to avoid deadlocks   b) to acquire shared resources
+   c) both a & b           d) synchronization		ans :d                        ans : c
+8) To address 1 MB, the no. of address lines required is
+   a) 16  b) 20  c) 24  d) 30       ans : -
+9) The time required for a 25 MHz processor to complete 3 clock cycles is
+   a) 120 ms  b) 120 ns  c) 40 ms  d) 40 ns    ans : b
+10) The hexa value FEDB when converted to octal gives
+   a) 177333   b) 770333  c) 751233  d) 378453    ans : a
+11) Which of the following is not in JAVA but in ANSI C
+    a) Volatile modifier  b) forward reference of variable
+    c) variable length of arguments list  d) None of the above
+12) IP address should be
+    a) unique for domain node
+    b) unique for domain subnetworks nodes
+    c) unique for the individual terminal
+    d) none of the above              ans : c (should be)
+13) Question on SQL statement to retrive rows which are at regular
+    interval (n)
+14) Another question using SQL statement
+15) In 8 bit representation using sign bit, the minimum number is
+    a) -128  b) -127  c) -255  d) 0  ans : a
+
+Section 2 & 3: C PROGRAMS ( 20 + 10 questions)
+
+1) #define f(x,y) x##y
+   void main()
+   {
+	printf("%s",f("This","This is"));
+   }
+   a) This  b)is  c)ThisThis is  d) None   ans : c
+2)  #define INC(x) x++
+   void main()
+   {
+	int a = 1;
+	printf("%d",INC(a++));
+   }
+   a) 1  b) 2   c) 3   d) Program won't compile   ans : d
+3) Assume the size of the int to be 4
+   #define NULL 0
+   void main()
+   {
+	int i=0,*p = NULL;
+	i++;p++;
+	printf("%d %d",i,p);
+   }
+   a) 1 4  b) 4 1  c) 4 4  d)1 1   ans : a
+4) In ANSI C the output of the following C code segment is
+   I = 5;
+   a[5] = 5;
+   a[6] = 11;
+   a[7] = 12;
+   a[I] = I++;
+   printf("%d %d",a[5],a[6]);
+   a) 6 11  b) 5 12  c) 5 6  d)None     ans : d  (answer is 5 11)
+5) (3^2) + (a^a) is equal to
+    a) 0   b) 1  c) 3  d) Data Insufficient ans:b(^ bitwise Exclusive OR)
+6)
+   void main()
+   {
+       int x=8;
+	clrscr();
+	x = x > 10 ? x<<2 :	x>7 ?	x>>2 : x<<3;
+	printf("%d",x);
+    }
+    a) 1  b) 2  c) 4 d) None            ans : b
+7) The value of a and b after assignment are
+	int a,b;
+	a = (10,15);
+	b = 10,15;
+    a) 10 15  b) 15 10 c)10 10  d) 15 15  ans : b
+8)
+    f(int x)
+    {
+         if(x<=0) return 1;
+	return f(x-1) + x;
+    }
+    void main()
+    {
+	printf("%d",f(7));
+    }
+    a) 28  b) 29  c) 15 d) None     ans : b
+9) In C arguments could be passed only
+   a) by reference  b) by value   c) by name   d) reference & value
+                              ans : d
+10) typedef struct
+    {
+	char * str;
+	NODEF next;
+    } * NODEF;
+    a)works only in C  b) works only in C++ c) works in C & C++
+    d) Won't compile in both C & C++        ans : d
+11)
+    #define NULL 0
+    char * f(str,c)
+    register char * str,c;
+    {
+	while(*str)
+	if(*str++ == c) return str;
+	return NULL;
+    }
+    a) the above function will always work
+    b) won't work for c = NULL  c) won't work if c is not found
+    d) won't work if c is the first character   ans : a
+12)
+    void main()
+    {
+	int x = 10, y=6,z=4;
+	x=y==z;
+	printf("%d",x);
+    }
+    a) 0  b) 1  c)6  d) compiler Error  e) None of the above    ans : a
+13) static functions in C could be called only
+    a) after decleration  b)after defination   c) after decleration
+    and before defination      d) anywhere             ans : d
+14) there are 2 files called a.c and b.c
+    a.c
+    ---
+    int i;
+    void main()
+    {
+	i = 10;
+	f1();
+	printf("%d",i);
+     }
+
+     b.c
+     ---
+     static void f1()
+     {
+	i += 15;
+     }
+     a) a.c won't compile as f1() is not declered
+     b) b.c won't compile as i is not declered
+     c) prints 25       d) prints 10                ans : a
+15)
+    void f(int *x,int y)
+    {
+	int temp;
+	temp = *x;
+	*x = y;
+	y = temp;
+    }
+    void f1(int *x)
+    {
+	int *a,b;
+	b = *x;
+	a = &b;
+	*a += 10;
+     }
+     void main()
+     {
+	int a =10,b=5;
+	int *c;
+	c = &a;
+	f(c,b);
+	f1(c);
+	printf("%d %d",a,b);
+     }
+     a) 5 5 b)10 5  c)15 10 d)None          ans : a
+16)
+     void f(int *x)
+     {
+	*x += 10;
+     }
+     void f1(int *y)
+     {
+	int temp,*pt;
+	temp = *y;
+	pt = &temp;
+	*pt += 15;
+     }
+     void main()
+     {
+	int x = 10;
+	f(&x);
+	f1(&x);
+	printf("%d",x);
+     }
+     a)35  a)25 c)20 d)10       ans : c
+17) Bit Parity can detect
+    a) Odd no. of errors    b)Even no. of errors
+    c) Only one error       d) None        ans : a(should be; check it out)
+18) expression in switch statement can not accept the data type
+    a) int   b) char   c) short d) float    ans : d
+19) Which of the following is not a basic data type
+    a) char  b) char *  c) float  d) double   ans : b (check it out)
+20)
+   class a{
+   public :
+	int x;
+	a(){x = 20; cout <<x;}
+   };
+   class b : public a
+   {
+    public :
+	b(){x = 10; cout<<x;}
+   };
+   void main()
+   {
+	b temp;
+   }
+   a) 10  b) 20  c) 2010   d)1020    ans : c
+21)
+   f(int a,int b)
+   {
+         if(a<b) return &a;
+	return &b;
+   }
+   void main()
+   {
+	int a=10,b=5,*c;
+	c = f(b,a);
+	printf("%d",*c);
+    }
+    a) compile error b) 10 c) 5  d) Junk   ans : c
+22) which one could be a substitute for strcpy()
+    a) while(*str++ = *dtr++);
+    b) while(*++str)*str = *++dtr;
+    c) while(*++str = *++dtr);
+    d)None                           ans : a
+23) consider the structure for double linked list
+    struct d_list
+    {
+	int a;
+	struct d_list * next;
+	struct d_list * prev;
+    };
+assume NULL has been assigned for first link of the list's prev pointer
+and the next pointer of the last link
+
+Section 4 : ANALYTICAL PROBLEMS
+
+1) if A through E represents no. from 1 to 9 then what is the value of E,if
+   ABCDE * 4 = EDCBA
+    ans : 8
+2) Convert F78 (hexa) to radix 7
+3) If a=2 b=4 and c=5 then
+   (a+b)/c  - c/(a+b)   is         ans : 11/30
+4)
+	 4     8      8
+ 10   (10  +  10  )
+ ------------------    is
+			 6
+		 10
+						6
+   ans : 2 * 10
+5) Women driver meet car accident less frequently than man driver.
+   What decision you could arrive at from the above statement.
+    a) Men driver are less in number than women drivers.
+    b) Women drivers are more cautious than men drivers.
+    c) There is very less number of women drivers.
+    d) None
+    ans : b
+6)There are three persons Yogesh(Y),Deepak(D) and Mohan(M) and divides certain
+  amount. Deepak has twice as much as Yogesh and Mohan as Rs.3 more than half as
+  much as Deepak.  Which expression is valid :
+  a) Y < M < D   b) Y < D < M
+  c) Y > D > M   d) Data insufficient
+  ans : d
+7)There are four persons P,Q,R,S and related to a murder they gave the
+  following
+  statements among which only one is false,   Find the Murderer.
+  P : I went to cinema with S while the murder had occured.
+  Q : I was playing tennis with P while the murder had occured.
+  R : I didnot commit the murder.
+  S : R was not the murderer.
+  ans : S (check it out)
+8)If A could do a work in (???) hours and A and B can do the work in 2 hours
+  In how many hours does B alone could do the work.
+  ans : 3 hr 20 min
+9) If  mq/2 - k = s then the value of m if q is not equal to zero is
+   ans : 2(k + s) / q
+*/
+----------------------------------------------------------
+
+NOTE :  Please check answers once again.
+
+only this much i got ,   which is available here in iit-kgp
+
+           section 1.
+
+
+1.which of the following involves context switch,
+a) system call b)priviliged instruction
+c)floating poitnt exception
+d)all the above
+e)none of the above
+ans: a
+
+2.In OSI, terminal emulation is done in
+a)semion b)appl.. c)presenta... d)transport
+ans: b
+
+3....... 25MHz processor , what is the time taken by the instruction which needs 3 clock cycles,
+a)120 nano secs  b)120 micro secs
+c)75 nano secs  d)75 micro secs
+
+
+4. For 1 MBmemory no of address lines required,
+a)11 b)16  c)22   d) 24
+ans: 16
+
+5. Semafore is used for
+a) synchronization  b0 dead-lock avoidence
+c)box  d) none
+ans : a
+
+
+6.  class c: public A, public B
+
+a) 2 member in class A,B shouldnot have same name
+b) 2 member in class A,C    " ''    ''   ''
+c) both 
+d) none
+
+ans : a
+
+
+7. question related to java
+
+
+8. OLE is used in
+
+a)inter connection in unix
+b)interconnection in WINDOWS
+c)interconnection in WINDOWS NT
+
+9.No given in HEX ---- write it in OCTAL
+
+10.macros and function are related in what aspect?
+a)recursion  b)varying no of arguments
+c)hypochecking d)type declaration
+
+11.preproconia.. does not do one of the following
+a)macro ......  b)conditional compliclation
+c)in type checking d)including load file
+
+ans: c
+
+             SECTION B
+             __________
+
+1.enum day = { jan = 1 ,feb=4, april, may}
+what is the value of may?
+a)4 b)5 c)6 d)11
+e)none of the above
+
+
+2.main
+{
+int x,j,k;
+j=k=6;x=2;                           ans x=1
+x=j*k;
+printf("%d", x);
+
+3. fn f(x)                   
+                                    
+{ if(x<=0)
+  return;                          ans  fn(5) ....?
+else f(x-1)+x;
+}
+
+
+4. i=20,k=0;
+for(j=1;j<i;j=1+4*(i/j))
+{
+k+=j<10?4:3;
+}
+
+printf("%d", k);            ans  k=4
+
+
+5.  int i =10
+main()
+{
+int i =20,n;
+for(n=0;n<=i;)
+{
+int i=10
+    i++;
+}
+printf("%d", i);              ans i=20
+
+6. int x=5;
+    y= x&y
+( MULTIPLE CHOICE QS)
+ans :  c
+
+
+7.  Y=10;
+ if( Y++>9 && Y++!=10 && Y++>10)
+printf("........ Y);
+else   printf(""....  )
+
+
+ans : 13
+
+
+8. f=(x>y)?x:y
+a) f points to max of x and y
+b) f points to min of x and y
+c)error
+d) ........
+
+ans  :  a
+
+
+9. if x is even, then
+
+(x%2)=0
+x &1 !=1
+x! ( some stuff is there)
+
+a)only two are correct
+b) three are correct
+c), d)  ....
+
+
+ans  :   all are correct
+
+10.  which of the function operator cannot be over loaded
+
+a) <=
+b)?:
+c)==
+d)*
+
+ans:  b and d
+
+                         SECTION.C  (PRG SKILLS)
+                          --------
+(1)      STRUCT DOUBLELIST
+      {                              DOUBLE CLINKED
+        INT DET;                     LIST VOID
+        STRUCT  PREVIOUS;            BE GIVEN AND A PROCEDURE TO DELETE
+        STRUCT NEW;                  AN ELEMENT WILL BE GIVEN
+      }  
+     DELETE(STRUCT NODE)
+     {
+       NODE-PREV-NEXT  NODE-NEXT;
+       NODE-NEXT-PREV  NODE-PREV;
+       IF(NODE==HEAD)
+       NODE
+    }
+     IN WHAT CASE THE PREV WAS
+     (A) ALL CASES
+     (B) IT  DOES NOT WORK FOR LAST ELEMENT
+     (C) IT DOES NOT WORK FOR-----
+(2)     SIMILAR TYPE QUESTION
+     ANS: ALL DON'T WORK FOR NON NULL VALUE
+
+(3) VOID  FUNCTION(INT KK)
+    {
+      KK+=20;
+    }
+    VOID FUNCTION (INT K)
+    INT MM,N=&M
+    KN = K
+    KN+-=10;
+    }
+                     SECTION D
+                      --------
+(1) a=2,b=3,c=6    c/(a+b)-(a+b)/c=?
+(2) no.rep in hexadecimal, write it in radiv 7
+(3) A B C D E
+         * 4
+   ----------   find E   ANS: 13
+   E D C B A
+  ------------
+(4) GRE-MODEL TEST-1, SECTION-6(19-22)
+(5) M HAS DOUBLE AMOUNT AS D, Y HAS RS. 3 MORE THAN HALF OF AMOUNT OF D
+    THE ORDERING  A,B,C        M C D C Y
+         ANS:DATA INSUFFICIENT    D C M C Y
+(6)IN STASTIC MEN CAUSE MORE ACCIDENTS THEN ONE CONCLUSION
+(A) MEN DRIVE MORE THAN  ONCE
+(B) STASTICS GIVE WRONG INFORMATION
+(C) WOMEN ARE CAUTION THAN ME  ANS; C(VERIFY)
+(D)-----ETC
+(7) P,Q,R,S,T,U  -SECURING GRANT;TWO TOURIST PARTIES AND THEN TWO SECURITY
+    GAURDS SHOULD GO WITH EACH PARTY
+    ________________________________________________________________________
+    P AND R-ARE ENEMIES,            Q DOES NOT GO SOUTH
+    P&S-ARE WILLING TO BE TOGETHER
+ ______________________________________________________________________                                                      
+ THE TWO PARTIES MAY GO SOUTH&NORTH RESPECTIVELY
+ AT ONE POINT EACH MAY PASS EACH OTHER THEN GAURDS CAN EXCHANGE
+ 6 Q BASED ON THIS
+ (8)pq-r/s  =2 what is q inference  a,n&d
+ (a) a can do n units of work in strs,a&b can do n units of work in 2 hrs
+ in how many hrs n units of work ans:3 hr 30 min    p = (2s+r)/q
+                                     ____________
+
+main()
+{ 
+  int var=25,varp;
+  varp=&var;
+  varp p = 10;
+  fnc(varp)
+  printf("%d%d,var,varp);
+}
+ (a) 20,55(b) 35,35(c) 25,25(d)55,55
+
+ [ c++,c,dbms  interview]
+ [fundamentals]
+  this is new paper
+  ___________________________________________________________________________
+                             application -software
+                              ____________________
+part-1:
+28-questions
+(5)ingless  ans:RDMS
+(1)bit program-ans d
+(2)c ans
+(3)+ 0 ans
+(4)00p--ans linking
+(5)------
+(6)-------
+(9)25--45 even no.  ans--10
+(10)  >10    <100   ---ans=n+9
+
+
+---------------------------------------------------------------------------------------
+Section II - C Programming
+
+1. Which of the following about the following two declaration is true
+i ) int *F()
+ii) int (*F)()
+
+Choice :
+a) Both are identical
+b) The first is a correct declaration and the second is wrong
+c) The first declaraion is a function returning a pointer to an integer and the
+second is a pointer to function returning int
+d) Both are different ways of declarin pointer to a function
+
+Answer : c) The first de...
+
+2. What are the values printed by the following program?
+
+#define dprint(expr) printf(#expr "=%d\n",expr)
+
+main()
+{
+int x=7;
+int y=3;
+dprintf(x/y);
+}
+
+Choice:
+a) #2 = 2 b) expr=2 c) x/y=2 d) none
+
+Answer: c)x/y=2
+
+3. Which of the following is true of the following program
+
+main()
+{
+char *c;
+int *p;
+c =(char *)malloc(100);
+ip=(int *)c;
+free(ip);
+}
+
+
+ans: The code functions properly releasing all the memory allocated
+
+
+4.output of the following.
+
+main()
+{
+int i;
+char *p;
+i=0X89;
+p=(char *)i;
+p++;
+printf("%x\n",p); 
+}
+ans:0X8A
+
+5.
+which of the following is not a ANSI C language keyword?
+
+ans:Function.
+
+6. When an array is passed as parameter to a function, which of the following
+statement is correct
+
+choice:
+a) The function can change values in the original array
+b) In C parameters are passed by value. The funciton cannot change the original
+value in the array
+c) It results in compilation error when the function tries to access the
+elements in the array
+d) Results in a run time error when the funtion tries to access the elements in
+the array
+
+Answer: a) The fu...
+
+7. The type of the controlling expression of a switch statement cannot be of the
+type
+
+a) int b) char c) short d)float e) none
+
+Answer : d)float
+
+
+8.What is the value of the expression (3^6) + (a^a)?
+
+a) 3 b) 5 c) 6 d) a+18 e) None
+
+Answer : 5 
+
+9. What is the value assigned to the variable X if b is 7 ?
+X = b>8 ? b <<3 : b>4 ? b>>1:b;
+
+a) 7 b) 28 c) 3 d) 14 e) None
+ans: 3;
+
+10. Which is the output produced by the following program
+main()
+{
+int n=2;
+printf("%d %d\n", ++n, n*n);
+}
+
+a) 3,6 b) 3,4 c) 2,4 d) cannot determine
+
+Answer : b) 3,4
+
+11. What is th output of the following program?
+int x= 0x65;
+main()
+{
+char x;
+printf("%d\n",x)
+}
+
+a) compilation error b) 'A' c) 65 d) unidentified
+
+12. What is the output of the following program
+main()
+{
+int a=10;
+int b=6;
+
+if(a=3)
+b++;
+printf("%d %d\n",a,b++);
+}
+
+a) 10,6 b)10,7 c) 3,6 d) 3,7 e) none
+
+Answer : d) 3,7
+
+13. What can be said of the following program?
+main()
+{
+enum Months {JAN =1,FEB,MAR,APR};
+Months X = JAN;
+if(X==1)
+{
+printf("Jan is the first month");
+}
+}
+
+a) Does not print anything
+b) Prints : Jan is the first month
+c) Generates compilation error
+d) Results in runtime error
+
+Answer: b) Prints : Jan..
+
+14. What is the output of the following program?
+main()
+{
+char *src = "Hello World";
+char dst[100];
+strcpy(src,dst);
+printf("%s",dst);
+}
+strcpy(char *dst,char *src)
+{ 
+while(*src) *dst++ = *src++;
+}
+
+a) "Hello World" b)"Hello" c)"World" d) NULL e) unidentified
+
+Answer: d) NULL
+
+15. What is the output of the following program?
+
+main()
+{
+int l=6;
+switch(l)
+{ default : l+=2;
+case 4: l=4;
+case 5: l++;
+break;
+}
+printf("%d",l);
+}
+a)8 b)6 c)5 d)4 e)none
+
+Answer : c)5
+
+16. What is the output of the following program?
+main()
+{
+int x=20;
+int y=10;
+swap(x,y);
+printf("%d %d",y,x+2);
+} 
+swap(int x,int y)
+{
+int temp;
+temp =x;
+x=y;
+y=temp;
+}
+
+a)10,20 b) 20,12 c) 22,10 d)10,22 e)none
+
+Answer:d)10,22
+
+17. What is the output of the following problem ?
+#define INC(X) X++
+main()
+{
+int X=4;
+printf("%d",INC(X++));
+}
+
+a)4 b)5 c)6 d)compilation error e) runtime error
+
+Answer : d) compilation error
+
+
+18. what can be said of the following 
+
+struct Node {
+char *word;
+int count;
+struct Node left;
+struct Node right;
+}
+
+a) Incorrect definition
+b) structures cannot refer to other structure
+c) Structures can refer to themselves. Hence the statement is OK
+d) Structures can refer to maximum of one other structure
+
+Answer :c)
+
+19. What is the size of the following union.
+Assume that the size of int =2, size of float =4 and size of char =1.
+Union Tag{
+int a;
+flaot b;
+char c;
+};
+
+a)2 b)4 c)1 d) 7
+
+
+
+20) What is the output of the following program? (. has been used to indicate a
+space)
+main()
+{
+char s[]="Hello,.world";
+printf(%15.10s",s);
+}
+
+a)Hello,.World...
+b)....Hello,.Wor
+c)Hello,.Wor....
+d)None of the above
+
+SECTION III - ANALYSIS PROGRAM SEGMENTS
+---------------------------------------
+
+1) Here is the structure declaration of a doubly linked list
+
+struct dlink {
+int nodeid;
+struct dlink *next;
+struct dlink *prev;
+} dlink_t;
+
+A pointer of the head of the linked list is maintained as a global variable,
+whose definition is 
+dlink_t *head;
+
+The funtion remove_element(dlink_t *rp), needs to remove the node pointed to
+the rp and adjust the head.
+
+The first node's prev and the last node's next are NULL.
+
+remove_element(dlink_t *rp)
+{
+rp->prev->next = rp->next;
+rp->next->prev = rp->prev;
+if( head == rp)
+head = rp->next;
+
+Which of the following statement is true about the fution remove_element
+
+A) It work when head is the same as rp
+B) It does not work when rp is the last element on the list
+c) It sets the head of the list correctly
+D) It works in all cases
+
+Answer :B) It does...
+
+2) Consider the following function written in c:
+
+#define NULL 0
+
+char *
+index(sp,c)
+register char *sp,c;
+{
+do {
+if(*sp == c)
+return (sp);
+} while (*sp++);
+return NULL;
+}
+
+The first argument sp, is a pointer to a C string. The second
+argument, c, is a character. This function scarches for the character
+c, in the string. If it is found a pointer to that location is returned
+else NULL is returned.
+This function works
+a) Always
+b) Always, but fails when the first byte contais the character c
+c) works when c is a non NULL character only
+d) Works only when the character c is found in the string
+ans: a
+
+03) What is printed when this program is executed 
+main()
+{
+printf ("%d\n",f(7));
+}
+f(X)
+{
+if (x<= 4)
+return x;
+return f(--x);
+}
+
+a) 4
+b) 5
+c) 6
+d) 7
+ans: a
+
+04) On a machine where pointers are 4 bytes long, what happens when the 
+following code is executed.
+main()
+{
+int x=0,*p=0;
+x++; p++;
+printf ("%d and %d\n",x,p);
+}
+
+a) 1 and 1 is printed
+b) 1 and 4 is printed
+c) 4 and 4 is printed
+d) causes an exception
+
+05) Which of the following is the correct code for strcpy, that is 
+used to copy the contents from src to dest?
+
+a) strcpy (char *dst,char *src)
+{ 
+while (*src)
+*dst++ = *src++;
+}
+b) strcpy (char *dst,char *src)
+{
+while(*dst++ = *src++)
+}
+c) strcpy (char *dst,char *src)
+{
+while(*src)
+{ *dst = *src;
+dst++; src++;
+}
+}
+d) strcpy(char *dst, char *src)
+{ 
+while(*++dst = *++src);
+}
+ans:b
+
+6) Consider the following program
+
+main()
+{
+int i=20,*j=&i;
+f1(j);
+*j+=10;
+f2(j);
+printf("%d and %d",i,*j);
+}
+f1(k)
+int *k;
+{
+*k +=15;
+}
+
+f2(x)
+int *x;
+{
+int m=*x,*n=&m;
+*n += 10;
+}
+
+The values printed by the program will be
+a) 20 and 55
+b) 20 and 45
+c) 45 and 45
+d) 45 and 55
+e) 35 and 35
+
+
+7) what is printed when the following program is compiled and executed?
+
+
+int 
+func (int x)
+{
+if (x<=0)
+return(1);
+return func(x -1) +x;
+}
+main()
+{
+printf("%d\n",func(5));
+} 
+
+a) 12
+b) 16
+c) 15
+d) 11
+
+08) COnsider the following of c code in two files which will be linked together
+and executed .
+
+a.c
+___
+int i;
+main()
+{
+i = 30;
+f1();
+printf("%d\n",i)
+}
+
+b.c
+___
+static int f1()
+{
+i+=10;
+}
+
+which of the following is true ?
+a) a.c will fail in compilation phase because f1() is not declared
+b) b.c will fail in compilation because the variable i is not declared
+c) will print 30
+d) will print 40
+e) a & b
+
+ans: e) a & b
+
+9) Consider the following prg
+void funca (int *k)
+{
+*k += 20
+}
+void funcb (int *x)
+{
+int m=*x,*n = &m;
+*n+=10;
+}
+main() 
+{ 
+int var = 25,*varp=&var;
+funca(varp);
+*varp += 10;
+funcb(varp);
+printf ("%d and %d\n",var,*varp);
+} 
+The values printed when the above prg is complied and executed
+are:
+a) 20 and 55
+b) 20 and 45
+c) 45 and 55
+d) 55 and 55
+e) 35 and 35
+
+ans: d
+
+10) consider the following program:
+# include <stream.h>
+class x {
+public:
+int a;
+x();
+};
+x::x() { a=10; cout<<a; }
+class b:public x {
+public:
+b();
+}; 
+b::b() { a=20; cout<<a; }
+main ()
+{ b temp;
+}
+what will be the output of this prg?
+a) 10
+b) 20
+c) 2010
+d) 1020
+
+ans: b
+
+Section IV - General Aptitude Section
+1) In a murder case there are four suspects P,Q,R,S. Each of them
+makes a statement. They are 
+p: "I had gone to the theatre with S at the time of the murder".
+q: "I was playing cards with P at the time of the murder".
+r: "Q didn't commit the murder".
+s: "R is not the murderer".
+
+Assuming the only one of the above statement is false and that one of 
+them is the murderer, who is the murderer?
+a) P
+b) Q
+c) R
+d) Cann't be concluded
+e) S
+
+and: E
+
+2) Mohan earned twice as much as Deep. Yogesh earned rs.3/- more than
+half as much as deep. If the amounts earned by Mohan,Deep,Yogesh
+are M,D,Y respectively, Which of the following is the correct ordering
+of these amounts?
+a) M < D < Y
+b) M < Y < D
+c) D < M < Y
+d) It cann't be determined from the information given
+e) D < Y < M
+
+
+03) Statistics indicate that men drivers are involved in more 
+accidents than women drivers. Hence it may be concluded that
+a) sufficiently information is not there to conclude anything
+b) Men are actually better drivers but drive more frequently
+c) Women Certainly drive more cautiously than Men
+d) Men chauvinists are wrong about women's abilties.
+e) Statistics sometimes present a wrong picture of things
+
+
+04) What does the hex number E78 correspond to in radix 7 ?
+a) 12455
+b) 14153
+c) 14256
+d) 13541
+e) 13112
+
+ans:d
+
+5)Given that A,B,C,D,E each represent one of the digits between 1 and
+9 and that the following multiplication holds:
+A B C D E 
+X 4
+--------------
+E D C B A
+--------------
+
+what digit does E represent ?
+
+a) 4
+b) 6
+c) 8
+d) 7
+
+Ans: c
+
+6) HCL prototyping machine can make 10 copies every 4 seconds. At this
+rate, How many copies can the machine make in 6 min.?
+
+a) 900
+b) 600
+c) 360
+d) 240
+e) 150
+
+ans: a
+
+7) if a=2,b=4,c=5 then 
+a+b c
+----- - ---- =
+c a+b 
+
+a) 1
+b) 11/30
+c) 0
+d) -11/30
+e) -1
+
+ans: b
+
+8) 10^2(10^8+10^8) = 
+--------------
+10^4
+
+a) 2(10)^4
+b) 2(10)^6
+c) 10^8
+d) 2(10)^8
+e) 10^10
+
+ans: b
+
+9) Worker W produces n units in 5 hours. Workers V and W, workers
+independently but at the same time, produce n units in 2 hours. 
+how long would it take V alone to produce n units?
+a) 1 hr 26 min
+b) 1 hr 53 min 
+c) 2 hr 30 min
+d) 3 hr 30 min
+e) 3 hr 20 min
+
+ans: d
+
+10) if q <> 0 and k = qr -s, then what is r in terms of k,q,s?
+
+a) 2k+s
+----
+q
+b) 2sk 
+----
+q
+c) 2(k-s)
+-----
+q
+d) 2k+sq
+-----
+q
+e) 2(k+s) 
+------
+q
+
+ans: e
+
+11-15 is the reasoning Questions:
+Occurs and Causes available in placement papers.com
+
+Six knights - P,Q,R,S,T and U - assemble for a long journey in two
+travelling parties. For security, each travelling party consists
+of at least two knights. The two parties travel by separate routes,
+northern and southern. After one month, the routes of the northern
+and southern groups converge for a brief time and at that point the
+knights can, if they wish, rearrange their travelling parties before
+continuing, again in two parties along separate northern and southern
+routes. Throughout the entire trip, the composition of travelling
+parties must be in accord with the following conditions
+
+P and R are deadly enemies and, although they may meet briefly,
+can never travel together.
+p must travel in the same party with s
+Q cann't travel by the southern route
+U cann't change routes
+
+16) If one of the two parties of knights consists of P and U and 
+two other knights and travels by the southern route, the other members
+of this party besides P and U must be
+a) Q and S
+b) Q and T
+c) R and S
+d) R and T
+e) S and T
+
+ans: e
+
+ 17) If each of the two parties of knights consists of exactly three
+members, which of the following is not a possible travelling party
+and route?
+a) P,S,U by the northern route
+b) P,S,T by the northern route
+c) P,S,T by the southern route
+d) P,S,U by the southern route
+e) Q,R,T by the southern route
+
+ans: b
+
+18) If one of the two parties of knights consists of U and two other
+knights and travels by the northern route, the other memnbers of this party
+besides U must be
+a) P and S
+b) P and T
+c) Q and R
+d) Q and T
+e) R and T
+
+ans: c
+
+19) If each of the two parties of knights consists of exactly three
+members of different parties, and R travels by the northern route,
+then T must travel by the 
+a) southern route with P and S
+b) southern route with Q and R
+c) southern route with R and U
+d) northern route with Q and R
+e) northern route with R and U
+
+
+ans: a
+
+20) If, when the two parties of knights encounter one another after 
+a month, exactly one knight changes from one travelling party to the 
+other travelling party, that knight must be
+a) P 
+b) Q
+c) R
+d) S
+e) T
+
+ans: e
+---------------------------------------------------------------------------------------------

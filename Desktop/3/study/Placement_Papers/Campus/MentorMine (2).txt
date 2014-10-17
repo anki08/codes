@@ -1,0 +1,161 @@
+--- In mtech2k2@yahoogroups.com, jayakrishna reddy 
+<jayakrishna_reddy@y...> wrote:
+
+
+Note: forwarded message attached.
+
+
+---------------------------------
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+
+Hi Ra,
+
+ Really Mentor is the Third company for me.
+ I have attended the Oracle interview and Went to written test of 
+Mentor.
+
+ Really the written test of Mentor very goooooood and Really people 
+have
+the fundamentals in Subjects can write the Exam.
+
+ They will ask
+   General S/w
+   OS, Micro processor & Comp Arch, C and C++ ( very fundoo )
+   Compilers
+
+
+ Really Test is like GATE ra... touched every aspect of it..
+
+ They will prefer the telugu people usually...
+ 
+ About interview they will coool and one panel with three people..
+ Two technical people and one HR ( so three people )
+
+ They have asked me:
+ 1. Grade ur knowledge in c and c++ from 0 to 100
+     i said 90 and 75
+ 3. They have asked me question in c++
+
+    what is virtuval distrcuctor.
+    Are there any default concstructors in c++? what are they?
+    what is the difference between copy constructor and Overkloading 
+=.
+        why language is provided two of these..
+    what are inline functions, what is  the difference between 
+#define and
+inline
+   what is the difference between inline and normal function. will the
+comiler take inline functions always inline ,if not on which basis it 
+will
+decide to ignore inline.
+   
+  They asked me ask one Question in C, which should be difficult to 
+answer
+and they shouldn't asnwer for that.
+  i asked them prog which illustrates difference between extern and 
+static 
+  and self repricating programs.
+
+ they asked me what is the light weight process ? i said thread and 
+they
+asked me what is fiber? i said i don't know.
+
+ why ur CPI is less? why didn't you join ECE even though you get it 
+after
+inter ?
+
+ what are ur strengths?
+ why should we take you?
+ what do u know about mentor?
+ what is ur weekness?
+
+ then the discussion in gone my projects and my thesis.
+
+they asked me one puzzle:
+ 
+  There are 100 gates with doors ( 1.... 100).Intially they are open.
+  switching the gates ( if open then close , if closed then open ) 
+can be
+done. First they will switch the multiples of 1's then they will 
+switch
+the multiple's of 2's and soooo on multiple's of 100's.
+
+  Now, at the end how many doors are closed and what are they?
+
+ First i said the wrong answer ,some relevant what- the primes are 
+opened.
+ I said it correctly ( 1,4,9,16,25,36,49,64,81,100).
+
+ 
+ Then they asked me about family, and my background..
+
+ That's it ra... 
+
+ In TEST i didn't really , remember the questions they have asked 
+ra...
+ because they are long questions and multiple choices 
+
+  C and C++:
+    type checking quetions
+  OS:
+   why thread is lightweight 
+   what is the best Scheduling algo that will give best throuh put
+  Analytical:
+
+   Good  and very intersting to solve..
+
+   1 10 58 ____  Ans: 3^n+7^n --> 3^3+7^3
+
+  If i can remember they i will send you...
+
+
+ALL THE BEST.. That's all about the my fight with Mentor.....
+
+Be confident on Compilers, OS and Computer Archi and C,C++.
+
+Try to explain them , what ever you have done,
+
+They will see the ur enthusium, how u r trying to explain ( use some 
+paper
+).
+
+ALL THE BEST ra  Krishna... GOOD LUCK..
+
+Bye
+Uppala Babu
+                    
+
+On Sun, 10 Aug 2003, jayakrishna reddy wrote:
+
+> 
+> Hi babu,
+> 
+>  
+> 
+> I am happy to see your mail.Anyhow congrats for getting into good 
+company.
+> 
+>  
+> 
+> Mentor graphics is coming here on 20th of this month.So we (our 
+classmates here also) would like to know the complete details about 
+the written test and interview from morning to good night.Dont miss 
+not even one second.
+> 
+> Bye
+> 
+> CONGRATS
+> 
+>  
+> 
+> Your friend
+> 
+> JKReddy
+> 
+> 
+> ---------------------------------
+> Do you Yahoo!?
+> Yahoo! SiteBuilder - Free, easy-to-use web site design software
+--- End forwarded message ---
+

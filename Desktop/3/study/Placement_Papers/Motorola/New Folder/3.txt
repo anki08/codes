@@ -1,0 +1,136 @@
+moto99:-->>>
+
+TOROLA 99 (46 questions , no -ve marking)
+
+  1. out of 1800 coins one is lighter than others and in howmany attempts u
+  can find that
+  odd one? ans:7
+  2. out of 52 cards two are drawn consecutively. what is the probablility
+  to get black king &
+  black queen ? ans: 2/663
+
+  3. 1,2,3,5,8, ..? ans: 13
+  4. out of 100 students in the class 60 take hindi ,55 social, 65 english.
+  Howmany
+  students passed in atleast 2 subjects?
+  5. 3 4 13
+  - ? -
+  6 7 16
+  ANS: ? = 1
+  6. h i n d find the odd man out ? ans: i (vowel)
+  7. word1: word2 then motorola: ? ans: replace m o r l
+  by respective letters in word2.
+  8. 6 1 2 7
+  12 ?
+  2 3 11 1
+  ans: add 1+2+11+7
+  9. O(n), O(n2), O(n3), O(n4) what is the overall complexity ?
+  Ans: orde of n power 4 O(n4).
+  10.for(i=0:!<m;i++) what is the expression to access the array from last
+  element ?
+  ans: a[m-i+1]
+  11. 2 4 6
+  6 10
+  ? ans: 16
+  12. queston on floors in building. srinivas lives on .....
+  ans: 11 th floor.
+  13. BIRD:HIPK::EMCR: ? ANS:ZLUP ( SEE THE VALUE IN WORD2.)
+  - - - -
+  14-16. There are 2 analytic questions (6marks each)
+  There are 3 drink items (c m t )& 5 food items (p q r s t u). one
+  has to take
+  2 drink items and 3 food items. The pairs that shuld not be
+  taken are given.
+  (cp ps pt etc)
+  Q1) if he takes c what others can be taken ?
+  Q6)what he can take ? ans: u (no condition is given on u)
+  20-25) Analytic question based on positions .
+  A is above c&d, Q is below c, Q is middle of r&c etc.
+  now u can answer the 6 questions once u find the corresponding
+  positions of letters.
+                mbt - 1999 - delhi
+
+        this is vaddadi srinivasa rao.
+
+
+                        arthamatic section
+
+        1.  if a boat is moving in upstream with v1 km/hr and in the down
+        stream it is moving with v2 km/hr then what is the speed of the
+        stream
+        ans : 13 check the values of v1 and v2 are given to find ans (v+s=v1,
+        v-s=v2 find the boat velocity)
+        2. .75*.75*.75-.001
+           -----------------
+           .75*.75-.075+.001
+        3. A can work done in 8 days
+           B can work three timesfaster than the A
+           C can work five times faster as the A
+           ans  : 8/9 it is correct place blindly
+        4. one ans is 200/3 % it is perfectly correct weconnect recollec the
+           prob. so place it blindly.
+        5. a car is journied a certain distence in 7 hrs in forward journey
+        in the return journey increased speed 12km/hr takes the times 5hrs.
+        what is distence?
+        ans     : 210 it is perfect place blindly.
+        6.  instead of multi. by 7 to a number dividing by 7 what is the
+        percentage of error.
+        ans     : we dont know but he has dgived 14, 18, 25 and some ans less
+then
+        7.  x + 4y
+           ---------  relation between x and y is x/2y = 3/2 ie x = 3y findthe
+           x-2y ratio
+           ans  : 7 place blindly
+        8.  a man byes a liquid by 12rs and mixes with 20% of water and sels it
+for
+        rs15 thenhe makes it for in 30% mixture then what is the % of liquid
+with water
+        9.  if a man byes 11t of milk for 12rs and mixes with 20 of water and
+sels it
+        for rs15 then what is % of gain
+        10. a pipe can fill a tank in 30 min B can fill in 28min then if 3/4
+           of tank can be filled by B pipe and after wards both are opened then
+           how much time is requried by both the pipes to fill the tank
+completely.
+           note : the values of A and B may very slitely be ware.
+        11.  on an item a companey gave 25% discount then they get 25% profit if
+it
+         gives 10% discount then what is the profit?
+         ans    : 30% it is correct blindly  place it.
+        this section contain 29 questions
+        now 4 section
+        1. all chairs laugh
+          some birds laugh
+        2. some green are blue
+          no blue is white
+        3. all scientists are fools
+           all fools are literates
+        only these qus see rs agarwal reasoning verbal and nonverbal book
+        new edition as the page numbers ------
+        ansers he changed slitely see.
+        from 2fig. 6 questions regording the swimmers,girls,tennis players, tall
+        and
+        second one on politicians , grauduates ,parliment members,both qus are
+same
+        given so mugup and go to exam and place blindly .
+        series  :(1) R,M (...) , F,D,(...)
+        ans     : I,C
+        2. (...) , ayw,gec ,mki,sqo
+        ans     : usq
+        3. 1,3,4,8,15,27
+        ans     : 35
+        4. 0,2,3,5,8,10,15,17,24,26,....
+        ans     : 75
+        these are currect ans place blindly.
+        the fig. series
+        box type in side the box line and dot.
+        this type see in the new edition rs agerwal a box is their in the ans
+        so try for qus in  rs agerwal
+        see rs agerwal for statements and assumptions qus.
+        cut off will be around 30 out of 105 Bso place only the known problems
+so
+        place only correct problems.
+        the above 35 qus are enough to qualify
+        remaining ans if know then place it.
+        other wise simply leave it.
+

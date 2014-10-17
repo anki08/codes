@@ -1,0 +1,142 @@
+Hi friends,
+I am sending the paper of wipro.
+If any of u has any idea about analog devices please
+mail me
+
+wipro 2002(REC WARANGAL)
+
+1. Questions on prefix &amp; postfix notation
+
+prob 1: (A+B)*C-(D+E)/f
+PROB2 : (A+B)*(C+D-E)
+
+
+3. Language which require compiler  
+
+a) .. b)....                sol : cobol
+
+4. Octal equivalent of (178)10 = 262
+
+5. No of layers in TCP/IP protocol        sol: 5
+
+6. NO of binary digits to be grouped to obtain hex
+equivalent   sol : 4
+
+7. main()
+{
+extern int a;
+a=20;
+printf("%d", sizeof(a));
+}
+a) 2     b) 4    c) compiler dependent       d)error  
+   ans: c
+
+8.  main()
+{ int x=40;
+      {	int x=20;
+	printf("%d",x);
+       }
+printf("%d",x);
+}
+
+a) 40,20     b)20,40        c)error      
+
+
+9.  main()
+{
+extern int i;
+printf("%d",i);
+}
+int i = 20;
+
+a) error     b)garbage value     c)20
+
+10. Unix is written in which language         sol : c
+language
+
+11. The data related to processes is stored in
+a) Registers
+b) process table
+d) file table
+
+12. Registers are used for 
+
+a) data transfer
+b) data hold
+c) data receiving
+d) all
+
+13. Mnemonics into machine language
+
+a) Assembler
+b) compiler
+c) interpreter.
+
+
+and  many questions from  papers of rec surat and RIT
+etc..
+
+APTITUDE.......................................
+
+There is no quanta..    only question of
+passage..,logical reasoning
+concentrate on gre baron's, CAT    rather than R.S.
+AGARWAL.
+
+
+examples..
+   
+
+sugar is sweet.   Honey is sweet.     sugar is honey.
+.......7 questions of this type.
+
+In shakespear novel they found ________________ 
+a)flaw
+b)mistake
+c)wrong
+...........this question was repeated in all the 3
+sets with same answer set.
+
+
+Due to war ( something like that..)  the country
+situation became______________
+a) unstable
+b)chaos
+c)anarchy
+
+sol : c.
+
+Logic of  some questions
+  1 2 3 4 5 6 7  is represented  as 3 2 1 4 7 6 5 in
+one set.
+
+  7 1 6 2 5 3 4   in another set.
+
+example:  october is represented as roecbto then
+january as __________
+
+
+
+In some arthematic  '+' is represented as '-' etc..
+
+
+If d=1 i=2 c=3 like  that .. then represent
+dictionary.
+
+
+
+  BEST OF LUCK GUYS...........     REFER THE PREVIOUS
+PAPERS OF 2002.
+
+
+
+ From our college 12 members got selected out of which
+4 guys from electrical
+ 5 guy   cse  and 3 guys from ece.
+I am also one of the member.
+bye
+pavan
+
+
+
+

@@ -1,0 +1,73 @@
+
+___________________________________________________________________________________
+
+COMPANY NAME : PERSISTENT (PSPL)
+------------------------------------------------------------
+DATE OF TEST : 22 Feb 2004
+------------------------------------------------------------
+PLACE OF TEST: 
+------------------------------------------------------------
+MODE 	   : Off-Campus
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+-----Original Message-----
+From: pradeep 
+Sent: Monday, February 23, 2004 12:42 PM
+To: CHETANA-JOBS@yahoogroups.com
+Subject: [CHETANA] (pattern) Persistent Systems
+
+
+Hi! chetana madam & all
+Yes'day, I have attended the persistent written test.
+  
+The paper consists of 2 test.
+Test 1 -- consists of only technicalobjective questions, It has six 
+sections & each have 5 Qns. 
+   THe sections are -- 
+  1. C Programming( in which some C Qns are there)
+  2. Theory ( Qns from Compiler toc etc.)
+  3. General( Qns from probability etc.)
+  4. OS(Qns from OS, like 5 processes are given with their burst & 
+some scheduling policy is also given, now find out when process P is 
+completed)
+5. Database ( Qns from Normalisation, Transactions etc)
+6. Data Structures
+   
+  Qns are pretty simple. one Knowing only the basics can be able to 
+clear the exam. Just go through C language part in some detail.
+
+Test 2--- Consist of only 1 Qn for program. In this we have to make 
+a C program.
+   Qn is that there is a binary tree , a node having three pointers --
+Left child, right child, parent. Now the problem is to delete the 
+tree in top-down fashion ie First delete parent & then child.
+
+In previous paper, the Qn ask in this section is that---
+      To take a string from the User & then arrange the characters in 
+that string in ascending order like if user enters "babcac" the 
+program should print it as "aabbcc"
+
+The test is very simple just go thru the basics of OS, DBMS & data 
+structures. & concentrate over C programming. It is very essential.
+
+Bye
+Pradeep
+
+___________________________________________________________________________________
+Visit: "www.chetana-jobs.com" for Previous Papers
+--------------------------------------------------------------------
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

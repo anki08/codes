@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+void fun(int ,int );
+int i,j;
+fun(i++,j++);
+clrscr();
+printf("%d       \n%d",i,j);
+getch();
+}
+void fun(int i,int j)
+{
+i++;
+j++;
+}
+ANS: ERROR IN PROGRAM

@@ -1,0 +1,330 @@
+                 dis paper is what we got from some other college 
+but this is of this year 
+go thru it
+the pattern wsa same but
+i have`nt seen this paper but
+but there were only 12-13 ques technical
+baaki aptitude 
+5-6 questions were on "people on some .... island say..that much truth
+somebody says he belongs 2 this island then is he right and 
+something......
+aptitudes were easy but something different
+u`ll do them but progress carefully
+technical were from basics of DBMS,operating s/s(mostly unix)and some 
+programs of c & c++
+actually what we have noticed is that in all the colleges the pattern 
+is same but questions r different
+in our college it was IBM GLOBAL,GURGOAN that visited 
+in ur college it must be banglore branch so do ask ur neighbouring 
+colleges better ask arpit (IIIT HYDERABAAD GUYS)all i remember is that he 
+said 20 apti nad 20 technical but there was upper cutoff 
+but i don`t think that we had upper cutoff in our callege 
+14 were shotlisted out of around 35-40 good enough
+chal bye
+nish
+
+  
+There are 40 questions in all. I don’t remember all questions.
+
+ 
+
+1. A Can do a piece of work in 6 days, B in 8 days. With the help of C, 
+they finish a piece of work in 3 days.  Out of a total of   Rs.640, 
+what is C’s Share?
+
+Ans.80
+
+ 
+
+2. Article sold at a gain of 10% - article sold at 10% loss = 80. What 
+is The Cost Price? 
+
+Ans.400
+
+ 
+
+3. A fruit Contains a seed in it. The Radius of the fruit is double 
+that of  seed.  How much more pulp Does fruit  Contain than the Seed?
+
+Ans.7 times
+
+ 
+
+4. For the following problem, I don’t remember the value of x,y,z
+
+         In a war, x% lost eyes, y% lost legs, z% lost ears.
+
+         How many lost all the Three?
+
+Ans.25%
+
+ 
+
+5. How many times in a days does hands of clocks coincide? 
+
+Ans.22 time
+
+ 
+
+6. Which of the following may be the sum of 3 Consecutive Prime 
+Integers?
+
+Ans.49,59
+
+ 
+
+7.A Grand father has 3 children. That 3 children have age gap of 2 
+years between them.
+
+Which of the following may be Grandfather’s age
+
+Ans.81
+
+ 
+
+8. There are  20 pairs of White and 20 pairs of black socks. Suppose a 
+person draws socks at random in dark. How many minimum socks should he 
+draw in order to ensure he has atleast one pair?
+
+Ans.3
+
+ 
+
+9----13  Questions on Pie Chart 
+
+(Refer General Aptitude by R.S Agarwal Data Interpretation  Q.No 10, 
+Page No : 510)
+
+ 
+
+
+45 deg        eng          55 deg                             hin                                            
+soc
+
+                                    90 deg  110 deg            scie                                                      
+mat       60deg
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I don’t remember the Exact Degrees for each Sector. It is given that 
+the candidate 
+
+scored 540 in all.  Based on that they gave some Questions.
+
+ 
+
+14. Suppose u r in a room surrounded on 4 sides with mirrors.  How many 
+Images are formed on the mirrors?
+
+Ans. Infinite
+
+ 
+
+15. Given time of upstream = time of down stream.  Speed of boat in 
+still water is given.
+
+Distance traveled while upstream  and distance traveled while moving 
+thru downstream are given. What is the Speed of stream.
+
+ 
+
+ 
+
+16. What is the Order of Gauss Jordan  Method?
+
+ 
+
+17. Question on Paging
+
+ 
+
+18. Which of the following is an example of  Real Time Systems? 
+Robotics
+
+ 
+
+19. Best Throughput Algorithms: SJF
+
+ 
+
+20. question on const char * p= “India”
+
+                        const*char q= “ Great”
+
+                which of the following are valid?
+
+ 
+
+                        P=”srilanka”;
+
+                        P[0]=”A”;
+
+                        Q=”Australia”
+
+                        Q[0]=”R”;
+
+ 
+
+                               
+
+ 
+
+21. Which of  the following is fast accessible memory?
+
+Ans.Cache
+
+ 
+
+22. See test ur C skills….. Bitwise operators chapter 
+
+Question no.14.18
+
+Printf(“%x”,-1>>4);
+
+ 
+
+23. what is the binary equivalent of 0.4375?       
+
+ 
+
+24. 1 Re. Given for 10 years at 10% Compound interest amounts to ?  
+(1.1)power 10
+
+ 
+
+25.  problem on ternary operator.
+
+Ans.1
+
+
+
+apptitude:
+1. If A can do a particular work in 8 days. B can do the work in 6 
+days. By C joining with them, they can finish the work in 3 days. 
+If Rs.640 was paid to them, what is the share of C?    80
+
+2. By selling a product a seller is gaining 10% on selling price. 
+If he sell that product Rs.80 less, he would have been losing 10%. 
+What is the cost price?           
+400
+3. If A dricer drives a car four times a lap 10,20 30,60 kmph what 
+is his average speed.           20
+
+4. If M persons are going for a party, then their share is $D. If 
+three persons were absent, then how much share will be increased 
+for each individual.
+(Solution : Average = D/M. Three absent New average = D/M-3
+Increase = Newaverage - Average = D/M-3 - D/M )
+
+5. If the radious is increased by 50%. How much will be the volume 
+increased for a circle / Sphere in percentage.      sphere=237% or19\8   
+circle=125%
+
+6. One person is wearing Black and White shoes as his pair. If he 
+is having 20 white and 20 Black shoes. What will be the less 
+number of time he have try to take his correct pair of shoes.
+
+7. The age of the grand father is the sum of his three grandsuns. 
+The second is 2 year younger than first one and the third one is 2 
+year younger than the second one. Then what will be the age of the 
+grandfather.
+
+8. in a grass field, If there are 40 cows, they could eat for 40 
+days. If there are 30 cows, they could eat for 60 days. Than if 20 
+cows, How much day they could eat?       120
+
+9. If the size of the fruit is two times the size of the seed. 
+Then what is the volume of the seed. (derive general equation)    v 
+ofseed *7 =v ofnonseed pulp  
+
+10. Speed of boat in still water 10 kmph.If the boat takes 24hr in 
+up stream and 16hr in down stream to cross the same distance, then 
+what will be the distance covered.       192+192km
+
+11. How many times do the hands of the clock coincide in a day?
+
+12. If a person is standing in room, that is having mirrors in all 
+the four walls. How many images of the person will appear.  infinite
+
+Technical.
+
+1. main()
+{
+printf("%u",main);
+}
+what will be the output?
+
+2. main()
+{
+int 1,b;
+int con;
+1=b=2;
+con (b==1) ? 1 : 0;
+printf("%d",con);
+}
+what will be the value of con?
+
+3. Software Configuration Management process is --------------
+
+4. Data Integrity constraint is ----------------------
+
+5. Paging is ------------------------
+
+6. What type of memory could be accessed in least time?
+8. What is the output of the following program
+
+main()
+{
+printf("%u", main);
+}
+
+
+After the written test, I had a technical cum HR interview.
+
+In the technical part, they asked me a lot of questions on my final 
+semester project. They also asked me questions on DBMS, SDLC, OOPS 
+concepts etc.
+
+The questions which I remember are
+
+1. What is the most important thing in database design?
+2. Explain normalization technique as u would explain to a 
+common man? 
+3. What are the steps in SDLC?
+4. Which is the most important step in SDLC?
+5. Is documentation a waste of time?
+6. Draw a flowchart to find a number from an array.
+7. What is error detection and where will u do it?
+
+As for the HR part they asked me questions on my background. They 
+also gave me a couple of situations like
+
+if u get an offer from the 3 top companies which one would u choose?
+After u joined IBM if u get a better offer from another company what 
+will u do?
+

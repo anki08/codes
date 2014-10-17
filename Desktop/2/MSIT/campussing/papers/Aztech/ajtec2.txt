@@ -1,0 +1,146 @@
+ 
+  
+ 
+       
+  
+Sample Papers of Aztec
+
+Section A
+
+The following questions are taken from the book--Puzzles & Teasers by George J. Summers.We have provided you with a few questions so that you get a clear idea of the pattern.
+1.One of the following is my secret word : AIM  DUE  MOD  OAT  TIE.With the list in front of you, if I were to tell you any one of my secret word, then you would be able to tell me the number of vowels in my secret word.Which is my secret word?
+Ans.TIE
+
+2.In the following figure:A  B  C
+                                              D
+                                              E   F  G
+                                                       H
+                                                       I
+Each of the digits 1, 2, 3, 4, 5, 6, 7, 8, and 9 is:
+a)Represented by a different letter in the figure above.
+b)Positioned in the figure above so that each of A + B + C,C + D +E,E + F + G, and G + H + I is equal to 13.
+Which digit does E represent?
+Ans.E is 4
+
+3.One of Mr. Horton,his wife,their son,and Mr. Horton's mother is a doctor and another is a lawyer.
+a)If the doctor is younger than the lawyer, then the doctor and the lawyer are not blood relatives.
+b)If the doctor is a woman, then the doctor and the lawyer are blood relatives.
+c)If the lawyer is a man, then the doctor is a man.
+Whose occupation you know?
+Ans.Mr. Horton:he is the doctor.
+
+4.Here is a picture of two cubes:
+                                                
+                                        
+  a)The two cubes are exactly alike.
+  b)The hidden faces indicated by the dots have the same alphabet on them.
+Which alphabet-q, r, w, or k is on the faces indicated by the dots?
+Ans.q
+
+5.In the following figure:
+                                    A              D
+                                    B      G     E
+                                    C             F
+
+Each of the seven digits from 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9 is:
+  a)Represented by a different letter in the figure above.
+  b)Positioned in the figure above so that A*B*C,B*G*E, and D*E*F are equal.
+Which digit does G represent?
+Ans.G represents the digit 2.
+
+6.Mr. and Mrs. Aye and Mr. and Mrs. Bee competed in a chess tournament.Of the three games played:
+  a)In only the first game werethe two players married to each other.
+  b)The men won two games and the women won one game.
+  c)The Ayes won more games than the Bees.
+  d)Anyone who lost game did not play the subsequent game.
+Who did not lose a game?
+Ans.Mrs.Bee did not lose a game.
+
+7.Three piles of chips--pile I consists one chip, pile II consists of chips, and pile III consists of three chips--are to be used in game played by Anita and Brinda.The game requires:
+  a)That each player in turn take only one chip or all chips from just one pile.
+  b)That the player who has to take the last chip loses.
+  c)That Anita now have her turn.
+From which pile should Anita draw in order to win?
+Ans.Pile II
+
+8.Of Abdul, Binoy, and Chandini:
+  a)Each member belongs to the Tee family whose members always tell the truth or to the El family whose members        always lie.
+  b)Abdul says ''Either I belong or Binoy belongs to a different family from the other two."
+     Whose family do you name of?
+Ans.Binoy's family--El.
+
+Section B 
+C programs are asked in this section 
+1.Write a program to insert a node in a sorted linked list.
+
+2.Write a program to implement the Fibonacci series.
+
+3.Write a program to concatenate two circular linked lists into a single circular list.
+
+4.A function even_odd_difference()passes the array of elements.Write a program to calculate the difference of the two sums of which one sum adds the elements of odd ones and another adds the elments of even ones.
+
+5.Write a program to reverse a linked list.
+
+Section C
+Questions on C++ are asked here
+Base class has some virtual method and derived 
+class has a method with the same name. If we initialize the base class pointer with derived 
+object,.calling of that virtual method will result in which method being called?  
+a. Base method 
+b. Derived method..
+Ans. b
+
+Almost all questions are of this kind. Go through virtual functions concepts in C++ and how the pointers to functions would be handled. 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

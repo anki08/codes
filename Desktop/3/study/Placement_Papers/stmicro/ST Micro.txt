@@ -1,0 +1,43 @@
+Hello Sudhir and all my dear friends,
+I have attended ST Microelectornics interview but to my misfortune I was unable to clear it as I havent heard from them . It been a week since I have appeared.( I have done my BE in Comp Engg)
+ 
+Well ! The questions asked were as :
+ 
+1) How do you diffenrentiate between memory mapping and I/O mapping ? He asked me to write down that...
+2) Have you implemented any ISR ? If yes then write the sequence of instructions.
+3) Many C related concepts ...use of const , virtual and other constructs.
+4) Prepare pointers very thoroughly He will ask you sure questions on pointers and may evn ask to write down a code for that too ?
+5) About your final year project ? 
+
+But a word of caution Plz its a big one and be prepared bfore you go Coz I hace heard that ST interview lasts very long and there are many rnds . but I had only 3......
+ 
+Best Of Luck,
+Regards,
+Arun
+
+
+( Info )
+ 
+Hello Friends,
+ 
+I have attended the interview at ST . I have done my BE in Comp Engr from Pune Univ and I am a resident of ghaziabad.
+ 
+There were 2 ppl who took my interview..
+Questions asked by 1st:
+1) What do you mean by memory mapping and I/O mapping ? Write down.
+2) What do u know abt ISRs ? What is the sequence of instructions and steps followed ?
+3) Which micro-controllers have u studied ? and ther addressing ( memory)
+There were many questions like that pertaining to Computer Architecture .
+Then he switched to C : Wher he asked various constructs and was very particular about pointers in C.... Get the ideas very clear..... I was sued here....
+ 
+Then The 2nd interviewer came and he asked :
+1) Abt my project of final year. Languages and subjects studied.
+2) He asked me to write a program and explain various issues related to pointers...... Again this was my weak point.........
+3) He was basically concerned with C and programming and was asking me general questions as well.
+ 
+ 
+Well ! This was all about interview.... I have not heard from them since a week or two ..... Maybe I am not selected but my spirits are high and I look forward to new job openings...
+ 
+Regards and thanks to Chetana Madam,
+Arun
+

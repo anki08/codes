@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD><TITLE>CSE Department's Web-mail Service</TITLE>
+</HEAD><BODY BACKGROUND="/backgrounds/shade_sky.jpg"><CENTER><H3>CSE Department's Web-mail Service</H3><IMG SRC="/icons/bars/colorlin.gif"></CENTER><FORM METHOD="POST" ACTION="http://www.cse.iitk.ac.in/cgi-bin/atdot/messact.pl" ENCTYPE="application/x-www-form-urlencoded">
+<INPUT TYPE="hidden" NAME="SESSIONID" VALUE="34V9zcnWEWS7M"><INPUT TYPE="hidden" NAME="FOLDER" VALUE="POP"><INPUT TYPE="hidden" NAME="MESSAGES" VALUE="48"><INPUT TYPE="hidden" NAME="MESS" VALUE="From: Mayank Choubey &amp;lt;mayankc@cse.iitk.ac.in&amp;gt;
+To: mtech2001@cse.iitk.ac.in
+Date: Fri, 2 Aug 2002 22:01:42 +0530 (IST)
+Subject: Companies likely to visit iitk in august
+
+
+
+hi,
+
+These are the companies likely to visit iitk in august and allowing mtech
+cse - 
+
+1. Mentor Graphics 11 Aug
+2. Veritas 12 Aug	
+3. Fluent 12 Aug
+4. New Mexico Tech. 17 Aug ( ppt for CSE scholarship )
+5. Kirloskar Bros. ( date not confirmed)
+
+-- Mayank.
+"><PRE>From: Mayank Choubey &lt;<A HREF="http://www.cse.iitk.ac.in/cgi-bin/atdot/options.pl?SESSIONID=34V9zcnWEWS7M&TO=mayankc@cse.iitk.ac.in&BUTTON=Send%20Mail%20To">mayankc@cse.iitk.ac.in</A>&gt;
+To: <A HREF="http://www.cse.iitk.ac.in/cgi-bin/atdot/options.pl?SESSIONID=34V9zcnWEWS7M&TO=mtech2001@cse.iitk.ac.in&BUTTON=Send%20Mail%20To">mtech2001@cse.iitk.ac.in</A>
+Date: Fri, 2 Aug 2002 22:01:42 +0530 (IST)Subject: Companies likely to visit iitk in august
+
+
+hi,
+
+These are the companies likely to visit iitk in august and allowing mtech
+cse - 
+
+1. Mentor Graphics 11 Aug
+2. Veritas 12 Aug	
+3. Fluent 12 Aug
+4. New Mexico Tech. 17 Aug ( ppt for CSE scholarship )
+5. Kirloskar Bros. ( date not confirmed)
+
+-- Mayank.
+</PRE><BR><CENTER><IMG SRC="/icons/bars/colorlin.gif"></CENTER><BR><TABLE WIDTH="100%"><TR>
+<TD WIDTH="25%" ALIGN="LEFT" VALIGN="TOP">
+<INPUT TYPE="submit" NAME="BUTTON" VALUE="Delete"></TD><TD WIDTH="25%" ALIGN="CENTER" VALIGN="TOP">
+<INPUT TYPE="submit" NAME="BUTTON" VALUE="Reply"></TD><TD WIDTH="25%" ALIGN="CENTER" VALIGN="TOP">
+<INPUT TYPE="submit" NAME="BUTTON" VALUE="Forward"></TD><TD WIDTH="25%" ALIGN="RIGHT" VALIGN="TOP">
+<INPUT TYPE="submit" NAME="BUTTON" VALUE="Redirect"></TD></TR>
+</TABLE>
+</FORM><TABLE WIDTH="100%">
+<TR><TD WIDTH="33%" ALIGN="LEFT" VALIGN="TOP">
+<FORM METHOD="POST" ACTION="http://www.cse.iitk.ac.in/cgi-bin/atdot/checkmail.pl" ENCTYPE="application/x-www-form-urlencoded">
+<INPUT TYPE="hidden" NAME="FOLDER" VALUE="POP"><INPUT TYPE="hidden" NAME="SESSIONID" VALUE="34V9zcnWEWS7M"><INPUT TYPE="submit" NAME="BUTTON" VALUE="Check Mail (Inbox)"></FORM></TD><TD WIDTH="33%" ALIGN="CENTER" VALIGN="TOP">
+<FORM METHOD="POST" ACTION="http://www.cse.iitk.ac.in/cgi-bin/atdot/options.pl" ENCTYPE="application/x-www-form-urlencoded">
+<INPUT TYPE="hidden" NAME="SESSIONID" VALUE="34V9zcnWEWS7M"><INPUT TYPE="submit" NAME="BUTTON" VALUE="Send a Message"></TD><TD WIDTH="33%" ALIGN="RIGHT" VALIGN="TOP">
+<INPUT TYPE="submit" NAME="BUTTON" VALUE="Logout"></FORM></TD></TR></TABLE><CENTER><FONT SIZE="1">Powered by <A HREF="http://www.atdot.org/">AtDot</A></FONT><BR><BR><IMG SRC="/icons/bars/colorlin.gif"></CENTER></BODY></HTML> routers

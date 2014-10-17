@@ -1,0 +1,167 @@
+
+These are the trilogy interview questions asked from three people that
+were selected later.
+
+---------------------------------------------------------------------------------
+
+First Round
+-----------
+1. Given two sets P(having m elements) n Q(having n elements),
+a) Find the union of the two, where union is the only operation
+defined on it.
+b) Possible data structure used to do that.
+
+Sol: 
+a)Perform merge sort on individual set, with the complexity as O(p
+logp) where p is max(m,n).
+Then sort these two into one, using the same. This step will have
+complexity O(m+n).
+So total complexity would be O(p logp)
+
+b) Binary Search Tree. Assuming m > n, take each element from tree (of
+n elements) and insert 
+into another, if the element is not already present. He told me to
+reduce the number of comparisons 
+further, which I was not able to do.
+
+
+2. a) Given a binary search tree, and pointers of any two nodes in the
+tree, find the least common
+ancestor of the two nodes. 
+Eg:
+
+6
+/ \
+4 7
+/ \ \
+2 5 9
+
+so if we have the pointers for the node having value 2 and 7 the least
+common ancestor would be 6.
+if we have pointers for node value 2 and 5, it would be 4.
+
+Sol: Starting from root compare the values at both the pointed nodes.
+If both have values less than the value
+at root, then both lie at left so go to the left child. If both have
+the value greater than root, goto right child.
+Otherwise this node is the least common ancestor.
+
+b) Do the same if its not a binary search tree, but just a binary
+tree, given the pointer to parent for each node.
+Sol: Find the level of both the pointed nodes. If they are at same
+level, go up the tree, till both share the same 
+parent pointer. If at different levels, bring them to the same level
+and apply the above method. 
+To find the level of each node, starting at that node, go up the tree
+till it matches with the root pointer.
+
+c) Code the above solution.
+
+Second Round
+------------
+1.a) Given a binary tree, flatten it in a linked list such that the
+nodes are stored as root, left, right.
+
+Eg:
+6
+/ \
+4 7
+/ \ \
+2 5 9
+
+the list would be 6->4->7->2->5->9
+
+Sol:
+this is bfs on the tree. He asked me not to use any other extra
+storage, that is the tree should be converted
+to list in place. So what you do is, change the left pointer to the
+list pointer and set the right one to null. 
+
+b) Code this.
+This involved, taking care of keeping a copy of the pointer before
+setting it to null and some small small things.
+
+2. Given two locations A and B serial communication occurs between the
+two. A has sent a binary file to B. 
+Now B has to check whether that file has a single bit error and if so
+correct it. No extra bit, like parity 
+bit can be sent by A. The number of bits transferred between the two
+locations for detecting and correcting 
+the error is the complexity of the algorithm. 
+
+Sol:
+B will count the number of 1's in the file that it has and will ask A
+whether the file had even number of 1's or not?
+If the results match there is no error(remember there can only be a
+single bit error). Else B has detected an error in
+O(1) time.
+To correct the error, B will divide the file into two and ask A for
+even 1's for the first part of the file.
+If the results match the error is in the second half, or it is in this
+part only. Now recursively divide this file into
+two and finally you will have just one bit, and you can invert that
+bit for correction. The complexity would be O(log n),
+where n is the number of bits in the file.
+
+3. Give a data structure to store an n-ary tree.
+Sol:
+struct node
+{
+int data;
+node **next;
+}root;
+
+Another solution he asked was
+struct node
+{
+int data;
+node * child;
+node *sibling;
+}root;
+
+All The Best!!
+
+---------------------------------------------------------------------------------
+
+1. You have m-ary tree with n nodes having n distinct values 1, 2, ... , n
+
+Represent the tree in array. Size of array should be n. 
+Construct tree from array ( complexity O(n))
+Write routine to find depth of any node. Find height of tree. Find
+order of both.
+
+2. write a code to generate tree from given preorder and inorder
+sequence of numbers.
+
+3. Write a routine to check that given binary tree is binary search
+tree. (No global/static variables or extra memory should be used,
+other than process stack. ) 
+
+4.Given two nodes in binary tree find path between two nodes. 
+a. Pointer for 'parent' is available in node of tree
+b. 'parent' pointer is not available
+
+5. mtp related questions. 
+
+---------------------------------------------------------------------------------
+
+1. Consider a string in format like "ab,cd,ef". Write a function which
+will return list of lists with elements(ab,cd,ef)
+
+Function prototype will be : 
+char **divideStr(char [],int *size)
+
+*size = No of elements in list of lists
+
+2. Array is A= {a1,a2,a3,....,an,b1,b2,b3,.....,bn}. Transform it such
+that A={a1,b1,a2,b2,a3,b3.....an,bn}
+
+3. Determining cycles in DAG. Return no of cycles and whenever you get
+a cycle print the edge where you got the cycle.
+
+4. Debugging a C program 
+
+
+Note : Program answers can be written in C or C++ or Java
+---------------------------------------------------------------------------------
+

@@ -1,0 +1,166 @@
+
+1) 2 men back to back , walk in opp direction for 4m, turn left & walk
+another 3m, what is the dist betw them when they stop.
+10,5m,4m,6m,15m
+
+2) counting down, first by one place , then by 2 place , then by 3 & so
+no which of these no finish at 0?
+102,103, 104,105,106 //
+
+3) if i had 1 sis i wud have twice as many sis as bro, if i had 1 more
+bro i would have the same no of each. how many bro n sis do i have
+a) 3s,2b
+b) 2,3
+c) 4,1
+d) 2,4
+e) none
+
+
+4) a heavy smoker, worried abt the hi cost of tobaco, decided to
+economize by saving his cigg ends & making new ciggs frm them . he found tat
+each cigg end acc for 1/6 of the whol; he smoked 36 a day. byusing this
+method, how many extra cigg was he able to obtain tis week
+12,4,6,9,8 //
+
+5-8) the owner of toofan , a promising 3 yr ol racehorse , enetered him
+for 5 races last season
+loc-Del, bom, pun, blore,cal
+dt-2,8,11,16,31
+pos-4,6,7,12,13
+
+-the nearest toofan came to being placed in the first 3 was at pona
+-1 of the races tuk plce on jul 8
+-toofan finised 6 no the 16th of the month before blore meet
+-the aug meet at which tofan didnt come 12th, ws at cal; the dt of his
+race there was not the 31st
+-sep was the month when toofan fiised lst in a field of 13
+- the race at bom tuk plac on th 2nd of th mon, but not in jun
+
+5) toofan ran in puna course on the dt:
+8,11,16,2,31
+
+6) the horse came 6ht at
+cal,del,bom,blore,cal,pun
+
+7)in jul toofan came in
+4,6,12,7,13 pos
+
+8)the race at cal was on the ---day of mon
+16,11,8,2,31 nd
+
+9) gold is 19 times as heavy as water n copper 9 times. in what ratio
+these mtals be mixed so that the mixture may be 15 times as heavy as
+water
+3/2,2/3,1/3,2/1,non
+
+10) if it takes 5 min to boil 1 egg, how long it will take to boil 4
+egg
+5,8,2,4,non
+
+11)a fac waz cutting rolls oc cloth ino 1m len, frm 200m rol.how long
+wud it take for the machine to cut the roll if each cut takes 4 sec
+13.27,18.02,12.27,12.42,17.23
+
+12) the village team was all out for 0, each man was out 1st ballit waz
+a 6 ball over agme.hu waz the last batman left n.o.
+8,9,3,7,nun    //
+
+13)who is X?
+3,,6,10,15,X,28
+21,25,22,26,23
+
+14-16) 2 stats r followed by 2 conclusions numbered 1 and 2. assume the
+given stats to be tru, even if they r with variance wit commonly known
+facts. the choose hte correct alternative facts. then choose the
+correct alternative frm among a)i fonly 1, b)if only 2, c)if both and d)dta
+inadequate
+
+14- luv is god. faith is god(so romantic!)
+1-luv is afith
+2-faith is luv
+
+15- n is bro of lolo . t is bro of n
+1-lolo is a boy
+2-lolo is a girl
+
+16- all atheletes r brave . all women r atheletes
+1-all women r brave
+2-some atheletes r women
+
+17- the porter ha dmixed up the room keys. there r 20 rooms . wat is
+the max no of trials req to sort out the keys?
+190,130,140,120,nun
+
+18-a driving schol claims an avg tst pass rate fo 76.8 %. wat si the
+least no. of pupils req to achieve the result
+125,130,140,120,nun
+
+19-a school challeneged a neighbouring school to a hockey match. the
+teem consisits fo 6 boy + 5 girl. the squad consisted of 8boy n 6
+girl.how many diff team the can field
+168,156,123,130,170
+
+20-on particular day a & b decide that they wud either speak the truth
+or will lie. c asks a wether he is speaking truth or lying ? he answers
+and b listens to wat he says. c then asks b wat a has said . b says " a
+says that he is a liar"
+what is b speaking?
+
+tru,lie,tru wen a lies,nun, cant be deter
+
+21- wat is oppp of SE
+NW,SW,N,S,nun
+
+22- can u find the day of the week was jan 12, 1979
+sun,wed,mon,sat,fri
+
+this shud be enough to qualify...do not score too hi or they may think
+u r a very good candidate and reject u as u r likely to leave them
+
+now other part
+
+1- the ratio of 2 sal of 2 employees last yr was 5:6. thisyr the sal of
+the 1st 1 was inc by 500/- and he other was incr by 25% their revised
+asl r also in the same ratio. their sal tis yr r
+2k n 2400,2500 n 3k, 3k n 3600, 1500 n 1800, nun
+
+2- the ann sal of a mgr is 72k, he recvs a bon of 15pc of his
+monthlysal every jun and dec. his avg monthly sal for the yr is.
+7800,6150,6900,7200,6250
+
+3- 2 pipes a n b nan fil a tank in 24 n 30 mins respectively. both r
+turned on together. but at the end of 8 min, the first is turned off. the
+time taken to fill the tank b is
+10, 8,12,16,nun
+
+4- if there r 12 persons in a party, n if each of them shakes hand with
+the other..how many shakes do happen
+860,186,143,66,88
+
+5- the avg of comm of 10 mems is the same as it was 2 yrs ago, after a
+yunger 1 was substituted for 1 of them. how much younger was the new
+member to the old one whom he replaced
+20yr,21yr,18yr,22yr,cant be detr
+
+6- a man rows upstrean at 13km n 28 km down taking 5 hr each wat is the
+speed of current?
+1.2,3,1,5,1.5
+
+7- if the ratio of the speeds r 3:2:1, then the ratios of travelling
+times over these distt r
+1:1:1 2:3:6, 9:3:1,3:1:3 , nun
+
+8- if the ln of the diag of a sqr n tat of the 2nd is
+251,241,332,221,331
+
+9- a man had 2k pat of which he lent at 5pc n rest at 4pc. the whole
+annual inerest recvd was 92/- how much did he lend at 5pc?
+120,8,1k,850,12k
+
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+

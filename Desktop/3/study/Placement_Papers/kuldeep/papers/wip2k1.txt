@@ -1,0 +1,210 @@
+wipro...2000
+                     ------------
+
+
+1.x ray wave
+a-monochromatic b-having many wavelengths a limit c- without limit
+
+2.maths: lim x tends to infinity,
+numerator:intigral zero to infinity(int0toinf) e power x .dx
+denominator:int0toinf e power 2.x.pow(2) .dx
+a-0 b-5 c-4 d-none
+
+3.xsquare-3x-a=0 find the value of a ..is in bet[0,1]
+a.-1 b.1 c.   d.none
+
+4.x=sininverse t,y=log(1-tsquare)
+find dsquarey/dsquaret at t=1/2
+ ans.-8/3
+
+5.lim x->0 cos(1-cosx)/x power 2
+ans. none of these
+
+6.a question paper has two sections of 5 questions each total 10 que to be
+answered only at most 4 q has to be answered from
+ each section.in how many ways this can be done.
+
+7.a rod and man are parallel and rod length of rod=l when rod moved
+parallel the length of rod measured and when man moved parallel to the rod
+same destnce  the rod length measured
+a.equal b. notequal c.cant say  d.none
+
+8.a train at stationary a radio active elt emits alpha particle and is at
+distance x after a time t .now the train is moving at a speed v then the
+distance between alpha and radio active substance....
+
+9.1+2(1+1/n)+3(1-1/n)square ...aum of n terms
+a.n(n+1)  b.n(n-1) c.n d.nome
+
+10.
+1)x pow 3-1=0
+2)x pow 2-1=0
+the value of x can be decided
+a,by state 1 only b.2only c.both.d.neither
+
+11.
+1)a pole height =18ft  2) a man is standing at 12 ft
+and the height is 6 ft caluclatethe shadow height
+a.statement 1is sufficient b.2 is suff c.both d.neither
+
+12.two trains are start a and b points and both travell in opp to other
+dest b and a.which train is moving faster
+c station is nearer to a and both trains meet at that point
+a.1 train is faster b.2nd fast c.we cant tell d. none
+
+13.a speaks 70%truth,b 80%,if a nd b contradict each other what is the
+probability ans>.7*.2+.8*.3
+
+14.in a party ABC are there along with 5 members A speaks before B and B
+speaks before C if all are speakers  what is the probability A will
+speaks first similarly B compared to C
+
+15.two 1 coloumb forces are placed at .5 m distance the force exerted..
+ans>9*10pow 9 N
+
+16.integral((2*x-3)/(x square+x+1)dx)
+=?
+
+,''''''''''''''''''''''''''''''''''''''''''''''''
+                WIPRO    WIPRO    WIPRO         '
+'''''''''''''''''''''''''''''''''''''''''''''''''
+
+
+1)two elements have same atomic no. and same atomic mass.,they are
+called
+     ans...isotones(may be)
+-------------------------------------------------------------------------
+2) a qn. about isomerism.
+-----------------------------------------------------------------------
+3) in a comp. carbon(40%),hydrogen(6.7%),oxygen(53.3%),what is it
+some of the ans. given..CH2O,CH3O,C2H2O2(make use of emperical form)
+---------------------------------------------------------------------
+4)one of the following s not ideal solution.
+ans given are..ethanol+water,phenol+benzene
+--------------------------------------------------------------------
+5)P1V1 comp. is inc. to P2V2 with q heat change,w work change which of the
+following remains const.
+ans given are w,q,w+q,q-w
+----------------------------------------------------------------------
+6)what is the period of [1/2 sin(2t+1)]/PI,here PI stands for math. symb.
+----------------------------------------------------------------------
+7)a paper consists of two sections with 5 qns each,what is the probability
+of answering 6 qns. selecting a maximum of only 4 qns. from any of the
+sections.
+---------------------------------------------------------------------------
+8)one of the qns. in sol. of diff. eqns.
+Y dx- X dy=Y tanx dy.....ans. may be  Ycos x=x
+(two such qns. were asked of such type)
+----------------------------------------------------------------------------
+9)lt x->infinity integration(with limits 0 to x) a fraction with numerator
+as square of([e power x]-1) and
+ denom. as square of ([e power 2(sq. ofx)]-1).
+---------------------------------------------------------------------------
+10)integrate a fraction with nr. as (2x+3)and dr. as square of(sq(x)+x+1).
+---------------------------------------------------------------------------
+11)A will be truth with prob. 0.7 and B with 0.8,what is their prob. of
+conflicting....ans may be  0.42.
+--------------------------------------------------------------------------
+12)2 circles have same radii,what is the no. of intersecting points.
+-----------------------------------------------------------------------
+13)if y=log t and x=inv(sin t),find second differential of y w.r.t x. at
+  t=0.5. 14)if the wave length from x-ray tube is lambda,then that lda. is
+a)>monochromatic b)atmost max. c)atmost min. d)between min. and max.
+--------------------------------------------------------------------------
+15)a group consists of X,Y,Z and other group A,B,C,D. X has differences
+with A,
+A has diff. with B and Z has diff. with C.if a group is to be sent to a
+work with min. 2 persons from each group with cooperative members,and if
+that group has one member A, who are remaining mambers,similarly if one
+member is B who are other.
+-------------------------------------------------------------------------
+16)How can 7 objects be distributed among three persons.
+ a)7C3  b)7P3  c)3 power 7d)7 power 3
+-------------------------------------------------------------------------
+17)Trees give woods,all dogs are trees
+  for above statement to be true 1)dogs give woods
+                                  2)woods used for fuel.
+a)1 is correct b)2 is correct c)both d) none
+---------------------------------------------------------------------------
+18)a summation series numerator sigma(2n+1) ,denom. sigma(n sqr.)
+----------------------------------------------------------------------------
+19)a summation series
+ 1+2(1+1/n)+3 sqr.(1+1/n)+4 cube(1+1/n)....=?
+-----------------------------------------------------------------------------
+20)cube(x)+2x+a has two roots 1 and 0,find a.
+-------------------------------------------------------------------------------
+21)if temp. of two areas atr 20 deg. and 40 deg. their surface areas will
+be in the ratio.
+------------------------------------------------------------------------------
+22)station C is in between A and B.if two trains start from A and B
+ which is true 1)they will meet at C  2)C is near to A
+--------------------------------------------------------------------------
+23)in the following two series
+   17,21,25...    and    16,21,26....
+  find the sum of common numbers up to 100 terms. ans. may be...101100.
+-----------------------------------------------------------------------------
+24)Two persons choose a number between 1 and 25,what is the prob. of their
+choosing same number.   ans. may be   48/125.
+-----------------------------------------------------------------------------
+
+                       TECHNICAL
+                      ------------
+
+1)unit of reluctance.
+------------------------------------------------------------------------
+2)some problems relating to following areas.
+   a)relation between inductance,no. of turns,and current.
+
+   b)relation between flux,current and torque.
+
+   c)biotsawart law,amperes law,lenz law
+
+   d)relation between work done,force,torque.
+
+   e)relation between flux,lumination,lux.
+
+   f)error in power 1 % ,error in current 1.5 %
+     what is error in resistance ..ans may be +-4 %.
+
+    One prob. was given like a person starts from one place goes to north
+then south.........one has to find the distance from original place.
+   Some qns. were also asked in data structures,c.
+
+
+
+
+
+
+
+
+
+     _________________________________________________________________
+
+//computerscience(software)
+1.virtual classes in c++ are? ans:a
+2.left recursive grammar is given(we have to do elimination)ans:d
+3.In rond robin(RR) scheduling if time quantum is too large it degenrates to
+  ans:fcfs
+4.worst case &Best case is nlogn for?
+ans:heap sort
+5.Assignment operator target
+ans:L-value
+6.Translation scheme is
+ans:syntax directed translation
+7.Given graph find essentricity
+8.Network schema?(DBMS)
+9.Given exp in infix, convert to Postfix.
+//General
+1.A man goes first north 2km,takes right
+ans:First right turn-east
+b.Dist between starting &end -2km.
+2.Themodynamics-p1v1,p2v2
+ans:Delta Q
+3.Questions -probability(permutations&combinations)-3 questions
+4.sum of n-terms 1+x+........(type)
+5.Atomic & mass number same
+a.isotopes  b.isomars........
+6.ideal solution is?
+7.cl2+tolune gives
+
+

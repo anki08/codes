@@ -1,0 +1,34 @@
+Amazon Interview Questions
+
+
+1. Print the last "k" elements in a singly-linked list.
+
+2. Find 2 elements in an array, who sum is "K" 
+
+3. 10 Red balls , 10 Blue Balls -- distribute them into 2 bags;
+increase the probability of picking a red ball
+:( 
+
+4. two files are given in which "key","value" pairs are given 
+
+File 1 : 
+
+key1 v1
+key2 v2
+key3 v3 
+....
+
+File 2 : 
+
+key1 v11
+key2 v21 
+.... 
+
+Merge them to get :
+
+File 3 :
+
+key1 v1 v11
+key2 v2 v21 
+
+

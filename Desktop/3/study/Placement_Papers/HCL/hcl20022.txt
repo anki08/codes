@@ -1,0 +1,635 @@
+From: "Saurabh Gupta" <saurabhgupta@mail.ru> | This is Spam | Add to Address Book 
+To: "__pradeep kumar" <vpradv@yahoo.com> 
+Subject: HCL papers 
+         
+ 
+
+
+ 
+ 
+ 
+ 
+hi dosto...
+i got this paper from one of my friends
+check it out...
+wishes...
+ciao
+saurabh
+
+***
+ HCL Tech 
+
+1. WHAT IS DOS-MULTIPROGRAMMING OR MULTITASKING?
+NEITHER. 
+
+2. WHEN INFORMATION IS RETURNED TO PARENT PROCESS DURING WAIT SYS CAL,
+WHAT FIELD OF THE PROCESS TABLE ENTRY OF THE ZOMBIC CHILD ENTRY IS
+WRITTEN TO THE PARENT? 
+
+3. SIZE OF
+CHAR *PTR-2
+CHAR **PTR-2
+CHAR FAR *PTR-4
+CHAR FAR FAR FAR FAR *PTR-4 
+
+4. WHAT IS LATE BINDING? 
+
+5. #DEFINE PRODUCT(A,B) (A)*(B)
+MACRO FOR THE FUNCTION TO CALCULATE THE PRODUCT OF TWO NUMBERS. 
+
+6. WHAT IS THE SIZE OF A DATABUS IN 8086? 
+
+7. WHAT IS A SELECTOR? 
+
+8. WHAT IS THE OUTPUT? 
+
+VOID MAIN()
+{
+INT I=0;
+FORK();
+PRINTF("%d",I++);
+FORK();
+PRINTF();
+PRINTF("%d",I++);
+} 
+
+9. WHAT IS THE OUTPUT WITH I=5?
+PRINTF ("%d %d %d %d ",I++,++I,I,I++);
+7765(TURBO C)
+6655(UNIX) 
+
+10. IN X386 1MB OF MEMORY IS AVAILABLE FOR THE OS,WHILE UNIX KERNEL
+CODE NEEDS MORE THAN THAT. HOW DOES BOOTING TAKE PLACE IN THIS CASE?
+TWO METHODS. 
+
+ZIMAGE IS A COMPRESSED VERSION OF KERNEL CODE. IT GETS LOADED FIRST AND
+THEN EXPANDS TO FILL THE UPPER PART OF MEMORY. 
+
+BZ IMAGE IS NOT AS COMPRESSED AS ZIMAGE. SO A PORTION OF BZIMAGE IS
+LOADED
+WHICH THEN COPIES THE CODE INTO MEMORY AND THEN EXPANDS. 
+
+
+11. WHAT IS MEMORY HIERARCHY?
+REGISTER,PRIMARY CACHE, SECONDARY CACHE,MAIN MEMORY, SECONDARY STORAGE
+DEVICES. 
+
+12. WHAT IS SUBNET MASK?
+N/W | MASK | HOST ---> 
+
+SINCE THE HOST IS SPLIT INTO N/W MASK AND HOST IT IS A SUBNET.
+MASK IS THE NUMBER USED TO SEPARATE N/W AND HOST ID. 
+
+13. WHAT IS THE O/P?
+typedef union
+{
+char a;
+char s[10];
+}un;
+void main()
+{
+un n = "raj"; file://already mem alloc so u must do strcpy
+n.a = 0; file://this means null so string gets terminated. If u give
+65, then
+file://aaj will get printed for next line
+printf("%s",un.s);
+}
+INCOMPATIBLE TYPE CONVERSION AND ILLEGAL INITIALISATION. 
+
+
+14. WHAT IS TSR? 
+
+15. WHAT IS CONCURRENCY? 
+
+16. WHAT IS THE DIFFERENCE BETWEEN UNIX AND LINUX? 
+
+17. WHAT IS MULTIPROGRAMMING? 
+
+18. WHAT IS MULTITASKING? 
+
+19. WHAT IS TASK SWITCHING? 
+
+SAME AS MULTIPROGRAMMING-CAUSED WHEN PROCESS BLOCKS. 
+
+20. WHAT IS A REAL TIME SYSTEM? 
+
+21. WHAT ARE THE OSs YOU HAVE WORKED WITH? 
+
+22. EXANPLES FOR TWO TYPES OF RESOURCES-DEADLOCKS. 
+
+23. WHAT IS THE DIFFERENCE BETWEEN SEMAPHORE AND TSC? 
+
+24. GENERALLY BURFFERS ARE UNLOCKED ACROSS SYSTEM CALLS. TELL ONE
+CONDITION WHERE THIS DOES NOT APPLY. 
+
+WHEN A FILE SYSTEM IS MOUNTED, THE BUFFER INTO WHICH THE
+SUPERBLOCKING IS COPIED IS NOT UNLOCKED TILL THE FILE SYSTEM
+IS UNMOUNTED. 
+
+25. A PROGRAM HAS THREE SUCCESSIVE FORK() CALLS. HOW MANY PROCESSES ARE
+THERE? 
+
+2^3=8 
+
+26. I HAVE A COMPUTER CONNECTED IN A N/W , I/P ADDRESS :
+179,2-200,2,SUBMIT MASK:
+255.255.0.0-FOR BOTH THE SYSTEMS. IS IT POSSIBLE TO PRINT FROM ONE
+COM-
+PUTER TO ANOTHER? 
+
+YES , IF THERE IS A ROUTE IN THE N/W. 
+
+27. APART FROM MONITOR, WHAT ARE THE FACILITIES USED FOR PREVENTING
+SAVE
+CONDITION? 
+
+28. IN TECP/IP WHICH LAYER ESTABLISHES SERVICES?
+TRANSPORT. 
+
+29. DIFFERENCE BETWEEN PROCEDURAL AND OO LANGUAGES?
+PROCEDURAL-PRIORITY TO FUNCTIONS.
+OO CONCENTRATES ON DATA. 
+
+30. PROCESS NOT CREATED VIA FORKS?
+SWAPPERS. 
+
+31. WHAT ARE THE ADVANTAGES AND DISADVANTAGES OF INTERNAL. AND EXTERNAL
+SORTING? 
+
+32. TO CASCADE AN OVERLOADED OPERATOR WHAT MUST BE THE RETURN TYPE OF
+THE
+OPERATOR FUNCTION? 
+
+SAME AS THAT OF THE OPERAND. 
+
+33. HOW MANY PTS ARE THERE ON A DOUBLE LINKED LIST? 
+
+34. MENTION THE APPLICATIONS OF DOUBLY LINKED LISTS?
+MEMORY MANAGEMENT,SYMBOL TALBES. 
+
+35. WHAT IS OSI? WHY IS IT CALLED SO? 
+
+36. CHAR A;
+A= 'XYZ' IS LEGAL. BUT ONLY X IS ASSIGNED TO A; 
+
+37. VARIOUS MEMORY MANAGEMENT TECHNIQUES? 
+
+38. WHAT IS ENUMERATED CONSTANT? 
+
+39. WHAT IS SEGMENTATION? 
+
+40. WAHT IS THE O/P? 
+
+INT X (CHAR *S)
+{
+RETURN 1*?0:1+X(S+1);
+} 
+
+CALCULATES STRLEN; 
+
+41. WRITE A CODE FOR MULTIPLYTING TWO NUMBERS RECURSIVELY?
+INT X(INT A , INT B)
+{
+IF (B==0)
+RETURN 0;
+RETURN A+X(A,B-1);
+} 
+
+42. WHAT IS THE BEST PAGE REPLACEMENT ALGORITHM ACCORDING TO YOU? 
+
+43. ADVANTAGES AND DISADVANTAGES OF USING 8 BIT COUNTER AND COUNTING
+NO. OF OCCURENCES OF THE PAGE? 
+
+44. EXPLAIN FILE SYSTEM STRUCTURE IN UNIX?
+BOOT BLOCK,SUPER BLOCK, INODE BLOCK, DATA BLOCK. 
+
+45. EXPLAIN STRUCTURE OF A FILE. 
+
+46. WHAT IS RECURSION? 
+
+47. WHAT ARE THE TYPES OF SORTING? 
+
+48. WHAT IS A MONITOR? 
+
+49. BASIC DATA TYPE AVAILABLE IN C++ THAT IS NOT AVAILABLE IN C?
+BOOLEAN 
+
+50. CODES FOR FINDING STRLEN-RECURSIVE AND ITERATIVE. 
+
+51. DOES C++ HAVE GARBEGE COLLECTION? 
+
+52. a[J] = j++l- WHT IS THE O/P? 
+
+53. RETURN(N>0)?1.5:2;
+O/P WHEN N=5 AND N=-5.? 
+
+FLOAT BECAUSE 1.5 IS USED.
+54. WHEN A CHARACTER IS STORED WHAT IS THE DIFF IN C AND C++?
+C-STORED AS INT C++ STORED AS CLASS SIMILARLY FLOAT IS STORED AS
+DOUBLE IN C. 
+
+55. WHAT ARE THE THREE PRIMARY CONCEPTS IN OOPS?
+INHERITANCE,ENCAPSULATION,POLYMORPHISM. 
+
+56. WHAT IS A PURE VIRTUAL FUNCTION? 
+
+57. HOW DO U AVOID AMBIGUITY IN HYBRID INHERITANCE? 
+
+58. WRITE A CODE FOR COUNTING THE NUMBER OF NODES IN A BINARY TREE.
+ONLY ONE TRAVERSAL WITH THE INCREMENT OF A STATIC VARIABLE.
+WITHOUT USING STATIC OR GLOBAL VARIABLE CODE FOR NO., OF
+NODE IN A TREE. 
+
+59. WHAT IS DEADLOCK? 
+
+60. TWO TYPES OF HEIGHT BALANCED TREES? 
+
+61. DIFF BETWEEN N/W AND DOS? 
+
+62. EXPLAIN PUBLIC KEY, PRIMARY KEY, ENCRYPTION. 
+
+63.O/P?
+x=y/*z;
+z=x*/*z;
+x=y*z; 
+
+64. WHAT IS DANGLING REFERENCE?
+char *y()
+{
+char a[] = 'dangle';
+return a; file://b'coz it is an array it can't be returned
+hence it is a// addr does get returned if u print single char it
+comes
+file://but if u try ot print entire sring it doesnt.
+}//dangling reference. 
+
+65. char *a = 'abcd';
+char b[] = 'egfh';
+a='xy';//legal;
+b='e';//not legal;
+strcpy(a,'xyz'); file://ok
+strcpy(b,'e');//o.k; 
+
+66. WHAT IS A POINTER? 
+
+67. CODE FOR COMPARING TWO STRINGS? 
+
+68. WHAT IS THE DATA STRUCTURE USED IN MEMORY MANAGEMENT? 
+
+69. ADVANTAGES OF POINTER OVER ARRAY?
+PRE REFERENCE IS FASTER AND FIXED SIZE. 
+
+70. DIFF BET FORK AND EXEC? 
+
+71. BOOT BLOCK? 
+
+72. WRITE ABOUT DOUBLE HANDED CLOCK REPLACEMENT ALG?
+USED IN UNIX 
+
+73. WRITE A CODE TO FIND IF A NO., IS ODD-WITHOUT USING ADD,SUB,MUL,DIV
+?
+BITWISE OPERATOR. 
+
+
+74. GIVEN NUMBER = 110110101011101. TO FIND THE 4TH AND 7TH DIGITS FROM
+LEFT
+AND THE RESULT SHOULD BE 0000000000001101. 
+
+RIGHTSHIFT AND BITWISE OR. 
+
+75. TO DELETE THE NODE POINTED TO BY THE POINTER TRANVERSE ALL THE
+PREDECESSORS. tHEN CHANGE THE LINKS AND THEN DELETE THE NODE.
+THIS CAN ALSO BE DONE WITHOUT REFERENCING THE HEAD NODE TRANSFER
+THE CONTENTS OF THE NEXT NODE TO CURRENT NODE AN THEN DELETE
+THE NEXT NODE. 
+
+76. int count (node *t)
+stack int i=0;
+if (t==null)
+return 0;
+else
+i++;
+if (lptr(t))
+count (lptr(t));
+if(rptr(t))
+count(rptr(t));
+without variable : if (!t) return 0;
+else return 1+count (lptr(t))+count(rptr(t)); 
+
+77. DIFF BET BALANCED AND UNBALANCED TREES. 
+
+
+PUZZLES;
+---------------- 
+
+2. TWO FREIGHT TRAINS, ONE TRAVELLING 20 MILES/HOUR AND THE OTHER AT 40
+MILES/HOUR ARE APPROACHING
+ONE ANOTHER. WHEN THE TRAINS ARE 60MILES APART, A BIRD WHICH WAS
+SITTING ON THE FRONT
+OF THE SLOWER TRAIN STARTS TO FLY BETWEEN THE TRAINS. IF IT FILES AT
+100 MILES/HOUR AND
+WHENEVER IT MEETS ANY ONE OF THE TRAINS IT TURNS BACK TOWARDS THE
+OTHER. HOW FAR HAS
+THE BIRD FLOWN WHEN THE TRAINS COLLIDE? 
+
+THE TRAINS ARE 50MILES APART AND THEY APPROACH ONE ANOTHER AT
+20+40=60MILES/HOUR . THEY COLLIDE AFTER ONE HOUR HAS ELAOSED.
+DURING THIS TIME THE BIRD HAS FLOWN 100 MILES. 
+
+3. AN ARRAY OF 10X1000 ELEMENTS CONTAING THE NOS., 1 TO 1000 IN RANDOM
+ORDER
+ONE NUMBER IS MISSING. HOW WILL YOU FIND THE NUMBER IN A MINIMUM
+NUMBER
+IF SCANS? 
+
+ADD ALL THE ELEMENTS OF THE ARRAY,SUBTRACT THIS VALUE FROM N(N+1)/2. 
+
+4. THERE ARE TWO POLES.
+DISTANCE BETWEEN THE POLES.
+0m. 
+
+5. THERE ARE 12 BALLS ONE BALL IS HEAVIER THAN THE OTHERS HOW WILL U
+FIND IT IN A
+MINIMUM NUMBER OF STEPS? 
+
+DIVIDE THE BALLS INTO THREE SETS OF FOUR BALLS EACH.
+WEIGH TWO SETS NOW WE WILL KNOW THE SET WITH THE HEAVIER
+BALL. THEN ONLY TWO MORE STEPS ARE NEEDED. 
+
+6. U ARE GIVEN 24 BALLS ONE IS HEAVIER, IDENTIFY THE ODD BALL USING THE
+BALANCE NO MORE THAN THREE TIMES. 
+
+1) PUT 1 TO 8 ON TEH LEFT PAN AND 9 TO 16 ON THE RIGHT PAN. IF THE
+LEFT PAN
+GOES DOWN,C HOOSE 9 TO 16 ELSE 1 TO 8 IF THE NEITHER PAN GOES DOWN
+THEN
+CHOOSE 17 TO 24 
+
+2) FROM THE SET CHOSEN PUT 1 TO 8 IN THE LEFT PAN AND 4 TO 6 IN THE
+RIGHT
+PAN. CHOOSE A SET AS BEFORE. 
+
+3) BALANCE ANY TWO BALLS AS BEFORE. 
+
+7. U HAVE 2 UNCALIBRATED JUGS , ONE HOLDING 5 PINTS AND THE OTHER
+HOLDING A
+PINTS AND AN UNLIMITED SUPPLY OF WATER. DESCRIBE A SEQUENCE OF
+OPERATIONS
+THAT LEAVES FOUR PINTS OF WATER IN ONE OF THE JUGS. 
+
+
+ACTION CONTENTS 
+
+FILL S S L
+S ---->L 5 0
+FILL S 0 5
+S----->L 5 5
+EMPTY L 2 0
+S------>L 0 2
+FILL S 5 2
+s----->l 0 7
+FILL S 5 7
+S----->L 4 8 
+
+
+
+Ordering is changed this time.So don't byheart by a,b,c,d. Byheart the
+answers. Pls check answer once again 
+
+*Don't hesitate to answer all. Ever HR knows that Students have
+this qp. 
+
+
+Section II - C Programming 
+
+1. Which of the following about the following two declaration is true
+i ) int *F()
+ii) int (*F)() 
+
+Choice :
+a) Both are identical
+b) The first is a correct declaration and the second is wrong
+c) The first declaraion is a function returning a pointer to an
+integer and the second is a pointer to function returning int
+d) Both are different ways of declarin pointer to a function 
+
+Answer : c) The first de... 
+
+2. What are the values printed by the following program? 
+
+#define dprint(expr) printf(#expr "=%d\n",expr) 
+
+main()
+{
+int x=7;
+int y=3;
+dprintf(x/y);
+} 
+
+Choice:
+a) #2 = 2 b) expr=2 c) x/y=2 d) none 
+
+Answer: c)x/y=2 
+
+3. Which of the following is true of the following program 
+
+main()
+{
+char *c;
+int *p;
+c =(char *)malloc(100);
+ip=(int *)c;
+free(ip);
+} 
+
+
+ans: The code functions properly releasing all the memory allocated 
+
+
+4.output of the following. 
+
+main()
+{
+int i;
+char *p;
+i=0X89;
+p=(char *)i;
+p++;
+printf("%x\n",p);
+}
+ans:0X8A 
+
+5.
+which of the following is not a ANSI C language keyword? 
+
+ans:Function. 
+
+6. When an array is passed as parameter to a function, which of
+the following statement is correct 
+
+choice:
+a) The function can change values in the original array
+b) In C parameters are passed by value. The funciton cannot change
+the original value in the array
+c) It results in compilation error when the function tries to access
+the elements in the array
+d) Results in a run time error when the funtion tries to access the
+elements in the array 
+
+Answer: a) The fu... 
+
+7. The type of the controlling _expression of a switch statement cannot
+be of the type 
+
+a) int b) char c) short d)float e) none 
+
+Answer : d)float 
+
+
+8.What is the value of the _expression (3^6) + (a^a)? 
+
+a) 3 b) 5 c) 6 d) a+18 e) None 
+
+Answer : 5 
+
+9. What is the value assigned to the variable X if b is 7 ?
+X = b>8 ? b <<3 : b>4 ? b>>1:b; 
+
+a) 7 b) 28 c) 3 d) 14 e) None
+ans: 3; 
+
+10. Which is the output produced by the following program
+main()
+{
+int n=2;
+printf("%d %d\n", ++n, n*n);
+} 
+
+a) 3,6 b) 3,4 c) 2,4 d) cannot determine 
+
+Answer : b) 3,4 
+
+11. What is th output of the following program?
+int x= 0x65;
+main()
+{
+char x;
+printf("%d\n",x)
+} 
+
+a) compilation error b) 'A' c) 65 d) unidentified 
+
+12. What is the output of the following program
+main()
+{
+int a=10;
+int b=6; 
+
+if(a=3)
+b++;
+printf("%d %d\n",a,b++);
+} 
+
+a) 10,6 b)10,7 c) 3,6 d) 3,7 e) none 
+
+Answer : d) 3,7 
+
+13. What can be said of the following program?
+main()
+{
+enum Months {JAN =1,FEB,MAR,APR};
+Months X = JAN;
+if(X==1)
+{
+printf("Jan is the first month");
+}
+} 
+
+a) Does not print anything
+b) Prints : Jan is the first month
+c) Generates compilation error
+d) Results in runtime error 
+
+Answer: b) Prints : Jan.. 
+
+14. What is the output of the following program?
+main()
+{
+char *src = "INCREDI_LINK_PLACEHOLDER_15680";
+char dst[100];
+strcpy(srcINCREDI_LINK_PLACEHOLDER_15752  PREVIOUS;            BE GIVEN AND A PROCEDURE TO DELETE
+        STRUCT NEW;                  AN ELEMENT WILL BE GIVEN
+      } 
+     DELETE(STRUCT NODE)
+     {
+       NODE-PREV-NEXT  NODE-NEXT;
+       NODE-NEXT-PREV  NODE-PREV;
+       IF(NODE==HEAD)
+       NODE
+    }
+     IN WHAT CASE THE PREV WAS
+     (A) ALL CASES
+     (B) IT  DOES NOT WORK FOR LAST ELEMENT
+     (C) IT DOES NOT WORK FOR-----
+(2)     SIMILAR TYPE QUESTION
+     ANS: ALL DON'T WORK FOR NON NULL VALUE 
+
+(3) VOID  FUNCTION(INT KK)
+    {
+      KK+=20;
+    }
+    VOID FUNCTION (INT K)
+    INT MM,N=&M
+    KN = K
+    KN+-=10;
+    }
+                     SECTION D
+                      --------
+(1)a=2,b=3,c=6    c/(a+b)-(a+b)/c=?
+(2) no.rep in hexadecimal, write it in radiv 7
+(3) A B C D E
+         * 4
+   ----------   find E   ANS: 13
+   E D C B A
+  ------------
+(4) GRE-MODEL TEST-1, SECTION-6(19-22)
+(5) M HAS DOUBLE AMOUNT AS D, Y HAS RS. 3 MORE THAN HALF OF AMOUNT OF D
+    THE ORDERING  A,B,C        M C D C Y
+         ANS:DATA INSUFFICIENT    D C M C Y
+(6)IN STASTIC MEN CAUSE MORE ACCIDENTS THEN ONE CONCLUSION
+(A) MEN DRIVE MORE THAN  ONCE
+(B) STASTICS GIVE WRONG INFORMATION
+(C) WOMEN ARE CAUTION THAN ME  ANS; C(VERIFY)
+(D)-----ETC
+(7) P,Q,R,S,T,U  -SECURING GRANT;TWO TOURIST PARTIES AND THEN TWO
+SECURITY
+    GAURDS SHOULD GO WITH EACH PARTY
+   
+________________________________________________________________________
+    P AND R-ARE ENEMIES,            Q DOES NOT GO SOUTH
+    P&S-ARE WILLING TO BE TOGETHER
+ ______________________________________________________________________                                                     
+ THE TWO PARTIES MAY GO SOUTH&NORTH RESPECTIVELY
+ AT ONE POINT EACH MAY PASS EACH OTHER THEN GAURDS CAN EXCHANGE
+ 6 Q BASED ON THIS
+ (8)pq-r/s  =2 what is q inference  a,n&d
+ (a) a can do n units of work in strs,a&b can do n units of work in 2
+hrs
+ in how many hrs n units of work ans:3 hr 30 min    p = (2s+r)/q
+                                     ____________ 
+
+main()
+{
+  int var=25,varp;
+  varp=&var;
+  varp p = 10;
+  fnc(varp)
+  printf("%d%d,var,varp);
+}
+ (a) 20,55(b) 35,35(c) 25,25(d)55,55 
+
+ [ c++,c,dbms  interview]
+ [fundamentals]
+  this is new paper
+ 
+

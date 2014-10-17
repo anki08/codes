@@ -1,0 +1,101 @@
+Trilogy written test:
+
+1) Write a function that rotates a string of n
+characters by k?
+void rotate( char a[], int k)
+
+The string should be rotated right.
+Eg., abcd , k = 2 
+Ans: cdab
+if k = 1, it's "dabc"
+
+2) Given a doubly linked list sorted in ascending
+order, Write a function to create a balanced binary
+search tree by modifying the links. The condition is
+you should not use extra space, and algorithm should
+work in-place. write time complexity and space
+complexity of your algorithm.
+
+3)Given a 2D array, in which elements in rows and
+columns are sorted in ascending order. write a
+function 
+to find the whether a given element X is found or not.
+Ur algorithm should be good both in time and space
+complexity.
+
+Soln: use binary search on rows and columns
+simutaneously. O(log(rows * cols))
+
+4)There was some code that finds the least common
+ancestor of given two nodes in a binary tree (Where
+each node has a pointer to its parent), u have to find
+and fix bugs in the code. (I don't remember the code).
+
+
+Interview:
+
+1) A tree has node structure:
+struct node{
+int data;
+node *l,*r;
+int depth;
+};
+write a recursive function that assigns each node the
+value of depth that specifies distance from the root
+node.
+
+Soln:
+void dist(node *root, int i = 0)
+{
+if(root == NULL) return;
+root->depth = i;
+dist(root->l, i+1);
+dist(root->r, i+1);
+}
+
+2) He asked me to write an iterative version of it.
+i.e non-recursive preorder.
+
+void dist(node *root)
+{
+node *temp = root;
+if(temp == NULL) return;
+StackINIT(MAX); 
+temp->depth = 0;
+push(temp);
+while(!stackempty())
+{
+temp = pop();
+if(temp->r){
+temp->r->depth = temp->depth+1;
+push(temp->r);
+}
+if(temp->l){
+temp->l->depth = temp->depth+1;
+push(temp->l);
+}
+}
+}
+
+Note that in iterative version, we have to push right
+node first and then left node. This is because, when
+we pop, we pop the left node first and process it.
+
+3) An array has one element repeated n/2 times, find
+that element.
+
+soln: 
+Find the median, (use logic for finding k th smallest
+element, where k = n/2). Median must be the required
+element.
+
+4)find the median of the two sorted arrays each of
+length n
+soln: use binary search O(log(n))
+
+
+cheers,
+subbu
+
+
+

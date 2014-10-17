@@ -1,0 +1,97 @@
+#include <stdio.h>
+#include <conio.h>
+#include <alloc.h>
+#include <process.h>
+
+struct Node{
+		int data;
+		struct Node *link;
+	   }*temp,*start,*end;
+
+typedef struct Node node;
+
+start=end=NULL;
+
+node* create(int);
+void insert_end(node*);
+void insert_beg(node*);
+
+void main()
+{
+	char ch='y';
+	int i,n;
+	
+
+	do
+	{
+		clrscr();
+		printf("\n\n Enter your choice :\n1. Create a node.\n2. Insert node in the beginning
+			\n3. Insert node in the end\n4. Insert node anywhere 5. exit");
+		scanf("%d",&i);
+
+		switch(i)
+		{
+			case 1:
+				printf("\n\nEnter an integer :");
+				scanf("%d",&n);							
+				temp=create(n);
+				printf("\n Node created. Press any key to continue...");
+				getch();
+				break;
+			
+			case 2:
+				insert_beg(temp);
+				printf("\nNode inserted. Press any key to cotinue...");
+				getch();
+				break;
+			
+			case 3:
+				insert_end(temp);
+				printf("\nNode inserted. Press any key to cotinue...");
+				getch();
+				break;					
+			
+			case 4:
+				insert_any(temp);
+				printf("\nNode inserted. Press any key to cotinue...");
+				getch();
+				break;
+			
+			case 5:
+				exit(0);
+
+			default:
+
+		};
+		
+		printf("\n\n Do you want to continue (y/n)?");
+		scanf("%c"&ch);
+	}while(ch=='y');
+
+	getch()
+}
+
+
+node* create(int n);
+{
+	node *t;
+	t=(node*)malloc(sizeof(node));
+	t->link=NULL;
+	return t;
+}		
+
+void insert_beg(node *t)
+{
+	t->link=start;
+	start=t;
+}
+
+void insert_end(node *t)
+{
+	node *t1;
+	for(t1=start;t1!=NULL;t1=t1->link);
+	t1=t;
+	t1=t1->link;
+}
+	
+											

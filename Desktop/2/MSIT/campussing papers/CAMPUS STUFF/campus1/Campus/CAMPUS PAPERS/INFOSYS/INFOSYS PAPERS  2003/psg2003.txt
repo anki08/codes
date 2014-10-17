@@ -1,0 +1,105 @@
+PSG 2003
+1.A number gives a remainder of 1 when divided by
+2,3,4,5,6 and is divisibe by 11?whats the number?
+Ans 121
+
+2.There r three desks which consisting of 2 drawers
+each.Each drawer is filled either with a black or red
+ball.There r 3 labels naming RR,BB,RB.one desk
+consists of both red and another both blue and the
+third ared anda black ball.If these labels are to be
+pasted accoridingly to their corresponding desks whats
+the probablity that only one lable is pasted wrongly?
+Ans  zero.(it cant be only one wrong, if one is wrong,the otherone is also wrong)
+
+3.My age is 3 times my sons age and my fathers age is
+40 yrs more than twice my age.all our ages combine to
+give 1240 yrs.Whats my age?
+Ans 360 yrs
+
+4.Jack and Jill went up and down a hill.They started
+from the bottom and Jack met jill again 20 miles from
+the top while returning.Jack completed the race 1 min
+a head of jill.if the hill is 440 mts high and their
+speed while down journey is 1.5 times the up journey.
+how long it took for the Jack to complete the race ?
+ansMay be 6.3 min or 12.6 min(not sure)
+
+5.how many nos formed by using the digits 1,2,3,4 with
+no repititions are divisible by 4?
+Ans  no. which is divisible by 4 must have the last two digits divisible by 4.     the last two digits are   12, 24,32
+the nos.are: 3412,4312,1324,3124,1432,4132
+the nos. are 3(2! * 2) = 6       
+
+6.i have to catch a train by 6 AM. there is still time
+remaining to catch the train.My friend told me that 50
+min ago the time remaining was 3 times as much time as
+that after 3 AM.How much time is remaining for my 
+train? 
+Ans 26 min (Sakunthala devi's Q no 2)
+
+7.There is one GEORGE SUMMERS puzzle 
+it goes like Three tribes nororeen,sororeen,midroreen  one who always speaks truth and onealways false and one alternatively truth and false and
+some statements are given by A,B and C.based on those
+statements u have to guess who is who?(who always
+speaks truth and who false and ......)
+Ans three tribes . A-nororeen- false always 
+                           B- sororeen- true always
+                            C-midroreen- alternate true and false
+
+8.There is a truck driver starts from one place to
+pick another person at another place.The driver goes
+to that place by 6 AM.and then picking him he returns
+back.one day the other person woke a bit early and
+started walking towards the first place.one the way he
+meets truck driver and joins him and both went back to
+the first place.This day the other person came 20 min
+early to the time he usually comes to the first
+place?Tell the time when the driver met the second
+person that day?
+Ans 5.50 AM(Sakunthala devi's "WALKING BACK TO HAPPINESS")
+
+9.analytical question.....this was based on the speculation  of 3 
+ppl. whose guess is right? ans: alcit (3 marks)
+
+10This is another common Infosys puzzling question. It is about some goals in a football match. The scoring system was given and the points scored by each team was asked. This, I was told was frequently asked in Infosys questions, so you should be able to get your hands on this one too.
+ 
+    teams      played     won   lost     tie     goals for       goals against
+        A          3                   -        -        1          0                      -        
+        B          3                  1        -        -          -                       4 
+        C          3                   -        -        -          -                       1
+    
+Ans
+ teams      played     won   lost     tie     goals for       goals against
+        A          3             0        1        1          0                         1   
+        B          3             1        1        0        2                         4 
+        C          3              1        0       1        4                          1
+
+11.Four girls S,Robin,E,Mandy belonging to 4 families Clerks,Miller,Flure,Jacobs make salads out of four fruitssuch as apples,bananas,cherries,grapes. Each girl uses three fruits.No two families use the same combintion of fruits.
+1.Robin who does not belong to miller's family uses apples
+2.Clerk's family uses cherries and grapes.
+3.Flure family use either cherry or grape
+4.E does not belong to miller or Clerk family
+5.Mandy and miller family use apples and cherries.
+
+Questions
+a.Which family did Robin belong to?
+b. Which combination of fruits is used by miller family
+c.Which fruit is not used by mandy
+d. Which 2 fruits r common beteen Robin and E
+
+answer(Check this)a-apple b-banana c-cherry g-grape
+S 	Robin 	E	 Mandy
+Miller	 Flure	 Jacob	 Clerk
+abc 	abg 	cgb 	cga
+
+The topic of the comprhension is "Avalanche kills"
+ The first line of the comprehension generally gives the idea about the topic etc. Look for the structure and not for the details here.
+ 
+The most important question in the reading comprehension is the question where "u will be asked to apply a learnt idea to a new situation" This is exactly what they are looking for. They will be sure to mention that in the pre-placement talk.
+ 
+ Check out mathforum.org and allstarpuzzles.com
+ Solve old papers. Atleast 4 -5 problems get repeated.
+
+ 
+Good luck.        

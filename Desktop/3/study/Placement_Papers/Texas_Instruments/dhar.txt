@@ -1,0 +1,967 @@
+Iam sending u texas paper which I have got.
+
+    in this paper there was 20 questions as follows in 60 minutes .
+    second part consists of 36 que. in 30 minutes all questions are
+    diagramatical.(figurs)..
+
+    1. if a 5-stage pipe-line is flushed and then we have to execute 5 and
+12
+    instructions respectively then no. of  cycles will be
+    a. 5 and 12
+    b. 6 and 13
+    c. 9 and 16
+    d.none
+
+    2. k-map
+
+    ab
+    ----------
+    c       1   x  0  0
+           1   x  0  x
+
+    solve it
+
+    a. A.B
+    B. ~A
+    C. ~B
+    D. A+B
+
+    3.CHAR  A[10][15] AND INT B[10][15] IS DEFINED
+    WHAT'S THE ADDRESS OF A[3][4] AND B[3][4]
+    IF ADDRESS OD A IS OX1000 AND B IS 0X2000
+
+    A. 0X1030 AND 0X20C3
+    B. OX1031 AND OX20C4
+    AND SOME OTHERS..
+
+    4. int f(int *a)
+    {
+    int b=5;
+    a=&b;
+    }
+
+    main()
+    {
+    int i;
+    printf("\n %d",i);
+    f(&i);
+    printf("\n %d",i);
+    }
+
+    what's the output .
+
+    1.10,5
+    2,10,10
+    c.5,5
+    d. none
+
+    5. main()
+    {
+    int i;
+    fork();
+    fork();
+    fork();
+    printf("----");
+    }
+
+    how many times the printf will be executed .
+    a.3
+    b. 6
+    c.5
+    d. 8
+
+    6.
+    void f(int i)
+    {
+    int j;
+    for (j=0;j<16;j++)
+    {
+    if (i & (0x8000>>j))
+    printf("1");
+    else
+    printf("0");
+    }
+    }
+    what's the purpose of the program
+
+    a. its output is hex representation of i
+    b. bcd
+    c. binary
+    d. decimal
+
+    7.#define f(a,b) a+b
+    #define g(a,b) a*b
+
+    main()
+    {
+
+    int m;
+    m=2*f(3,g(4,5));
+    printf("\n m is %d",m);
+    }
+
+    what's the value of m
+    a.70
+    b.50
+    c.26
+    d. 69
+
+    8.
+    main()
+    {
+    char a[10];
+    strcpy(a,"\0");
+    if (a==NULL)
+    printf("\a is null");
+    else
+    printf("\n a is not null");}
+
+    what happens with it .
+    a. compile time error.
+    b. run-time error.
+    c. a is  null
+    d. a is not  null.
+
+    9. char a[5]="hello"
+
+    a. in array we can't do the operation .
+    b. size of a is too large
+    c. size of a is too small
+    d. nothing wrong with it .
+
+    10. local variables can be store by compiler
+    a. in register or heap
+    b. in register or stack
+    c .in stack or heap .
+    d. global memory.
+
+    11. average and worst time complexity in a sorted binary tree is
+
+    12. a tree is given and ask to find its meaning (parse-tree)
+    (expression tree)
+    ans. ((a+b)-(c*d))  ( not confirmed)
+    13. convert 40.xxxx into binary .
+
+    14. global variable conflicts due to multiple file occurance
+    is resolved during
+    a. compile-time
+    b. run-time
+    c. link-time
+    d. load-time
+
+    15.
+    two program is given of factorial.
+    one  with  recursion and one without recursion .
+    question was which program won't run for very big no. input     because
+of stack overfow .
+    a. i only  (ans.)
+    b. ii only
+    c. i& ii both .
+    c. none
+
+    16.
+    struct a
+    {
+    int a;
+    char b;
+    int c;
+    }
+
+    union b
+    {
+    char a;
+    int b;
+    int c;
+    };
+    which is correct .
+    a. size of a is always diff. form size of b.(ans.)
+    b. size of a is always same  form size of b.
+    c. we can't say anything because of not-homogeneous (not in ordered)
+    d. size of a can be same if ...
+
+madhu....
+>1)A train and A Cyclist reaches a station every day at the same time.
+One
+ >day the Cyclist starts 20 minutes late from his house.On his way to
+station
+ >the train crosses him at 5 miles before station.The speed of cyclist is
+ >12mph. Find the speed of the train.
+ >Ans:60mph
+ >
+ >2)There is an element which triplicates in every hour. Each of these 3
+items
+ >inturn reproduce exactly 3 other items. If a single compund is kept in
+a
+ >container at noon and the container is full by midnight. After how many
+ >hours is the container 1/3 full.
+ >Ans:11:00pm
+ >
+ >3) A person goes to a bank and Quotes x Rs and y paise on a cheque. The
+ >cashier misreads it and gives y Rs and x paise. The man comes out and
+ >donates 5 paise to a begger. Now, the man has exactly double the amount
+
+he
+ >has quoted on the cheque.
+ >Ans: 31 Rs. and 63 paise.
+ >
+ >4)Pepsi, Fanta, Cola order either coffee or tea after dinner.
+ >  a)If pepsi orders coffee, Fanta orders the drink that is ordered by
+cola.
+ >  b)If  fanta orders coffee, pepsi do not order the drink that is
+ordered
+ >     by cola.
+ >  c)If cola orders tea, pepsi orders the same drink ordered by fanta.
+ >
+ >Who take the same drink every day.
+ >Ans:Pepsi.
+ >
+ >5)Boat A leaves shore P and Boat B leaves shore Q.(P and Q are opposite
+ >shores of a river.) A and B travel at constant speed.But the speeds are
+
+not
+ >same. Both boats meet at 600m from P for the first time. In their
+return
+ >journeys (ie after touching the shores), they meet agian at  void f(int i)
+    {
+    int j;
+    for (j=0;j<16;j++)
+    {
+    if (i & (0x8000>>j))
+    printf("1");
+    else
+    printf("0");
+    }
+    }
+    what's the purpose of the program
+
+    a. its output is hex representation of i
+    b. bcd
+    c. binary
+    d. decimal
+
+    7.#define f(a,b) a+b
+    #define g(a,b) a*b
+
+    main()
+    {
+
+    int m;
+    m=2*f(3,g(4,5));
+    printf("\n m is %d",m);
+    }
+
+    what's the value of m
+    a.70
+    b.50
+    c.26
+    d. 69
+
+    8.
+    main()
+    {
+    char a[10];
+    strcpy(a,"\0");
+    if (a==NULL)
+    printf("\a is null");
+    else
+    printf("\n a is not null");}
+
+    what happens with it .
+    a. compile time error.
+    b. run-time error.
+    c. a is  null
+    d. a is not  null.
+
+    9. char a[5]="hello"
+
+    a. in array we can't do the operation .
+    b. size of a is too large
+    c. size of a is too small
+    d. nothing wrong with it .
+
+    10. local variables can be store by compiler
+    a. in register or heap
+    b. in register or stack
+    c .in stack or heap .
+    d. global memory.
+
+    11. average and worst time complexity in a sorted binary tree is
+
+    12. a tree is given and ask to find its meaning (parse-tree)
+    (expression tree)
+    ans. ((a+b)-(c*d))  ( not confirmed)
+    13. convert 40.xxxx into binary .
+
+    14. global variable conflicts due to multiple file occurance
+    is res
+        Date:
+
+
+moto99:-->>>
+
+TOROLA 99 (46 questions , no -ve marking)
+
+  1. out of 1800 coins one is lighter than others and in howmany attempts u
+  can find that
+  odd one? ans:7
+  2. out of 52 cards two are drawn consecutively. what is the probablility
+  to get black king &
+  black queen ? ans: 2/663
+
+  3. 1,2,3,5,8, ..? ans: 13
+  4. out of 100 students in the class 60 take hindi ,55 social, 65 english.
+  Howmany
+  students passed in atleast 2 subjects?
+  5. 3 4 13
+  - ? -
+  6 7 16
+  ANS: ? = 1
+  6. h i n d find the odd man out ? ans: i (vowel)
+  7. word1: word2 then motorola: ? ans: replace m o r l
+  by respective letters in word2.
+  8. 6 1 2 7
+  12 ?
+  2 3 11 1
+  ans: add 1+2+11+7
+  9. O(n), O(n2), O(n3), O(n4) what is the overall complexity ?
+  Ans: orde of n power 4 O(n4).
+  10.for(i=0:!<m;i++) what is the expression to access the array from last
+  element ?
+  ans: a[m-i+1]
+  11. 2 4 6
+  6 10
+  ? ans: 16
+  12. queston on floors in building. srinivas lives on .....
+  ans: 11 th floor.
+  13. BIRD:HIPK::EMCR: ? ANS:ZLUP ( SEE THE VALUE IN WORD2.)
+  - - - -
+  14-16. There are 2 analytic questions (6marks each)
+  There are 3 drink items (c m t )& 5 food items (p q r s t u). one
+  has to take
+  2 drink items and 3 food items. The pairs that shuld not be
+  taken are given.
+  (cp ps pt etc)
+  Q1) if he takes c what others can be taken ?
+  Q6)what he can take ? ans: u (no condition is given on u)
+  20-25) Analytic question based on positions .
+  A is above c&d, Q is below c, Q is middle of r&c etc.
+  now u can answer the 6 questions once u find the corresponding
+  positions of letters.
+                mbt - 1999 - delhi
+
+        this is vaddadi srinivasa rao.
+
+
+                        arthamatic section
+
+        1.  if a boat is moving in upstream with v1 km/hr and in the down
+        stream it is moving with v2 km/hr then what is the speed of the
+        stream
+        ans : 13 check the values of v1 and v2 are given to find ans (v+s=v1,
+        v-s=v2 find the boat velocity)
+        2. .75*.75*.75-.001
+           -----------------
+           .75*.75-.075+.001
+        3. A can work done in 8 days
+           B can work three timesfaster than the A
+           C can work five times faster as the A
+           ans  : 8/9 it is correct place blindly
+        4. one ans is 200/3 % it is perfectly correct weconnect recollec the
+           prob. so place it blindly.
+        5. a car is journied a certain distence in 7 hrs in forward journey
+        in the return journey increased speed 12km/hr takes the times 5hrs.
+        what is distence?
+        ans     : 210 it is perfect place blindly.
+        6.  instead of multi. by 7 to a number dividing by 7 what is the
+        percentage of error.
+        ans     : we dont know but he has dgived 14, 18, 25 and some ans less
+then
+        7.  x + 4y
+           ---------  relation between x and y is x/2y = 3/2 ie x = 3y findthe
+           x-2y ratio
+           ans  : 7 place blindly
+        8.  a man byes a liquid by 12rs and mixes with 20% of water and sels it
+for
+        rs15 thenhe makes it for in 30% mixture then what is the % of liquid
+with water
+        9.  if a man byes 11t of milk for 12rs and mixes with 20 of water and
+sels it
+        for rs15 then what is % of gain
+        10. a pipe can fill a tank in 30 min B can fill in 28min then if 3/4
+           of tank can be filled by B pipe and after wards both are opened then
+           how much time is requried by both the pipes to fill the tank
+completely.
+           note : the values of A and B may very slitely be ware.
+        11.  on an item a companey gave 25% discount then they get 25% profit if
+it
+         gives 10% discount then what is the profit?
+         ans    : 30% it is correct blindly  place it.
+        this section contain 29 questions
+        now 4 section
+        1. all chairs laugh
+          some birds laugh
+        2. some green are blue
+          no blue is white
+        3. all scientists are fools
+           all fools are literates
+        only these qus see rs agarwal reasoning verbal and nonverbal book
+        new edition as the page numbers ------
+        ansers he changed slitely see.
+        from 2fig. 6 questions regording the swimmers,girls,tennis players, tall
+        and
+        second one on politicians , grauduates ,parliment members,both qus are
+same
+        given so mugup and go to exam and place blindly .
+        series  :(1) R,M (...) , F,D,(...)
+        ans     : I,C
+        2. (...) , ayw,gec ,mki,sqo
+        ans     : usq
+        3. 1,3,4,8,15,27
+        ans     : 35
+        4. 0,2,3,5,8,10,15,17,24,26,....
+        ans     : 75
+        these are currect ans place blindly.
+        the fig. series
+        box type in side the box line and dot.
+        this type see in the new edition rs agerwal a box is their in the ans
+        so try for qus in  rs agerwal
+        see rs agerwal for statements and assumptions qus.
+        cut off will be around 30 out of 105 Bso place only the known problems
+so
+        place only correct problems.
+        the above 35 qus are enough to qualify
+        remaining ans if know then place it.
+        other wise simply leave it.
+
+
+                MBT(IIT kanpur)       26/9/98
+
+
+  HERE 2 SETS OF Q PAPERS WERE GIVEN.IAM WRITING Q'S OF
+  PAPER WHICH I GOT IN THE EXAM.
+
+  IN THIS THERE ARE 5 SECTIONS. EACH SECTION HAS TO BE
+  COMPLETED IN SPECIFIED TIME.
+
+  there is negative marking in the ratio of 1:1
+
+  SECTION 1: in this there are about 29 q's and time is 25
+  minutes.
+
+  q) if a number is divided by 7 instead of multiplying with
+  7. then what is the %  error
+
+ ans: 98 (check)
+
+ q)a person buys 1 liter milk for 12 Rs and to it he adds
+ 1/3 of water and sells the milk at the rate of 15 Rs per
+ liter. then what is the % of profit
+
+ ans: 200/3
+
+
+ q)if aboat travels 148kms in 8 hrs in down stream and
+ 150 Kms in 20 hrs then what is the speed of the stream.
+
+ ans: 13 kms/hr
+
+ q)A can do a piece of work in 3 days, B can do thrice work in
+ 8 days and c can do 5 times work in 15 days then in how many
+ days all three together can complete the work.
+
+ ( numerical values may be different)
+
+
+ in this data graphs similar to this are given i didn't get time
+ to look at them.
+  SECTION 2: in this there are about 23 q's
+
+  6 series q's
+
+  you refer R.S.Agarwal book verbal & nonverbal reasoning.
+
+  verbal part........
+  4 series q's from page no 104 exercise-- 3a
+  page no 115   q's 28,36
+
+  verbal part...........
+  3 statement q's
+  pageno 354--355 q's 8,11,13
+
+
+
+  SECTION 3:
+
+  in this there are 2 paragraphs and about 10 q's in each.10
+ min time.
+
+
+
+
+ SECTION 4:
+
+   verbal part............
+ page no 246 example 2     |   this again from R.S.Agarwal
+ pageno 254  53 to 56 q's  |    verbal and non verbal
+
+
+  non verbal part........
+  starting pageno 5.
+
+  q's are 41,54,108,145,158,241,475
+
+
+
+  SECTION 5:in this there are 3 flow charts.
+
+  one folw chart is regarding dice throw.
+       for cell1  ans is greater than 4
+       for cell2  ans is score3
+
+
+********************************************************************
+                       ALL THE BEST
+********************************************************************
+
+
+hai Dharani
+  This is ibm global paper see and enjoy it.
+
+                  IBM GLOBAL SERVICES
+                 ---------------------
+1. In 1978, a kg of paper was sold at Rs25/-. I f the paper rate increases
+at 1.5% more than inflation rate which is of 6.5%  a year , then what wil
+be the cost of a kg of paper after 2 years?
+a)29.12 (b) 29.72 (c) 30.12 (d) 32.65 (e) none of these
+2. In A,B,C are having some marbles with each of them. A has giben B and C
+the same number of marbles they already have to each of them. then, B gave
+C and A the same no. of marbles they have, then C gave A and B the same
+no. of marbles they have. At the end A,B,and C have equal no. of marbles.
+         (i) If x,y,z are the marbles initially with A,B,C respectively.
+then the no of marbles B have at the end
+         (a) 2(x-y-z) (b) 4(x-y-z)   etc.
+
+         (ii)If the total no. of marbles are 72, then the no. of marbles
+with A at the starting
+         a. 20 b. 30 c. 32
+
+3. If a car starts from A towards B with some velocity due to some problem
+in the engine after travelling 30km.If  the car goes with 4/5 th of its
+actuval velocity the car reaches B 45min later to the actual time. If the
+car engine fails ofter travelling 45km, the car reaches the destination B
+36min late to the  actual time , what is the initial velocity of car and
+what is the distance between A and B in km
+ans) 20 & 130.
+
+4. A person has Rs 100/- in his pocket, he can as 25 pencils or 15books.
+He kept 15% of the money for travelling expenses and purchased 5
+ncils.So how many books he can purchase with the remaining money.
+
+5. ten questions on analogies.
+   ex: hammer : carpenter ::
+                 knife : butcher.
+
+6. The values of shares A,B and C from january to june are as follows.
+
+month           A       B       C
+
+JAN             30      60      80
+FEB             35      65      85
+MAR             45      75      65
+APR             40      75      82
+MAY             55      75      85
+JUNE            50      75      80
+
+i) During this period which share has undergone max fluctuation?
+
+ii) In which month it is possible to buy B and C selling A?
+
+iii) In which month the share values are very low?
+
+iv) By purchasing one share of A and 4 each of B and C in the beginning of
+the period , to get max profit when this shares should be sold?
+v)  ?
+
+7. In a computer institute 9 languages can taught. The module is of 6
+months duration and only six languages  each of one month can be taught.
+In addition to that BASIC is always there and should be in first month
+itself
+# word perfect is to be taught in the preceeding week of word star.
+# FORTRAN can not be taught until COBAL is coarsed prior to that
+# BINO, FIFO never be taught in single module
+   languages are BASIC, WORD STAR, WORD PERFECT, FORTRAN, COBAL, BINO,
+FIFO, LOTUS, C
+
+i. Of the following which module is possible based on above conditions.
+
+ii) If word star is in 3rd month , what could be in 6th month.
+
+iii) If COBAL is in the 2nd month and BINO in 6th month are there in
+addition to the above condition, FORTRAN will be in which month.
+
+
+8. In a class , except 18 all are above 50 years. 15 are below 50 years of
+age. how many people are there
+   a) 30 b) 33 c) 36 d) none of these.
+
+9. A square plot of some size , at four corners equal squares of some size
+are cut and is formed as open box. If this open box carries 128ml of oil.
+What is the size of the plate i.e. side
+a.17 b.14 c.13
+
+10. In a square , all the mid points are joined. the inner square is
+shaded. If the area of the square is A, what is the shaded area?
+
+11. two questions on basic angles i.e given a circle, a few chords or
+diameter is drawn etc.
+
+12. @(a,b)= (a+b)/2
+     /(a,b)= a.b
+     *(a,b)= ab , if a=1, b=2 find
+         i) /(a,(@(a,b),*(a,b)))
+
+         ii)
+
+13. (x#y) = x+y-xy
+     (x*y) = (x+y)/2
+
+   i) (x#y)#(x*y) < (x#y), which of the below values of x, y will satisfy
+this equation
+
+ii) (a*b)#(b*c)< (a#b)*(b*c) , what values of a,b,c satisfy the above.
+
+14. By using the data given below answer the following questions.
+
+                         B.tech  M.sc    M.A
+
+male                   20
+female                                  80
+
+total                   60
+          some thing similar to that question.
+         i) 40% of females are B.Techs
+         ii) Half of the students are either from B.Techs of M.Scs
+         iii) ...
+i. what is the no. of female B.techs
+ii....
+
+   dont remember this question , just for an example this has been given .
+                 TISL(TATA-IBM)PAPER
+                 -------------------
+
+Q9). what will be the result of executing following program
+      main
+      {
+      char *x="new";
+      char *y="dictonary";
+      char *t;
+      void swap (char * , char *);
+      swap (x,y);
+      printf("(%s, %s)",x,y);
+
+      char *t;
+      t=x;
+      x=y;
+      y=t;
+      printf("-(%s, %s)",x,y);
+      }
+      void swap (char *x,char *y)
+      {
+      char *t;
+      y=x;
+      x=y;
+      y=t;
+      }
+
+      a).(New,Dictionary)-(New,Dictionary)
+      b).(Dictionary,New)-(New,Dictionary)
+      c).(New,Dictionary)-(Dictionary,New)
+      d).(Dictionary,New)-(Dictionary,New)
+      e).None of the above
+      (Ans will be b or e) check
+
+Q10).If a directory contains public files (can be valied and used
+      by any one ) which should not be altered ,the most liberal
+      permissions that can be given to the directory is
+      a)755
+      b)777
+      c)757
+      d)775
+      e)None of the above
+      (Ans a)
+11) what would the following program results in
+     main()
+     {
+     char p[]="string";
+     char t;
+     int i,j;
+     for(i=0,j=strlen(p);i>    {
+     t=p[i];
+     p[i]=p[j-i];
+     p[j-i]=t;
+     }
+     printf("%s",p);
+     }
+     a)will print:string
+     b)will not print anything since p will be pointing to a null string
+     c)will print:gnirtS
+     d)will result in a complication error
+     e)will print invallid characters(junk)
+     (Ans will be b ) check
+12) After the following command is executed
+    $ ln   old   new
+    a listing is performed with the following output
+    $ ls -li
+
+    total 3
+    15768  -rw-rw-rw-  2 you 29 Sep 27 12:07 old
+    15768     " "      "  "  "   "   "   "   new
+    15274    "  "      1  "  40  "   "  09:34 veryold
+
+    which of the following is true
+    a)old and new have same i-node number,2
+    b) "   "   "   "     "    "      "   , 15768
+    c)old and new have nothing yo do with each other
+    d)very old and new are linked
+    e)very old and old are linked
+    (Ans is b)
+13) What will be the result of executing the following statement
+         int i=10;
+         printf("%d %d %d",i,++i,i++);
+    a).10 11 12
+    b).12 11 10
+    c).10 11 11
+    d).result is OS dependent
+    e).result is compiler dependent
+    (Ans is e)
+14) What does extern means in a function declaration
+    a)the funct has global scope
+    b)the funct need not be defined\
+    c)nothing really
+    d)the funct has local scope only to the file it is defined in
+    e)none of the above
+    (Ans will be c)
+15) What will be result of the following program
+       main()
+       {
+       void f(int,int);
+       int i=10;
+       f(i,i++);
+       }
+       void f(int i,int j)
+       {
+       if(i>50)
+       return;
+       i+=j;
+       f(i,j);
+       printf("%d,",i);
+       }
+       a).85,53,32,21
+       b)10,11,21,32,53
+       c)21,32,53,85
+       d)32,21,11,10
+       e)none of the above
+       (Ans is e)
+16). MS windows 3.1 is a
+     a)operating system
+     b)Application
+     c)Programing language
+     d)database
+     e)shell
+     (Ans will be b)
+17).MS Windows 3.1 supports which tyoe of multi-tasking?
+     a)cycle
+     b)executive
+     c)preemptive
+     d)Non-preemptive
+     e)Manual
+     (Ans      )
+18)The command ......ln/bin/mail  /usr/you/bin/m
+    a)will not be executed because you are linking files
+      across different file systems
+    b)results ln /bin/main being the same file as /usr/you/bin/m
+    c)results in 2 links to the file mail
+    d)   "     "      "        "     m
+    e)none
+    (Ans will be b)
+19)In a standerd directory lay out ,/etc is the directory where
+    a) basic programs such as who and ed reside
+    b) device related files reside
+    c)various administrative files such as password file reside
+    d) short-lived files created during program execution reside
+    e) the C sub-routine library resides
+    (Ans is c)
+20) The command echo *
+    a) echoes all files in the current directory
+    b) prints * on the screen
+    c) is an invalid command
+    d) is the same as the command echo\*
+    e) is the same as echo"*"
+    (Ans is a)
+21)What will be the result of the following segment of the program
+         main()
+         {
+         char *s="hello world";
+         int i=7;
+         printf("%.*%s",s);
+         }
+         a)syntax error
+         b)hello w
+         c) Hello
+         d) o world
+         e) none
+         (Ans is b)
+22) What will be the result of the following program
+      main()
+      {
+      int a,b;
+      printf("enter two numbers :");
+      scanf("%d%d",a,b);
+      printf("%d+%d=%d",a,b,a+b);
+      }
+      a) will print the sum of the numbers entered
+      b) syntax error during compilation
+      c) will generate run time error /core dump
+      d) will print the string "a+b = a+b" on the screen
+      e) none of these
+      (Ans is c)
+23) What is the size of 'q'in the following program?
+    union{
+             int x;
+             char y;
+             struct {
+             char x;
+             char y;
+             int xy;}p;
+             }q;
+   a)11
+   b)6
+   c)4
+   d)5
+   e)none
+   (Ans is b  why because no of bytes for int =4 given in instructions)
+24) Which message is displayed when a window is destroyed
+    a)WM_CLOSE
+    b)WM_DESTROY
+    c)WM_NCDESTROY
+    d)WM_POSTDESTROY
+    E)NONE
+    (Ans is b)
+25)Send Message and postmessage are
+   a)send message puts the message in the message queue and results,
+    postmessage processes the message immediately
+   b)Sendmessage processes the message immediately,postmessage puts
+     the message in the queue and returns
+   c) Both put the message in the message queue and returns
+   d) Both process the message immediately
+   e) None of the above
+   (Ans will be b check)
+26)  Which of the following message is used to limit the size
+      of teh Window
+      a)WM_SIZE
+      b)WM_PAIN
+      c) WM_GETMINMAXINFO
+      d) WM_COMMAND
+      e) WM_CREATE
+      (Ans
+
+  Date:
+        Tue, 17 Aug 1999 01:57:07 +0530 (IST)
+ Hai
+Iam here sending the cisco paper which i have(Recent).I will search for
+the remaining papers .Whenever I will get those papers i mail it to u.
+all the best.
+
+CAUTION: There is a -ve marking of +1 & -1 u dont mark blindly.Mark the
+answer if u know exactly.cutoff will be 25 marks out of 60.So becareful.
+hai ,
+     There r 2 sections in CISCO
+                   section 1: Aptitude 20 marks (10 aptitude,10
+analogy,oppositewords etc))
+
+                 section 2:comp sc(data structue,c,theory of
+computation,networks,operating systems)
+
+I collected upto 20 questions;
+
+In this setion questions exact numbers I have forgotten.So this will be
+useful to the style of the problem only.
+
+
+SECTION 1:
+1: A man went to market with some money.With that money he can buy 15
+pencils or 25 pens.He kept 15% of that money for bus fare and with rest of
+the money he purchased 5 pencils,and 'x' pens.How many pens he purchased?
+
+2:A man climbing a wall.For every 4 steps go up he will slipdown 2
+steps.If he takes 12 min to 3 steps.how much time it takes to climb 48
+meters and one step=2meters.
+
+3: Two trains with lengths x and y ,and speeds u and v.Approaching each
+other how much time it takes to takes for faster train to cross other
+train?
+     In this question I don't remember the x,y,u,v.U can find formula in
+  Aggarwal's quantitative aptitude book
+4:
+  there was some question on ages that was easy
+
+Section2:
+
+1.
+  main()
+      { fork();
+        fork();
+        fork();             printf("hello");
+         }
+       How many times it will print hello?
+2:
+ char A[5,6]
+  How many bytes it requires?
+
+3:Bridges are used in which layer?
+
+4.Bigendian means
+        a)lower byte stored in lower address
+        b)lower byte stored in higher address
+one of these is correct.u can verify in Any micro processor book.
+
+5:
+  #define mmx 10+10
+
+   printf"%d",mmx*mmx);
+
+6: main()
+ {  j=0
+       for(i=0;i<10;i++)
+             {
+                 j+=i;
+             }
+     }
+     what is the value of i & j at the end of the loop
+  ans: 10,46
+
+7: Regular expression with 2 consecutive 1's and all string of 0's and 1's
+
+8:
+dead lock conditions 1 question
+
+
+9:
+ selective repeat widow size of sender & receiver 1 question.
+
+10;Balanced trees 1 question
+I will try to collect some more questions
+                       all the best.
+
+
+
+
+------------------------------------------------------------------------
+For the fastest and easiest way to backup your files and, access them from
+anywhere. Try @backup Free for 30 days.  Click here for a chance to win a
+digital camera.
+http://click.egroups.com/1/337/1/_/93717/_/948428670/
+
+eGroups.com Home: http://www.egroups.com/group/dextrites/
+http://www.egroups.com - Simplifying group communications
+

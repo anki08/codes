@@ -1,0 +1,352 @@
+Dear friends 
+Here is the hellosoft paper.
+Note: Answer all questions Time: 90 minutes  No
+negative Marking
+
+1.Which is an advantage of optical communication links
+over using transmission lines or waveguides?          
+    ans: [    ] a)Small size b)Extremely wide bandwidths
+c)Lower cost d)All the above 
+
+2. Each of the following is a true statement except:  
+          Ans:[    ]
+a)primary storage stores all or part of the program
+that is being executed.  b)primary storage holds data
+that are being used by the program. c)primary storage
+is composed of semiconductors. d)primary storage
+stores data and programs for long term storag
+
+ 3. Which of the following multiple access method is
+usually used in satellite communication?              
+            Ans:[    ]  a)TDMA  b)FDMA 
+c)CDMA  d)All the above
+
+4. The image frequency for a standard broadcast
+receiver using a 455-kHz IF and tuned to a station at
+680 kHz would be                                      
+                 Ans: [    ] 
+a) 1135 kHz b) 225 kHz c) 1590 kHz d) 1815 kHz 
+
+5.The decibel difference between the largest tolerable
+receiver input signal and its sensitivity is called   
+        Ans: [    ]  
+a)The decibel power gain of the receiver   b)Automatic
+gain control (AGC)   c)The dynamic range of the
+receiver   d)The IF amplifier gain 
+
+
+6.Once an SSB signal has been generated, it must be
+amplified by       Ans:[    ] 
+ a) A nonlinear amplifier to conserve bandwidth   b) A
+nonlinear 
+amplifier to conserve energy   c) A linear amplifier
+to conserve bandwidth   d) A linear amplifier to avoid
+distortion 
+
+
+7.Provide the approximate "outside-of-passband"
+attenuation of a  Butterworth filter.                 
+                                              
+Ans: [    ] a) 3-dB slope per octave b) 3-dB slope per
+decade c) 6-dB slope per octave d) 6-dB slope per
+decade 
+
+
+8.Which of the following is not a common RZ code?     
+                        
+Ans: [    ] 
+a) RZ-unipolar b) RZ-bipolar c) RZ-M d) RZ-AMI 
+
+
+9.The value left in the CRC dividing circuit after all
+data have been shifted in is the                      
+                                                      
+Ans: [    ] a) Quantile interval b) 
+Codec c) BCC d) Syndrome 
+
+
+10.Error-correcting techniques that allow for
+correction at the receiver are called                 
+                                                     
+Ans: [    ] 
+a) Cyclic redundancy checks (CRC) b) Block-check
+characters (BCC) c) Forward error correcting (FEC) d)
+Parity 
+
+
+11.The bit error rate is                              
+                                              
+Ans: [    ] 
+a) The number of bit errors that occur for a given
+number of bits transmitted b) The most common method of referring to
+the quality of a digital communication system c)
+Virtually the same as the error probability d) All the
+above 
+
+
+12.The input impedance of a quarter-wavelength section
+of a 50- transmission line that is terminated with a
+short is                                              
+              Ans: [    ]
+ a)50  b) 0  (a short) c) Infinite (open)d) 100  
+
+13.When troubleshooting antennas, the level of VSWR
+that indicates a problem is                           
+                                                  
+Ans: [    ] a)Equal to 1 b)Less than 1 c)Greater than
+1 d)Equal to zero 
+
+
+14. Mean value of a random variable with Gaussian
+density function defined by exp(-x^2 + 8x - 16)/128   
+                                                      
+              
+Ans: [    ]a)10 b)4 c)8 d)16 
+
+15. A random variable Y is defined as Y = (Xi where
+the summation is from 1 to infinity and Xi , i =1, 2,
+… inf, are statistically independet random variables
+with uniform density function. Then the PDF of Y is 
+Ans: [    ]a) uniform b) triangular c)chi squared d)
+none of the above 
+
+16. The trigonometric functions sin(x) and cos(x) are
+said to be orthogonal because                         
+                                              Ans: [  
+ ]a) sin2x + cos2x = 1 b) sin(x)  = 
+cos(90-x)    c) sin(2x) = 2sin(x)cos(x) d) sum of 
+their product over 2  EMBED 
+Equation.3      is zero
+
+17. The power spectral densities of a signal and its
+delayed version 
+differ                                                
+                         
+                                           Ans: [   
+]a) Magnitude b)Phase c)
+Both Phase and magnitude d) None of the above
+
+18) A random signal is ergodic 
+if                                                    
+         Ans: [    ]a) 
+If time average is same as ensemble averageb) If
+variance computed over time 
+samples is same as that computed over ensemblec) All
+the statistical properties 
+can be obtained from a single realization d) None of
+the above
+
+19) A Butter-worth filter and a Matched filter differ
+in                        
+Ans: [    ]a) Their filter characteristics b) Their
+design process c) are same 
+but for a name change d) No comparison
+
+20) The Z-transform and FFT of a signal 
+are                                          Ans: [   
+]a) same but 
+computationally different      b) Under special
+conditions, they are same c) 
+Totally different           d) none of the above
+
+21) All pass filter finds an application 
+in                                                 
+Ans: [    ]a) Scaling the 
+magnitude of signals over a given frequency bandb)
+Delay equalization in 
+systems with non linear phase responsec) Non linear
+systems for making them 
+lineard) None of the above 
+
+22) An A/D with input range of one volt has 9 bits of
+resolution. The standard 
+deviation of the quantization noise 
+is                                                    
+Ans: [    ]a) 1/256(3 b) 
+1/512(3 c) 1/1024(3 d) 1/512 
+
+23) Rectangular pulse of length 3 units is convolved
+it self twice. The 
+resulting signal has a duration 
+of                                                    
+                         
+         Ans: [    ]a) 5 units b) 9 units c) 7 units
+d) none of the above
+
+24) A butter-worth  low pass filter is designed with
+10 coefficients. Keeping 
+the 3 dB bandwidth same, the number of coefficients
+have been increased to 15. 
+Then                                                  
+                         
+                                         Ans: [    ]a)
+Pass band ripple 
+increases              b) transition bandwidth
+increasesc) Roll off in the stop 
+band increases d) stop band ripple decreases
+
+25) A complex white Gaussian noise 
+has                                               Ans:
+[    ]a) Gaussian real 
+part and imaginary parts b) magnitude is real and
+phase is constantc) Magnitude 
+and phase are Gaussian d) Magintude Rayleigh and phase
+Gaussian
+
+26) An equalizer in a digital communication system is
+needed            Ans: 
+[    ]a) to reduce Noise in the system b) to remove
+the multipath signalsc) To 
+counter the channel imperfections d) to distribute the
+frequency components  
+equally over the band 
+
+27) In any C program, structure and 
+pointer                                        Ans: [ ]
+a) used to get a value from an array b) are never used for the same
+variablec) are used to 
+access variables in an indirect mode of addressing d)
+none of the above
+
+28) Constatnt envelope modulation signals are used in
+communications 
+to           Ans: [    ]a) increase the channel
+capacity b) to reduce the cost 
+of the systemsc)  use the spectrum efficiently d) More
+noise immunity
+
+29) (-32768)10 in 16 bits Binary is-
+                                                      
+    Ans: [    ](a). 
+0xFFFF          (b) 0x7FFFF       (c)  0x8000         
+ (d) 0x1000
+
+30) In a 16 bit processor if 0x803C is shifted right
+by 2 arithmetically, the 
+result is-
+                                                      
+                         
+                                    Ans: [    ](a)
+0x200F             (b) 
+0xE00F      (c ) 0x00F0          (d) 0xE01E 
+
+31) In (1.15) notation, the value of 0.25 is-
+                                        Ans: [   ] 
+(a) 0x4000                  (b)0xa00F      (c) 0x1000     
+            (d) 0x2000
+
+32) In 2 complement representation, the range of
+integers which can be  represented in 8 bits 
+is.                                                   
+                         
+                         Ans: [    ](a) –128 to +127  
+      (b) –127 to 
++127        (c) 0 to 255    (d) none of the above  
+
+33.     0 x 755   0x3250                              
+                    0 x 3000  0x5000                         0 x5000   0x755     
+short int *y;                                               
+                   if y =0x3000 then                                          
+   Ans: 
+[    ]             *(*y) =                            
+    (a) 
+0x5000            (b) 0x3250             (c)0x755     
+      (d)0x3000
+
+34. The Number of the Layers defined in OSI Model are 
+                         
+Ans: [    ]a. 7 b. 3     c. 6     d. None of the above
+
+35. For the digital Signal Processing application-DSP
+processors are suitable 
+mainly due to-
+                                                      
+                         
+                               Ans: [    ]Multiple
+addressing ModenPipeline 
+ProcessingHardware Multiply & accumulate UnitHigh
+clock rates
+
+36. If S+=(X+(Y>>2)) and S=0x100, X=0x50, Y= 0x400.
+find the value of S-(a). 
+0x350 (b).0x250     (c). 0x150 (d). 0x214             
+                    Ans: 
+[    ]
+
+37. In a Processor, if the interrupts are enabled,
+then occurance of an 
+interrupt, ingenerals result in –
+                                                      
+                         
+        Ans: [    ]Stop  Current execution, jump to
+interupt service 
+routineComplete Current execution, jump to interupt
+service routine Continue 
+current None of above
+
+38. According to Nyquist rate, the theoritical maximum
+transmission rate of a 
+channel for a given bandwidth ‘W’ and ‘M’ amplitude
+levels is given 
+by                                                    
+                         
+                                            Ans: [   
+](a). R = wlog2(M)    
+(b). R = 2Wlog2 (M)   (c). R = 2Mlog2(W)   (d.) R =
+Mlog2 (2W)     
+
+ 39. Method of mapping binary information into NRZ
+waveform 
+is                                                    
+                         
+                                Ans: [    ](a).
+Huffman coding   (b). block  
+coding  (c.) none of these  (d). digital encoding 
+
+40. mulaw and Alaw quantizers belong to which one of
+the following type 
+(a).logarithmic  (b). uniform      (c).nonuniform     
+ (d.) None         Ans: 
+[    ]
+
+41. If we increase by 4 bits in uniform quantizer,
+howmuch SNR will increase?
+(a). 6dB           (b). 8dB              (c).  24dB   
+      (d). 
+32dB               Ans: [    ] 
+
+ 42. How many constellation points are required for
+operation at 9600bps ,if a 
+2400 symbol rate is used?(a).4         (b).8         
+(c).16        
+(d).32                                              
+Ans: [    ]
+
+43. Which digital modulation scheme is highly
+bandwidth efficient?(a) ASK   (b) 
+FSK          (c). PSK          (d). none          
+Ans: [    ]
+
+44. The interference which occurs when there is
+another transmission on the 
+same radio frequency is known as                      
+        Ans: [    ](a). 
+adjacent channel interference     (b). cochannel
+interference  ( c) . 
+carrier_to_Interference ratio(C/I)          (d). None 
+
+45.  If a DSP processor is capable of processing  10ms
+frame duration of  data 
+in 500cycles then what is the 
+MIPS ?                                                
+Ans: [    ](a). 
+0.5               (b). 0.05          (c). 0.0005      
+       (d). 02   
+Answers: 1) b 2) d 3) d 4) c 5) c 6) d 7) c 8) c 9) d
+10) c11) d 12) c 13) c 
+14) b 15) d 16) d 17) d 18) c 19) d 20) b21) b 22) c
+23) c 24) c 25) a 26) c 
+27) d 28) c 29) c 30) a31) d 32) a 33) c 34) a 35) c
+36) b 37) b 38) b 39) c 
+40) a41) c 42) c 43) c 44) b 45) b 
+

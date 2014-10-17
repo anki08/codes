@@ -1,0 +1,433 @@
+
+
+Samsung-iitg,iitkgp,psg 
+
+Hi friends, SAMSUNG had visited
+iit-guwahati on 8th aug.
+
+it had 60 questions 60 min.Section 1 : 30
+aptitude Section 2 : 30 
+
+Technical
+
+section 1 :First 7 questions on Passage. 
+
+Try to avoid answeringthem. 
+
+
+
+*8). No. of trailing zeros in 100! 
+
+ans:22 .
+
+*9).Numbers of numbers <= 100 which are not
+divisible by 2,3,5
+
+: a) 24 b)26 c)29 d) none
+
+ans:b
+
+*10).if a + b + c = 0, then (a^2 + b^2 +
+c^2)/(ac^2 -ab) = ?
+
+A)0 b) 1 c)-2 d)-2
+
+ans:d
+
+*11).some salary problem. 
+
+1/2 of the salary is for some
+expenditure.1/4th of salary for rent,
+
+1/5th of salary for transport and remaing
+is deposit. 
+
+if he deposited rs 50/- then what is the
+monthly salary ??? 
+
+ans.1000/- 
+
+*12).some time & work problem. 
+
+a & b can do in 8 days 
+
+b & c can do in 12 days
+
+a & c can do in 24 days.
+
+then b can alone do in ??? days
+
+ans:12 days
+
+*13).some diagrams were given see gre
+barron book findshaded area 
+
+one square was given in that one 4 circles
+
+inserted. find the area left by ciclrs in
+the square 
+
+if area/perimeter=perimeter/area (this is
+the condition for inner 
+
+circles)
+
+ans : 16(4-pi).
+
+side of the square will come 8 if solving
+the condition
+
+*14).Train problem.. find length of
+train... 
+
+ans ) 75
+
+*15).g cents needed for 1 mile for gasoline
+and mcents needed for extra 
+
+expences.
+
+then how much amount needed for ttravelling
+100 miles.
+
+a)100(g+m) b)g+m c)100g +g 
+
+ans:a 
+
+*16).there is W kg rice in bag. a rat eats
+r kg of rice
+
+each day. After 25 days what percent of
+rice was eaten
+
+by rat ??? 
+
+ans) 2500r/w 
+
+17).COSMOPOLITAN word was given. some
+letters from that
+
+word picked. formed word : option 
+
+*18).A-->B 75% distance travelled at v kmph
+in T hrs.
+
+remaing distance at S kmph. how much time
+was taken tocover 
+
+remaing distance???
+
+ans:tv/3s
+
+*(19).some word problem...
+
+ORGANISATION... word was given. if we
+replace 1st letter with 3rd,2nd 
+
+with 4th ,
+
+5th with 7th and so on . then what will be
+the 6 th letter from left?
+
+ans:n 
+
+section 2 : Technical......... 
+
+*1).Ipv6 ---> 16 bytes.
+
+*2).multi cast addressing range...
+
+ans:224.0.0.0 to 239.255.255.255 
+
+*4).in RS232C binary 0 can be represented
+with
+
+a)more than +4v b)more than -3 v
+
+ans:a
+
+*5).socket programming ---> select (not
+related tosocket system calls) 
+
+*7).piggy backing -is used for
+
+ans:acknowledgements..
+
+*8.ATM is for
+
+a)statistical maultil\plexing
+
+b)statistic multiplexing
+
+c)fixed size of frames.
+
+then which one of the followin g is
+correct?
+
+a) a & c b)b &c.
+
+9).Max no. of outstanding
+acknowledgements...
+
+*10).a)int a;
+
+b) static int a;
+
+c) int fun() { return a;} 
+
+d)static int fun() { return a; }
+
+which of the above 2 statements can't exist
+in thesame file...
+
+a)a &b b)a&c c)c&d
+
+ans:c
+
+*11).some program
+
+main()
+
+{
+
+extern int i; 
+
+print i;
+
+}
+
+ans: linker error.. 
+
+*12).Advantage digital communication over
+analog communicvation ??
+
+a(estimation is easy b)detection is easy c)
+both a &b d)none of the 
+
+above
+
+ans:d check it
+
+*13).study digital modulation techniques.. 
+
+int j=3; 
+
+int *p=&j; 
+
+printf("%d %d", *p++,++*p); 
+
+a)run time error b)10,11 c)11,11
+
+ans:a
+
+it will not increment j value as ++ is done
+first
+
+on p before *, so address gets incremented
+and garbage value will be 
+
+there
+
+*14).Which is non-deterministic structure 
+
+a)802.3 b)802.4 c) 802.5 d)none 
+
+ans:a(ethernet
+
+*15).3 bits on size of structures...u see
+what is the byte length of 
+
+short,long, and so on
+
+*16).Linux is a
+
+a) memory model a) small b)hughe c)
+flatd)none. see.. 
+
+*17).Which one does not involve direct
+recursion.. 
+
+a) backtracking b) divide and conquer c)
+dynamic programming 
+
+d) none of the above..
+
+ans:a check
+
+*18). sort time complexity based on 
+
+a) No of comparisions b) no of swaps. c) no
+of copies. d) all of 
+
+the above (check)...>a ans:( )(e)> none of
+these
+
+ans:d
+
+7).A and B are two stations 330km apart.A
+train> starts from A at 
+
+8pm.and 
+
+travels toward B at 60kmph.another train
+starts from> B at 9pm. And 
+
+travels towards A at 75 kmph.at what time
+do they> meet?
+
+(a) 11pm(b) 12pm (c) 11.30am (d) 11.45am
+
+ans:a 
+
+8).if you have a sixth sense, it may help
+you to> solve this one
+
+6 396 2376 1425.6 8.5536 ?
+
+(a) 4.5536(b) 2.5536(c)> .513216 d)
+.00513216> 
+
+ans:d
+
+9).20 ? 150 18 11
+
+(a) 2(b) 4(c) 6 (d) 8 (e)> none of these
+
+ans:c
+
+10) The one in our paper was 100 365 24 60
+_? 
+
+Ans 60 
+
+10.if (BE)^2=MPB and the letters B,E,Pand M
+stands> for distinct 
+
+digits,then M equals:
+
+(a) 1(b) 6(c) 3 (d)> 9(e) 5
+
+ans:c 
+
+DATA SUFFICIENCY: 
+
+Direction:Read the following instructions
+carefully> and answer 
+
+questions 11-15 given below:> 
+
+Each question below is followed by two
+numbered> facts. You have to 
+
+determine whether the data given in the
+statement is> sufficient for 
+
+answering the question. Choose one of the
+following> choices best 
+
+fitting
+
+the > question and mark A,B,C,D or E as
+explained below.
+
+(A) if statement 1 alone is sufficient to
+answer the> question, but 
+
+statement 2 is not sufficient.
+
+(B) If statement 2 alone is sufficient to
+answer the> question, but 
+
+statement 1 is not sufficient.
+
+(C) If both statements together are needed
+to answer> the question, 
+
+but 
+
+neither statement alone is sufficient.
+
+(D) If either statement by itself is
+sufficient to> answer the 
+
+question.
+
+(E) If enough facts are not available to
+answer the> question.> >
+
+11). Is X =Y?
+
+(1) X-Y=X^2-Y^2 (2) X and Y are greater
+than 1.
+
+ans:c
+
+12). Is CAB a code word in language Q?
+
+(1) ABC is the> base word.
+
+(2) If c immediately follows B, then C can
+be moved> to the front of 
+
+the 
+
+code word to generate another word?
+
+ans:c 
+
+13). A dress was initially listed at a
+price that> would have given 
+
+the 
+
+store a profit of 20 percent of the
+wholesale cost.> What was the 
+
+wholesale cost of the dress?
+
+(1) After reducing the asking price by 10
+percent,> the dress sold for 
+
+a 
+
+net profit of 10 dollars.
+
+(2) The dress sold for 50> dollars. 
+
+ans: d
+
+14. If X and Y do not equal 0, is X/Y an
+integer?
+
+(1) X is prime 
+
+(2) Y is even 
+
+ans:c
+
+15. What is the price of a banana?
+
+(a) 14 banana and 35 oranges cost Rs. 84
+
+(b) with a 50% discount on banana, Rs. 12
+can buy 4 bananas and 5 
+
+oranges.
+
+ans:e
+
+analytical Reasoning: 
+
+In a game, exactly six inverted cups stand
+side by> side in a straight 
+
+
+
+=====
+P.Surya Prasad,
+M.Tech.(commn.)
+R.No.B-57,
+Nilgiri Hostel,
+IIT Delhi.
+N'Delhi-110016
+

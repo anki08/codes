@@ -1,0 +1,49 @@
+There were two papers one was aptitude ( 36 questions) and other was 
+technical(20 questions)
+
+1: given an expression tree and asked us to write the in fix of that expression
+
+four choices
+
+
+2:
+  global variables in different files are
+
+a:at compiletime
+b) loading time
+c) linking time
+d)execution time
+
+3)size of(int)
+a) always 2 bytes
+b) depends on compiler that is being used
+c) always 32 bits
+d) can't tell
+
+4)which one will over flow given two programs
+2
+prog 1:                                 prog2:
+
+main()                                  main()
+{                                       {
+int fact;                                       int fact=0
+long int x;                             for(i=1;i<=n;i++)
+fact=factoral(x);                               fact=fact*i;
+
+}                                       }
+
+
+int factorial(long int x)
+{
+
+if(x>1) return(x*factorial(x-1);
+}
+
+a) program 1;
+b) program 2;
+c) both 1 &2
+d) none
+
+}
+
+5) variables of fuction call ar

@@ -1,0 +1,175 @@
+Given two strings find the combination of strings which can be interleave
+i/p: if "AB" and "CD" are two strings
+o/p:
+ABCD
+ACBD
+ACDB
+ACBD
+CABD
+CDAB
+
+how to implement it in C..
+
+
+kartik 
+Moderator	
+Posted 4 months ago # 
+
+
+In the example given above, ACBD is written twice. I think the expected result should be:
+
+ABCD
+ACBD
+ACDB
+CABD
+CDAB
+
+
+Harish Verma 
+Member	
+Posted 4 months ago # 
+
+
+there will be 24 such combination i think so like:-
+ABCD
+ABDC
+ACDB
+ACBD
+ADBC
+ADCB
+
+six with A in front so for BCD it will be 6*4=24 such string. correct me if I am wrong
+
+
+RB 
+guest	
+Posted 3 months ago # 
+
+
+@Harish - no, yu have to consider the relative order of A and B - interleaving means keeping the relative order of letters intact so A cannot come after B.
+
+If we visualize this as a graph with the rule/edge A->B and C->D and bidirectional edges between every other pair of vertices, then by recursively moving through the graph we can obtain the combinations - starting with all nodes with indegree=0.
+
+
+Harish Verma 
+Member	
+Posted 3 months ago # 
+
+
+The in such a way we should have 6 o/p string which will interleave:-
+
+ABCD
+ACBD
+CADB
+CABD
+ACDB
+CDAB
+
+@ RB: Thanks for explanation. I will try
+
+
+aakash01 
+guest	
+Posted 3 months ago # 
+
+
+[sourcecode language="cpp"]
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+void func (char *a,char *b , char *str , int n, int m,int i )
+{
+    if(n==0 && m ==0)
+    {
+
+    str[i]='';
+   printf("%s\n",str) ;
+    }
+     if(n!=0)
+     {
+         str[i]=a[0];
+         func  (a+1,b,str,n-1,m,i+1);
+     }
+     if(m!=0)
+     {
+         str[i]=b[0];
+         func  (a,b+1,str,n,m-1,i+1);
+     }
+
+}
+
+int main()
+{
+    char *a="AB";
+    char *b = "CD";
+    char *str= (char*)malloc(strlen(a)+strlen(b)+1);
+    func  (a,b,str,strlen(a),strlen(b),0);
+
+}
+[/sourcecode]
+
+anuja 
+Member	
+Posted 1 week ago # 
+
+
+#include<iostream>
+#define size 100
+using namespace std;
+
+char in1[]="AB",in2[]="CD";
+int n1=strlen(in1),n2=strlen(in2);
+
+void print(char out[size])
+{
+out[n1+n2]='/0';
+for(int i=0;i<n1+n2;i++)
+cout<<out[i];
+cout<<endl;
+}
+
+void interleave(char out[],int p, int k,int j)
+{
+
+if(k==n1&&j==n2)
+return;
+else if(k==n1)
+{
+for(int i=j;i<n2;i++)
+{
+out[p]=in2[i];
+p++;
+}
+print(out);
+return;
+}
+else if(j==n2)
+{
+for(int i=k;i<n1;i++)
+{
+out[p]=in1[i];
+p++;
+}
+print(out);
+return;
+}
+
+for(int i=k;i<n1;i++)
+{
+out[p]=in2[j];
+interleave(out,p+1,i,j+1);
+out[p]=in1[i];
+p++;
+interleave(out,p,i+1,j);
+}
+return;
+}
+
+int main()
+{
+char out[size]="";
+interleave(out,0,0,0);
+
+return 0;
+}

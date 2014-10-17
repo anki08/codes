@@ -1,0 +1,108 @@
+
+Syntel 
+===========================================================================
+
+
+
+Campus Written Test conducted at Kochi on Aug 2003
+
+1) General Information: 
+
+ Two seperate tests:  
+         1.   Technical(30 questions-30 minutes)- Separate questions for CS and EC.
+         2.   Analytical(30 questions-20 minutes) 
+
+ -Technical was conducted first followed by Analytical -
+There was no negative marking -
+There were no separate question booklets. Everybody had the same one -Technical test (for computer science) consisted MAINLY 'C' questions. And most of them were difficult ones. There were 3 questions from Computer Graphics (Tata Elxsi is also into Multimedia Development, that may be the reason ) 
+
+-Analytical test DID NOT HAVE ANY ENGLISH QUESTIONS.R.S Aggarwal's 'Quantitative Aptitude' would be very helpful here because there were questions asked from Numbers/Simplification/Problems on Ages/Profit and Loss/Ratio and Proportion/Time & Work/Pipes & Cisterns/Time & Distance/Problems on Trains/Problems on Boats & Streams /Area/Volume & Surface Area/Calendar/Clocks. So as you can see, they covered almost the entire book 
+
+ 2)Technical Test(20 questions out of 30) 
+
+ 1) Graphics:Painters algorithm is used for........... 
+
+2) Graphics:Why is 'Lighting' operations done on World Coordinates? 
+
+3) Graphics:One more question 
+
+4) Some question on C External Variables. 
+
+5) How can you call a function written in FORTRAN from a C program ? 
+
+6) Normal question on pointer addition 
+
+7) Another question on pointer adition 
+
+8) A question on 64 bit OS's and Virtual Memory it will be having 
+
+9) Another question on 64 bit OS                                                                                                    freshersworld.com 
+
+10) A structure was given and it contained normal data as well as some bit-wise data.You had to find the total size taken up by the structure 
+
+11) A big code with lots of pointers. There was a struct which contained 2 arrays. Then an array of that structure was declared. The code used these structures and you had to find the values of a variable 'j' at various points inside the code 
+
+12) A code which had some declarations of some data items. There were a couple of normal data items(char,int..) and some pointers as well and a malloc call. You have to find the total memory taken up in the stack(Hint:Pointers and all are allocated in heap, not in stack, so dont count them).Also in most of these questions, they were specifying that the OS was 32 bit 
+
+13) A question on nesting of pointers. There was this pointer to a function which returned an array of char pointers.....You had to give the exact definition of the function 
+
+14) Value of 2 particular variables in C(MAXINT and some other constant) 
+
+15)What do you need to do to open more than 10 files simultaneously in Microsoft Operating System? 
+
+-change stdio.h/change CONFIG.SYS/compiler dependent 
+
+16) A question on Macro( consisted of something like CTRL&037) 
+
+17) Another question on Macro expansion 
+
+18) Yet another question on Macro expansion                                                                               freshersworld.com 
+
+19) UNIX question on 'who' output and then doing some other operation and then asking you whats the output. 
+
+20) UNIX question on 'awd' operation. 
+
+ 3)Analytical Test(20 questions out of 30) 
+
+1) 101^100 -1 is divisible by..... 
+
+2) Question on boat ( stream velocity given...) 
+
+3) Train Question( Goods and Passenger train.. their speeds given..) 
+
+4) Pipe question (with leak at the bottom..) 
+
+5) Salary & Proportion problem 
+
+6) Another problem on Salary & Proportion 
+
+7) Age question-father and son                                                                                                    freshersworld.com 
+
+8) Another age question 
+
+9) Question onratios(Sachin:Saurav=Saurav:Rahul=3:2....together they scored some runs,you had to find the runs scored by Sachin) 
+
+10) Angle between hands when time is 2:20 
+
+11) x^2 + 4 y^2 =4xy.Find x:y 
+
+12) A question on Arithmetic Progression(something like 5 times the 5th term is 8 times the 8th term..find 12th term...) 
+
+13) A and B's work units given.They were together gievn Rs.720.When C joined,they together completed the work in 5 days.Find C's wages 
+
+14) There was a circle.A square of max size was cut from it.From this square,a circle of max size was cut.What was the ratio of this final size w.r.t initial size? 
+
+15) A runs 3/4th faster than B.One of them was placed some metres ahead.How far should the finishing post be placed so that both of them finish at the same time? 
+
+16) Longest time one has to wait for next birthday?(366/365/4 years/8years) 
+
+17) Next no: in the seq: 7,11,__,19,23 
+
+18) Some question on steps...it was 10 ft high...an ant travelled upwards..and total time taken 
+
+19) Cricket-some data on runrate of the opposition being 15%.... 
+
+20) Time & Distance..somebody was travelling along the circumference.... 
+
+    The questions are not at all complete because lack of memory :-) 
+

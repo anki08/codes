@@ -1,0 +1,180 @@
+Patni Computer Systems (PCS) Home
+ 
+
+
+Sample Paper 
+Interview  
+Profile of the company  
+
+  
+
+About the Written Test 
+The written test consists of aptitude and technical questions. The current pattern contains 20 questions to be done in 50 minutes and there is negative marking. Earlier the pattern was of  4 to 5 sections with questions of MCQ type. The sections were divided into analytical ,verbal , assertion and reasoning and data sufficiency. The former pattern is more commonly used in the tests.
+
+Click here to see the sample test.
+
+ 
+
+About the Interview 
+The interview is preceded by a group discussion where the topics given are very general in kind.In the interview more stress is placed on HR, though technical questions (primarily on C/C++) and puzzles too are to be expected. We would suggest that you take a look at the Interview section. to get a better idea and view some useful tips for taking interviews.
+
+Click here to see sample group discussion topics
+
+Back To The Top
+
+  
+
+Profile of the Company 
+Patni Computer Systems (PCS) is an international software and applications outsourcing specialist, with over 20 years of experience. Founded in 1978, PCS now offers a wide range of services, including: application development / maintenance, ERP implementation & related services, E-Commerce & Web enabling solutions, Euro conversion, staff augmentation and offshore development.  
+
+PCS currently employs over 3400 software professionals at our primary development facilities in Mumbai, Navi Mumbai, Pune, Gandhinagar, Chennai and NOIDA (India).
+
+PCS provides services to a varied field including Airlines, Automotive, Financial Services, Electronics, Healthcare, Hospitality, Manufacturing, Products, and Utilities. 
+
+For more information about this company visit their homesite at www.patni.com
+
+Back To The Top
+
+ 
+PCS Sample GD topics
+ Home
+ 
+
+Back To PCS Page
+
+
+PCS usually tests the candidates selected on the basis of the written paper through a group discussion session. The stress here is to test the ability of the candidate to think logically and present these thoughts in a lucid manner. 
+
+The candidates are given a scenario and conditions applying to it and have to reach a decision according to the data. They will then be asked to explain their respective decisions.
+
+Here are a couple of sample GD topics:
+
+1. In space ship 5 people are going in a spacecraft to another planet to start a cicilization. 
+    These are: 
+
+Male docter who is a drug addict 
+Lady lawer who has committed murder 
+Lady teacher who is emotionally imbalanced 
+18 year old brilliant aeronautical engineer 
+Male Noble prize winner 
+Suddenly some thing happens and oxygen is avaliable to only three people to use. Which three would you choose
+
+Hint :
+1. You need atleast 1 lady to have future generations.
+2. Aeruonautical engineer can be a female
+3. Doctor is necessary to deal with new diseases.
+
+
+2. In 2050 a nuclear disaster has ocurred and 50 persons are saved. These are of age above 15. Among them these people know 5 subjects and you have to choose only 3 of five subjects so that resticted resorces can used for future.
+The subjects are: 
+
+Enggineering 
+Medicine 
+Law 
+Social Sciences 
+Life Sciences 
+ 
+
+
+
+
+Back to top
+
+
+
+
+PCS Sample Test
+ Home
+ 
+
+Back To PCS Page
+
+
+Q. A man leaves office daily at 7pm  A driver with car comes from his home to pick him from office and bring back home  
+     One day he gets free at 5:30 and instead of waiting for driver he starts walking towards home.
+     In the way he meets the car and returns home on car  He reaches home 20 minutes earlier than usual.
+     In how much time does the man reach home usually??
+
+Ans. 1hr 20min
+
+
+Q  The following truth table is given  What is Y equal to??
+
+A B C Y 
+0 0 0 1 
+0 0 1 1 
+0 1 0 0 
+0 1 1 0 
+1 0 0 0 
+1 0 1 0 
+1 1 0 1 
+1 1 1 1 
+
+Ans. (A')(B')(AB) , where ' stands for complement.
+
+
+Q. A works thrice as much as B. If A takes 60 days less than B to do a work then find the number of days it would take to       complete the work if both work together?
+
+Ans. 22½days
+
+
+Q.  How many 1's are there in the binary form of  8*1024 + 3*64 + 3
+
+Ans. 4
+
+
+Q. In a digital circuit which was to implement (A B) + (A)XOR(B), the designer implements (A B) (A)XOR(B)  
+    What is the probability of error in it ?
+
+
+Q. A boy has Rs 2. He wins or loses Re 1 at a time  If he wins he gets Re 1 and if he loses the game he loses Re 1.
+     He can loose only 5 times. He is out of the game if he earns Rs 5.
+     Find the number of ways in which this is possible?
+
+Ans. 16
+
+
+Q. If there are 1024*1280 pixels on a screen and each pixel can have around 16 million colors
+     Find the memory required for this?
+
+Ans. 4MB
+
+
+Q. On a particular day A and B decide that they would either speak the truth or will lie. 
+     C asks A whether he is speaking truth or lying?
+     He answers and B listens to what he said. C then asks B what A has said  B says "A says that he is a liar" 
+     What is B speaking ?
+
+(a) Truth
+(b) Lie
+(c) Truth when A lies
+(d) Cannot be determined
+
+Ans. (b)
+
+
+Q. What is the angle between the two hands of a clock when time is 8:30
+
+Ans. 75(approx)
+
+
+Q. A student is ranked 13th from right and 8th from left. How many students are there in totality ?
+
+
+Q. A man walks east and turns right and then from there to his left and then 45degrees to
+  his right.In which direction did he go
+
+Ans. North west
+
+
+Q. A student gets 70% in one subject, 80% in the other. To get an overall of 75% how much should get in third subject.
+
+
+Q. A man shows his friend a woman sitting in a park and says that she the daughter of my  grandmother's only son.
+    What is the relation between the two
+
+Ans. Daughter
+
+ 
+
+Back to top

@@ -1,0 +1,52 @@
+   1)differential gear is not used in ans  train
+   2) purpose of washer in nut-bolt assembly is ans ---
+   3) best surface finish is obtained by   ans grinding
+   4) average thickness of human hair is   ans  .02mm.
+   5) for same compression ratio(c-r)  ,thermal efficiencies are in decresing order
+      ans  auto>dual>disel
+   6)c-r is greater in case of compreesion-stroke& expansion-stroke.
+   7) in seizers the cutting angke is max at which point  ans the pivot.
+   8) carbon is present in which form in cast-iron  ans---
+   9)in machinery operation better surface finished is obtained by
+     ans increasing the number of teeth.
+   1) to increase pressure head in turbine wheel(missing-------) is used
+      ans draft tube is used
+   2) lining of bearing is made up of  ans------
+   3) brass is an alloy of ans  copper&zinc
+   4) electrical conductivity is more of ans  cast-iron
+   5) in which of the followinf no work is done 
+      ans a) throttlig b) free expansion c) constant---
+         d) all above
+    6) to connect non parallel non-intersecting shafts which gear is used
+      ans worm
+    7) to get a reduction of 50:1 in gears which gear is used ans worm
+    8) universal joint is used where  ans=------
+    9) what is the deflection at the rigid end of the cantilever beam
+       ans---------
+    1)why cast-iron is used to make machine beds ans--------------
+    2) which of the following is not the fussion welding
+       ans spot welding
+     3) which type of the loading is safest in beams
+       a)uniformly distributed loaded throuhout its length
+       b) uniformly distributed loaded over a small length at the center
+       c) direct load acting at the center
+       d) triangular loading with zero load at center and max at its ends
+     4) which type of beams cross section carry momentum cross-section
+
+       a) |___|
+          |   |   
+       
+       b) -------
+            |
+            |
+         --------
+  
+     5)in the superheated region in the moller chart constant pressure lines have 
+       following type of states
+          ans a) +  b) -
+    6) which type of bearing can take thrust load easily
+       ans ball bearing
+    7) which of the following is gear manufacturing process
+    8) jamine test is used for ans hardenibility
+    9) max reduction ratio can be obtaned by 
+    10) if one cylinder of a disel-engine receives more fuel than auto ,than   

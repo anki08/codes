@@ -1,0 +1,85 @@
+
+1. Five people A ,B ,C ,D ,E are related to each
+other.
+Four of them make one true statement each as
+follows. ( 8 marks)
+
+(i) B is my father's brother. 
+(ii) E is my mother-in-law.
+(iii)C is my son-in-law's brother
+(iv)A is my brother's wife.
+
+who made these statemens and what are the
+relationships among them?
+
+Ans: (i) D
+(ii) B 
+(iii) E
+(iv) C 
+2. fathers wife is reverse of son`s age . one year
+back faters age was twice of son`s age . what`s the
+fathers current age 
+ans : 73
+
+3. An escalator is descending at constant speed. 
+A walks down and takes 50 steps to reach the
+bottom.
+B runs down and takes 75 steps in the same time as
+A takes 3 steps. 
+How many steps are visible when the escalator is
+not operating? 
+
+Ans: ????
+
+4. a man asks a weatherman what`s the past five days
+temp? he says i didn`t remember but i can say their
+product is 12 and all are diff temperatures. what are
+the five temperatures?
+
+ans: -2,-1,1,2,3
+
+5: there are 100 men among them 80 have telephones and
+70 have cars and some 75 have houses and 85 have
+mobiles.(data is not exact) . what is the minimum
+number of men that have all these things.?
+
+6: there ia truck which should reach some place at
+11`o clock , if it travels with 30 mph it reaches i
+hour before , if it travles with 20 mph it reaches 1
+hour late. what is the distance it must be travlled 
+and what is the speed it must maintain to rech at
+exact time?
+
+ans: 120 miles and 24 mph
+
+7: there are some stones (may be 6951) with eqaul
+weight, but one of them having more weight than
+others,how many times we need to weigh to find that
+overweigheted stone?
+ans: 12 ( as per the number given there, that no of
+stones i didn`t remember exactly).
+
+8:two and half artists with two and half canvases and
+two in two and half hours cvan paint two and half
+drawings. how many artists are needed for 24 canvases
+and 24 drawings in 20 hours?
+
+ans :
+
+ 9.In the country of mathematica there are 9 cities namely
+ 1,2,.....9.There are airways between the cities, when the number 
+formed by adjoining two cities  isdivisible by 3. (eg. If city 1 and city 2 are there then number is 12 which isdivisible by 3). How many possible ways one can fly to city no.8 eitherdirectlyor by connecting flights.    (5 marks). 
+Answers
+May be 5 or 8 or more(check)
+
+10.FOLLOWING SERVICES ARE OPERATED BY ASIAN AIRLINES BETWEEN THE TWO   ARE LOCATED IN DIFFERENT COUNTRIES WITH DIFFERENT TIME ZONES. 
+AS IS NORMALLY DONE, THE TIME SHOWN IS THE LOCAL TIME-  VIZ IST 
+& TST.
+                                           REGULAR FLIGHT  SUPERSONICFLIG
+                ARRIVE  ALEXANDRIA       17:10 TST          15:40 TST
+                DEPART  "    "          20:50 TST           22:50 TST
+                ARRIVE RAMPUR           23:40 IST              ?   IST
+                
+                THE ARRIVAL TIME OF SUPERSONIC FLIGHT INTO RAMPUR FROM ALEXANDRARRIVAL TIME OF THE SUPER SONIC FLIGHT ASSUMING EACH SERVICE-REGULAR AND SUPERSONIC MAINTAINS ITS OWN CONSTANT SPEED OF FLIGHT
+
+11:one regarding ordereing od cards( i didn`t remember)

@@ -1,0 +1,146 @@
+
+                             ORACLE PAPER FROM REC 2002
+                             Q1. if A is an odd no
+                             (1)Then A is multipal of two prime nonither
+                             of them 2
+                             (2) (A+5) is devided by 5
+                             of what is the value of the x
+                             (1) 6(2) x is divesible both by 3 or 5
+                             Q2 a man starts at A at a speed of 4
+                             miles/hour.a another man B
+                             starts at spped of 10 miles/hour after 4 hour
+                             from the starts of
+                             A. where they will meet from the starting
+                             pont.
+                             Q3. smallest 3 degit no when devided by 6
+                             leaves reminder 5 and
+                             when
+                             devided by 5 leaves reminder 3. ans 143
+                             q4. heigest power of 5 that devides 30! ans 7
+                             Q5. A man covers a distence at a certan speed
+                             of half the
+                             distence
+                             covered by double the time then what is the
+                             ratio of speed.
+                             Q6. which polygon has no of diagonals equal
+                             to the no of sides.
+                             Q7. Cost price of 40 article is equal to the
+                             selling price of 16
+                             article.then waht is the percentage yearn and
+                             loss.
+                             Q8. if the ratio of no is 2:3:4 such that
+                             their sum of
+                             square=2900
+                             then what are the no.
+                             Q9. sn={s1,s2,s3.....Sn} and sequence is as
+                             an={a1,a2....an} now
+                             if
+                             a0=1 and a1=2 and given that ax=a(x+2)-a(x)+1
+                             then a4=?
+                             1.output of following program
+                             class test{
+                             public staticvoid main()
+                             {
+                             system.out printlw("test);
+                             }}
+                             ans. compiler correctly,but runtime error.
+                             2)o/p:
+                             protected class{
+                             public static void main(string args[])
+                             string test="abc";
+                             test=test+test;
+                             system.out println(test);
+                             }
+                             }
+                             o/p:compilatin error
+                             3)bitwise inversor in java :
+                             4)method to get object for an event in event
+                             object class
+                             a)getevent()
+                             b)getobject()
+                             c)getid()
+                             5)
+                             int i=0;
+                             switch(i=5)
+                             {
+                             case 5:printf("5");
+                             default:printf("0");
+                             case6:printf("6");
+                             }
+                             6)which of the followingis a valid return
+                             a)return,return
+                             b)return(1,2,3)
+                     [Image] c)re
+                             return4)
+                             7.
+                             where constant variable are stored
+                             a)ram b)rom c)heap d)registers
+                             8.
+                             for what class of variable we cannot have
+                             pointers
+                             a)externals b)static c)registers d)a&c
+                             9. if queuwis implemented using linklistwith
+                             two pointers
+                             front,rear
+                             during
+                             insertion
+                             into noempty Quque what pointers changes.
+                             a)front b)rear c)a&b
+                             10.capacity-capacity of array
+                             last _last element index
+                             what is the next element index
+                             ans. (last+1%capacity
+                             11.o/p:
+                             printf("%d",printf("GENIUS"));
+                             A)6 GENIUS
+                             B)GENIUS 6
+
+                             oracle...
+                             it contained of two tests..
+                             1. software ( sql-rdms,java, c, data
+                             structures)-30
+                             min
+
+                             2. apti- 30 min
+                               in apti one anal question..as
+                               1. there is 6 comapnies .. a, b,c,d,e,f
+                                  a person have to visit all the comapnies
+                             at given
+                             condition
+                                  1. c should come before a, e
+                                  2. d should come after e
+                                  3. f should be  third
+
+                                  then based 5- question r there
+
+                             2. sentence completion in order
+                             3. reading comprehension
+
+                             then quantative question mainly from ( RS
+                             Aggrawal)
+                             15-30
+                                in software question i didn't get more
+                             information,
+                             bcos  friends
+                                didn't understand the question of sql,
+                             rdbms,
+                             java...
+
+                                i got very few questions
+                                1. which varible is always right aligned
+                                  date
+                                2. which clause used in sql
+                                3. some code in sql.. abt the outout
+                                4. const variable is  stored in computer
+                                5. main()
+                                 { printf("%d",printf("mukesh agrawal"); }
+                             // not
+                             my name is there , i gave
+                             as example...
+                                6. three question on circular queue..
+                                7.one question on binary tree
+                                8. 5 java problem-- and find the ouput..
+                               9. some more c -puzzle
+
+                                      bye...
+

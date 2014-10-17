@@ -1,0 +1,292 @@
+ 
+
+Technical Questions in the second round --
+
+---------------------------------------
+
+[1] What are the current trends and areas of focus in IT.
+
+My Ans. Talked about emerging trends of S/W Engg and ISO 9000 stuff
+
+(gave vague ideas about them as I don't know much nor do I care 
+
+about these topics myself ;-)). Then mentioned the proliferation of O-O
+
+methodologies and their usefulness in speeding up development process,
+
+code re-usability, ease of maintenance, ease of bug-fixing.
+
+Thirdly, mentioned the work going on in High-Speed N/w - FDDI, ATM,
+
+Fast-Ethernet(100Mbps). Told whatever little I knew about ATM in
+
+response to another question.
+
+[2] What is a Micro-Kernel architecture.
+
+My Ans. This is a developing area in OSs where instead of building the
+
+kernel as a single monolithic structure starting from scratch, it is
+
+built as a set of layers. The micro-kernel provides only the bare-bones
+
+like Device-drivers, rudimentary filesystem support etc. on which,
+
+depending on the intended area of application of the OS, it can be
+
+customized to provide various higher level OS features like
+
+Multiprocessing, IPC, etc. 
+
+Personal Questions in the second round --
+
+--------------------------------------
+
+1. Tell us about yourself, your background.
+
+2. What does your father do currently.
+
+3. Your performance in schooling, B.E.
+
+4. Your +/- points.
+
+5. Why do you think Wipro should take you.
+
+6. What qualities do you have that make you a person suitable for going
+
+into the IT industry (a corollary to the previous question).
+
+7. What do your friends opine about you.
+
+8. When do you think you will complete and be able to join.
+
+9. How can you assure that you will join by that time.
+
+10. Anything you want to know about us.
+
+} /* End of for() */
+
+ 
+
+ 
+
+a) Describe the memory management policies in Unix. How is paging
+
+implemented? How page faults are handled? 
+
+Seems to be a favorite question for these chaps ---- Maurice Bach. 
+
+
+b) Write a macro in C for swapping two nibbles in a byte.
+
+-Use the shift operators and be careful while defining temporary 
+
+variables( if you do so) as you have to write a macro. Otherwise
+
+it is pretty simple.
+
+c) What is the CPU-scheduling policy in Unix? - Round robin scheduling
+
+with multilevel queues.
+
+d) Diffrence between short term, long term and medium term scheduler.
+
+-First two should be peaceful. The last one is also known as 
+
+swapper. (See Taenenbaum and/or Peterson)
+
+e) Name various page-replacement policies. Which can be implemented
+
+both with and without pre-emption? - see Peterson.
+
+f) Describe the Sliding window protocol. What is it's advantage
+
+over stop-and-wait? - Saves bandwidth. (Taenenbaum please)
+
+ 
+
+2ND INTERVIEW (Both personal and technical interleaved)
+
+a) Tell us something about yourself.
+
+b) Aren't you going for higher studies abroad? Why?
+
+c) Rank and CGPA. MSites do not have ranks but still they wanted to
+
+know my approx position in my batch. 
+
+- Shady question. It is your job to convince them that for
+
+MS, grades do not hold any meaning.
+
+d) What is re-entrant code? --- Non-self modifying code. Can be 
+
+shared by many processes simultaneously. Gave e.g. of text-editors
+
+like 'vi'.
+
+Counter Q: But then no code modifies itself. What does 'non-self 
+
+modifying' mean? ---- I don't know for sure.
+
+e) Diff between compilers and interpreters. Some fundaes about
+
+how to link code in different files. 
+
+f) What would your friends tell us about you if we ask them?
+
+Standard question for everyone.
+
+ 
+
+ 
+
+ 
+
+Second interview: (fully personal) --- This was more interesting;-)
+
+a) What did you feel about the ppt? --- wasn't very impressive
+
+so gave some shady answer.
+
+b) Have you heard of creativity? -- Ya.
+
+Have you heard of Bernard Shaw? -- Ya.
+
+(Then he rattled off some quote of BS regarding creativity)
+
+What do you say? --- I put some shadiest fundaes regarding
+
+visionaries and Leonardo da Vinci conceptualising Helicopters
+
+in his time!
+
+************************************************************************
+
+NOTE: If you have been offered a job previously by any other company
+
+after your BTech/BE or if you have even slightest of work experience
+
+then make it a point to mention about it. It is a major plus point.
+
+The interviewers will be definitely interested in knowing that some 
+
+other company also found you good enough to be selected.
+
+************************************************************************
+
+***************************************************************************
+
+Personal Questions asked:
+
+a)question
+
+1. Tell me about urself, family background ..
+
+2. Btech projects and M.S. projects 
+
+( spend more time here, even if u have not done much
+
+workl; create a good impression) 
+
+3. Significant achievements in life.
+
+( may be paper publications etc. )
+
+4. Why did u leave ur previous company ( If u were working)
+
+5. What do u expect from a company ?
+
+( like how shd be the work environment etc. etc. )
+
+
+************************************************************************
+
+ 
+
+ 
+
+Technical Questions asked:
+
+1. Explain your project
+
+2. What are your areas of interest in Appli Prog
+
+Personal Questions asked:
+
+1. Introduce yourself
+
+2. Why do you want to join INFOSYS
+
+3. Do you have a passport
+
+4. Have you taken GRE/TOEFL
+
+5. Will you go abroad
+
+6. Which prog is better - MTech or MS
+
+7. Which prog do people prefer - MTech or MS
+
+8. Why
+
+Personal Questions asked:
+
+a)Which other companies are you applying to?
+
+
+in interview
+
+a)question
+
+my weakness, kinds of friendship, family details
+
+b) response
+
+They are impressed if one presents papers.
+
+I have presented conference papers
+
+in the national level.
+
+Generally most of the companies asks about the project.
+
+Regarding other technical questions, they put questions
+
+on the courses I did.
+
+B) Personal
+
+-----------
+
+i) Tell us something about yourself. (This has to be there)
+
+ii) Strengths and weaknesses (This question also disguised in various 
+
+forms is always asked).
+
+iii) Why should we hire you?
+
+iv) Can you describe your project in short?
+
+v) Why did you take 2-1/2 years to complete (My case!)
+
+vi) If given the job when can you join. (Caution: Don't think that if 
+
+you give some unreal early deadlines they will offer you the job.
+
+Always play safe and give a deadline by which time you are sure to 
+
+complete and join. Asking for extensions is the worst scenario). 
+
+Tips: Be confident, frank (But need not give away information which may weigh
+
+against your case), free (use first names while addresing them, so be
+
+alert when they introduce themselves) and cheerful (attend an interview
+
+with a positive frame of mind). Remember you are IITians and you always
+
+have an edge. That may sound arrogant, but its true. 
+
+ 

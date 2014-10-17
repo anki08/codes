@@ -1,0 +1,110 @@
+This is the paper of PCS, which came today at CDAC, New Delhi
+*********************************
+P    C     S     17-12-2000
+*********************************
+--Time 50min
+--1/3 Negative marking
+--Total question 20
+
+(Questions are not in order)
+
+Q.1.    There are 254 women. A sales man asks each about which product they
+use out of three
+(A, B, C,) 22 use all three, 39 use B and C....... Each uses atleast one
+product.
+Find the number of women that use product C
+(ans 52)
+
+Q.2.    A man leaves office daily at 7pm. A driver with car comes from his
+home to pick him
+from office and bring home. One day he gets free at 5:30 and instead of
+waiting for
+driver he starts walking towards home. In the way he meets the car and
+returns home on 	car. He reaches home 20 minutes earlier than usual.
+In how much time does the man reach home usually??
+(ans 1hr 20min)
+
+Q.3     The following truth table is given. What is y equal to??
+-------------------------
+A       B       C       Y
+-------------------------
+0       0       0       1
+0       0       1       1
+0       1       0       0
+0       1       1       0
+1       0       0       0
+1       0       0       0
+1       1       0       1
+1       1       1       1
+
+ans:- (A')(B')(AB)
+
+Q.4     A question on venn diagram of intersection of three circles. Some
+area is shaded. Find 	the shaded area?
+ans d) a(b+c)
+
+Q.5     Question about 22 people dancing. 7 men dance with one girl
+etc...... You have to find the 	number of girls in it.
+ans 8
+
+Q.6     One question about A working thrice as B and if A takes 60 days less
+than B to do a work.
+Find the number of days it would take to complete the work if both work
+together?
+ans 22½days
+
+Q.7     One quetion on 5*5 matrix. How much time does computer take to
+calculate (something....)
+ans:- d)more than a year
+
+Q.8     How many 1's are there in the binary form of:
+8*1024 + 3*64 + 32
+ans c)4
+
+Q.9     One question on 64 playing cards. You put the top card at the bottom
+and then discard
+next. Repeat the process till you are left with one card. What is the number
+of this card
+ans:- 1
+
+Q.10    In a digital circuit which was to implement (A.B) + (A)XOR(B). The
+designer implements
+(A.B).(A)XOR(B). What is the probability of error in it??
+ans 0.5
+
+Q.11    A boy has 2 Rs. He wins or looses 1Re at a time. If he wins he gets
+1Re and if he looses
+the game he looses 1Re. He can loose only 5 times. He is out of the game if
+he earns 5Rs.
+Find the number of ways in which this is possible??
+a)12     b)14      c)16      d)18
+ans :- 16
+
+Q.12    If there are 1024*1280 pixels on a screen and each pixel can have
+around 16million 		colors.
+Find the memory required for this?
+a)512KB   b)2MB     c)4MB     d)8MB
+ans  4MB
+
+Q.13,14 Two questions on comprehension( Something about Serial and parallel
+imaging)
+ans Q.13:- c
+ans Q.14:- d
+
+Q.15.   On a particular day A and B decide that they would either speak
+truth or will lie. C asks 	A whether he is speaking truth or lie? He answers
+and B listens to what he said. C then 	asks B what A has said. B said "A
+says that he is a liar".
+What is B speaking?
+a)Truth
+b)Lie
+c)Truth when A lies
+d)Cannot be determined
+ans b
+
+Three programs on C.(All three are about arrays and are quite easy)
+(not in order)
+Q.16    Answer of one program is:- A intersection B
+Q.17    Answer of another program is:- Run time error
+Q.18    Answer of program is:- c)3, 2, 1, 10,..........
+

@@ -1,0 +1,132 @@
+Hi guys !
+This is the GE John F welch Technology Center, Bangalore paper for the Field specified.
+People who were allowed
+Post Graduates in: Electronics, Computer Science,Electrical,Instrumentation
+The paper consisted of 5 Simple Aptitude questions and
+12 technical questions
+The technical questions were based on C(4 to 5 questions),C++(one question),UML(5-6 questions)..........Time : 45 minutes
+ 
+Section I Aptitude
+1) If a flight takes off and after 1/5 th of the journey is over it takes 24 seconds to reach the destination. Then how much far it is away from the destination when 2/3 journey is over.
+a)4 seconds b) 10 seconds........others options i dont remember
+Ans: 10 seconds
+ 
+2)the Number pattern given and asked to find the number in the 3rd pattern, like
+ 
+           6                                    10                               9
+7         32         8            11         19         9         11       ?         10
+           4                                      8                               3
+ 
+Ans: 83, (11x10-9x3)               
+ 
+3) A train 1Km long takes 30 seconds to cross 500 m bridge, how long will it take to cross 1Km bridge.
+Ans: 40 seconds
+ 
+4) if the sum of Inverse of two numbers is something, and the differecne of the inverse of two numbers is something else, find the smallest number
+Ans : 8
+I dont remember the data..........sorry folks
+ 
+Technical
+1)What is the Relationship between aggreagation and Association.
+-----four options were given but I dont remember(I dont know UML)
+ 
+2)                              Company
+ 
+ CEO                          workers                   employee
+ 
+Q: What is the relationship between Company and CEO
+1)Association
+2)Aggreagation
+3) Composition
+etc
+ 
+3)                                  Baggage
+ 
+         hand baggage             carrier baggage              goods baggage
+a) Composition
+b) Aggreagation
+c) Association
+ 
+4) A equation was asked to solve
+int a=6
+int b=10
+int c=2
+int d=4
+float e=3.6
+z= ++a - (-b++) * c/d *e;
+a) 7
+b) 25
+c) 26
+Ans: 7
+ 
+5) Which is invalid C statement
+a) i=1
+b) int cons *ptr =&b;
+c)const int *ptr= &c;
+d)const int const *ptr=&d;
+ 
+6) Which is a invalid function declaration
+a) void cal (int a, int b=9,int c=0);
+b) int root (const string &);
+c) void calculate(int a[][], char b);
+d) I dont remember
+Ans : b;(Check the order in exam)
+ 
+7)C++ program was given
+int a= -1;
+i=2;
+cout<<"The value of a is";
+if(a)
+{
+i=4;
+cout<< i;
+}
+ 
+options:
+a) will print nothing
+b) 2
+c)4
+Ans : a)
+ 
+Others I dont remember
+15 persons were shortlisted
+The interview conducted covered :
+1) Your M-Tech Project if it is Related to Automation or Image processing or some software related
+2) If not than be prepared for Image processing, and Instrumentation question if u say u know this subjects
+3)otherwise UML,C,C++,VB,VC++(if you know),Java(if u know)
+ 
+The final selection is still pending
+Thats it
+Best of Luck to all
+
+
+
+------------------
+(|     \   /    |)
+   --       --  
+   U  ( )  U
+------------------
+       Y          -Dynamism starts here
+
+
+--------------------------------------------------------------------------------
+Do you Yahoo!?
+New and Improved Yahoo! Mail - 100MB free storage! 
+Yahoo! Groups Sponsor 
+ADVERTISEMENT
+ 
+ 
+ 
+
+
+--------------------------------------------------------------------------------
+Yahoo! Groups Links
+
+To visit your group on the web, go to:
+http://groups.yahoo.com/group/ececse_iit/
+  
+To unsubscribe from this group, send an email to:
+ececse_iit-unsubscribe@yahoogroups.com
+  
+Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. 
+

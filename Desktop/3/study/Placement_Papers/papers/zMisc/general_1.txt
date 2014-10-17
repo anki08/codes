@@ -1,0 +1,219 @@
+**these are some of the important ques..that are asked
+frequently
+
+
+->Why paging is used ?
+
+->Which is the best page replacement algo and Why ?
+
+->WHat is software life cycle ?
+
+->How much time is spent usually in each phases and why ?
+
+->What is testing ?
+
+->Which are the different types of testing ?
+
+->Which are the different phases in Software life cycle (asked again)
+
+->Why is analysis and testing phases very important ?
+
+->Why networks are layered ? What is the advantage of that ?
+
+->How many layers are there in OSI ? Why is it called OSI model ?
+
+->network topologies ?
+
+->Which are the different network toplogies ?
+
+->an example of bus type network.
+
+->What is the Bandwidth of ethernet ?
+
+->Explain the advantage and disadvantage of ethernet ?
+
+->Which is the protocol used in ethernet. (CSMA/CD) Why is it called so ?
+
+->What is the advantage of Ring network ?
+
+->Compare it with ethernet.
+
+->What is inheritance, encapsulation etc.
+
+->If there are too many page faults what is the problem?
+
+->To ensure one pgm. doesnt corrupt other pgm. in a Multi-pgm. enviornment
+
+what you should do?
+
+->Which one you will use to implement critical section? Binary Semaphore
+
+-> Which one is not needed for Multi-pgm. enviornment?
+
+options are: virtual memory,security,time sharing,none of the above. 
+
+->Which one is not done by Data link layer ? bit stuffing, LRC,CRC,parity check 
+
+
+-> Which one is not related to Data link layer?
+
+-> Which one is not suitable for client-server application? tcp/ip,message passing,rpc,none of the above.
+
+->Term stickily bit is related to a)kernel b)undeletable file c)  d)none
+
+->semaphore variable is different from ordinary variable by ?
+
+->unix system is 
+
+a)multi processing
+
+b)multi processing ,multiuser
+
+c)multi processing ,multiuser,multitasking
+
+d)multiuser,multitasking
+
+->x.25 protocol encapsulates the follwing layers
+
+a)network
+
+b)datalink
+
+c)physical
+
+d)all of the above
+
+e)none of the above
+
+->TCP/IP can work on
+
+a)ethernet
+
+b)tokenring
+
+c)a&b
+
+d)none
+
+->a node has the ip address 138.50.10.7 and 138.50.10.9.But it is
+
+transmitting data from node1 to node2only. The reason may be
+
+a)a node cannot have more than one address
+
+b)class A should have second octet different
+
+c)classB " " " " "
+
+d)a,b,c
+
+->the OSI layer from bottom to top
+
+->for an application which exceeds 64k the memory model should be
+
+a)medium
+
+b)huge
+
+c)large
+
+d)none
+
+->the condition required for dead lock in unix sustem is
+
+->set-user-id is related to (in unix)
+
+->bourne shell has 
+
+a)history record
+
+b)
+
+c)
+
+d)
+->wrong statement about c++
+
+a)code removably
+
+b)encapsulation of data and code
+
+c)program easy maintenance
+
+d)program runs faster
+->which is true
+a)bridge connects dissimiler LANand protocol insensitive
+
+b)router " " " " "
+
+c)gateway " " " " "
+
+d)none of the above
+
+->const char *
+
+char * const
+
+What is the differnce between the above tow?.
+
+->In Unix inter process communication take place using?.
+
+->About i-node numbers
+
+->Max relaxable permisssion value with out giving write permission to others?.
+
+->About ln(linking) 
+
+->Linking across directories?.
+
+->process id for kernell process
+
+->very first process created by kernell
+
+->function to repaint a window immediately?.
+
+->Function entry for DLL in win3.1
+
+->win 3.1 is a 
+
+->win 3.1 supports which type of multi tasking?.
+
+->Message displayed when a window is destroyed
+
+->About fork()?
+
+->About send message and post message
+
+->Message to limit the size of window
+
+->System call executable binary file intoa process
+
+->About GDI object?.
+
+->API used to hide window
+
+->Initialize contents of a dialog?.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+__-__--____-__--____-__--____-__--____-__--____-__--____-__--____-__--____-__--____-__--__
+----------------C SKILL SET-------
+
+->How do you write a program which produces its own source code as its output? 
+->How can I find the day of the week given the date? 
+->Why doesn't C have nested functions?
+->What is the most efficient way to count the number of bits which are set in a value? 
+->How can I convert integers to binary or hexadecimal? 
+->How can I call a function, given its name as a string? 
+->How do I access command-line arguments? 
+->How can I return multiple values from a function? 
+->How can I invoke another program from within a C program? 
+->How can I access memory located at a certain address? 
+->How can I allocate arrays or structures bigger than 64K? 
+->How can I find out how much memory is available? 
+->How can I read a directory in a C program? 
+->How can I increase the allowable number of simultaneously open files?
+->What's wrong with the call "fopen("c:\newdir\file.dat", "r")"? 
+-> 
+
+
+

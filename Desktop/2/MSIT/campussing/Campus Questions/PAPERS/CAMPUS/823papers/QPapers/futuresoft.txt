@@ -1,0 +1,219 @@
+Future Software Test Paper Home
+ 
+
+Back To FutureSoft Page
+
+
+1. S --> AB|AS
+    A --> a|aA
+    B --> b
+
+What is the grammer accepted by the above?
+
+Ans. aa*b
+
+
+2. How many address lines are needed to address a 64Kb segment with each register storing upto 512 bytes.
+
+Ans. 14 address lines
+
+
+3.  Find the expression representing the following K-map
+
+1   1 1 
+        
+  1 1   
+1   1 1 
+
+ 
+
+4. For the POS form of the expression given below
+     _      _         _       
+     X.Y.Z + X.Y.Z + X.( Y + Z )
+
+
+5. In a computer system the ROM :
+
+(a) contains boot software
+(b) is permanent
+(c) Both of the above
+(d) None of the above
+
+Ans. (c)
+
+
+6. The binary  equivalent of 3B7F is
+
+Ans. 0011 1011 0111 1111
+
+
+7. The register used by the shift reduce passing method is
+
+Ans. Stack
+
+
+8. A microprogram can be defines as to consist of 
+
+Ans. A primitive operation
+
+
+9. Find the output for the following C program
+
+int array[4][4] = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16};
+for (i=2;i<0;i--)
+  for (j=2;j<=0;j--)
+   printf("%d", arr[i][j]);
+
+
+10. Find the output for the following C program
+
+#include<stdio.h>
+void main()
+{int i,x,sum=0;
+int arr[6]=[1,2,3,4,5,6]
+for (i=0;i<4;i++)
+sum+ = func(arr[i]);
+printf("%d", sum);
+}
+
+func(int x)
+{ int val,x;
+val = 2;
+return(x+ val++);
+}
+
+
+11. Given the following data: 
+
+Process P1 takes 2 seconds 
+Process P2 takes 3 seconds 
+Process P3 takes 4 seconds 
+Process P4 takes 1 second 
+Process P5 takes 6 seconds 
+Find the average time in case of shortest job first (SJF) scheduling.
+
+
+12. Given a string STOCK and a stack of size 4.
+      Which of the following strings cannot  be generated using this stack.
+
+(a) TSOCK
+(b) TOSKC
+(c) STOCK
+(d) TKOSC
+(e) None of these
+
+
+13. Inversion of a matrix will take which of the following time complexities?
+
+(a) O(n)
+(b) O(n²)
+(c) O(log n)
+(d) O(n³)
+(e) None of these
+
+
+14. A drum rotates at 4000 rpm. What is its average access time.
+
+
+15. What range of  integral values can be stored using 32 bits?
+
+
+16. Where are the following variables stored 
+
+Automatic 
+Global 
+Static 
+
+17. If a layer 4 transfers data at the rate of 3000 bytes/sec.
+      What will be the size of data block transferred by Layer 2
+
+
+18. What is the greatest disadvantage of dynamic RAM over static RAM
+
+Ans. High Power and need to refresh every 2 ms.
+
+
+19. What happens when the CPU gets interrupted?
+
+
+20. Find the Postfix of the following string
+
+  (a + b) * ((-d) *f (ab - cd))
+
+
+21. E --> E + E| E * E | E/E | E - E| .... then which is correct
+
+(a) It is ambigous
+(b) It is inherently ambigous
+(c) It is non inherently ambigous
+(d) None of the above
+
+
+22. If there are n nodes and K edges in a graph then what is the order of traversing
+
+Ans. O(n²)
+
+
+23. A graph is represented as an adjacency list with n vertices and e edges
+      What is its time complexity
+
+Ans. O(n + e)
+
+
+24. An array with address KV[a] had n elements. Which of the following correctly addresses the ith element of the array.
+
+(a) KV(a) - 2a + 2i
+(b) KV(a) +2i
+(c) KV(a) - 2a
+(d) None of these 
+
+
+25. Give an example of a primitive instruction in microprocessors.
+
+
+26. A computer has 8 bit data bus and 16 bit address line.
+      How many machine cycles will it take to store the contents to a memory location?
+
+
+27. Where is a variable defined in a function stores?
+
+Ans. Process Swappable Area
+
+
+28. For the following C progralm
+
+  int d=0;
+   for(int i=0;i<31;i++)
+    for(int j=0;j<31;j++)
+     for(int k=0;k<31;k++)
+     if (((i+j+k) % 3)==0)
+    d=d+1;
+
+Find value of d
+
+
+29. e=<e+e> | <e*e> | <(e)> | <id>
+     What forms do the expressions created by the above definition fit in
+
+Ans. All arithematic expressions
+
+
+30. If a set of numbers are in sorted order then which of the following sorting method is best
+
+Ans. Bubble Sort
+
+
+31. A magnetic tape is similar to which of the following structures
+
+Ans. List
+
+
+32. The s/n id 3 dB Find the capacity of the line.
+
+
+
+
+
+ 
+
+Back to top

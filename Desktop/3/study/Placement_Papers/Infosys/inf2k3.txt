@@ -1,0 +1,691 @@
+hello dear 
+these are papers of this year of infosys.
+REMEMBER THESE ARE PAPERS OF THIS YEAR ie 2000
+best of luck.
+ajit
+
+                            INFOSYS  2000-C.E.T(CALICUT)
+1	A bicycle goes 1 mile in three minutes with the wind and returns back in 4
+min. against the wind.How many minutes he will take to cover 1        mile
+when there is no wind?                             (ans:24/7 min)
+
+2: A man passed one sixth of  his life in childhood , one twelfth in youth,
+   And  one seventh more as a bachelor , 5yrs after his marriage a son was    
+ born Who dies 4yrs before his father at half his final age.What is the   
+total age of the man ?                                                    
+(Ans:84)
+
+3: Alpha,Beta Gamma ,Theta and Epsilon.There are 5 different quantities
+   Are given 
+   a: If and only if alpha=gamma then beta<>epsilon
+   b: Alpha-beta =beta-gamma and alpha>theta
+   c: Alpha>beta  and  gamma>theta
+   Write the quantities in descending order             
+
+(Ans  alpha>beta=epsilon>gamma>theta)
+
+4: A thief broke into a jewellery  shop and thought of taking all the 
+diamonds with him but while he was leaving came to his bitter senses and     
+thought oftaking half with him but he could not resist and took two more    
+extra and left .A second thief came and took half of the remaining and two   
+more .A third thief came and took half the remaining and two more .Then     
+fourth thief came and didthe same .The fifth thief came and there was no    
+more diamond for him to steal
+   What was the actual no.of diamonds initially ?           (Ans: 60)
+
+5:	SEND   9567      What is the value of M,O,N,E?
+        MORE   1085
+        MONEY  10652                            
+(ANS: M-1,O-0,N-6,E-5)
+
+6: Three man  A,B,C went in three direction and had stolen a dog , a horse    
+ and a camel they ware caught by C.B.I and arrested . During their         
+interrogation they gave the following statements.
+           A: B had stolen a horse
+           B: A and C are both lying and I had stolen nothing.
+           C: A is lying and B had stolen a dog
+   One who had stolen a camel is telling lie and one who had stolen a horse   
+ is telling truth.
+   Among A,B,C who had stolen which animal ?        
+ (Ans- A-camel,B-dog,C-horse)
+
+7: A scientist SAM arrived late in his lab and found that his watch the
+   minute hand and the hour hand ware coming together in every 65 min.
+   Was his watch gaining or losing time and how much per hour
+ans:gaining 5/11 min.per hour
+
+   *refer to  SHAKUNTALA DEVI'S  puzzles to puzzle you NO-63
+
+8:
+ 1.	Amarpur is north of Landganj  and west of Chutpur
+ 2.	Basti is north of Amarpur and west of Fulganj
+ 3.	Dania is south and east of Amarpur 
+ 4.	Landganj is north of Fulganj and east of Dania
+ 5.	Fulganj is north of Dania and west of Amarpur
+ 6.	Chutpur is south of Fulganj and west of Dania
+
+(A)Which of the towns mentioned is furthest to the north-west ?
+*Amarpur
+*Basti (Ans)
+*Chutpur
+*Landganj
+*Fulganj
+
+(B)Which of the following must be both north and east of Fulganj ?
+1-Amarpur,2-Chutpur,3-Landganj
+7	1 only
+7	2 only
+7	3 only
+7	1 and 2
+7	1 and 3 (ans)
+(C) Which of the following towns must be situated both south and west of
+atlest one other town ?
+7	Amarpur only                                           REFER TO BAROONS
+GRE
+
+7	Amarpur and Fulganj                                GUIDE MODEL TEST-2
+7	Dania and Fulganj                                     SECTION-6 QNO.8-12
+7	Dania ,Chutpur and Fulganj. (Ans)
+7	Chutpur,Dania and Landganj.
+
+
+
+                                           INTERVIEW QUESTION
+                                   __________________________________
+In a box there are three black and two blue caps.Three man  A,B,C came and
+takes out one  cap each .
+7	A cant see his own cap but can see what B and C are wearing.
+7	B cant see his own cap but can see what C is wearing
+7	C cant see any bodys cap
+When A is asked about his cap he answered no he cant. B
+Also replied the same but C answered yes and got the answer right.
+So tell what color of cap C is wearing?        (Ans-black)
+
+
+INFOSYSES 2000 -visiting DCE(DELHI)
+-----------------
+1.Find the number which on division by2,3,4,5,6 gives
+1 as remainder and is fully multiple by 11.
+ans:121
+
+2. there are 3 persons A,B,C on the post of manager,
+executive and officer. The only son is the least
+paid officer. C is brother of A's wife .A is most
+highly paid. find which is the occupation of A,B,C.
+
+3. top of a hill is 440 yards from the bottom. Jack
+and Jill started a race from the bottom to go the top
+of hill and come back.
+a)Jack meets Jill 20 yards down the path from the top
+b)Jack finishes the race 30 sec before the Jill.
+c)their speed down the hill is one and half up the
+hill
+find the time taken by jack to finish the race.
+ans:6.3min
+
+4.Wall and Smith matches the time of theirs
+watches .Wall watch get slow by 1min/hr and smith's
+watch get fast by 2min/hr after how much time the
+difference will be 1 hour in their watches.
+ans: 20 hrs
+
+5 I asked my brother to get a rope but he interchanged
+the ft. And inch of the length required and finally
+got 5/8 of original length. what is the orig. Length I
+have asked for.
+ans: 7ft 4in
+
+6. Two men E&F and two women G&H all playing diff.
+Musical instruments are sitting around a square table
+.
+a)opp to F is fluteplayer.
+b)left of E play cambul
+c)left of G is not violinist.
+d)opposite of E is not trumpeter.
+f) violinist and trumpeter are brother and sister
+who played the violinist.
+ans: F-violinist
+
+7. three John brothers ,three Smith brothers . first smith sold out one more
+than 1/4th of papers and second Smith sold one more than !/4th of the
+remainder papers. Two Jhon sold one more then !/4th of the remainder papers.
+At this stage both Smith have sold 100 more papers than both Johns have sold.
+Now the third John sold out the remaining papers so the John are now ahead of
+smiths but by how many papers
+ans: 38
+
+8. There are 10 persons standing in square queue
+L,M,N,O,P are men standing alternatively at odd
+position. A,B,C,D,E are women standing at remain
+position. Additionally four or five condition are
+given like E does not stand on last, M &B are married
+and so on. Base on the four single choice question
+were there.
+
+9. one question on murderer(summer's type)
+5 or 6 line question. You have to find the victim.
+
+Questions asked in the interview-
+
+1 find the number (2-digit) whose digit multiplied
+give two digit no two times and third time a single
+digit no (ans:49,88,78) (time given would be 30 secs.)
+
+2 eight members of the family are there.4 are men,4
+are women Based on the relations, conditions they gave
+and asked one of the relations.
+
+In the interview they were stressing for the academic
+record your rank in the past among how many batch
+mates.(always mention top ranks they never check it.
+How much software you know was not imp. 2or 3 puzzles
+they were asking to everyone. 
+
+3. you have to boil eggs for your father .the boiling
+time is nine minutes.your have two hour-glasses one
+measuring 4 mins and other 7 mins.how you will boil
+the eggs(continuos 9 mins.).
+
+
+.
+INFOSYS  IISC(BANGALORE)
+
+questions are not in order
+
+1:there is a robery and four persons are suspected out of them one is
+actual thief, these are the senteces said by each one of them!
+
+A: says D had done
+B: says A had done
+C: says i dddnt done
+D: B lied when he said that i am thief
+out of these only one man is true remaining are false
+
+ans: C is thef,D is true!
+marks 3
+
+2  how many four digit numbers divisible by four  can be formed  using
+1,2,3,4;repetions are not allowed!
+
+ans 6;
+marks 4
+
+3  a vender solds two things at same cost 12 RS with one item at 25%profit
+and other at 20%loss,by this transaction he made profit or loss by how
+much
+
+ans loss,60paise
+marks 3
+
+4 two friends A,B are running up  hill and then to get down!
+length if road is 440 yards A on his return journy met B goin up at
+20 yards from top,A has finished the rase .5 minuit earlier than
+B,then how much time A had taken to complete the rase.
+returning speed is 1.5 times of the upspeed.
+ans 6.3 minuits
+marks 4
+
+5 barons question diagnostic test question 8-12,5 men and 5 women went for
+foot ball match.........
+
+marks 8
+
+6 write a five digit number , which will be having two prime numbers,
+and some two more conditions,like 1st digit greater than 2nd etc
+its easy(remember one is not a prime number,most people don mistake
+taking 1 as prime number)
+
+ans 71842
+5 marks
+
+7  two employs were there. employ one says to employ two your work ezxperience
+twice as me. emp2 says exactly  emp1 but two years before you said that your
+work experience is
+thrice as me. emp2 yes its also true
+what are their work experience
+
+ans 4,8
+marks 3
+
+8   ther are four persons A,B,C,D and for languages english ,french,german and
+italian.
+conditions:
+
+1 only one language is spoken by more than two men
+2 A dont know english
+3 a man can speak either french or german but not both
+4 all man cannot spek in a group(no common language)
+5 A can mediate when B and C want to speak with each other
+6 each men  can speak two languages
+7 no common language betweeb A,C and D
+ans
+
+A      french italian
+B      german italian
+C      french english
+D      german  italian
+marks 7
+
+9   there are 3 women ,they having three jewells,named diamond emerald
+,ruby
+  3 women A,B,C
+  3 thiefs D,E,F
+  each thef had taken one jewel from each of the women
+  following conditions
+. one who had taken diamond is the bachelor and most dangerous
+. D 's brother in law E who is less dangerous than the thief who had
+  stolen emerald
+(this is the key from this e had stolen ruby)
+.D did nt stolen from B
+who has stolen what?
+ans: F-diamond,D-emerald, E-ruby
+marks 7
+
+10 ther were five persons out of which two persons heir went white
+and three persons hair is black. conditions 
+if A 's hair is white then B'hair is white
+A,s hair is not black if C's hair is not black
+
+two more conditions
+but we can easily solve it from first codition
+
+ans is Aand B's hair is white
+marks 5
+
+essay
+in this age of super computer computer will repalce man!
+
+what is contribution of industry towards humn growth
+
+
+interview questions!
+
+1 two time glases 7,4 how you measure 9
+
+2  four persons have to cross the bridgeon which at a time two can cross. 
+they are having one torch
+ligt four persons take 1,2,5,10 minuits respectively , when two persons are
+going they will take the time of the slowest person.  whats the time taken to
+cross allof them
+
+ans 17minuits
+
+3   a non uniform rope burns for one hour how you will measure half an hour
+ans: lit it from both sides!
+
+   
+**********************INFOSYS-2000**********************************
+ IIT BOMBAY 16-july-2000
+
+Puzzles are good, Thing which is more important is
+ time....
+total marks are 50. Maximum ppl soved 5-6 puzzles.
+Those who Scored
+30 and above are called for interview......
+
+1. Persons A and B. Person A picks a random no. from 1 to 1000.Then
+>person B picks a random no. from 1 to 1000. What is the probability of B
+>getting no. greater then what A has picked.
+
+2. Some free body diagram is given
+> 3 | 9
+ > --------------------------------
+> 2 | 4 |
+ >~~~~~~~~~~~~~~~~~ C
+ >| 5 | 9
+ >15 ~~~~~~~~~~~~~~~~
+ > 3 | 2 |
+ > ~~~~~~~~ 80
+ > | |
+ > A B
+ >
+ >For equilibirium find values of A,B,and C.
+ >
+3. Three boys and three girls brought up together.
+Jim,Jane,Tom,Virgina,Dorthy,and XXX.
+They marry among themselves to form three couples.
+Conditions are :
+i) Sum of their ages would be the same.
+ii) Virgina was the oldest.
+iii) Jim was dorthy's brother.
+iv) Sum of ages Jane+Jim and Tom+dorthy is same.
+Give the three couples.
+
+4. X^(1/3) - X^(1/9) =60
+ Solve for X.
+ans: 4^9
+
+5. X Z Y
+> +X Y Z
+ ---------
+ Y Z X
+Find the three digits.
+ans:
+
+6. Two boats start from opposite banks of river
+perpendicular to the shore.One is faster then the other.They meet at 720
+yards from one of the ends. After reaching opposite ends they rest for
+10mins each. After that they start back. This time on the return journey
+they meet at 400yards from the other end of the river. Calculate the
+width of the river.
+ans:1760
+
+7. Basketball Tournament organisers decided that two consecutive defeats
+will knock out the team. There are 51 teams participating. What is the
+maximum no. of matches that can be played.
+ans: 101
+
+8. Three guys are there A,B,C. They have three
+subjects to take from
+Biology,Mathematics,Physics,Chemistry. The four
+statements of the guys are
+given.Only two statements are correct from them
+i)
+-----X--- NOT SURE --- X -----
+
+9. The Master says to his grandmaster that me and
+my three cousins have
+ages in prime nos. only.Summation of our ages is
+50. Grandmaster who knows
+the age of the master instantly tells the ages of
+the three cousins.
+Tell the ages of three cousins.( 1 is not
+considered as prime no.)
+ans: 43,3,2,2
+
+10) There are two families Alens and smiths. They have two children each.
+There names are A,B,C,D whose ages are different and ages are less then or
+equal to 11. The following conditions are given.
+i) A's age is three years less then his brother's age.
+ii) B is eldest among the four.
+iii) C is half the age of the eldest in Alens family.
+iv) The difference in sum of the ages of Alens children and smiths children is
+same as that of five years ago.
+Find the ages of all the childeren.
+Attached Message 
+ 
+ IITDELHI INFOSYS
+HI
+HERE IS THE INFOSYS PAPER ASKED IN IIT D . I THINK NO QUESTION IS REPEATED 
+AS FAR AS MY
+KNOWLEDGE OF PREVIOUS PAPERS ARE CONCERENED . HERE THE CUT OF WAS ARROUND 20 
+OUT OF 50 .
+144 STUDENTS WERE SHORTLISTED FOR INTERVIEW AND 71 FINALLY SELECTED.
+
+
+################################################################################
+################################################################
+
+
+
+1. A MAJOR IN ARMY (WHO GOT PARAMVIR CHAKRA IN 1971) DIES AT THE AGE OF 
+1/59 OF THE YEAR
+IN WHICH HE WAS BORN . IN WHICH YEAR HE WAS BORN?
+
+ANS : 1947
+
+2. 6561 IDENTICAL BALLS EXCEPT ONE WHICH IS HEAVIER , IN HOW MANY WEIGHING U 
+CAN FINDOUT
+THAT BALL?
+
+ANS: 8
+
+3.( QUESTION WAS EXACTLY NOT CLEAR BUT IT WAS LIKE THAT) 6%OF 4000000 AND THE
+SUM IS EQUAL TO THE 5%OF 4000000 AND 7.5 %OF THE SUM.FIND THE SUM
+
+4. THERE R 50 TEAMS IN A TOURNAMENT. A TEAM IS KNOCKED OUT AFTER LOSING 
+THREE MATCHES. HOW MANY MAX. MATCHES SHOULD BE THERE TO GET A WINNER TEAM?
+
+ANS :149
+
+5.A PERSON 'A' STARTS TRAVELLING FROM A PLACE X TO A PLACE Y . AT THE SAME
+TIME ANOTHER PERSON 'B' STARTS FROM Y TOWARDS X . WHEN THEY MET A HAS
+TRAVELLED 18 MILES MORE THAN B AND KEEP ON TOWARDS THEIR DESTENATION .AFTER
+THAT A TAKES 13AND A 1/2 HOUR TO REACH Y AND
+B TAKES 24 HRS. TO REACH X. HOW FAR X IS FROM Y?
+
+ANS: 126
+
+6.(THIS WAS IN A POEM FORM IN WHICH A PERSON'S AGE WAS CODED ).IT TAKES 2
+SCORE YR. TO DECODE THE AGE . FIND THE PRESENT AGE(1 SCORE  yR.=20YRS.) (THE
+EXACT WORDINGS R NOT KNOWN.BUT IT WAS SOMTHING LIKE THAT) FIVE SEVENS AND
+SEVEN THREES AND THE AGE IS EQUAL TO SIX NINES AND FOUR AND TWICE THE AGE LESS
+THAN A SCORE YEAR.
+
+ANS : THE EQUATION WAS ( 5*7+7*3+X=6*9 +4+2(X-20) )
+X=38 AND THE PRESENT AGE IS 78
+
+7.A TOURIST CAN REACH A PLACE BY FOUR DIFFERENT METHODS ALONG WITH A 
+STAGECOACH FROM HIS HOTEL.
+(A)HE HAS TO REST FOR 30 MIN. IN A WAYHOUSE SOMEWHERE IN THE WAY.
+(B)IF HE AND COACH LEAVES TOGETHER FROM HOTEL THAN COACH BEATS HIM BY A MILE
+AT THEIR DISTINATION .
+(C)IF THEY LEAVE TOGETHER FROM HOTEL THAN COACH WOULD REACH THE WAYHOUSE WHEN
+TOURIST IS FOUR MILES AHEAD OF HIM BUT AS HE HAS TO REST FOR 30 MIN. IN WAY
+HOUSE SO COACH REACHES WAYHOUSE AT THE SAME TIME WHEN HE WAS ABOUT TO LEAVE.
+(D)IF TOURIST PICK UP COACH FROM WAYHOUSE THAN TOURIST REACHES THE PLACE 15
+MIN. BEFORE COACH.
+HOW FAR IS THE PLACE FROM HOTEL?
+
+8. A TRAIN CREW HAVING ENGG., BRAKEMAN,CONDUCTOR AND FIREMAN NAMING ART, JOHN
+,PETE,AND TOM(NOT IN SAME ORDER)
+(A)JOHN IS OLDER THAN ART
+(B)JOHN IS PETE'S NEPHEW
+(C)ENGG. AND FIREMAN R BRITHERS
+(D)BRAKEMAN HAS NO RELATIVE IN CREW
+(C)FIREMAN IS NOT CONDUCTOR 'S UNCLE AND CONDUCTOR IS NOT ENGG.'S UNCLE
+MATCH THE CREW AND NAME THE BROTHERS AND ALSO FATHER AND SON
+ans::tom-fireman,pete-engg.,art-brakeman,john-conductor
+     father-tom,son-john,uncle-pete ,brother-pete & tom
+
+9.PERSON A,B,M AND S ARE ACOUNTANT ,ARCHITECT., DENTIST AND LAWYER HAVING 
+OFFICE IN 18 STOREY BUILDING AT DIFFERENT FLOORS.
+(A) A'S OFFICE BELOW S AND M
+(B) B'S OFFICE BELOW DENTIST
+(C)S'S OFFICE IS FIVE TIMES ABOVE DENTIST
+(D)ARCHI GOES UP 2 FLOOR AND LANDED IN BETWEEN ACC. AND DENTIST ARCHI.
+GOES DOWN 1/2 THE WAY THAN HE WILL IN BETWEEN LAWYER AND DENTIST.
+MATCH THE PROFESSION AND FLOORS.
+
+10. MRS. MARSHAL,MRS. PRICE ,MRS.TERRY AND MRS. WINTER GO FOR SHOPPING AT 2
+SHOPS EACH .
+ONE TO HARDWARE SHOP,2 TO BUTCHERY ,2 TO BANK AND 3 TO GROCERY.
+(A) MRS. DORIC DOESN'T GOES TO THE SHOPS WHERE MRS. ERIN AND WINTER GOES
+(B)MRS. MARGET RETURN HOME WITH MORE MONEY THAN SHE WAS
+(C) MRS. TERRY AND MRS. LULCIL BOTH HAD TO BUY MEAT.
+MATCH THE NAMES AND THE SURNAMES AND FIND THE SHOPS THEY VISITED.
+
+
+INFOSYS VJTI BOMBAY_______________________________________
+here are seven question out of ten of infosys paper asked in the V.J.T.I.
+mumbai.
+
+q.1 a boy picks the receiver of the phone and asks "who is calling?".he
+hears the voice of a man saying, "your mother's mother is my mother
+in law". what is the relation between the boy receiving the call and
+the person. 3-marks
+ans: father.
+
+q-2 three suspect A,B,C of a bank robbery were arrested by the police.
+on investigation they make the following statements
+A -- im innocent.
+B--im innocent.
+C--B is guilty.
+out of these three,only one is true.who is the guilty? 3--marks
+ans a is guilty.
+
+q-3 there are two A,B temperature measurement system
+16 degree temperature of A is equal to 34 degree of B
+133degree temperature of A is equal to 86 degree of B
+at what temperature both A and B are equal. 4--marks
+ans 48.4
+
+q-4 a survey was conducted by a company powder and oil to see the
+response of the people. out of the people syrveyed here is the
+response of the people
+1-- 1/5 said they dont use the product
+2---2/7 said they use powder
+3---1/3 said they use oil
+4---427 people use both powder and oil
+how many persons were surveyed?
+
+q--5 digits 1,2,3,4,5,6,7,8,9are assigned to a,b,c,d,e,f,g,h,i .
+each alphabet belong to the single digit subject to the condition
+a+b+c+d=d+e+f+g=g+h+i=17
+if a=4 what are the value assigned to g and d.
+ans (g=1 and d=5) or (g=5 and d=1)
+
+q--6 there are three persons A,B,C and three departmenrs accountant ,
+cashier and clerk.following conditions should be satisfied
+1-when B is not accountant and clerk then A is a clerk.
+2--when c is accountant B is a clerk.
+3--when A is acc
+
+q--7 There is a group of bees out of that
+one third gets attracted on x-type flower.
+one fifth gets attracted on y-type of flower.
+thrice the difference of these gets attracted on z-type of flower.
+one bee fly about,gets attractedtoward each side of x-type andy-type
+of flower.Find the total number of bees.
+ans 15
+note --there may be some mistake in questions and in answer but you will
+be having an idea of the paper.
+
+one important thing an assay had to be written in 15 minutes out of
+two choices given
+1-role of information technology in the next century.
+2-what steps should be taken to stop the brain drain.
+
+
+Date: Sun, 23 Jul 2000 21:12:27 -0700 (PDT)
+From: mukul agrawal <mukul_a_99@yahoo.com>
+Reply-To: campus-2000@egroups.com
+To: campus-2000@egroups.com
+Subject: [campus-2000] texas paper
+
+..it's Ramnaresh Gupta...from REC Trichy
+In ti 2 part were here..
+----------------------------------------------------------------------
+** 1st part is copulsary for all...it's aptitude
+test..
+75 qs in 60 min.....
+
+-- 2 reading comprehesion.. 5 qs each...
+
+-- quanta....5 qs.
+-- data sufficiency..5 qs.
+
+Q..u have weights only in power of 3... based on
+it answer 5 
+qs. like for given weight what are the combination of
+available 
+weight.. 
+-- data interpretation 2 qs..5 qs each 
+
+Q..one qs witin a circle population % is given
+based on it 5 
+qs.(PI chart)
+-- analitical
+
+Q.. one tour is shedhuled for 9 countries..each
+country have 2 
+days shedhule....tour held on for 12 days..
+some cond'n are given..like if u visit ROME u
+have to visit 
+australia .....
+based on it 5 qs...like which 3 countries
+missed...
+
+Q..4 metals are given..each year % price of these
+metals are 
+increasing..some more cond'n.....based on it 4 qs..
+answer of one qs is 13.6% 
+
+Q.. {x}=greater real of x
+[x]=least real of x
+x mod y = some expression is given
+based on it 5 qs...like calculate 5 mod 3.... 
+selected 318 students for interviews and offering 100 shares at the time of
+joining......tooo tempting
+
+INFOSYS IT BHU 2000
+
+1. i want to quit cigar after smoking last 27. due to my habit i smoke 2/3 of
+cigar each time. thus , every three buds makes a cigar. How many cigar i've
+smoken?(3 marks) ans:40
+
+2. A thief broke into a jewellery  shop and thought of taking all the 
+diamonds with him but while he was leaving came to his bitter senses and
+thought oftaking half with him but he could not resist and took two more extra
+and left .A second thief came and took half of the remaining and two more .A
+third thief came and took half the remaining and two more .Then  fourth thief
+came and didthe same .The fifth thief came and there was no more diamond for
+him to steal What was the actual no.of diamonds initially ?(3 marks)          
+(Ans: 60)
+
+3. SEND + MORE = MONEY. find S,E,N,D?(4 marks)
+ans: s=9, e=5, n=6, d=7
+
+4. seven friends  A,B,C,D,E,F,G went to holiday on different days of week.
+some conditions...
+ a) G went three days after B
+ b) F lies  in midway between B and C and went on Thursday
+ c) A lies after C
+ d) D went three days after a day before E
+
+find when did A,B,C,D went to holiday?(6 marks)
+ans: A sunday: B tuesday : C saturday: D wednesday
+
+5. on an island there were three tribes. they have three female leaders A,B,C.
+they decieded to conduct most charming contest.
+  the tribes were Pucca, who says always truth; wotta, who always lie; summa,
+who says truth and lie alternately.
+   Based on these comments tell the leaders of respective tribes and there
+position in charming competition.
+
+ A: 1. B is summa
+    2. B is definitly more charming then c.
+
+ B: 1. C is wotta
+    2. A is pucca
+
+ C: 1. most truthful of us is certainly least charming
+    2. A isnot most charming
+(8 marks)
+ans: 
+  C: pucca:  last
+  B: wotta:  first
+  a: summa:  second
+   
+6. there were three men barber, cutler, drake. they had three wifes beth,
+dorothy and louise. and three sons henery, victor and allan(6 marks)
+  now based on some conditions u have to match the men with there wife and
+son....
+ 
+it was easy u can do it...
+
+7. there were three friends A, B, C. A's wife dies and he went to live with
+his niece. B was a widower and lives with daughter. C marries a girl and they
+invited both of them  to come with there fellows and live together. Each have
+to contribute Rs. 25 each.. after the month the expenses comes to be 92.. they
+divided the rest of the money and each got an amount which was not fraction.
+Tell me who got that?(4 marks)
+ans: Rs.2 A and B lived together   
+
+8. In a box there were 100 balls of different colours. they were grouped as 20
+red balls, 20 yellow, 20 black, 20 blue, 20 white. In how many maximum moves
+we can can draw two balls of same  colours?(3 marks)
+ans: 6
+
+9. Boss says he passed one sixth of  his life in childhood. one twelfth in
+College .then  one seventh more as a bachelor , 5yrs after his marriage a son
+was born. His son was elected elderman at half of his age four years ago.
+telll Boss age?(3)
+Ans:84
+
+10. It was a long question not easy to remember, but was easy to solve by Venn
+diagram...
+ (8marks)
+
+____________________________________________________________________
+Get free email and a permanent address at http://www.netaddress.com/?N=1

@@ -1,0 +1,357 @@
+   
+ 
+ 
+
+   
+
+ 
+
+CISCO 2000 PAPER: University of Roorkee
+
+I' am sure you will get at least 40 questions from this. They repeat paper like hell.
+---------------
+
+1> The starting location of an array is 1000. If the array[1..5/...4] is stored
+in row major order, what is the location of element [4][3]. Each work occupies
+4 bytes. 1056 
+
+2> If the number of leaves in a binary tree are N, then the total number of
+internal nodes........(Assume complete binary tree) 
+
+ANS: N-1 
+
+3> The locality of reference means.............
+
+4> If two unsigned 8 bit integers are multiplied what is the memory space required...............
+
+5> The vector address of RST 7.5 is ............
+ANS: 003C (multiply 7.5 by 8 and convert to hex)
+
+6> int b = 0xAA;
+b>>4;
+printf("%x",b);
+
+What is the output of the above program....
+
+7> struct s1 { struct { struct {int x;}s2}s3}y;
+How to access x? ANS: y.s3.s2.x
+
+
+8> Why there is no recursion in Fortran?
+ANS: There is no dynamic location (Check this)
+
+9> What is the worst case complexity of Quick sort?
+ANS: O(n^2)
+
+10> Quick sort uses..............
+Ans: Divide and conquer
+
+11> In a sequential search, the time it takes to search through n elements is
+
+12> What is the size of the array declared as double * X[5]
+ANS: 5* sizeof (double *)
+
+13> A binary search tree containing 1,2,3,4,5,6 ,7,8 is given and asked to write the preorder traversal result.
+
+14> If size of the physical memory is 2^(32/2), then the size of virtual
+memory
+a)2^32 -1
+b)2^32/2
+c)2^16 -1
+d) Depends upon processor
+
+15> S-> A0B
+A-> BB|0
+B-> AA|1 How many strings of length 5 are possible with the above
+productions??
+
+16> (3*4096+15*256+5*16+3). How many 1's are there in the binary representation
+of the result.
+ANS: 10
+
+17> In memory mapped I/O how I/O is accessed.............
+ANS: Just like a memory location (Means, I/O devices can be accessed using
+the instructions like mov A,M etc...)
+
+18> What is the use of ALE in 8085.......
+ANS: To latch the lower byte of the address.
+
+19> If the logical memory of 8 X 1024 is mapped into 32 frames, then the number of bits for the logical address ......
+ANS: 13
+
+20> Context free grammar is useful for...
+ANS: If-then structures.
+
+21> In ternary number representation, numbers are represented as 0,1,-1. Here -1 is represented as - (1 bar). Then how is 35 2/9 represented......
+Ans: 1101bar.11bar
+
+22> There are processors which take 4,1,8,1 machine cycles respectively. If these are executed in round robin fashion with a time quantum of 4, what is the
+time it take for process 4 to complete....
+ANS: 9 (10)
+
+23> The minimum frequency of operation is specified for every processor because......
+
+24> In memory mapped I/O, what will happen if a device is identified with a 16 bit address and enabled by memory related control signals.....
+
+25> The reason for preferring CMOS over NMOS is....
+Ans: Low power consumption.
+
+26> Two binary numbers A,B are given and asked to find out A-B.
+
+27> Each character is represented by 7 bits, 1 bit is used to represent error bit and another bit for parity. If total number of bits transmitted is 1200 bits, then number of symbols that can be transmitted.......
+
+28> One question about the set associativity of cache..
+
+29> Write the postfix form of the following expression...
+A+[[(B+C)+(D+E)*F]/G]
+ANS:ABC+DE+F*+G/+
+
+30> What is the function of the linker......
+
+31> void f(int y)
+      {
+               struct s *ptr;
+               ptr = malloc (sizeof (struct)+ 99*sizeof(int));
+               free(s);
+     }
+
+      struct s{
+              int i;
+              float p;
+              };
+
+when free(s) is executed, then what will happen??
+ANS:a)All the memory allocated will be freed
+
+32)A Positive logic NAND gate will be equivalent to a '-'ive logic ---------- gate.
+a) NAND
+b)EX-NOR
+c)NOR
+d)OR
+
+33)which of the following best describes DMA for hard-disk controller
+
+a)The memory of a controller is mapped to the main memory so that it can be written on using move.
+b)The controller puts the data directly into main memory and sends an interrupt.
+c)The controller gets data from the device into its memory and sends an interrupt
+d)None of the above.
+
+34)In a system left to right is replaced by right to left . what is the value of given 
+expression.
+(Ex a+b+c: a+(b+c)) then 7-(16/(3+1)*2)-4
+Ans:9
+
+35)A set of "masks" are defined corresponding to the relevant bit positions in flags which is an unsigned int
+
+# define KEYWORD 01
+#define EXTERNAL 02
+#define STATIC 04
+EXTERNAL and STATIC bits in flags will be turned off by.
+ANS:flags&=~(EXTERNAL|STATIC)
+
+36)In a terneary tree if the number of internal nodes is N what is the number of leaves.
+--->ternery tree means tree with three sons.
+
+37)For which operation linked list is not efficient.
+options where binary search, polynomial manupulation etc...
+
+38)What is the average number of searches in a binary search of a successful search....
+ANS: N+1
+
+39)the circuit represents 8x1 bit RAM with address lines A,B,C.
+
+--------
+0
+1
+1
+-------->A 1 ----->DO
+-------->B 0
+-------->C 1
+1
+1
+--------
+Given the contents of the RAM as in figure, what does DO represent?
+
+ANS: B+C
+
+40)In digital audio recording equipment, each audio sample requires 2 bytes of storage space. What is the minimum storage space requied for music piece of 4 minutes duration, in stereo quality(20Hz to 16KHz) Nyquists theorem
+ANS:15MB
+
+41)if a fax modem sends a frame of 4x8 inches with 400 pixels per inch. And it uses ISDN of speed 64Kbps. IF each pixel 4 bits/s. 
+What is the time takes to send the image.
+ANS--> very simple.
+
+42>In case of vectored interrupt, the proccessor computes the address of the ISR
+a)from an internally programmed memory location
+b>from an externally supplied address
+c>from the vector provided by the interrupting device
+d>from the interrupt level of the intrerrupting signal
+
+43>Identify the value printed
+
+enum
+{
+SUNDAY=-1,
+MONDAY,TUESADY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY} DayofTheWeek;
+printf("%d %d",sizeof(DayoftheWeek),WEDNESDAY);
+ANS:4 2
+
+44>In the following function, X is passed by reference and Y is passed by value.
+function P(var X:integer;Y:integer):integer;
+begin
+K:=1;
+L:=1;
+Z:=P(K,L)
+then the value of Z would be set equal to
+if P were called with K:=1; L:=1; and Z:=P(K,L)
+a)2
+b)3
+c)4
+d)6
+
+45>Few diagrams were given and asked which one represents even parity.
+ANS>was (b) a^b^c ^->XOR
+
+46)One Pascal program but don't get confused it was based on recursion. Just calculate it. Answer I suppose was 1.
+
+47)A state machine was given and asked that if it is not specified which state the machine will start from what is the sequence needed to reach a particular state.
+I don't actually remember the question.
+
+48>One question sounded like which one of them is true.
+Sorry we are not able to recall properly.
+
+49>Another similar question.
+The answer was --> Stack uses LIFO type of Operation.
+
+50> One question was on gray codes. If you remember gray codes it would be very easy. refer Morris Mano.
+
+51>Do the last years paper if you have it. 18 questions were repeated in our paper. 
+
+Compiled by
+Roopesh R Nair & CO
+University of Roorkee
+
+There were 60 questions. Rest we are not able to recall. But I think these fifty will get you through. There were some simple questions which you will be able to solve. I was able to solve about 40, but still couldn't get through. So try and do 50 questions.
+
+ALL THE BEST........ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

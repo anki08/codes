@@ -1,0 +1,276 @@
+the written test had 40 questions to be answered in 1hr..
+20 q -aptitude (rs agarwal)
+20 q technical -OS,DBMS,CCN,C concepts...
+some of the questions were as follows:
+1)speed of boat in still water is 10kmph..if it travels 24km 
+downstream,16km upstream in the same 
+amount of time,what is the speed of the stream?
+(a)3kmph
+(b)3.5kmph
+(c)2kmph
+(d)...
+
+2)a cube of 3 units is painted on all sides.If this cube is divided 
+into cubes of 1 unit,how many cube 
+have none of their faces painted?
+(a)...
+(b)2
+(c)1
+(d)0
+(e)none of these
+
+3)if a person sells a product for rs141/- he suffers a loss of 6%.if he 
+has to have a profit of 10%,
+at what price should he sell it?
+(a)
+(b)rs.175
+(c)..
+(d)rs.165
+ans.rs.165 (i think,check)
+
+4)a ball falls from a height of 8ft ,bounces back to half the distance 
+& continues till it comes to rest.
+what is the total distance travelled by the ball?
+(a)24ft
+(b)...
+(c)infinite
+(d)cannot be determined
+ans:(a)
+
+5)which of the following is the sum of 3 consecutive prime nos?
+(a)49
+(b)59
+(c)both a &b
+(d)....
+ans:c
+
+6)if the area of a square has increased by 69%,by what % has its side 
+increased?
+Ans: 30%
+
+7)in a class the average age is 16yrs.if the teacher who is 40 yrs of 
+age is also included ,the 
+average becomes 17yrs,how many students were there?
+
+8)if 3 houses are to be painted,mr A can paint a house in 6 days(nos 
+are not same)...mr B can do
+the same in 8 days...& mr.C in 12 days.if mr A does the work for 8 days 
+& leaves for vacation, & mr B continues the work
+for the next 6 days, for how many days should mr.C work?
+ans:11 days(check)
+
+9)4 thieves rob a bakery of the breadone after the other.each thief 
+takes half of what is present ,& half 
+a bread...if at the end 3 bread remains,what is the no of bread that 
+was present initiallly?
+ans:63(check)
+
+10)if the 1rst day of 1999 is a sunday,what is the last day?
+(a)sunday
+(b)monday
+(c)....
+(d)cannot be determined.
+
+11) If A driver drives a car four times a lap 10,20 30,60 kmph what 
+is his average speed.
+ans:20kmph
+
+In a group there are two kinds of people type A & type B.type A
+people answer for any question as YES & that of type B as NO.if
+they can not answer to these question then they remain silent.
+the mayor asks question to them as follows........
+
+12).if he asks a person are u type A
+a.YES b.NO c. Silent d.Can not be determined
+
+13)he asks two persons X &Ysimultaneously  whether u of same type
+a. YES b. NO c.YES or NO d. Silent e. can not be determined
+
+14).pointing to a person X he asks Y what is his type
+a. YES b. No c. Silent d can not be determined
+
+15).pointing to a person X he asks Y if I ask him whether r u 
+type A ,will he answer YES.Y says NO .what type of B is
+a. YES b. NO . c. Silent d. can not be determined
+
+16)six squares of same dimension are kept side by side to make a 
+rectangle with a perimeter of 
+182 cm. what is the perimeter of each square.
+ans) 52.
+
+17)one student takes 20 mins to reach school  if he goes at a  speed of 
+15kmph .At what 
+speed should he go to reach in 15 mins ( nos are not same)
+  ans: 16kmph( check)
+18)how many rational numbers are there between 0 & 5
+ans:infinite
+
+19)A certain number of bullets were shared by 3 people equally.Each of 
+them fired 4 bullets 
+and the sum of the remaining bullets was equal to the initial share 
+each had got.what was the initial 
+number of bullets?
+ans:18..( 18/3=6; 
+	6-4=2,6-4=2,6-4=2;
+	2+2+2=6=ans)
+
+1 more question which i cant remember was there:)
+
+Technical:
+
+20)A trigger is
+(a) a statement ..start of database..
+(b)statements that r executed as a side effect to the modification to 
+the database
+(c)...
+(d)...
+ans (b)
+
+21)what does the following statement mean?
+int (*a)[4]
+(a)'a' is  a pointer to an array of 4 integers
+(b)'a' is an array of pointers to integer
+(c)'a' is a pointer to function returning an integer
+(d)...
+ans:a
+
+22)best method to find out whether a given array already sorted,is 
+sorted or not in min. time
+ans. insertion sort (check)
+
+23)a primary key in one table also present in some other table is 
+called
+(a)foreign key
+(b)secondary key
+(c)subordinate key
+(d)...
+ans. foreign key
+
+24)which of the following is a real time system?
+(a)robotics control
+(b)airline ticket reservation(ans)
+(c)
+(d)...
+
+25)a question to convert  a big no in decimal to octal(check only for 
+the last 2 nos in ans is sufficient)
+
+26)which of the following is an example of a spooling device?
+(a)..
+(b)line printer..
+(c)
+(d)
+(e)...
+
+27)if in a table:account no,account holders name,account type 
+,.....(something else was given)are the
+ fields,which of them could be the primary key?
+(a)account no(ans)
+(b)account holders name
+(c)account type
+(d)..
+
+28)if a file is opened in "r+" mode(in C),it means
+(a) write
+(b)read
+(c)...
+(d).....
+
+29)what is the difference between 123 and 0123 in c?
+(a)120
+(b)40
+(c)0
+(d)...
+ans:40
+
+30) Software Configuration Management process is -
+(a)developing & managing software for .....software....
+(b)developing & managing hardware for....software.......
+(c)...
+(d)..
+
+31) Data Integrity constraint is
+(a)to ensure the presence of primary key
+(b)...
+(c)...
+(d)...
+
+32)which of the following uses the minimum length of cable?
+(a)ring
+(b)star
+(c)mesh
+(d)bus
+(e)all of the above
+
+33)how can u append the ls and who to certain existing file (like 
+that)(i.e.listing & output of who is to be directed to a file
+(a)ls;who>filename
+(b)ls;who>>filename
+(c)(ls;who)>>filename
+(d)who;ls<filename
+(e)...
+
+34)suppose u have a network .users complain of slow ....u suspect a 
+problem in network adapter
+once u find that the data is continuous and erroneous.what device do u 
+use?
+(a)volt-ohmmeter
+(b)SNMP
+(c)protocol... checking
+(d)all of the above
+
+35)What is vector processing?
+
+36)x-=y+1 is equivalent to what?
+(a)x=x-y+1
+(b)...
+(c)x=x-y-1
+(d)...
+ans:(c)
+
+37) in a student form what is the relationship b/w
+student and course
+(a)one to one
+(b)many to one
+(c)one to many
+(d)many to many
+Ans: d
+38)ROM is 
+(a)volatile 
+(b)permanent & fast
+(c)device containig boot up program & is not accessible 
+(d)...
+Ans: b
+i have given 38 questions out of 40 q's ...hope it will be useful 2 all 
+of u...
+they didnt select any ec people 4 interview..:(
+only CS,IS..& 2 from TE.
+that's all from my side..
+here are some hr questions as sent by jagannatha (CS-PESIT)
+
+HR questions:
+1.   why 2+2 is 4 why not 5.
+ans: assume u took 2 apples from A and 2 more
+apples from B and assume u are having 5
+          and give 2 to X and give 2 more to Y then
+nothing will be with u i.e u lossed.
+           (give some answers but dont say that it is
+like that only )
+
+2.how may stones did hanuman thowned on lanka? (
+diffirent but of same type)
+  and one more how many trees are there in u'r campus
+...
+ans:
+  dont say i dont no
+  say some no for ex 1000 and say i.e correct . they
+wont say any thing for that
+  because it is not possible to disprove that .
+
+3. why IBM
+
+and etc .........
+  
+bye
+all the best
+namana(pesit,bangalore)

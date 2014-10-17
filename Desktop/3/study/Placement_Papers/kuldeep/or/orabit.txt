@@ -1,0 +1,242 @@
+BIT RANCHI ,ORACLE PAPER
+APTI.....30 QUE TIME 30MIN
+TECH      30 QUE      30 MIN
+12 PG WERE SHORT LISTED FOR INTERVIEW
+none off THEM IS FINALY SELECTED
+GOOD LUCK & HAVE  FUN.
+ ORACLE PAPER  BIT  DATE 25/7/02,"keep the faith"
+APTITUDE TEST...................................................................
+1>IF A^2+1/A^2=47 FIND A^3+1/A^3?ANS 322.
+2) X^2<X FIND THE RANGE OF X.
+  A)X>-1 B)X<1 C)-1<X<1 D) NONE OF THESE; ANS D
+3)A0=N 
+AK=-AK-1 +1, FIND AN IF N IS EVEN (K-1 IS SUFFIX)
+ANS N
+
+4)Y=7+2SQRT(10) THEN Y^2-14Y=?
+ ANS -9 
+5)X^3-6X^2+12X-4 IF DIVIDED BY X-2 WHAT IS THE REMINDER?
+ANS 4
+6)5X^2+13X +K=0 THE ROOTS OF EQE ARE RECIPROCAL THEN FIND K
+    ANS =5;
+7) X=POW(A,1/3)+(1/POW(A,1/3)
+    X^3-3X
+ANS =A+1/A;
+8) 9+4SQRT(5) THEN FIND THE SQRT 
+  ANS =SQRT(5)+2;
+9) THE PROB OF HITING THE TARGET IN 3 SUCCESSIVE ATTEMPTS ARE 0.1 , 0.2 ,0.4
+   WHAT IS THE PROBABILITY AT LEAST ONCE THE TARGET WILL HIT IN THREE ATTEMP
+    ANS 0.568
+10)TWO MIXTURES A&B ARE IN THE RATIO OF 7:3 IN ONE POT & IN RATIO 3:1 IN ANOTHER POT
+  IT AS NEEDED TO GET 11:4 PROPORTION ,FIND THE RATIO OF MIXING THE 2MIXTURE;
+11)TWO ALLOY OF GOLD & SILVER IN THE RATIO 7:3 &7:13 ARE MIXED TOGTHERE
+   WHATR WILL BE THE RESULTING RATIO( SOMETHING LIKE IT)
+   ANS 21:19
+12)THE  NUM OF WAys to arrange the 5 digit even num without repitition by using the
+ num 2,3,4,5,6 
+              ans =72
+13)the no of divisors of 21600
+14&15)2 ques. on the data sufficiency  
+      exactly four among the 
+
+ Questions 16-18 are based on the following
+From exactly seven people- R,S,T,U,X,Y and Z- a group of exactly four must be selected in accordance with the following conditions:
+If R is selected, T must also be selected.
+If S is selected, U must also be selected.
+If X and Y are both selected, T cannot be selected.
+
+16. If X and Y are both selected together, which of the following must also be selected?
+1]R 2]S 3]U 4]Z
+
+17. If S and Z are both selected, each of the following could also be selected except:
+1]R 2]T 3]U 4]X
+
+18.If U is not selected, which of the following can be, not does not have to be, selected?
+1]R 2]S 3]T 4]X 
+19-23)choose the odd one out
+  a)labrador b)poodle c)greyhound d)....
+20) 
+  a)statue b) statute c)statuory d)sculpt
+21)
+   a)dissertation  b)synopsis   c)thesis d)peadagogy ans d
+22)a)cannon b)vessel c)canoe d)..... ans a
+23)a)xylophone b)kettledrum c)flute d)........
+
+24.. 27)ordering the sentences in the following way
+       a) concluding assertion 
+       b)supporting reason
+       	
+	c)irrelevant statement
+        d)counter argument
+
+28..30)passage on somethinglrelated to ART
+
+TECHNICAL TEST...............................................................
+
+1) tree T with depth d
+  a)2d+2 leaves.
+  b)2d-d  ,,
+  c)2d    ,,
+  d)2d-1  ,,
+2)if you remove one node from the binary search tree
+  a)replaced by the smallest left subtree
+  b) ,, ,,,         largest right subtree.
+  c),,,, ,,         smallest right subtree.
+  d),,,,,,          largest  left subtree.
+3)same function as IF_THEN_ELSE
+  a)SQRT
+  b)DECODE
+  c)NEW_TIME
+  d)ROWIDTOCHAR
+4)Is import in java is similar to #include in C
+ a)yes
+ b)no
+ c) depends on JVM
+ d)depend on path
+5)...... entity is an.....something like that
+a)attribute
+c)
+6)drawbacks of file processing system
+a)data redundancy
+b) flexibility
+c)lack of security
+d)all of the above
+7)
+ logical view.....definition)
+a),b) 
+8)normalization...definition
+a),b)..
+9)public static method computesum() in class A .how can youcall
+the method from classB
+a)classA(computesum()).
+b)classB(computesum()).
+c)classA.computesum().
+d)not possible
+10)skip scanning is an
+ a)bitmap
+b)B*tree
+c)reverse key
+d)index
+11)#define BUFFSIZE[2048]
+  long foo[BUFSIZ]
+  (note:spelling of BUFSIZ!=BUFFSIZE.)
+  a)array of size 2048.
+  b)error
+12)const int n=7;
+   int a[7];
+  a)defined an array of 7 elements.
+  b)initialising  7 to all elements.
+  c)compilation error.
+  d)none of these.
+ 13)comments in java are .....,....,javadoc.fill the blancks.
+  a)single,multiple.
+  b)line, block
+  c)string,literal
+14)if exception occurs in PL/SQL block it can
+  a)it can be handled by another exception.
+   b)can't be handled.
+   c)can be handled by another nested block
+15)variable remains in existence till
+a)data base shutdown.
+b)system shutdown'
+c)statement complete
+d)session complete
+16)int add(int k)
+   {
+     int i;
+      if(k<0)
+      return k;
+      else
+      return k+add(--k);
+  return i;
+  }
+   main()
+ {
+   int =5;
+   printf("i=%d",add(5);
+}
+a)5
+b)10
+c)14
+d)none of these
+17)main()
+   {
+    int a[]={1,2,3,4,5}
+     int *p;
+     p=a;
+   for(int i=0;i<5;++i)
+    printf("%d",p);
+    p++;
+    }
+a)p=1,2,3,4,5;
+b)p=5,4,3,2,1.
+ c)p=1,2,3.
+d)none of these.
+18)struct student
+    {
+      int no;
+      char name;
+    }*s1,s2;
+   main()
+   {
+    s2.no=111;
+    s1=&s2;
+    printf("%d",s1.no);
+  }
+a)error
+b)111
+c)garbage.
+ d)none of these.
+19)main()
+   {
+     int a[]="oldstring";
+     char *p="string";
+    char *temp;
+      temp=a;
+     a=malloc(strlen(p)+1);
+     strcpy(p,a);
+   p=malloc(strlen(temp)+1);
+     strcpy(p,temp);
+ }
+a)error at line 9.
+b),,,,,,,,,,,,,,8.
+c),,,,,,,,,,,,,,5.
+d),,,,,,,,,,,,,,7.
+e),,,,,,,,,,,,,,1.
+20)main()
+ {
+   int a[]={1,2,3,4,5}
+    int *p;
+     p=a;
+   for(int i=0;i<5;++i)
+   printf("%d",(*p)++);
+ }
+ a)1,3,5
+ b)1,2,3,4,5
+21)somthing based on SQL query
+a)join operation
+b)project
+c)selection
+d)select
+22)find out the error in the SQL statement
+a)
+23)main()
+ {
+  int *i,j=5,**p;
+  i=&j;
+  p=&i;
+  printf("%d%d%d",j,i,*p);
+ }
+24)linked list prog.
+   pointer init(p,x);
+   {
+     pointer q;
+    q=p->next;
+     while(!=null;||q->data!=x)
+    q=q->next;
+  return(q);
+ }
+25)
+         
+ 
+ 

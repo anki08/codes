@@ -1,0 +1,81 @@
+   
+ 
+ 
+
+   
+
+All the following questions are memory based and have been submitted by candidates who appeared for the tests/interviews in the past.
+
+DESHAW
+
+Aptitude Test
+
+2 Marks Each; Time-20 MINUTES 
+
+1) One rectangular plate with length 8 inches, breadth 11 inches and 2 inches thickness is there. What is the length of the circular rod with diameter 8 inches and equal to volume of rectangular plate? ANS: 3.5 INCHES
+
+2) What is the number of zeros at the end of the product of the numbers from 1 to 100?
+
+3) In some game 139 members have participated every time one fellow will get bye what is the number of matches to choose the champion to be held? Ans: 138
+
+4) One fast typist types some matter in 2hrs and another slow typist types the same matter in 3hrs. If both type collectively, in how much time they will finish. Ans: 1hr 12min
+
+5) In 8*8 chess board what is the total number of squares Ans:204
+
+6) Falling height is proportional to square of the time. One object falls 64cm in 2sec than in 6sec from how much height the object will fall.
+
+7) Gavaskar’s average in first 50 innings was 50. After the 51st innings his average was 51. How many runs he made in the 51st innings?
+
+8) 2 oranges, 3 bananas and 4 apples cost Rs.15. Three oranges, 2 Bananas and 1 Apple costs Rs. 10. What is the cost of 3 oranges, 3 bananas and 3 apples? Ans.: Rs. 15
+
+19) In 80 coins one coin is counterfeit. What is minimum number of weighings to find out counterfeit coin?
+
+10) In a company 30% are supervisors and 40% employees are male if 60% of supervisors are male. What is the probability that a randomly chosen employee is a male or female?
+
+11) Statement: all green are blue, all blue are white
+
+conclusion:
+I) some blue are green II) some white are green
+III) some green are not white IV) all white are blue
+a) he has given four choices like gre type
+
+12)all teachers are students. some students are girls.
+this type of questions are there.
+we cant able to reproduce them.
+
+
+Technical Test 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

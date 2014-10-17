@@ -1,0 +1,327 @@
+   motorola iitdelhi 2nd august 2000
+
+
+
+
+
+
+
+
+
+
+
+there is separate test for h/w and s/w.
+
+
+
+this is h/w paper.
+
+
+
+
+
+
+
+1. implement f = ((a+b)c)bar  ( bar is complement:here bar is for whole 
+expression.) in static cmos design and compare the no.of transistors 
+wwwith the implementation of nand/nor/inv.
+
+
+
+
+
+
+
+ans;  6 for static cmos and 10 for nand/..
+
+
+
+
+
+
+
+2. implement 5:1 mux with 2:1 mux only..draw the truth table
+
+
+
+
+
+
+
+ans :  4   2:1 muxes are needed and 3 control signals are used
+
+
+
+
+
+
+
+3. designa synchronous counter which counts 0,1,2,3,4,0.... use D or JK 
+ffs.
+
+
+
+
+
+
+
+4.defind transconductance of a fet or bjt. and derive it  for high gain 
+region.
+
+
+
+
+
+
+
+5.an inverter is driving an RL circuit. output is taken across 
+inductor, input being given to inverter..inverter with 0 delay and Rl values 
+are given..a waveform with 0 for some time and 1 for sometime is 
+given..draw the output.
+
+
+
+
+
+
+
+6.two problems on biasing circuits 1.transistor with base resistor and 
+collector resistor both tied to vcc..find vout, if vcc, r values and 
+beta of the bjt aregiven.
+
+
+
+
+
+
+
+7. transistor and op amp..
+
+
+
+
+
+
+
+8.an inverting op amp is given..find out the gain..
+
+
+
+
+
+
+
+9. input is driving 3 inverters in cascade and the output of the last 
+inverter is driving a cross coupled 2  nand gates ( basic flip flop). 
+for this cross coupled structure, the other input is coming from the main 
+input..from the top nand gate output is the main output..delays of all 
+the gates are given..an input waveform with 0s and 1s are given ..draw 
+the o/p waveform..
+
+
+
+
+
+
+
+another 2 questions are there..i couldn't remember..
+
+
+
+
+
+
+
+MY interview questions:
+
+
+
+
+
+
+
+1. FSMS
+
+
+
+2.implementations of fsms in vhdl
+
+
+
+3. setup time and hold time
+
+
+
+4. is there any current flowing thru a gate in steady state?
+
+
+
+5. why the delay in  a gate.
+
+
+
+  i told him that the capacitaces have to be chrged or discharged.
+
+
+
+6. ddoes the power dissipation in a mos gate depend on the 
+transistyors.
+
+
+
+  i told them the resistance of transistor comes into picture..but it 
+is wrong..
+
+
+
+the power depends on vdd,capacitance and switching frequency..it 
+doesn't depend upon the transistor.
+
+
+
+7. how to make a T ff from Dff
+
+
+
+8. about my project.
+
+
+
+
+
+
+
+generally, they are concentrating on digital..
+
+
+
+he didn't get satisfaction about my project..
+
+
+
+
+
+
+
+all the best..
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+		HARDWARE PAPER.
+
+
+
+bOTH S/W AND S/W are compulsory.
+
+
+
+
+
+1. to find out stack fault of a 3 input nand gate how many necessary
+
+    input vectors are needed
+
+2. solving k_map  Ans: b+c
+
+
+
+3.parity generation i.e even parity
+
+ANs : c
+
+
+
+4. nand gate becomes --- gate for negative logic    Ans:  OR
+
+
+
+5advantage of cmos over nmos :  ans:  Low power dessipation
+
+
+
+6.adv of syncronous  ckts on async. ckts
+
+
+
+7 5 problems on addressing of memories
+
+
+
+8.function of ale in 8085
+
+
+
+10.A voice signal sample is stored as one byte. Frequency range is 
+
+20Hz to 16hz. What is the memorysize required to store 4 minutes 
+voice
+
+signal? 
+
+Ans 15MB
+
+
+
+11)What will the the controller do before interrupting CPU?
+
+ANs : stores the data into its memory and then interrupts the CPU.
+
+
+
+and other are digital fundamentls
+
+
+
+12) In a normalised floating point representation, mantessa is 
+represented by 24 bits and exponent with 
+
+8 bits using signed representation. What is range?
+
+
+
+14) stack uses             Ans: LIFO
+
+
+
+
+
+15) Where will be the actual address of the subroutine is placed for 
+vectored interrupts?
+
+
+
+Ans: Fixed location.
+
+
+
+
+
+
+
+CONCENTRATE ON DIGITAL LOGIC( GATES, RAM ADDRESSING, NO OF BITS 
+REQUIRED,)
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+Attachment  
+ seimens.txt
+Type .txt : Scanning recommended    Scan With Norton Antivirus  
+  Save to my Yahoo! Briefcase  
+  Download File  
+  View Attachment  
+ 
+ 

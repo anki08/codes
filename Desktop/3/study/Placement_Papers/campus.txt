@@ -1,0 +1,35 @@
+> Guide lines for Scholarship abroad   
+There is a good coverage already done by Ambuj Tewari, CSE. Just search on
+cse.iitk.ac.in for that.
+
+> and inormation about the job how we can get a good job .
+
+As far as getting departmental jobs is concerned, these are the main
+category for which companies recruit: DSP/COM, analog and digital. For
+DSP/COM EE301/320. Just fo thru first few chaps of text books. 
+
+In analog sections, there are some simple basic-level (<EE311) questions
+on ckt design. Understand when a tr is in linear region etc, whats gain of
+a ckt, some simple designing problems using opamps. Basics of MOS tr is
+also required. Sample q include why shud one go for NAND gates instead of
+NOR ones, when shud MOS tr be prefered over BJT etc. 
+
+In digital part, they ask questions upon number representations, different
+kinds of adders, making OR/AND gates using MUXes, finding max clock speed,
+K-Map, designing FSM for detecting some bit stream etc.
+
+Now, some questions which are asked with prob=1:
+1. Given a (ganda) network of Capacitor, Resistor and Power Supply, find
+out the transient output voltage at some node. Basic ESCO202 funda, but
+sometimes its tedious and one needs to approximate things..
+2. Defn of set-up and hold time in digital ckt. Finding maximum and
+minimum clock frequency in a drawn net. Any modification suggested for
+inprovement.
+3. Designing FSM.
+
+They never ask state-of-art things, never go for big q, just keep asking
+simple basic level q. Just want to ensure that the person has the basics
+right.
+
+HTH,
+Ambuj

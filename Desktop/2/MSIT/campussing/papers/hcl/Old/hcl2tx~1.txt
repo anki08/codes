@@ -1,0 +1,155 @@
+
+--------------------------------------------------------------------------------
+© 2000 rediff.com India Limited. All Rights Reserved.
+
+this paper is not complete but with this many no. of questions you can 
+very easily clear the written exam.
+
+
+HCL SYSTEM SOFTWARE PAPER(tech paper): 45 qs; 45 min. (2 sections)
+******************************
+this is a system software paper only cse and ece stnts were allowed 
+for this paper
+there was a quants paper also for system software which was the same as
+that was given to non cse and non ece stdnt applying for application 
+software .
+
+for system software there are 2 sections
+THERE IS 2 IMP THINGS YOU MUST KNOW
+A>THERE IS NEGATIVE MARKING OF .25
+B>IN THE INTERVIEW THEY WILL ASK YOU TO EXPLAIN AND SOLVE
+THE QUESTIONS YOU HAVE ATTEMPTED IN THE TECH AND QUANTS PAPER.rest 
+interview is all personal.
+
+section 1)computer org
+section 2)c programming
+
+
+
+
+
+section A.(there were 15 q)
+
+
+1.which of the following involves context switch,
+a) system call b)priviliged instruction
+c)floating poitnt exception
+d)all the above
+e)none of the above
+ans: a
+
+2.In OSI, terminal emulation is done in
+a)semion b)appl.. c)presenta... d)transport
+ans: b
+
+3....... 25MHz processor , what is the time taken by the instruction which 
+needs 3 clock cycles,
+a)120 nano secs b)120 micro secs
+c)75 nano secs d)75 micro secs
+ans:a
+
+4. For 1 MBmemory no of address lines required,
+a)11 b)16 c)20 d) 24
+ans: 20(explanation 1024*1024=2pow10*2pow10)
+
+5. Semafore is used for
+a) synchronization
+
+ans : a
+
+7. question related to java
+diffbetween c and java
+ans)is option b
+8. OLE is used in
+
+a)inter connection in unix
+b)inter connection in WINDOWS
+c)inter connection in WINDOWS NT
+ans)a
+9.No given in HEX ---- write it in OCTAL
+answer)177333
+10)what is piggybacking? answer used for acknowledgement in networking
+11)min 8 bit number is (answer) -128
+12)one question's answer is memory management.
+
+13)one question is on database and the correct option is c
+
+
+
+
+SECTION B
+(there were total 30 q mostly were on pointers in c
+read pointers thoroughly and compiler related 
+error)
+
+
+
+1.main
+{
+int x=k=6;
+ans x=36
+x=j*k;
+printf("%d", x);
+
+2. fn f(x)
+
+{ if(x<=0)
+return; ans) 20
+else f(x-1)+x;
+}
+find f(5)
+
+
+3. int i =10
+main()
+{
+int i =20,n;
+for(n=0;n<=i;n++)
+{
+int i=10
+i++;
+}
+printf("%d", i); ans i=20
+
+
+
+
+
+4. f=(x>y)?x:y
+) f points to max of x and y
+b) f points to min of x and y
+c)error
+d) ........
+
+ans : a
+
+
+(5) STRUCT DOUBLELIST
+{ DOUBLE CLINKED
+INT DET; LIST VOID
+STRUCT PREVIOUS; BE GIVEN AND A PROCEDURE TO DELETE
+STRUCT NEW; AN ELEMENT WILL BE GIVEN
+}
+DELETE(STRUCT NODE)
+{
+NODE-PREV-NEXT NODE-NEXT;
+NODE-NEXT-PREV NODE-PREV;
+IF(NODE==HEAD)
+NODE
+}
+IN WHAT CASE THE PREV WAS
+(A) ALWAYS
+(B) IT DOES NOT WORK FOR LAST ELEMENT
+(C) IT DOES NOT WORK FOR-----
+answer is a)always
+(6) SIMILAR TYPE QUESTION
+ANS: ALL DON'T WORK FOR NON NULL VALUE
+7) answer to a q which involves a function returning a value is 6
+8)
+
+
+
+
+
+
+re stationary with respect 

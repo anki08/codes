@@ -1,0 +1,233 @@
+Question Paper - 21.
+         You are processing some data changes in your SQL*Plus session as part of one transaction.Which of the following choices does 
+not typically indicate the end of a transaction?
+A.   Issuing an UPDATE statement
+B.   Issuing a COMMIT statement
+C.   Issuing a ROLLBACK statement
+D.   Ending your session
+2.You can use the PL/SQL example to answer the following question.
+DECLARE CURSOR My_Emptoyees IS SELECT name. title FROM Employee:My_Name VARCHAR2(30);
+My_Title VARCHAR2(30);
+BEGIN 
+OPEN My_Emptoyees;
+LOOP
+FETCH My_Emptoyees INTO My_Name, My_Title;
+EXIT WHEN My_Emptoyees%NOTFOUND;
+INSERT INTO MY_EMPS (MY_EMPNAME ,MY_EMPTITLE) VALUES (My_Name, My_Title);
+END LOOP;
+CLOSE My_Emptoyees;
+END;
+If you were rewriting this block of PL/SQL, which of the following types of loops would you use if you wanted to use the smallest 
+amount of code?
+A.  LOOP... EXIT WHEN
+B.   WHILE... LOOP
+C.  LOOP... END LOOP
+D.  CURSOR FOR LOOP
+3.To identify columns that are indexed exclusively as the result of their inclusion in a constraint, which of the following dictionary
+ views would be appropriate?
+A.  USER_INDEXES
+B.   USER_TAB_COLUMNS
+C.  USER_COLUMNS
+D.  USER_CONS_COLUMNS
+4. NULLIF returns __________, if both the expressions are not equal.
+A.  First Expression
+B,   Last Expression
+C.  Null
+D.  None of the above
+5. Which of the following special characters cannot be used as name of an object?
+A.  #
+B.
+C.  "
+D.  $
+QP-2
+6. Developer JANET receives an error due to the following statement in the DECLARATION section:PI CONSTANT NUMBER;
+The problem is because:
+A.  There is not enough memory in the program for the constant.
+B.  There is no value associated with the constant.
+C.  There is no datatype associated with the constant.
+D.  PI is a reserved word.
+7. Which of the privilege allows a user to create a view in his own schema on a table of another schema.
+A. Create any view
+B. Create view on table
+C. Select any table
+D. Select on <table>
+8. While writing a program in JNI the methods should be having the following access modifier
+A. final
+B. static
+C. native
+D. private
+9  Line 1. Font f = new Font("Tahoma",Font.Botd,20);
+Line 2. I/code to apply font to string about to be drawn
+Line 3. g. rawstring("Sun Microsystems",100,100);
+Which one of the following will replace Line 2 in the code above to set the Font f of the String that will be drawn at Line 3?
+A. g.setFontMetrics(f);
+B. g.font = f;
+C. g.setFont(f);
+D. g.setFont(f.getFontMetricsO),
+E. g.setFont(f.getFamilyO,f.getStyle0.f.getSizeO);
+10. import javax.swing.*l 
+public class BordertessWindow{
+public static void main(String a[]){
+Jpanel J;
+j.setSize(400,400);
+j.setVisible(true)}}
+What will appear on the users desktop on execution of the above code
+A. A window
+B. A borderless frame
+C. Blank
+D. A Panel
+QP-11. public void actionPerformed(ActionEvent e){ }
+What interface will the class containing the above code usually implement?
+A. ComponentEvent
+B. ActionAdapter
+C. AWTEvent
+D. ActionListener
+E. WindowListener
+12. A class can be Externalized if the class has implemented
+A. Extemalizable interface.
+B. Serializable interface.
+C. Extemalizable and Senalizable interface.
+D. None of the above
+13. The values of the following classes are initialized by the compiler
+A. Auto and extern
+B. Register and static
+C. Static and extern
+D. Auto and register
+14. The compiler may assign another class to a variable declared as class
+A.    automatic
+B.     external
+C.     static
+D.     register
+15. The assignment ptrval = 100 where ptrval a declared pointer is
+A.     Not recommended as it could point to different things
+B.     will not be allowed by compiler
+C.     Normal programming practice in 'C'
+D.    An error because the value assigned is not in
+16. Consider a valid assignment ptrcount = &count and let address of count be 65496.&ptrcount will be
+A.     undefined as it is &&count
+B.     65496
+C.     65498
+D.     Can not say
+17.The purpose of declaring a structure is to Select all the appropriate ones
+A.     Set aside the appropriate amount of memory
+B -      Define the format of the structure
+C.     Specify a list of structure elements
+D.     Define a new data type of the above
+18. Given the statement xxx->yyy.zzz=5,which of the following are true?
+{.Structure zzz is nested within structure yyy 
+ii.Stucture yyy is nested within structure xxx
+iii.Structure xxx is nested within structure yyy
+iv.Structure xxx is nested within structure zzz
+A.    i and ii
+B.     All
+C.    i.ii and iii
+D.     ii and iv
+19. Output of the following program is
+mainQ{
+int i=0;
+for(i=0;i<20;i++)
+{
+switch(i)
+case 0:i+=5,
+case 1 :i+=2;
+case 5:i+=5;
+default i+=4;
+break;}
+printf("%d,",i);}}
+A.    0,5,9,13,17
+B.     5,9,13,17
+C.     12,17,22
+D.     16,21
+E.     Syntax error
+20. What will be the result of the following program? chare;
+while(c = getcharQ != EOF)
+{ printf("%c", c);}
+A.    Prints all entered characters
+B.     Prints 0 till EOF is entered
+C.    Compilation error
+D.     Endless loop
+E.     None of the above
+21. What is the ouptut in the following program
+main()
+{char c=-64;
+int i=-32
+unsigned int u=-16;
+if(c>i) {printfC'passI,");
+if(c<u) printf("pass2"); else
+printf("Fail2");
+}else
+printf("FaiH); 
+printf("Fail2")
+A. Passi, Pass2
+B. Passi ,Fait2
+C. Fail 1, Pass2
+D. Fail1,Fail2
+22. What will be the result of the following program ?
+char *gxxx()
+{static char xxx[1024];
+return xxx;
+}
+rnainQ
+{char *g="string";
+strcpy(gxxxO.g);
+g = gxxxO;
+strcpy(g ."oldstring");
+printf("The string is : %s",gxxx()):}
+A. The string is : string
+B. The string is :oldstring
+C. Run time error/Core dump
+D. Syntax error during compilation
+23. The situation that occurs when different divisions, functional areas, and groups in  an organization independently collect the
+ same piece of information best describes:
+A.     program-data independence.
+B.     data redundancy.
+C.     lack of flexibility.
+D.     poor security.
+E.     lack of data sharing and availability.
+24.      The language associated with a database management system that is employed by end
+users and programmers to manipulate data in the database is the:
+A.     data definition language.
+B.     data presentation language.
+C.     data manipulation language.
+D.     data translation language.
+E.     application generator.
+25. In the relational database, the operation that combines relational tables to provide the user wit
+more information than is available in individual tables is the:
+A.    join operation.
+B.     merge operation.
+C.     select operation.
+D.    grow operation.
+E.     project operation.
+QP-2
+26     An abstract model of the database from a business perspective best defines:
+A.     physical design.
+B.     object design.
+C.    organizational view.
+D.     conceptual design.
+E.     subschema design.
+27     .Each of the following is a true statement about distributed databases except:
+A.     distributed systems reduce the vulnerability of a single, massive central site.
+B.     distributed systems are dependent on high-quality telecommunication lines.
+C.    distributed systems decrease the service and responsiveness to local users.
+D.     local databases can sometimes depart from central data standards and definitions and
+pose security problems by widely distributing access to sensitive data.
+E:     distributed systems often can run on smaller less expensive computers.
+28.      Queue is defined as
+A.     Linear data structure used to represent a linear list and permits deletion and insertion.
+B.     Linear data structure used to represent a linear list and permits deletion at one end and
+insertion at the other end.
+C.     Non linear data structure used to represent a linear list and permits deletion and insertion
+at both end.
+D.     ,..  iiiie-i, u-»ta structL"  :'sed '-> .-epresent a non linear list and permits deletion and
+insertion at roth end.
+29.      Peep technology in stack is used for
+A.     Deletion
+B.     Insertion
+C.     Updation
+D.     Extract Information
+E.     None
+30.      Orthogonal matrix means
+A.    A square matrix whose product and its transpose is an identity matrix.
+B.     A square matrix and the product and its transpose are an identity matrix.
+C.     None of the above
+

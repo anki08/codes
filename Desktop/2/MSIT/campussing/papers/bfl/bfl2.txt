@@ -1,0 +1,391 @@
+   
+ 
+ 
+
+   
+
+BFL Sample Test Paper
+ 
+
+All the following questions are memory-based and provided by students who have given this paper.
+
+ANALYTICAL ABILITY
+
+1. The office staff of XYZ corporation presently consists of three bookkeepers--A, B, C and 5 secretaries D, E, F, G, H. The management is planning to open a new office in another city using 2 bookkeepers and 3 secretaries of the present staff . To do so they plan to separate certain individuals who don't function well together. The following guidelines were established to set up the new office
+
+I. Bookkeepers A and C are constantly finding fault with one another and should not be sent together to the new office as a team
+II. C and E function well alone but not as a team , they should be separated
+III. D and G have not been on speaking terms and shouldn't go together
+IV Since D and F have been competing for promotion they shouldn't be a team
+
+1.If A is to be moved as one of the bookeepers,which of the following cannot be a possible working unit.
+
+A.ABDEH
+B.ABDGH
+C.ABEFH
+D.ABEGH
+
+Ans.B
+
+
+2.If C and F are moved to the new office, how many combinations are possible
+
+A.1
+B.2
+C.3
+D.4
+
+Ans.A
+
+
+3.If C is sent to the new office, which member of the staff cannot go with C
+
+A.B
+B.D
+C.F
+D.G
+
+Ans.B
+
+
+4.Under the guidelines developed, which of the following must go to the new office
+
+A.B
+B.D
+C.E
+D.G
+
+Ans.A
+
+
+5.If D goes to the new office, which of the following is/are true
+
+I.C cannot go
+II.A cannot go
+III.H must also go
+
+A.I only
+B.II only
+C.I and II only
+D.I and III only
+
+Ans.D
+
+
+2.After months of talent searching for an administrative assistant to the president of the college the field of applicants has been narrowed down to 5--A, B, C, D, E .It was announced that the finalist would be chosen after a series of all-day group personal interviews were held.The examining committee agreed upon the following procedure
+
+I.The interviews will be held once a week
+II.3 candidates will appear at any all-day interview session
+III.Each candidate will appear at least once
+IV.If it becomes necessary to call applicants for additional interviews, no more 1 such applicant should be asked to appear the next week
+V.Because of a detail in the written applications, it was agreed that whenever candidate B appears, A should also be present.
+VI.Because of travel difficulties it was agreed that C will appear for only 1 interview.
+
+1.At the first interview the following candidates appear A,B,D.Which of the following combinations can be called for the interview to be held next week.
+
+A.BCD
+B.CDE
+C.ABE
+D.ABC
+
+Ans.B
+
+
+2.Which of the following is a possible sequence of combinations for interviews in 2 successive weeks
+
+A.ABC;BDE
+B.ABD;ABE
+C.ADE;ABC
+D.BDE;ACD
+
+Ans.C
+
+
+3.If A ,B and D appear for the interview and D is called for additional interview the following week,which 2 candidates may be asked to appear with D?
+
+I. A
+II B
+III.C
+IV.E
+
+A.I and II
+B.I and III only
+C.II and III only
+D.III and IV only
+
+Ans.D
+
+
+4.Which of the following correctly state's) the procedure followed by the search committee
+
+I. After the second interview all applicants have appeared at least once
+II.The committee sees each applicant a second time
+III.If a third session, it is possible for all applicants to appear at least twice
+
+A.I only
+B.II only
+C.III only
+D.Both I and II
+
+Ans.A
+
+
+3. A certain city is served by subway lines A,B and C and numbers 1 2 and 3
+When it snows , morning service on B is delayed
+When it rains or snows , service on A, 2 and 3 are delayed both in the morning and afternoon
+When temp. falls below 30 degrees farenheit afternoon service is cancelled in either the A line or the 3 line,
+but not both.
+When the temperature rises over 90 degrees farenheit, the afternoon service is cancelled in either the line C or the
+3 line but not both.
+When the service on the A line is delayed or cancelled, service on the C line which connects the A line, is delayed.
+When service on the 3 line is cancelled, service on the B line which connects the 3 line is delayed.
+
+Q1.  On Jan 10th, with the temperature at 15 degree Fahrenheit, it snows all day. On how many lines will service be affected, including both morning and afternoon.
+
+(A) 2
+(B) 3
+(C) 4
+(D) 5
+
+Ans. D
+
+
+Q2. On Aug 15th with the temperature at 97 degrees Fahrenheit it begins to rain at 1 PM. What is the minimum number  of  lines on which service will be affected?
+
+(A) 2
+(B) 3
+(C) 4
+(D) 5
+
+Ans. C
+
+
+Q3. On which of the following occasions would service be on the greatest number of lines disrupted.
+
+(A) A snowy afternoon with the temperature at 45 degree Fahrenheit
+(B) A snowy morning with the temperature at 45 degree Fahrenheit
+(C) A rainy afternoon with the temperature at 45 degree Fahrenheit
+(D) A rainy afternoon with the temperature at 95 degree Fahrenheit
+
+Ans. B
+
+4. In a certain society, there are two marriage groups, red and brown. No marriage is permitted within a group. On marriage, males become part of their wives groups; women remain in their own group. Children belong to the same group as their parents. Widowers and divorced males revert to the group of their birth. Marriage to more than one person at the same time and marriage to a direct descendant are forbidden
+
+Q1. A brown female could have had
+
+I. A grandfather born Red
+II. A grandmother born Red
+III Two grandfathers born Brown
+
+(A) I only
+(B) III only
+(C) I, II and III
+(D) I and II only
+
+Ans. D
+
+
+Q2. A male born into the brown group may have
+
+(A) An uncle in either group
+(B) A brown daughter
+(C) A brown son
+(D) A son-in-law born into red group
+
+Ans. A
+
+
+Q3. Which of the following is not permitted under the rules as stated.
+
+(A) A brown male marrying his father's sister
+(B) A red female marrying her mother's brother
+(C) A widower marrying his wife's sister
+(D) A widow marrying her divorced daughter's ex-husband
+
+Ans. B
+
+Q4. If widowers and divorced males retained their group they had upon marrying which of the following would be permissible ( Assume that no previous marriage occurred)
+
+(A) A woman marrying her dead sister's husband
+(B) A woman marrying her divorced daughter's ex-husband
+(C) A widower marrying his brother's daughter
+(D) A woman marrying her mother's brother who is a widower.
+
+Ans. D
+
+5. I. All G's are H's
+II. All G's are J's or K's
+III All J's and K's are G's
+IV All L's are K's
+V All N's are M's
+VI No M's are G's
+
+Q1. If no P's are K's which of the following must be true
+
+(A) No P is a G
+(B) No P is an H
+(C) If any P is an H it is a G
+(D) If any P is a G it is a J
+
+Ans. D
+
+
+Q2. Which of the following can be logically deduced from the stated conditions
+
+(A) No M's are H's
+(B) No H's are M's
+(C) Some M's are H's
+(D) No N's are G's
+
+Ans. D
+
+
+Q3. Which of the following is inconsistent with one or more conditions
+
+(A) All H's are G's
+(B) All H's are M's
+(C) Some H's are both M's and G's
+(D) No M's are H's
+
+Ans. C
+
+
+Q4. The statement  "No  L's are J's" is
+
+I. Logically deducible from the conditions stated
+II Consistent with but not deducible from the conditions stated
+III. Deducible from the stated conditions together with the additional statements "No J's are K's"
+
+(A) I only
+(B) II only
+(C) III only
+(D) II and III only
+
+Ans. D 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

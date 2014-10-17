@@ -1,0 +1,413 @@
+
+                              DBSS 
+			     ------
+      This paper is containing the Aptitude and Programming parts.
+
+	                   APTITUDE PART
+			   -------------
+      (1)A man bought two horses for Rs.924 each and sold one horse for 
+      15% profit and the other for 15% loss.What is the net gain?
+      (2) Two pumps fill atank in 20 hrs. One pump fills the same
+      tank 10hrs. faster than the other pump. In what time the
+      other pump fills the tank?
+      (3) X men in Xhrs/day finish a work in x days. Y men in y hours
+      per day finish the work in 
+      (a) X**2/Y**2 (b)X**3/Y**2 (c) Y**2/X**2 (d) Y**3/X**2
+      (4)8 men + 2 boys finish a work in 16 days. 
+      2 men + 5 boys finish a work in 20 days. 8 men and 8 boys
+      finish the same work in how many days?
+      (5)A & B are two trains, travell from X & Y stations to Y & X
+      stations after crossing each other A takes 4 hrs.48 mins. to
+      reach Y station. B takes 3hrs.20 mins. to reach X station.
+      The speed A is 45kmph. Speed of B is ?
+      (6) 5 questions on series
+	(a) ab--bbc---ac----accc
+	(b) &(c) like this 5.  
+      (7)5 questions on alfabets.
+      (8) 10 questions on English Grammer.
+      (9) 20 questions on reasoning.
+         
+		  PROGRAMMING
+		  -----------
+                                 Section 1.
+				 ---------
+       1. To display the contents of a executable file the following 
+       command can be used
+       (a) cat  (b) od (c) vi   (d) ed                   ans : b
+       2. Assume the current directory contains 10 files and does'nt
+       contain 'temp'. What will be the output of the follwing 
+       commands?
+       $ls > temp
+       $wc -l temp
+       (a) 9  (b) 10 (c) 11 (d) undefined.   ans : b
+       3. If one wants the output of one command( command1) to be 
+       printed inthe printer as well as to be added to another file
+       (outfile) which one of the following is a currect command 
+       he can give?
+       (a) $command1 >>outfile|tee lpr
+       (b) $tee -a command1 | lpr
+       (c) $ command1 | tee outfile | lpr
+       (d) $ command | tee -a outfile |lpr          ans : d
+       (4) In the shell program set -x will cause 
+       B
+       A. Execution of the commands in the background
+       B. Execution of the commands in verbose mode
+       C. Exit from the shell program.
+       D. Exit from the shell program after executing the next command
+       (5)   ACL in UNIX refers to
+       A.     Acces Control List
+       B.    Action Control List
+       C.    Application Command Language
+       D.    Advanced C lanuage
+       (6)    The command echo*
+       A. will print * on the screen
+       B. will print contents of all the files in the current 
+       directory
+       C. will list the files in the current directory
+       D.   will print the contents of all shell variables
+       (7)    ls || date will
+       A.  print the name of the files in the current directory
+       B. print today's date and time
+       C. (A) followed by (B)
+       D. none of the above
+       (8) The built-in shell variable $$ refers to
+       A.   printing numbers in dollar format
+       B.   proces id_ of last command 
+       C.   proces id_ of last background command issued
+       D.   proces-id of current shell
+       (9)   dd is mainly used for 
+       A.  dealing with raw, unformated data, whatever the source
+       B.  dealing with data dictionary
+       C.  deleting a directory
+       D.  none of the above
+       (10) vis  in UNIX is 
+       A. a command that takes only one input
+       B. a command for deleting strange or unwanted charectors that
+       may have crept into files.
+       C. points non-printable characters in understandable format
+       D. all of the above
+       (11) Which of the following is true regarding the UNIX
+       (i) Multiuser Operating System
+       (ii)Multitasking Operating System
+       (iii) Real timing Operating System
+       A. i only  B. i and ii only  C. i and ii and iii only
+       D. i and ii 
+       (12) ln command is used to
+       A. link object codes into a executable code
+       B. give two names to the same file
+       C. set line numbers for the file
+       D. none of the above
+       (13) nohup command is used for 
+       A. protecting the execution of programmes from aborting when 
+       hangup signal is received
+       B. changing the execution priority of the programes
+       C. not hanging up of the modem
+       D. disconnecting a node from the system
+       (14)  SCCS is a 
+       A. Tool for maintaining large programmes in a production 
+       environment 
+       B. Communication Protocol
+       C. Shell Programming Language
+       D.  String processing utility
+       (15)  Which one of the following is true as long as UNIX is 
+       concerned
+       A. One can do programming in C only
+       B. It can support terminals capable of printing only uppercase
+       characters
+       C. The text files are sorted as it is in MS-DOS
+       D. None of the above
+       (16) Inside vi editor to replace the string /10/$/94 with 
+       10/$$/92 globally the following command can be used
+       A.  :1,$ s/\/10\/\$\/94/10\/\$\$\/92/g
+       B.  :1,$ s/\/10\/\$\/94/10\/\$\/$92/
+       C.  :s/10/$/94/10/$$/92/g
+       D.  :1,$ s/\/10\/$\/94/10\/$$\/92/g
+       (17) The ed command without any argument
+       A. will print the current working directory
+       B. will make the home directory as current directory
+       C. will ask for the directory to be used as the current 
+	  directory
+       D. will go to the previous directory
+       (18)  nice command is used 
+       A. to increase/decrease execution priority of a command
+       B. to compress a file
+       C. to run a programme at latter time
+       D. to set the key board responce slower
+       (19)  What will be the output of the following command sequence
+	  $ x='I am x'
+	  $sh
+	  $echo $x
+        A. I am x  B. Blank line C. x D. None of the above
+       (20) The command tr a-z 0-9 < x
+       A. converts all the digits to lowercase alphabets
+       B. converts all the lowercase alphabets to digits
+       C. will give syntax error
+       D. none of the above
+	
+                             SECTION 2:
+			     ----------
+1)study the following program
+   #define MAX(x,y) ((x)>(y)?(x):(y)
+   main()
+   {
+   intx=5,y=5;
+   printf("maximum is %d",MAX(++x,++y));
+   }
+   the outpput of the programis
+   a)maximum is 7 (b)maximum is 5 (c)maximum is 6
+   d)none of the above 
+   2)given the following definitions
+   int *p,*q,r;
+   int values[30];
+   p=&values[0];
+   q=values+29;
+   r=++q-p;
+   what will be the value of r ?
+   a)address of q minus p
+   b)number of elements in the array
+   c)(value pointed by q)+1-(value pointed by p)
+   d)none of the above
+   3)what will the output of the program?
+   #include<stdio.h>
+   //print the sum of the series 1/5+1/4+....
+   static int =5;
+   main()
+   {
+   int sum=0;
+   do
+   	{
+	sum+=(1/i);
+	}while(0<i--);
+	printf("sum of the series is %d",sum);
+	}
+a)it will print the sum of the series 1/5+1/4+....+1/1
+b)it will produce a compolation error
+c)it will produce a runtime error
+d)none of the above
+
+4)study the following program
+#include<stdio.h>
+main()
+{
+	intoldvar=80;newvar=-80;
+	int swap(int,int);
+	swap(oldvar,newvar);
+	printf("numbers are %d\t%d",newvar ,oldvar);
+	}
+ int swap(intolval,int neval)
+	{
+	int temval=olval;
+	olval=neval;
+	neval=temval;
+	}
+	the output of the program is
+a)numbers are 80-80
+b)numbers are 80 80
+c)numbers are -80 80
+d)numbers are -80 -80
+
+5	STUDY THE PROGRAM BELOW, WHICH OF THE FOLLOWING STATEMENT WILL MAKE
+PROGRAM WORK :-
+	main ()
+	{
+	int *! = 10 , *j=20;
+	i=i*j;
+	}
+
+A)	Replace i = i*j; as i = (int) ((int) i * (int)j);
+B)	No error
+C)	Replacei= i*j;as i = (int*) ((int)i*(int)j);
+D)	Replace i+i*j ; as i = (int) i* (int)j;
+
+6	Study the following program 
+#include<stdio.h>
+enum mode = {green,red,orange,blue ,white};
+main ()
+{
+	green = green +!;
+	printf("%d,%d",green,red );
+
+}
+
+The output of the program will be :-
+
+A)  1,1	B) 0,1	C)  No output, error in compilation  
+d)  None of the above
+
+
+7	Study th following statements.
+
+#define DELAYTIME  1000
+volatile extern int k;
+intj;
+
+for (i=0;i<DELAYTIME;i++);
+j=k;
+
+A)	Volatile is meaningless for the variable k
+B)	Volatile is meaningful for the variable k since k is external
+and can change
+C)	Volatile is meaningless for the variable k since k is loop invariant 
+D)	None of the above.
+
+8	Study the following program :
+
+#include<stdio.h>
+main()
+{
+char buff[] = "this is a test";
+int i, *ptr;
+ptr = (int*)buff;
+for (i=0;*ptr; i++);
+printf("%c",*ptr++);
+}
+
+The following will be the output
+
+A) This is a test  	B) It'll print junk  C) Compilation error
+D)  None of the above
+
+9	Select  the explanation for the following declaration
+	itn (*(*ptr)(int)) (void)
+A) 	ptr is apointer pointing to a integer function that takes an 
+	intvalues returns an integer which will points to a function with
+	no argument.
+B)	ptr is pointer to function that takes an int value returns a pointer
+	to a function with ano argument which returns a integer		
+c)	This is not a valid C statement.
+D)	None of the above.
+   
+10	Study the following program
+
+# include <stdio.h>
+char *c[] ={
+	"FILE",
+	"EDIT",
+	"SEARCH",
+	"COMPILE",
+	};
+	
+HAR **cp[] = {c+3,c+2,c+1,c};
+char ***cpp = cp;
+main()
+{
+	printf("%s", **cpp);
+	printf("%s"< *--*++cpp+3);
+	printf("%s", *cpp[-2]+3);
+	B
+	printf("%s\n",cpp[-1][-1]+1);
+B
+
+}
+
+The output of this program is 
+
+A) SEARCHFILEEDITCOMPILE 	B) SEARCHCOMPILEEDIT
+C) SEARCHEPILEDIT		D) None of the above
+
+11	What is the size of ptr1 and ptr2.
+
+struct  x {
+	int j;
+	char k[100];
+	unsigned i;
+};
+int *ptr1:
+struct X *ptr2;
+
+A) Same depending on the model used      	B) 2,104
+C) 2, Undefined for memory is not allocated	D)   2,4
+
+12	If
+
+i = i * 16;
+	Which of the following is a better approach to do the operation
+A)  Multiply i by 16 and keep it 	B)  Shift left by 4 bits
+C)  Add i 16 times			D)  None of the above
+
+13	What is the output of the following program 
+
+#include<stdio.h>
+main()
+{
+int i = 0;
+switc(i) {
+case 0 : i++;
+	case 1 : i++2;
+case2 : ++i;
+}
+printf("%d",i++);
+}
+
+output of the program :-
+A) 1  	B) 3	C) 4	D)  5
+
+14	In the following , where means
+
+lseek(fd,0L,SEEK_END);
+where = tell(fd);
+A) End of file.	B)  Head of file 	C) Cannot be defined
+D)  In between head and end of file.
+
+15	Assuming that you are using IBM PC ,you have to a file of 128 intergers into a character array of 256 characters . Which statement you use ?
+
+char buf[256];
+int word[128]'
+int i;
+i varies from 0 to 255 in steps of 2
+
+a) 	word[i]=buf[i+1]*0x100 + buf[i];
+b)	word[i]=buf[i]*0x100 +buf[i+1];
+c)	word[i/2] = buf[i] *0x100 + buf[i+1];
+d)	word[i/2]=buf[i+1]*0x100 +buf[i];
+
+16	If i=5, what is the output for printf( " %d %d %d", ++i,i,i++);
+
+a) 5,6,7	b) 6,6,7	c)  7,6,5 	d)  6,5,6
+
+17	For the following code how many times the printf function is executed 
+
+int i,j ;
+ 
+for(i=0;i<=10;i++);
+	for(j=0;j<=10;j++);
+		printf("i=%d,j=%d\n",i,j);
+
+a)121	b) 11	c) 10	d)  None of the above
+
+18	What is the output generated for the following code
+#define square (a) (a*a)
+printf("%d",square(4+5));
+
+a) 81	b) 4	C) 29  D) None of the above
+
+19	For the following statement find the values generated for p and q?
+
+int p = 0, q =1;
+p = q++;
+p = ++q;
+p = q--;
+p = --q;
+
+The value of p and q are:-
+a)  1,1		b) 0,0	c) 3,2	D)  1,2
+
+20	What is the output generated by the following program ?
+#include<stdio.h>
+main()
+{
+	int a , count;
+	int func(int);
+	for (count = 1 ;count <=5;++count)
+		{
+		a = func(count);
+		printf("%d", a);
+		}
+}
+	int func(int x)
+	{
+	int y;
+	y=x*x;
+	return(y);
+
+A) 1234567	b) 2516941 	C)  9162514   D)   1491625

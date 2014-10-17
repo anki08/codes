@@ -1,0 +1,209 @@
+> The Questions are follows
+> 
+> 
+> 1. Number of null pointers in any binary tree = n+1
+> 
+> 2. max(t1,t2,...tn)   = pipelining
+> 
+> 3. 50%   -DBETXXXXXX    - density
+> 
+> 4. print (Head(T))
+>    Traverse(left(T))
+>    print (Head(T))
+>    Traverse(right(T))    - ans: none of the above
+> 
+> 5. Boolean expn Evalvate
+>    
+> 6. Common subexpn :   - ans : a + e
+> 
+> 7. LRU :  1, 2, 3.
+> 
+> 8. Tr. Delay - 10000 bits ans. 10.01
+> 
+> 9. Grammar of Number of shift / reduce operator  : ans. 4
+> 
+> 10. CPU scheduling  9,8 ?
+> 
+> 11. if even x/2
+>     else p(p(3x+1))
+> 
+>    2^k + 1:  3 . 2^(k-1)  clarify this with sans
+> 
+> 12. allocation  ans: (ii) only
+> 
+> 13.  swapping :  ans: reference only
+> 
+> 14. Compiler - related Qn.
+> 
+> 15. LAN frames - ?  related Qn.
+> 
+> 16. parameter passing (35,20)
+> 
+> 17. sliding window protocol
+>          -   BUFFER SIZE large
+> 
+> 18.  kernel mode   -  deallocate resource
+> 
+> 19.  logic circuit
+>       ans .  Minimum OR = 3
+> 
+> 20.  Combinatorics  related
+> 
+> 21. priority scheduling
+> 
+> 22. cobegin
+>       begin  x = y; x= x+1;  y= x
+>       begin x =y; z= z+1; y= z
+>     coend
+> 
+>    ans.  Number of values possi = 2
+> 
+> 23. 2 bits flip / 2 bits exchange
+>      
+>      ans : the word with one '1'
+> 
+> 24.  any addr
+>       K^+ v(a) + 2I - 2a
+>      
+>  clarify with SANS.
+> 
+> 
+> bye
+> 
+> with love
+> 
+> jayakumar
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+>    
+> 
+> /*************************************************************************/
+> 
+> My E-Mail Address
+> ----------------- 
+> 1. jayaj@hotmail.com  ( Often Using E-mail id )
+> 2. jayaj@rocketmail.com
+> 3. jayakumar@feelings.com
+> 4. jayakumarj@usa.net
+> 
+> Present Address                Permenant Address
+> ------- -------                --------- -------
+> 
+> A-704, Bluebell Apts,          JE-28, OFFICER's Colony
+> Hiranandani Gardens,           Neyveli - 607 802
+> POWAI, MUMBAI - 400 076.       TamilNadu.
+> 
+> Ph Off:4972964 - 69
+>   Extn:4615
+>          
+> /************************************************************************/
+> 
+> 
+> ______________________________________________________
+> Get Your Private, Free Email at http://www.hotmail.com
+> 
+
+
+> INFOSYS
+> 
+> 
+> 
+> > There are 5 q papers  with them. this is only one of those.
+> > All otheres were more or less of the same model but different
+> > qs. This is just to give U an idea.
+> > 
+> > 	The questions are not in order.
+> > 
+> > 1)A,B,C,D,E related.4 of them made these statements each.
+> >   i)C is my son in law's brother.
+> >  ii)B is my father's brother.
+> >  iii)E is my mother in law.
+> >  iv)A is my brother's wife.
+> >  who made these statements?(person mentioned is one of A,B,C,D,E)(10 mar         ks).
+> > 2)e means belong.
+> >   All members of E e D.
+> >   All members of D e A.
+> >   Not all members of D e E.
+> >   Not all members of A e D.
+> >   All members of C e both A and B.some questions are asked about relatio          n.use venn diagram.(5 marks).  
+> > 
+> > 3)complete the table.
+> > 
+> >     Played  won lost draw  goals  goals
+> > 			   for    against
+> > A    2       2                     1
+> > B    2                 1    2      4
+> > C    2                      3      7
+> > 
+> >   A,B,C are 3 hockey teams.(2 marks).
+> > 
+> > 4) A says Party was held on :Thursday ,May 8th.
+> >    B says Party was held on :Tuesday,May 10th.
+> >    C says party was held on :Friday ,June 8th.   
+> >    Given April 1 st was Tuesday.one of A,B,C says 1 correct.one says 1
+> >    wrong.and one was completely wrong of date,Month and day. Find the 
+> >    Day  the party held.   (5marks).
+> > 
+> > 5) A ship is away from the shore by 180 miles.A plane is travelling at 
+> >    10 times speed of the ship.How long from the shore will they meet?
+> >    (2marks)
+> > 
+> > 6) Every station in N railroad issue everyother station's ticket.
+> >    some stations are added.Now they have to issue 46 more tickets.
+> >    say the No.of stations after and before added.(5 marks).
+> > 
+> > 7) 3 persons say these statements.
+> >    A says either Democratic or liberal wins the elections.
+> >    B says Democratic wins.C says neither democratic nor liberal wins
+> >    the election.of these only one is wrong.who wins the election?
+> >    (5 marks).
+> > 
+> > 8) A clock showing 6 o'clock takes 30 secs to strike 6 times.How long 
+> >    will it take to strike 12 at midnight?Ans.66 secs.(2marks)
+> > 
+> > 9) Only boys aged > 16 wear coats.
+> >    Boys aged > 15 go to watch football.some more statements are given.
+> >    What can be said about those who are watching football ? (age and 
+> >    costume)
+> >    (5 marks).
+> > 
+> > 10) There are 3 societies A,B,C having some tractors each.
+> >     A Gives  B and C as many tractors as they already have.
+> >     After some days B gives A and C as many tractors as they have.
+> >     After some days C gives A and B as many tractors as they have.
+> >     Finally each has 24 tractors.what is the original No.of 
+> >     tractors each had in the beginning?
+> > 		Ans.A -39.
+> > 		    B- 21.
+> > 		    C- 12.(7 marks).
+> > 11) 4,5 statements.From that find the answer.(7 marks).
+> > 
+> > 
+> > Reference books
+> > 1.) Puzzles and teasers by summer's
+> > 2.) Shakuntala Devi. (puzzles).
+> > 
+> 
+> 
+> --
+> R. KALYANARAMAN
+> :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+> 
+> Dept. of Maths	        ::	Phone:	+91 512 597636
+> Indian Instt Tech	::	Fax:	+91 512 590007
+> Kanpur 208016 India	::	Email:	rraman@iitk.ernet.in
+> -----------------------------------------------------------------
+> RESI:
+> Room no:A-207
+> Hall of Residence-5     ::      Phone: +91 512 597315
+> Indian Instt Tech                      +91 512 597115
+> kanpur 208016 India
+> :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+> 
+
+

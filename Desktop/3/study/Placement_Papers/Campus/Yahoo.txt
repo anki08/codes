@@ -1,0 +1,100 @@
+1. Draw memory model of C pgm,
+
+	I drew the following model:
+
+                 ---------------
+                |    BSS        |
+                |               |
+                 ---------------
+                |               |
+                |   Heap        |
+                 ---------------
+                |               |
+                |    Stack      |
+                 ---------------
+
+	I explained about them. i.e., in BSS, Global and static variables are stored. In Heap, dynamically allocated memory are stored. In Stack local variables are stored.
+In BSS all the values are initialized to zero.
+
+        Question : So where code is stored?
+	Answer   : this is model of data segment, and code will be stored seperately in code segment. 
+
+
+2. Why are they initializing all the values to zero? any special significance?
+
+	initializing local(stack) won't be ,much useful, b'coz anyway when there is a function call, return address will be stored. so they are not initializing to zero. 
+
+Question: So how will initializing global variables to stack will help?
+		
+
+3. Where are environment variables stored?
+	its in BSS (then only all programs can acess it)
+
+4. Where are command-line arguments stored?
+	In stack. B'coz there are also arguments to the function.
+
+5. How will you calculate size of a structure?
+
+                I took an example and explained.
+
+                struct abc
+                {
+                        char a; //8 bits
+                        int b;  //16 bits
+                        float c; //32 bits
+                };
+
+                so totally 56 bits
+
+		They gave another example, where char will take only one bit. i.e.,
+                struct abc
+                {
+                        char a1:1;      //1 bit
+                        char 21:1;      //1 bit
+                        int b;          //16 bit
+                        float c;        //32 bit
+                };
+
+	So totally 50 bit. It'll be rounded to nearest byte. so It's 56 bits or 7 byte.
+
+6. How much do you rate yourself in c++ skills?
+7. What's inline fuction?
+	Question: Does compiler always substitue inline fuction during compilation?
+	Answer  : No, its optional!
+
+8. On which OS do you work?
+	windows, and linux. They asked which version of Linux, i
+told 8 and 9.
+
+9. They asked about my projects...
+	As my UG project is related with FAT, all questions are from that.
+
+	* What's the difference between Windows and Linux
+	* The other person in the pannel asked, so do you mean, no one has attacked Linux?
+	
+10. Do you know multi threading? Explain me what is a process and what is a thread.
+
+        * Then Do you mean thread is not running in the processor?
+        * They gave one example...
+                If you open different applications in windows like MS Word,
+Outlook express, Are the diffrent threads or diffrent process?
+
+                        They are diffrent process.
+
+        * If you open two documents in MS word, are they threads or process
+                They are child process.
+
+        * Why?
+                B'coz, even if the parent is closed, this can work seperately.
+
+        * Ok, leave, parent child thread model. In normal case what will happen? i.e., If I close parent, what will happen to the child?
+
+
+11. I want only one thread to run at a time. i.e., when one is running other shouldn't run. what will you do?
+	I'll use semaphores.
+
+12. What is semaphore?
+	P and V can be used for wait and signal.
+
+13. They asked about my MTP and course projects..
+

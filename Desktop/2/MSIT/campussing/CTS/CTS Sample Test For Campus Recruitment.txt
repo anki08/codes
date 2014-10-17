@@ -1,0 +1,157 @@
+CTS Sample Test For Campus RecruitmentCTS Sample Test Paper#1Home
+
+Back To CTS Page
+This is only a sample paper. We are not providing you with all the questions - 
+just some questions to give you a general idea of the test pattern.
+SECTION-1:
+
+Find the next in the sequence:
+
+1. BC CE EG GK ?
+
+a)KN 
+b)KU 
+c)KM 
+d)None
+
+2. AA AB BC CE?
+
+a)EG 
+b)EH 
+c)EI 
+d)None
+
+3. AB EF JK QR ?
+
+a)YZ 
+b)ZA 
+c)AB 
+d)None
+
+4.ACD EGL IKT MOB?
+
+a)QST 
+b)QSZ 
+c)QSY 
+d)None
+
+5.AC CG GO OE?
+
+a)EJ 
+b)EI 
+c)EL 
+d)None
+
+6.AE BH CM DU?
+
+a)EH 
+b)EZ 
+c) EB 
+d)None
+
+7. AD DP PL LV
+
+a)VS
+b)VK 
+c)VI 
+d)None
+
+8. SE QU EN TI?
+
+a)CN 
+b)BM 
+c)AI or AZ 
+d)None
+
+
+SECTION-II:
+
+Find the values for the following problem:
+f(X)= 2X-1 + f(X-1) if X is not equal to zero and if f(X=0)=0
+9. Value of f(5)
+
+a)15 
+b)24 
+c)22 
+d)None
+
+10. Value of f(f(2))
+
+11. Value of f(16)- f(15)
+
+12. Value of f(16)+f(15)-480
+
+13. If f(f(X))=81 then the value of X=?
+
+14. If f(X)=4f(X-1) then the value of X=?
+
+15.If f(X)= f(X-1)+f(X-2) for X>1 then X= ?
+
+16. If f(X)-f(X-1)=f(X-8) for X>5 then X=
+ 
+SECTION -III:
+
+In the following questions a 'word' is given which may not have any meaning.Find 
+differnet possible words or palindromes for the word as per the question.
+
+For the following find no of distinct words that can be formed.
+
+17. TYGHHTT
+
+a).420 
+b)1540 
+c)840 
+d)None
+
+18. TYGHHTY
+
+19. TYGHHTT
+20. TYGHHTT
+21. TYGHASD
+22. TYGHHTY
+
+Find the number of possible palindromes for following
+
+23. TYGHHTY
+24. TYHHHTYH.
+
+SECTION-IV:
+
+25 to 32 are based on the figures. You have to analyse them and find the odd one 
+out. 
+Five figures will be given out of which one is not correct.
+Refer R.S Agarwal's book on Analytical Reasoning & TMHs Quantitative ability 
+book by Edgar Thorpe.
+
+SECTION -V:
+
+For following first find out the anagram and then note the corresponding 
+meaning.
+
+33.TABLET
+   Hint: anagram means first u arrange the letters in correct order like 
+TABLET===BATTLE . So ans is FIGHT 
+
+34.RUGGED
+35.GORE.
+36.STASSI.
+For all above choices are.
+
+a)resentment 
+b)fight 
+c)help 
+d)monster
+
+37. ENFOLD
+38. LAMB
+39. RECEDE.
+40. PLEASE.
+
+For all the above 4 choices are same
+
+a)cuddle 
+b)sleeping 
+c)proclamination 
+d)ointment.
+
+Back to top

@@ -1,0 +1,154 @@
+
+
+			IBM, Written test, 2000
+
+
+1. Tjerd are 12 pdf 60m0h.starts from the saouse in 6 days,b in 8 days
+ & c in 12 days.a stat
+dge of a square is the centre of a #irclewith the two sides adjoinhng 
+th 3perpendicular to BC, bc perpendicular to CD
+AB=8 cm
+BC=5 cm
+CD=4 cm
+what is the shortest distance from A to D?
+9. If 6 squares of equal size are placed side by side to form a 
+rectangle of perimeter 294cm, find the perimeter of each square.
+10.What is the length of a parrallelopiped of sides 3,4,7cms.
+11.Correct definition of  pi is 
+a. 3.14
+b. 3.141257
+c.22/7
+d.ratio of circumferance and diameter
+e. none of the above
+12.A fooball team played 60 matches out of which 30% were won by them. 
+If they start winning all the next matches after how many matches will
+ the average winning rate be 50%
+13.difference of ages of 2 persons is 9 and difference of squares 
+of the ages is 459. What is the age of the older person.
+14. There is a rectangular field of 110x70 cm size. If it is to be
+fenced such that the fence is placed alternative with a gap of 10cm
+ and the fence should be present at the four corners. taking $2 per cm
+ of fence. Find the cost of fencing.
+15. the figure having one line of symmetry
+a. square
+b. equilateral triangle.
+c. isosceles triangle
+d. rectangle
+16. Which is greater?
+a. 0.3 
+b. (0.3)^.5
+c.  2/5
+d. 
+17. If there are persons named 1 to n. If each person handshakes with 
+all other persons whose no. is more than him, then how many handshakes 
+are possible.
+18. maximum value of 3x^2-4x+7
+
+for travelling from A to C there are three choices
+1. through a bridge from A to C of 20 miles length having a toll of 
+75cents per person
+2. through a tunnel from A to C of 10 miles length having a toll of
+ 25 cents per person
+3. a toll free highway from A to B(eastwards)of 20 miles and then B 
+to C (north west) 10 miles
+19. which will be most economical?
+bridge
+tunnel
+highway
+none
+20.if he wanna reach earliest what will he choose?
+
+21.if the employer of a firm going from A to C deducts some % of his 
+basic salary which he will choose(what factor will influence his
+ preference)
+bridge with less traffic
+tunnel
+cost of gasolene
+cost of toll on three modes
+22.What is the shortest mode of travel from B to C
+bridge
+tunnel 
+highway
+none
+23. what is the number of multiplications u have to undergo to 
+multiply two 2x2 matrices
+24.what is the angle subtended by the hands of a clock when it is 
+quater past one
+25.if a particle is moving in a circle with const angular velocity 
+then
+a. radial acc. =0     tangential acc. =0
+b.                 <>0                         =0
+c.                  =0                          <>0
+d.                  <>0                        <>0
+
+
+# what does > and >> signify in UNIX?
+# int n;
+k=n;
+result=1;
+while(k>1)
+{
+	result*=k;
+	k--;
+}
+What does this program do?
+a. calculates the factorial for n<0
+b. calculates the factorial for n>0
+c. b is right if the foll is added
+if(n<=1)
+	result=1;
+ans=b
+#Which one is not an aspect of relational database
+a. tree like structures
+b. records
+c. fields
+d. tables
+#if right to left operation is done instead of left to right then find
+ the value of
+7-(16/(3+1)*2)-4
+#what is the difference between Dos in windows and DOS in MS-DOS mode?
+they occupy diff. memory
+they are same
+windows can access some special files
+#char. of RAM
+finite,temporary and fast
+# main()
+{
+	int num[6]={2,3,4,18,44,17}
+	j=5;
+	printf("%d%d",*(num+j),j[num]
+}
+ans 17 17
+# n=5
+while(n>1)
+{
+	for(i=1;i<n;i++)
+		product*=i;
+	return(product);
+}
+output=?
+ans=junk value
+#main advantage of using pointers?
+ans=pointers can be used to return more than one value from a function
+#what is the main aspect of computers over calculators
+a. computers are complex to understand
+b. computers are huge and expensive
+c. more than one person can work on a compu
+d. compu can perform logical calculations as well as arithmatic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

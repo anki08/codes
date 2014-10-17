@@ -1,0 +1,115 @@
+hi ankur
+here in our college
+17/59 in tronix
+18/60 in comp sci
+have been placed
+paper ot tata elexi is as follows
+
+There is a technical paper which is of 40 mins duration with 30
+questions ( all objective type with a,b,c,d options) - 30 marks 
+no
+negatives.
+
+The paper deals with-
+c++ programming ( classes and inheritance) - emphasis is 
+on
+constructor destructor logics. Most of the questions are output
+based.......that is u have to choose the output the code will
+give..
+
+C programming ( Pointers and Printf) -- this is also 
+almost
+totally output based
+
+A few sample questions that are in the paper are.--
+
+1. Give the output for
+main()
+{
+int i=0;
+printf("%d%d%d", i,i++,++i)
+}
+
+2. What is the error in the function
+calloc(10,0)
+
+3. How many bits are needed for 120 instructions
+ANs. 7 ( since 2 to the power 7> 120)
+
+4. If ( i=0,5,7) the last E is ......
+
+
+Then there is an aptitude paper [ 20 mins, 30 questions] most
+numerical ----- 30 marks.
+
+the questions are mainly on
+
+1. work and time ( man days concept)
+2. Upstream Downstream ( relative velocity )
+3. Tank and cisterns.
+its basically the kind of apti given in the R.S. Agarwall
+textbook.
+
+In the interview the questions are from the following subjects
+only.....they are looking for people who are sharp in
+
+1. Operating Systems.
+2. Microprocessors.
+3. EDC
+4. Networking.
+
+
+There is a technical paper which is of 4o mins duration with 30
+questions ( all objective type with a,b,c,d options) - 30 marks 
+no
+negatives.
+
+The paper deals with-
+c++ pragramming ( classes and inheritance) - emphasis is on
+constructor destructor logics. Most of the questions are output
+based.......that is u have to choose the output the code will
+give..
+
+C programming ( Pointers and Printf) -- this is also almost
+totally output based
+
+A few sample questions that are in the paper are.--
+
+1. Give the output for
+main()
+{
+int i=0;
+printf("%d%d%d", i,i++,++i)
+}
+
+2. What is the error in the function
+calloc(10,0)
+
+3. How many bits are needed for 120 instructions
+ANs. 7 ( since 2 to the power 7> 120)
+
+4. If ( i=0,5,7) the last E is ......
+
+
+Then there is an aptitude paper [ 20 mins, 30 questions] most
+numerical ----- 30 marks.
+
+the questions are mainly on
+
+1. work and time ( man days concept)
+2. Upstream Downstream ( relative velocity )
+3. Tank and cisterns.
+its basically the kind of apti given in the R.S. Agarwall
+textbook.
+
+In the interview the questions are from the following subjects
+only.....they are looking for people who are sharp in
+
+1. Operating Systems.
+2. Microprocessors.
+3. EDC
+4. Networking.
+
+
+
+

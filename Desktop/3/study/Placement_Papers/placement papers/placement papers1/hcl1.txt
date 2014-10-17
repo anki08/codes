@@ -1,0 +1,45 @@
+HCL SYSTEM SOFTWARE  PAPER:    60 qs; 90 min. (4 sections)
+******************************
+
+NOTE :  Please check answers once again.
+
+only this much i got ,   which is available here in iit-kgp
+
+
+
+
+
+
+           section 1.
+
+
+1.which of the following involves context switch,
+a) system call b)priviliged instruction
+c)floating poitnt exception
+d)all the above
+e)none of the above
+ans: a
+
+2.In OSI, terminal emulation is done in
+a)semion b)appl.. c)presenta... d)transport
+ans: b
+
+3....... 25MHz processor , what is the time taken by the instruction which needs 3 clock cycles,
+a)120 nano secs  b)120 micro secs
+c)75 nano secs  d)75 micro secs
+
+
+4. For 1 MBmemory no of address lines required,
+a)11 b)16  c)22   d) 24
+ans: 16
+
+5. Semafore is used for
+a) synchronization  b0 dead-lock avoidence
+c)box  d) none
+ans : a
+
+
+6.  class c: public A, public B
+
+a) 2 member in class A,B shouldnot have same name
+b) 2 member in class A,C   

@@ -1,0 +1,78 @@
+   CTS 2000 BIT ,MESRA
+
+Negative Marking  -.25 per wrong question.
+ 
+ section 1.
+L1,L2- LISTS.
+M(L1,L2)=L1+L2
+IF L=(a,b,c)
+ A(L)=a   ie FIRST TERM
+ B(L)=(b,c)  ie ALL EXCEPT FIRST TERM
+ P(L)=L if L==()&& B(L)==()
+     =A(B(L)) if L!=() && B(L)!=() && B(B(L))=()
+     =(M(A(L)),M(A(B(L))),P(B(B(L)))) if B(B(L))!=()
+
+ R(L)=L if B(L)=()
+     =A(L) if L!=()
+     =M(DONT REMEMBER) otherwise
+
+with the above relations find the following:
+1. R(P(L))) if L=(a,b,(a,b),(b,a))
+
+2. R(P(L) where L=(a,(a),(b,b),b)
+
+example:
+  L=(a,b,(a,b),(b,a)) 
+.:P(L)=P(a,b,(a,b),(b,a))
+  A(L)=(a) and so on
+
+   section 2.
+dont remember properly......
+If GODG is a valid word then the no of 
+valid words in the string
+ (GGODGG,GGOGGD,GGOGDGGG............)
+
+   section 3.
+
+given a TARGET number and a BRICK which 
+has five no:s that can be combined using 
+only arithmetic operators + - * and /
+to get the TARGET
+
+1. TARGET=114 BRICK=forgot.
+2. TARGET=19  BRICK=8,11,5,5,2
+3. TARGET=87
+4. TARGET=146
+5. TARGET=127 ........
+
+  section 4.
+
+chapt 17. of R.S.AGARWAL 
+
+  section 5.
+solve the cryptic clues:
+
+1. Head of attack
+ans:attribute
+
+2. Head of cuticles
+ans:cutlass
+
+3. Garment leaves with article at end
+ans:cloaka
+
+4. Good tailors do this
+ans:benefit
+
+5. In greater rome ,a friend
+ans:palindrome
+
+6. Hat in water close jumps out.
+ans:whatever
+
+7. Misspelt respect , gobbled up
+ans:estimate
+
+8. row'd almost across
+ans:acrossca
+

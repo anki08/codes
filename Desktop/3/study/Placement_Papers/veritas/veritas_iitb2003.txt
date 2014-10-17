@@ -1,0 +1,46 @@
+
+
+ iitb veritas
+objective 30 quesitons
+
+1 to 7 on C++
+
+	--what is inline function
+	--what is multiple heritance
+	--something abt virtual
+	--something abt finally
+	
+ one question abt reentrant function
+
+
+ 8. one question on c pointers ..easy answer is 1.
+ 9 and 10. question on automata..easy ones..read hopcroft full book yaar..
+
+ 2-3 questions on Interrupts and Kernel mode=user mode switiching..
+
+ 14. order of algo for detection of cycle in a list. o(n)
+ 15. euler circuit in a graph is ________________
+ 16. one on finding tag.set.word bits of a set associative caching scheme..
+ 17. had to choose defn of complete binary tree.
+ 18. one on regular expressions..
+ 19. why no nested comments in C
+ 20. c=a+++b; //whats the values of a b nd c after the execution of this ins 
+
+  
+subjective:
+   first question common from iitk paper..
+   the one with bitwise for power of 2.. (ans is a-1 )
+   anither one on the lock one with while 1 loop..(ans is while (lock) ; )
+
+   2nd question on macro and aim was to reduce the number of parenthesis needed..
+   use # operator in the soln..
+
+   3rd one some locks..i did not even read it
+
+   4th one...how to estimate size of stack at anypoint of ur program..
+  i answered to take address of all variables and take (max-min) of them..
+  plus if u want to consider formal parameters and return values
+
+  5th.. u have a program a.out..but when u execute it, what u want is that ps shud 
+show it as b.out..how can u do it without changing the code of ps???
+	

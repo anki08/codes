@@ -1,0 +1,27 @@
+
+Same in IITB also...
+
+Hi, 
+I'm from IIT Roorkee . 
+In trilogy written they have given 4 programs and we have to write in 75 min. 
+more preference was given to programs with less complexity and it is clearly mentioned in the paper also. 
+the questions are 
+1. A string like "AB,CD,EF" will be given as input and u have to produce the output as array of strings {AB,CD,EF} 
+the delimiter will be specified (not necessarily ',') 
+2. An array {A1,A2,A3,....,An,B1,B2,......,Bn} will be given and we have to rearrange it as {A1,B1,A2,B2......} 
+3. there is a tree with nodes each of which consists of pointers to its child and we have to find the loops or cycles in the tree .The root will be passed as an argument. 
+I dont remember exactly the question but a big diagram is given for that. 
+4. A program is given and we have to find out the bug in that so that it can perform its intended function . 
+The function to be performed is to generate all the unique partitions of a no. 
+Eg; n=10 
+then the op must be 
+7 1 1 1 
+6 2 1 1 
+5 3 1 1 
+4 4 1 1 
+5 2 2 1 
+....... 
+here they have shortlisted 12 or so from written and have selected two finally. 
+All The Best 
+-Deepthi
+

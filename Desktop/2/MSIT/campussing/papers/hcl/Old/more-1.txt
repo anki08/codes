@@ -1,0 +1,235 @@
+
+********************HCL-HP written test*******************
+THE address of hughes is
+HSSHR@hss.hns.com
+
+A Vasudevan
+vasu@hclhprnd.uunet.in
+
+Note: Please call Mr Vijay (Ph 8279312) to confirm or reschedule the timing.
+ 
+
+This is a very good question bank for written test of some software companies.
+This can be passed freely to anyone. No restrictions of Class, Branch,
+Institute , bla bla ...
+
+Optimize the below 1,2,3,4 questions for time:
+
+1)
+int i;
+if i=0 then i:=1;
+if i=1 then i:=0;
+
+2)
+int i;
+if i=0 then i:=1;
+if i=1 then i:=0;
+(given that i can take only two values (1,0))
+
+3)
+int i;
+if i=0 then i:=1;
+else if i=1 then i:=0;
+(given that i can take only two values (1,0))
+
+4)
+int m,j,i,n;
+for i:=1 to n do
+m:=m+j*n
+
+5) Expand the following
+ a) ISDN
+ b) CASE
+ c) CSMA/CD
+ d) OOPS
+ e) MIMD
+
+6) In the following questions, answer A,B,C,D depending on when 
+the errors are  detected?
+  A if no error is detected
+  B if semantic and syntactic checking
+  C if during Code genration & Symbol allocation
+  D run time
+
+a) Array overbound
+b) Undeclared identifier
+c) stack underflow
+d) Accessing an illegal memory location
+
+7) How many page faults will occur for below sequence of pages when LRU
+page replacement algorithm is used ( The memory can only have 3pages):
+
+1,2,3,4,2,1,5,2,4 (something like that) 
+
+
+
+8) If a CPU has 20 address lines but MMU does'nt use two of them.
+   OS occupies 20K. No virtual memory is supported. What is the 
+   maximum memory available for a user program?
+
+9) For a binary tree with n nodes, How many nodes are there which
+  has got both a parent and a child?
+
+10) Understand the funda of incrementing a variable using 
+    val++   and ++val . Some programs are given for error correction.
+
+11) Learn datagram . (Computer networks)
+
+12) Which of the following can be zero? (only one)
+    a)  swap space
+    b)  physical memory
+    c)  virtual memory
+
+
+13) What is a must for multitasking?
+    a) Process preemption
+    b) Paging
+    c) Virtual memory
+    d) None of the above
+
+14) A question on call by value,
+		  call by name,
+		  call by reference.
+
+f(x,y,z)
+{
+y := y+1;
+z := z+x;
+}
+main()
+{
+int a,b;
+a := 2
+b := 2;
+f(a+b,a,a);
+print a;
+}
+
+what is the value of a printed for three different calls in main.
+
+15) Using the following instructions and two registers , A&B.
+   find out A XOR B and put the result in A
+   PUSH <reg>
+   POP  <reg>
+   NOR    These instructions operates with A & B and puts the result in
+   AND     A
+
+(question basically to get XOR in terms of NOR and AND)
+
+16) True/False questions:
+   1) The page size should be the power of 2.
+   2) 
+
+
+ 
+17) 
+int i=0;
+int j=0;
+
+loop: 
+  if(i = 0)
+     i++;
+  i++;
+  j++;
+  if(j<= 25)
+    goto loop
+xxx:   
+
+
+question1 : how many times is the loop entered 
+A few questions of that sort. some count fundaes. Easy one )
+
+18)  Who handles page faults? 
+  a) OS
+  b) MMU
+  c) Hardware logic
+  d) etc etc....
+
+19)  For which of following is it not possible to write an algorithm.
+
+a) To find out 1026th prime number
+b) To write program for NP-complete problem
+c) To write program which generates true Random numbers.
+etc...
+
+20) what is the essential requirement for an real-time systems
+ 
+a) pre-emption
+b) virtual memory
+c) paging  etc...
+
+
+*********************************************************************
+Computer Architecture:
+----------------------
+
+Suggested readings:	Hwang and Briggs;Hamacher
+
+Questions every scholar should know:
+
+i) Location of a cache in the storage heirarchy. 
+ii) Cache access/replacement techniques. 
+iii) Full-associative and set-associative caches. 
+
+Other Questions:
+---------------
+i) TLB; look-aside-buffer
+ii) SMP (Sequential Multiprocessor: Jani-Wipro Infotech asked)
+
+
+
+C:
+---
+
+Suggested Readings:	Kernighan and Ritchie;C-FAQ; internet
+
+Questions every scholar should know:
+
+i) Fundaes on Null pointers; what happens if you increment a null pointer
+ii) ii) About bit-operators (Every interview will have questions where you 
+   will have to operate on the bits; So remember or bit operators)
+iii) Swapping 2 numbers without extra variables (Still the favourite?)
+     Can you swap two floating numbers using the same technique?
+iv) Swapping two nibbles of a byte; write a macro for that.
+v) Counting all 1s in an integer.
+
+Other Questions:
+---------------
+
+i) Variable parameters of a function. How is it implemented in C. 
+   Give example of  functions which use varible parameters (printf etc).
+ii) How are the fields in a printf accessed (from right to left) and why?
+    Read the C-FAQ for such questions.
+iii) Doubly linked lists. 
+
+
+Data Structures:
+----------------
+
+i) B-Trees; B-Plus trees?
+
+
+B) Personal
+-----------
+
+i) Tell us something about yourself. (This has to be there)
+ii) Strengths and weaknesses (This question also disguised in various 
+   forms is always asked).
+iii) Why should we hire you?
+iv) Can you describe your project in short?
+v) Why did you take 2-1/2 years to complete (My case!)
+vi) If given the job when can you join. (Caution: Don't think that if 
+    you give some unreal early deadlines they will offer you the job.
+    Always play safe and give a deadline by which time you are sure to 
+    complete and join. Asking for extensions is the worst scenario). 
+
+Tips: Be confident, frank (But need not give away information which may weigh
+      against your case), free (use first names while addresing them, so be
+      alert when they introduce themselves) and cheerful (attend an interview
+      with a positive frame of mind). Remember you are IITians and you always
+      have an edge. That may sound arrogant, but its true. 
+
+Best of luck. 
+-------------
+
+

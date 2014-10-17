@@ -1,0 +1,604 @@
+
+
+
+--------------------------------------------------------------------------------
+
+CMC Ltd.              CMC Ltd Test Paper 
+ 
+ 
+ 
+  
+
+ANALYTICAL REASONING SECTION
+
+Directions for  questions 1-5: The questions are based on the information given below
+
+There are six steps that lead from the first to the second floor. No two people can be on the same step
+Mr. A is two steps below Mr. C
+Mr. B is a step next to Mr. D
+Only one step is vacant ( No one standing on that step )
+Denote the first step by step 1 and second step by step 2 etc. 
+
+1. If Mr. A is on the first step, Which of the following is true? 
+(a) Mr. B is on the second step
+(b) Mr. C is on the fourth step.
+(c) A person Mr. E, could be on the third step
+(d) Mr. D is on higher step than Mr. C. 
+
+Ans: (d)
+
+
+2. If Mr. E was on the third step & Mr. B was on a higher step than Mr. E which step must be vacant 
+(a) step 1 
+(b) step 2 
+(c) step 4 
+(d) step 5
+(e) step 6 
+
+Ans: (a) 
+
+
+3. If Mr. B was on step 1, which step could A be on? 
+(a) 2&e only
+(b) 3&5 only 
+(c) 3&4 only 
+(d) 4&5 only 
+(e) 2&4 only 
+
+Ans: (c)
+
+
+4. If there were two steps between the step that A was standing and the step that B was standing on, and A was on a higher step than D , A must be on step 
+
+(a) 2 
+(b) 3 
+(c) 4 
+(d) 5 
+(e) 6  
+
+Ans: (c) 
+
+
+5. Which of the following is false 
+
+i. B&D can be both on odd-numbered steps in one configuration
+ii. In a particular configuration A and C must either both an odd numbered steps or both an even-numbered steps
+iii. A person E can be on a step next to the vacant step. 
+
+(a) i only 
+(b) ii only 
+(c) iii only
+(d) both i and iii
+
+Ans: (c) 
+
+ 
+
+Directions for  questions 6-9: The questions are based on the information given below
+
+Six swimmers A, B, C, D, E, F compete in a race. The outcome is as follows. 
+i. B does not win.
+ii. Only two swimmers separate E & D
+iii. A is behind D & E
+iv. B is ahead of E , with one swimmer intervening
+v. F is a head of D 
+
+6. Who stood fifth in the race ?
+(a) A 
+(b) B 
+(c) C 
+(d) D 
+(e) E 
+
+Ans: (e) 
+
+
+7. How many swimmers seperate A and F ?
+(a) 1 
+(b) 2 
+(c) 3 
+(d) 4 
+(e) cannot be determined 
+
+Ans: (d)
+
+
+8. The swimmer between C & E is
+(a) none 
+(b) F 
+(c) D 
+(d) B 
+(e) A  
+
+Ans: (a)
+
+
+9. If the end of the race, swimmer D is disqualified by the Judges then swimmer B finishes in which place 
+(a) 1
+(b) 2 
+(c) 3 
+(d) 4 
+(e) 5  
+
+Ans: (b) 
+
+
+Directions for  questions 10-14: The questions are based on the information given below
+
+Five houses lettered A,B,C,D, & E are built in a row next to each other. The houses are lined up in the order A,B,C,D, & E. Each of the five houses has a colored chimney. The roof and chimney of each housemust be painted as follows.
+i. The roof must be painted either green,red ,or yellow.
+ii. The chimney must be painted either white, black, or red.
+iii. No house may have the same color chimney as the color of roof.
+iv. No house may use any of the same colors that the every next house uses.
+v. House E has a green roof.
+vi. House B has a red roof and a black chimney 
+
+10. Which of the following is true ? 
+(a) At least two houses have black chimney.
+(b) At least two houses have red roofs.
+(c) At least two houses have white chimneys
+(d) At least two houses have green roofs
+(e) At least two houses have yellow roofs 
+
+Ans: (c) 
+
+
+11. Which must be false ? 
+(a) House A has a yellow roof 
+(b) House A & C have different color chimney
+(c) House D has a black chimney
+(d) House E has a white chimney
+(e) House B&D have the same color roof. 
+
+Ans: (b) 
+
+
+12. If house C has a yellow roof. Which must be true. 
+(a) House E has a white chimney
+(b) House E has a black chimney
+(c) House E has a red chimney
+(d) House D has a red chimney
+(e) House C has a black chimney 
+
+Ans: (a) 
+
+
+13. Which possible combinations of roof & chimney can house 
+I. A red roof 7 a black chimney
+II. A yellow roof & a red chimney
+III. A yellow roof & a black chimney
+
+(a) I only 
+(b) II only 
+(c) III only 
+(d) I & II only 
+(e) I&II&III 
+
+Ans: (e)
+
+
+14. What is the maximum total number of green roofs for houses
+(a) 1
+(b) 2
+(c) 3
+(d) 4
+(e) 5
+
+
+NOTE: The questions from 15-27 are multiple choice in the paper
+
+15. There are 5 red shoes, 4 green shoes. If one draw randomly a shoe what is the probability of getting a red shoe 
+
+Ans 5c1/ 9c1
+
+
+16. What is the selling price of a car? If the cost of the car is Rs.60 and a  profit of 10% over selling price is earned
+
+Ans: Rs 66/-
+
+
+17. 1/3 of girls , 1/2 of boys go to canteen .What factor and total number of classmates go to canteen. 
+
+Ans: Cannot be determined.
+
+
+18. The price of a product is reduced by 30% . By what percentage should it be increased to make it 100% 
+
+Ans: 42.857%
+
+
+19. There is a square of side 6cm . A circle is inscribed inside the square. Find the ratio of the area of circle to square. 
+
+Ans. 11/14 
+
+
+20. There are two candles of equal lengths and of different thickness. The thicker one lasts of six hours. The thinner 2 hours less than the thicker one. Ramesh lights the two candles at the same time. When he went to bed he saw the thicker one is twice the length of the thinner one. How long ago did Ramesh light the two candles .
+
+Ans: 3 hours. 
+
+
+21. If M/N = 6/5,then 3M+2N = ? 
+
+
+22. If p/q = 5/4 , then 2p+q= ? 
+
+
+23. If PQRST is a parallelogram what it the ratio of triangle PQS & parallelogram PQRST .
+
+Ans: 1:2 
+
+
+24. The cost of an item is Rs 12.60. If the profit is 10% over selling price what is the selling price ?
+
+Ans: Rs 13.86/- 
+
+
+25. There are 6 red shoes & 4 green shoes . If two of red shoes are drawn what is the probability of getting red shoes 
+
+Ans: 6c2/10c2
+
+
+26. To 15 lts of water containing 20% alcohol, we add 5 lts of pure water. What is % alcohol. 
+
+Ans : 15% 
+
+
+27. A worker is paid Rs.20/- for a full days work. He works 1,1/3,2/3,1/8.3/4 days in a week. What is the total amount paid for that worker ?
+
+Ans : 57.50 
+
+
+28. If the value of x lies between 0 & 1 which of the following is the largest? 
+
+(a) x 
+(b) x2
+(c) -x
+(d) 1/x
+
+Ans : (d) 
+
+ 
+
+DATA SUFFICIENCY SECTION
+
+Directions : For questions in this section mark
+
+(a) If condition (i) alone is sufficient
+(b) If condition (ii) alone is sufficient
+(c) If both conditions together are sufficient
+(d) If condition (i) alone & (ii) alone are sufficient
+(e) information not sufficient 
+
+1. A man 6 feet tall is standing near a light on the top of a pole What is the length of the shadow cast by the man. 
+(i) The pole is 18 feet high
+(ii) The man is 12 feet from the pole  
+
+Ans: (c) 
+
+
+2. Two pipes A and B emptied into a reservoir , pipe A can fill the reservoir in 30 minutes by itself. How long it will take for pipe A and pipe B together to fill up the reservoir. 
+(i) By itself, pipe B can fill up the reservoir in 20 minutes
+(ii) Pipe B has a larger cross-sectional area than pipe A  
+
+Ans: (a) 
+
+
+3. K is an integer. Is K is divisible by 12 
+(i) K is divisible by 4
+(ii) K is divisible by 3  
+
+Ans: (c)
+
+
+4. What is the distance from A to B
+(i) A is 15 miles from C
+(2) C is 25 miles from B  
+
+Ans: (e)
+
+
+5. Was Melissa Brown's novel published? 
+(i). If Melissa Brown's novel was published she would receive atleast $1000 in royalities during 1978
+(ii). Melissa Brown's income for 1978 was over $1000 
+
+Ans: (e)
+
+
+6. Does every bird fly?
+(i) Tigers do not fly.
+(ii) Ostriches do not fly 
+
+Ans: (b) 
+
+
+7. How much does John weigh? Jim weighs 200 pounds. 
+(i) Toms weight plus Moes weight equal to John's weight.
+(ii) John's weight plus Moe's weight equal to Twice Tom's weight. 
+
+Ans: (c)
+
+
+8. Is the figure ABCD is a rectangle if 
+(i)  angle ABC=90(degrees)
+(ii) AB=CD
+
+
+9. Find x+2y
+(i). x+y=10
+(ii). 2x+4y=20
+
+Ans: (b)
+
+
+10. Is angle BAC is a right angle 
+(i) AB=2BC
+(2) BC=1.5AC
+
+Ans: (e)
+
+
+11. Is x greater than y
+(i) x=2k
+(ii) k=2y 
+
+Ans: (e)
+
+
+12. A piece of string 6 feet long is cut into three smaller pieces. How long is the longest of the three pieces?
+(i). Two pieces are the same length.
+(ii) One piece is 3 feet 2 inches lone
+
+Ans: (b)
+
+
+13. How many rolls of wall paper are necessary to cover the walls of a room whose floor and ceiling are rectangles 12 feet wide and 15 feet long
+(i) A roll of paper covers 20 sq feet
+(ii) There are no windows in the walls
+
+Ans: (e)
+
+
+14. x and y are integers that are both less than 10. Is x>y?
+(i). x is a multiple of 3
+(ii). y is a multiple of 2
+
+Ans: (e)
+
+
+15. Fifty students have signed up for atleast one of the courses GERMAN & ENGLISH, how many of the 50 students are taking GERMANI but not ENGLISH?
+(i). 16 students are taking GERMANI  & ENGLISH 
+(ii). The number of students taking ENGLISH  but not GERMANI  is the same as the number of students taking GERMAN
+
+Ans: (c)
+
+
+16. Is ABCD is a square ?
+
+A
+  B
+ 
+ X
+
+
+
+
+ 
+  
+C
+  D 
+
+
+(i) AD = AB 
+(ii). x=90(degres) 
+
+Ans: (e)
+
+
+17. How much card board will it take to make a rectangular box with a lid whose base has length 7 inches.
+(i). The width of the box 5 inches
+(ii). The height of the box will be 4 inches
+
+Ans: (c)
+.
+
+18. Did ABC company made profit in 1980?
+(i) ABC company made a profit in 1979.
+(ii) ABC company made a profit in 1981.
+
+Ans: (e)
+
+
+19. How much is Janes salary?
+(i). Janes salary is 70% of John's salary
+(ii). Johns salary is 50% of Mary's salary
+
+Ans: (e)
+
+
+20. Is x>1
+(i) x+y=2
+(ii) y<0
+
+Ans: (c)
+
+
+21. How many of the numbers, x and y are positive? Both x and y are less than 20.
+(i) x is less than 5
+(ii) x+y =24
+
+Ans: (b)
+
+
+22. Is the angle ACB is right angle 
+
+(1) AC=CB 
+(2). (AC)2+CB2=AB2 
+
+Ans: (b)
+
+
+23. How far it from town A to town B? Town C is 12 miles east of town A
+(i). Town C is south of town B
+(ii). It is 9 miles from town B to town C
+
+Ans: (c)
+
+
+24. A rectangular field is 40 yards long. Find the area of the field.
+(i). A fence around the boundary of the field is 140 yards long
+(ii). The field is more than 20 yards width
+
+Ans: (a)
+
+
+25. An industrial plant produces bottles. In 1961 the number of bottles produced by the plant was twice the number of produced in 1960. How many bottles were produced altogether in the year 1960, 61,&62
+(i). In 1962 the number of bottles produced was 3 times the number of produced in 1980
+(ii). In 1963 the number of bottles produced was one half the total produced in the years 1960,1961,1962.
+
+Ans: (e)
+
+
+26. Is xy > 1 ? If x & y are both positive
+(i) x is less than 1
+(ii) y is greater than 1
+
+Ans: (e)
+
+
+27. Is it a Rhombus 
+(i) All four sides are equal 
+(ii)  Total internal angle is 360 
+
+Ans: (e)
+
+
+28. How many books are in the book shelf
+(i) The book shelf is 12 feet long
+(ii). The average weight of each book is 1.2 pound
+
+Ans: (e)
+
+
+29. What is the area of the circle?
+(i) Radius r is given
+(ii) Perimeter is 3 times the area
+
+Ans: (a)
+
+
+ARITHMETIC SECTION
+
+1. If the total distance of a journey is 120 km .If one goes by 60 kmph and comes back at 40kmph what is the average speed during the journey? 
+
+Ans: 48kmph
+
+
+2. A school has 30% students from Maharashtra .Out of these 20% are Bombey students. Find the total percentage of Bombay?
+
+Ans:  6%
+
+
+3. An equilateral triangle of sides 3 inch each is given. How many equilateral triangles of side 1 inch can be formed from it?
+
+Ans: 9
+
+
+4. If A/B = 3/5,then 15A = ?
+
+Ans : 9B
+
+
+5. Each side of a rectangle is increased by 100% .By what percentage does the area increase?
+
+Ans : 300%
+
+
+6. Perimeter of the back wheel = 9 feet, front wheel = 7 feet on a certain distance, the front wheel gets 10 revolutions more than the back wheel .What is the distance?
+
+Ans : 315 feet.
+
+
+7. Perimeter of front wheel =30, back wheel = 20. If front wheel revolves 240 times. How many revolutions will the back wheel take?
+
+Ans: 360 times
+
+
+8. 20% of a 6 litre solution and 60% of 4 litre solution are mixed. What percentage of the mixture of solution
+
+Ans: 36%
+
+
+9. City A's population is 68000, decreasing at a rate of 80 people per year. City B having population 42000 is increasing at a rate of 120 people per year. In how many years both the cities will have same population?
+
+Ans: 130 years
+
+
+10. Two cars are 15 kms apart. One is turning at a speed of 50kmph and the other at 40kmph . How much time will it take for the two cars to meet?
+
+Ans: 3/2 hours
+
+
+11. A person wants to buy 3 paise and 5 paise stamps costing exactly one rupee. If he buys which of the following number of stamps he won't able to buy 3 paise stamps.
+
+Ans: 9
+
+
+12. There are 12 boys and 15 girls, How many different dancing groups can be formed with 2 boys and 3 girls.
+
+
+13. Which of the following fractions is less than 1/3
+
+(a) 22/62 
+(b) 15/46
+(c) 2/3
+(d) 1
+
+Ans: (b)
+
+
+14. There are two circles, one circle is inscribed and another circle is circumscribed over a square. What is the ratio of area of inner to outer circle?
+
+Ans: 1 : 2
+
+
+Directions for  questions 15-17: The questions are based on the information given below
+
+Miss Dean wants to rennovate her house. She hires a plumber, a carpenter, a painter, an electrician and an interior decorator. The work to be finished in one working (Monday - Friday ). 
+Each worker will take the full day to do his job. Miss Dean permits only one person to work each day.
+I. The painter can work only after the plumber and the carpenter have finished their jobs
+II. The interior decorator must do his job before the electrician.
+III. The carpenter cannot work on Monday or Tuesday
+
+15. If the painter work on Thursday, which one of the following alternatives is possible?
+
+(a) The electrician works on Tuesday.
+(b). The electrician works on Friday.
+(c) The interior decorator works after the painter does.
+(d). The painter works on consecutive days.
+(e). Miss Dean cannot fit all of the workers int schedule
+
+Ans: (b)
+
+
+16. If the painter works on Friday which of the following must be false?
+
+(a) . The carpenter may works on Wednesday
+(b). The carpenter and the electrician may work on consecutive days
+(c). If the carpenter works on Thursday, the electrician has to work on Wednesday
+(d). The plumber may work before the electrician does
+(e). The electrician may work on Tuesday
+
+Ans: (c)
+
+
+17. Which argument is possible?
+
+(a). The electrician will works on Tuesday and the interior decorator on Friday
+(b). The painter will work on wednesday and plumber on thursday
+(c). The carpenter will works on Tuesday and the painter on Friday
+(d). THe painter will work on Monday and the carpenter on Thursday
+(e). The carpenter will work on Wednesday and the plumber on Thursday
+
+Ans: (e)
+
+

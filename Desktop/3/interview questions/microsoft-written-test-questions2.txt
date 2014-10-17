@@ -1,0 +1,582 @@
+
+  cinterviews.com <http://www.cinterviews.com/>
+
+...Learn to dance at Interviews
+
+  * Home <http://www.cinterviews.com/>
+  * Tutorials <http://www.cinterviews.com/2010/04/tutorials.html>
+  * Interviews/Topic
+    <http://www.cinterviews.com/2010/04/interview-topics.html>
+  * Interviews/Company
+    <http://www.cinterviews.com/2010/04/interviews-company.html>
+  * Discussion Room <http://cinterviews.blogspot.com/2009/10/contactus.html>
+  * Ebooks <http://feeds.feedburner.com/blogspot/vJYO>
+  * Resume Tips <http://www.cinterviews.com/2010/04/resumetips.html>
+  * Advertise/Contact us
+    <http://cinterviews.blogspot.com/2009/10/contactus.html>
+
+skip to main <#main> | skip to sidebar <#sidebar>
+<http://www.blogger.com/rearrange?blogID=6344606745263664972&widgetType=AdSense&widgetId=AdSense2&action=editWidget&sectionId=crosscol>
+
+<http://www.blogger.com/rearrange?blogID=6344606745263664972&widgetType=AdSense&widgetId=AdSense4&action=editWidget&sectionId=main>
+
+
+
+      Microsoft Written test Questions
+      <http://www.cinterviews.com/2009/12/microsoft-written-test-questions.html>
+
+
+Microsoft Written test Questions
+There were 3 questions. 10 marks each.
+1. Write a program to output all elements of a binary tree while doing a
+Breadth First traversal through it.
+
+
+
+2.Write a method to combine two two sorted linked list into one in
+sorted form with out using temporary Node.
+void sort(Node* list1,Node* list2)
+
+
+
+3.There are set of coins of {50,25,10,5,1} paise in a box.Write a
+program to find the number of ways a 1 rupee can be created by grouping
+the paise.
+Email This
+<http://www.blogger.com/share-post.g?blogID=6344606745263664972&postID=3251122245448161881&target=email>BlogThis!
+<http://www.blogger.com/share-post.g?blogID=6344606745263664972&postID=3251122245448161881&target=blog>Share
+to Twitter
+<http://www.blogger.com/share-post.g?blogID=6344606745263664972&postID=3251122245448161881&target=twitter>Share
+to Facebook
+<http://www.blogger.com/share-post.g?blogID=6344606745263664972&postID=3251122245448161881&target=facebook>Share
+to Google Buzz
+<http://www.blogger.com/share-post.g?blogID=6344606745263664972&postID=3251122245448161881&target=buzz>
+Labels: Amazon interview faqs
+<http://www.cinterviews.com/search/label/Amazon%20interview%20faqs>,
+interview questions
+<http://www.cinterviews.com/search/label/interview%20questions>,
+microsoft interview questions
+<http://www.cinterviews.com/search/label/microsoft%20interview%20questions>,
+ms written test questions
+<http://www.cinterviews.com/search/label/ms%20written%20test%20questions>
+<http://www.infolinks.com/>
+Tag Cloud
+
+  * Dance Class
+  * Rupees
+  * Learning
+  * Learn
+  * Written Tests
+  * Learns
+  * Rupee
+  * Learn To
+  * Learning
+  * Rupees
+  * Danceing
+  * Rupee
+  * Learns
+  * Coin
+  * Coin
+
+Newer Post
+<http://www.cinterviews.com/2009/12/j2me-interview-questionsj2me-interview.html>
+Older Post
+<http://www.cinterviews.com/2009/12/project-manager-or-technical-manager.html>
+Home <http://www.cinterviews.com/>
+<http://www.blogger.com/rearrange?blogID=6344606745263664972&widgetType=AdSense&widgetId=AdSense3&action=editWidget&sectionId=main>
+
+
+<http://www.blogger.com/rearrange?blogID=6344606745263664972&widgetType=AdSense&widgetId=AdSense1&action=editWidget&sectionId=sidebar>
+
+
+
+    Subscribe Cinterviews.com
+
+Click to send updates To Email
+<http://feedburner.google.com/fb/a/mailverify?uri=blogspot/vJYO&loc=en_US>
+
+<http://feeds.feedburner.com/blogspot/vJYO> Subscribe in a reader
+<http://feeds.feedburner.com/blogspot/vJYO>
+
+<http://www.blogger.com/rearrange?blogID=6344606745263664972&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=sidebar>
+
+<http://www.blogger.com/rearrange?blogID=6344606745263664972&widgetType=AdSense&widgetId=AdSense5&action=editWidget&sectionId=sidebar>
+
+
+
+    Follow Cinterviews.com
+
+<http://www.blogger.com/rearrange?blogID=6344606745263664972&widgetType=Followers&widgetId=Followers1&action=editWidget&sectionId=sidebar>
+
+
+
+    Topics
+
+  * ►  <javascript:void(0)> 2011
+    <http://www.cinterviews.com/search?updated-min=2011-01-01T00%3A00%3A00-08%3A00&updated-max=2012-01-01T00%3A00%3A00-08%3A00&max-results=50>
+    (61)
+      o ►  <javascript:void(0)> June
+        <http://www.cinterviews.com/2011_06_01_archive.html> (9)
+          + Structure of a Daemon
+            <http://www.cinterviews.com/2011/06/structure-of-daemon.html>
+          + How Daemons can be used
+            <http://www.cinterviews.com/2011/06/how-daemons-can-be-used.html>
+          + What is daemon
+            <http://www.cinterviews.com/2011/06/what-is-daemon.html>
+          + Ways Linux can swich from Kernel Space to User S...
+            <http://www.cinterviews.com/2011/06/ways-linux-can-swich-from-kernel-space.html>
+          + Ways Linux can swich from User Space to Kernel Sp...
+            <http://www.cinterviews.com/2011/06/ways-linux-can-swich-from-user-space-to.html>
+          + insmod & rmmod in Linux Device Drivers?
+            <http://www.cinterviews.com/2011/06/insmod-rmmod-in-linux-device-drivers.html>
+          + Information linux driver modules (.ko )files has ...
+            <http://www.cinterviews.com/2011/06/information-linux-driver-modules-ko.html>
+          + What is Device driver?
+            <http://www.cinterviews.com/2011/06/what-is-device-driver.html>
+          + In Java hashtable vs hashmaps difference
+            <http://www.cinterviews.com/2011/06/in-java-hashtable-vs-hashmaps.html>
+      o ►  <javascript:void(0)> May
+        <http://www.cinterviews.com/2011_05_01_archive.html> (12)
+          + What is International Telecommunications Union and...
+            <http://www.cinterviews.com/2011/05/what-is-international.html>
+          + What is 4g technology interview questions
+            <http://www.cinterviews.com/2011/05/what-is-4g-technology-interview.html>
+          + What is UMTS Protocol interview question
+            <http://www.cinterviews.com/2011/05/what-is-umts-protocol-interview.html>
+          + Explain i-appli protocol Interview question
+            <http://www.cinterviews.com/2011/05/explain-i-appli-protocol-interview.html>
+          + Explain IDEN Protocol interview question
+            <http://www.cinterviews.com/2011/05/explain-iden-protocol-interview.html>
+          + Explain HLR Protocol interview question
+            <http://www.cinterviews.com/2011/05/explain-hlr-protocol-interview-question.html>
+          + Explain GPRS protocol Interview question
+            <http://www.cinterviews.com/2011/05/explain-gprs-protocol-interview.html>
+          + Explain GSM ? Interview question
+            <http://www.cinterviews.com/2011/05/explain-gsm-interview-question.html>
+          + 3g and 2g technology difference
+            <http://www.cinterviews.com/2011/05/3g-and-2g-technology-difference.html>
+          + Advantages disadvantages of 3g technology?
+            <http://www.cinterviews.com/2011/05/advantages-disadvantages-of-3g.html>
+          + What is 3g technology?
+            <http://www.cinterviews.com/2011/05/what-is-3g-technology.html>
+          + Wireless 3g Interview questions
+            <http://www.cinterviews.com/2011/05/wireless-3g-interview-questions.html>
+      o ►  <javascript:void(0)> April
+        <http://www.cinterviews.com/2011_04_01_archive.html> (5)
+          + Algorithm Definition
+            <http://www.cinterviews.com/2011/04/algorithm-definition.html>
+          + Characteristics of an algorithm:
+            <http://www.cinterviews.com/2011/04/characteristics-of-algorithm.html>
+          + what is Algorithm Example
+            <http://www.cinterviews.com/2011/04/what-is-algorithm-example.html>
+          + Computer definition what is ?
+            <http://www.cinterviews.com/2011/04/computer-definition-what-is.html>
+          + c interview question bank
+            <http://www.cinterviews.com/2011/04/c-interview-question-bank.html>
+      o ►  <javascript:void(0)> March
+        <http://www.cinterviews.com/2011_03_01_archive.html> (3)
+          + Explain FIX protocol and FIX Engine
+            <http://www.cinterviews.com/2011/03/explain-fix-protocol-and-fix-engine.html>
+          + What is a stop or stop loss order?
+            <http://www.cinterviews.com/2011/03/what-is-stop-or-stop-loss-order.html>
+          + What is a market order?
+            <http://www.cinterviews.com/2011/03/what-is-market-order.html>
+      o ►  <javascript:void(0)> February
+        <http://www.cinterviews.com/2011_02_01_archive.html> (27)
+          + What is limit order?
+            <http://www.cinterviews.com/2011/02/what-is-limit-order.html>
+          + Financial Information exchange What is?
+            <http://www.cinterviews.com/2011/02/financial-information-exchange-what-is.html>
+          + Difference between an ECN and an exchange?
+            <http://www.cinterviews.com/2011/02/difference-between-ecn-and-exchange.html>
+          + What is naked short and what is covered short?
+            <http://www.cinterviews.com/2011/02/what-is-naked-short-and-what-is-covered.html>
+          + Difference between Sell Orders and Short Sell Orde...
+            <http://www.cinterviews.com/2011/02/difference-between-sell-orders-and.html>
+          + What is the difference between a Stock and a Bond?...
+            <http://www.cinterviews.com/2011/02/what-is-difference-between-stock-and.html>
+          + What is an Exchange?
+            <http://www.cinterviews.com/2011/02/what-is-exchange.html>
+          + Financial information exchange Java Interview Ques...
+            <http://www.cinterviews.com/2011/02/financial-information-exchange-java.html>
+          + Why java string is immutable
+            <http://www.cinterviews.com/2011/02/why-java-string-is-immutable.html>
+          + Nanny Caretaker Interview questions
+            <http://www.cinterviews.com/2011/02/nanny-caretaker-interview-questions.html>
+          + Bookkeeper Interview questions
+            <http://www.cinterviews.com/2011/02/bookkeeper-interview-questions.html>
+          + Day Child caretaker Interview Questions
+            <http://www.cinterviews.com/2011/02/day-child-caretaker-interview-questions.html>
+          + TIBCO Rendezvous EMS and JMS Interview Questions
+            <http://www.cinterviews.com/2011/02/tibco-rendezvous-ems-and-jms-interview.html>
+          + JCL Practice interview questions (Practical)
+            <http://www.cinterviews.com/2011/02/jcl-practice-interview-questions.html>
+          + Mainframes JCL Interview Questions
+            <http://www.cinterviews.com/2011/02/mainframes-jcl-interview-questions.html>
+          + Mainframes MVS Interview Questions
+            <http://www.cinterviews.com/2011/02/mainframes-mvs-interview-questions.html>
+          + Reference to a pointer ? is possible is pointer to...
+            <http://www.cinterviews.com/2011/02/reference-to-pointer-is-possible-is.html>
+          + What is Friend function or class why you need them...
+            <http://www.cinterviews.com/2011/02/what-is-friend-function-or-class-why.html>
+          + Virtual Constructor is it possible? if yes how? if...
+            <http://www.cinterviews.com/2011/02/virtual-constructor-is-it-possible-if.html>
+          + Silk test integration with visual studio 2010 Vedi...
+            <http://www.cinterviews.com/2011/02/silk-test-integration-with-visual.html>
+          + Tester Qa with Linux Interview questions
+            <http://www.cinterviews.com/2011/02/tester-qa-with-linux-interview.html>
+      o ►  <javascript:void(0)> January
+        <http://www.cinterviews.com/2011_01_01_archive.html> (5)
+
+  * ►  <javascript:void(0)> 2010
+    <http://www.cinterviews.com/search?updated-min=2010-01-01T00%3A00%3A00-08%3A00&updated-max=2011-01-01T00%3A00%3A00-08%3A00&max-results=50>
+    (979)
+      o ►  <javascript:void(0)> December
+        <http://www.cinterviews.com/2010_12_01_archive.html> (40)
+      o ►  <javascript:void(0)> November
+        <http://www.cinterviews.com/2010_11_01_archive.html> (69)
+      o ►  <javascript:void(0)> October
+        <http://www.cinterviews.com/2010_10_01_archive.html> (173)
+      o ►  <javascript:void(0)> September
+        <http://www.cinterviews.com/2010_09_01_archive.html> (58)
+      o ►  <javascript:void(0)> August
+        <http://www.cinterviews.com/2010_08_01_archive.html> (92)
+      o ►  <javascript:void(0)> July
+        <http://www.cinterviews.com/2010_07_01_archive.html> (90)
+      o ►  <javascript:void(0)> June
+        <http://www.cinterviews.com/2010_06_01_archive.html> (50)
+      o ►  <javascript:void(0)> May
+        <http://www.cinterviews.com/2010_05_01_archive.html> (65)
+      o ►  <javascript:void(0)> April
+        <http://www.cinterviews.com/2010_04_01_archive.html> (84)
+      o ►  <javascript:void(0)> March
+        <http://www.cinterviews.com/2010_03_01_archive.html> (178)
+      o ►  <javascript:void(0)> February
+        <http://www.cinterviews.com/2010_02_01_archive.html> (71)
+      o ►  <javascript:void(0)> January
+        <http://www.cinterviews.com/2010_01_01_archive.html> (9)
+
+  * ▼  <javascript:void(0)> 2009
+    <http://www.cinterviews.com/search?updated-min=2009-01-01T00%3A00%3A00-08%3A00&updated-max=2010-01-01T00%3A00%3A00-08%3A00&max-results=50>
+    (818)
+      o ▼  <javascript:void(0)> December
+        <http://www.cinterviews.com/2009_12_01_archive.html> (147)
+          + What are Advantages and Disadvantages of waterfall...
+            <http://www.cinterviews.com/2009/12/what-are-advantages-and-disadvantages.html>
+          + What is Waterfall model
+            <http://www.cinterviews.com/2009/12/what-is-waterfall-model.html>
+          + Difference between Product development and Project...
+            <http://www.cinterviews.com/2009/12/difference-between-product-development.html>
+          + What is Testing?Why we use testing for software?
+            <http://www.cinterviews.com/2009/12/what-is-testingwhy-we-use-testing-for.html>
+          + Different Blackbox testing interview questions
+            <http://www.cinterviews.com/2009/12/different-blackbox-testing-interview.html>
+          + Backend testing,Database testing interview
+            <http://www.cinterviews.com/2009/12/different-phases-of-backend-testing.html>
+          + Database testing interview questions faqs
+            <http://www.cinterviews.com/2009/12/database-testing-interview-questions.html>
+          + Testing Interview questions and answers
+            <http://www.cinterviews.com/2009/12/testing-interview-questions-and-answers.html>
+          + Load runner interview questions faqs
+            <http://www.cinterviews.com/2009/12/load-runner-interview-questions-faqs.html>
+          + Different Phases in QTP Testing
+            <http://www.cinterviews.com/2009/12/different-phases-in-qtp-testing.html>
+          + Testing Interview Questions ,Testing Faqs
+            <http://www.cinterviews.com/2009/12/testing-interview-questions-testing.html>
+          + Different types of Testing
+            <http://www.cinterviews.com/2009/12/different-types-of-testing.html>
+          + DotNet Interview Questions
+            <http://www.cinterviews.com/2009/12/dotnet-interview-questions.html>
+          + COBOL Interview questions and answers,Mainframes I...
+            <http://www.cinterviews.com/2009/12/cobol-interview-questions-and.html>
+          + Netapp Interview Questions and answers
+            <http://www.cinterviews.com/2009/12/netapp-interview-questions-and-answers.html>
+          + Written test paper at Cisco interview Question pap...
+            <http://www.cinterviews.com/2009/12/written-test-paper-at-cisco-interview.html>
+          + Cisco Interview questions for Electronics Engineer...
+            <http://www.cinterviews.com/2009/12/cisco-interview-questions-for.html>
+          + Cisco Interview Questions asked,Cisco sample Inter...
+            <http://www.cinterviews.com/2009/12/cisco-interview-questions-askedcisco.html>
+          + Cisco Network Interview Questions-Technical interv...
+            <http://www.cinterviews.com/2009/12/cisco-network-interview-questions.html>
+          + Citrix written test Question Paper at off campus
+            <http://www.cinterviews.com/2009/12/citrix-written-test-question-paper-at.html>
+          + CITRIX Interview Questions,Citrix interview faqs
+            <http://www.cinterviews.com/2009/12/citrix-interview-questionscitrix.html>
+          + Sun Microsystems Interview questions
+            <http://www.cinterviews.com/2009/12/sun-microsystems-interview-questions.html>
+          + Sasken Interview Questions and answers
+            <http://www.cinterviews.com/2009/12/sasken-interview-questions-and-answers.html>
+          + Deshaw Fresher C part Interview Questions,Basic In...
+            <http://www.cinterviews.com/2009/12/deshaw-fresher-c-part-interview.html>
+          + Deshaw Aptitude Interview questions
+            <http://www.cinterviews.com/2009/12/deshaw-aptitude-interview-questions.html>
+          + DESHAW PROGRAMMING INTERVIEW Questions
+            <http://www.cinterviews.com/2009/12/deshaw-programming-interview-questions.html>
+          + Deshaw Interview Questions and Answers: Data Struc...
+            <http://www.cinterviews.com/2009/12/deshaw-interview-questions-and-answers.html>
+          + Deshaw Interview Questions
+            <http://www.cinterviews.com/2009/12/deshaw-interview-questions.html>
+          + Multithreading vs Multiprocessing,Difference betwe...
+            <http://www.cinterviews.com/2009/12/multithreading-vs-multiprocessingdiffer.html>
+          + Puzzles to Puzzle you
+            <http://www.cinterviews.com/2009/12/puzzles-to-puzzle-you.html>
+          + Some interview Puzzles-2
+            <http://www.cinterviews.com/2009/12/some-interview-puzzles-2.html>
+          + Interview Puzzles-4
+            <http://www.cinterviews.com/2009/12/interview-puzzles-4.html>
+          + Sample interview Puzzles-2
+            <http://www.cinterviews.com/2009/12/sample-interview-puzzles-2.html>
+          + Sample interview Puzzles
+            <http://www.cinterviews.com/2009/12/sample-interview-puzzles.html>
+          + Puzzles in Interview-4
+            <http://www.cinterviews.com/2009/12/puzzles-in-interview-4.html>
+          + Some interview Puzzles
+            <http://www.cinterviews.com/2009/12/some-interview-puzzles.html>
+          + Interview Puzzles-3
+            <http://www.cinterviews.com/2009/12/interview-puzzles-3.html>
+          + Interview Puzzles-2
+            <http://www.cinterviews.com/2009/12/interview-puzzles-2.html>
+          + Interview Puzzles
+            <http://www.cinterviews.com/2009/12/interview-puzzles.html>
+          + Use of getch() function
+            <http://www.cinterviews.com/2009/12/use-of-getch-function.html>
+          + Use of getche() function
+            <http://www.cinterviews.com/2009/12/use-of-getche-function.html>
+          + Use of getchar() function in C
+            <http://www.cinterviews.com/2009/12/use-of-getchar-function-in-c.html>
+          + IBM Interview Questions and Answers
+            <http://www.cinterviews.com/2009/12/ibm-interview-questions-and-answers.html>
+          + Command is used to create a table by copying the s...
+            <http://www.cinterviews.com/2009/12/command-is-used-to-create-table-by.html>
+          + What is Relationship type? - Database interview
+            <http://www.cinterviews.com/2009/12/what-is-relationship-type-database.html>
+          + What is Relationship set? - Database interview
+            <http://www.cinterviews.com/2009/12/what-is-relationship-set-database.html>
+          + What is Relationship? - Database interview
+            <http://www.cinterviews.com/2009/12/what-is-relationship-database-interview.html>
+          + What is a Relation Schema & a Relation? - Database...
+            <http://www.cinterviews.com/2009/12/what-is-relation-schema-relation_09.html>
+          + What is a Relation Schema & a Relation? - Database...
+            <http://www.cinterviews.com/2009/12/what-is-relation-schema-relation.html>
+          + What is an attribute? -Database interview
+            <http://www.cinterviews.com/2009/12/what-is-attribute-database-interview.html>
+          + What is Weak Entity set? - Dbms interview
+            <http://www.cinterviews.com/2009/12/what-is-weak-entity-set-dbms-interview.html>
+          + What is an Extension of entity type? - Dbms interv...
+            <http://www.cinterviews.com/2009/12/what-is-extension-of-entity-type-dbms.html>
+          + What is an Entity set? -Dbms interview
+            <http://www.cinterviews.com/2009/12/what-is-entity-set-dbms-interview.html>
+          + What is an Entity type? - Dbms interview
+            <http://www.cinterviews.com/2009/12/what-is-entity-type-dbms-interview.html>
+          + What is an Entity? - Dbms Interview
+            <http://www.cinterviews.com/2009/12/what-is-entity-dbms-interview.html>
+          + SQL Aptitude interview questions for practice
+            <http://www.cinterviews.com/2009/12/sql-aptitude-interview-questions-for.html>
+          + What is the use of the DROP option in the ALTER TA...
+            <http://www.cinterviews.com/2009/12/what-is-use-of-drop-option-in-alter.html>
+          + Explain the concept of Reentrancy in Operating sys...
+            <http://www.cinterviews.com/2009/12/explain-concept-of-reentrancy-in.html>
+          + List the Coffman's conditions that lead to a deadl...
+            <http://www.cinterviews.com/2009/12/list-coffmans-conditions-that-lead-to.html>
+          + What is a binary semaphore? What is its use?
+            <http://www.cinterviews.com/2009/12/what-is-binary-semaphore-what-is-its.html>
+          + Explain Belady's Anomaly.?-Os interview question a...
+            <http://www.cinterviews.com/2009/12/explain-beladys-anomaly-os-interview.html>
+          + What is thrashing? -OS interview question
+            <http://www.cinterviews.com/2009/12/what-is-thrashing-os-interview-question.html>
+          + Difference between TRUNCATE & DELETE commands in S...
+            <http://www.cinterviews.com/2009/12/difference-between-truncate-delete.html>
+          + Tips for Proffesional Email writing
+            <http://www.cinterviews.com/2009/12/tips-for-proffesional-email-writing.html>
+          + WepIndia Interview Questions on ASP.Net ,VB,SQL sw...
+            <http://www.cinterviews.com/2009/12/wepindia-interview-questions-on-aspnet.html>
+          + Wipro written test questions
+            <http://www.cinterviews.com/2009/12/wipro-written-test-questions.html>
+          + How we difine user defined Exceptions in PL/SQL(Or...
+            <http://www.cinterviews.com/2009/12/how-we-difine-user-defined-exceptions_08.html>
+          + How we difine pre defined Exceptions in PL/SQL(Ora...
+            <http://www.cinterviews.com/2009/12/how-we-difine-pre-defined-exceptions-in.html>
+          + How we difine user defined Exceptions in PL/SQL(Or...
+            <http://www.cinterviews.com/2009/12/how-we-difine-user-defined-exceptions.html>
+          + How we find User defined error message for Oracle ...
+            <http://www.cinterviews.com/2009/12/how-we-find-user-defined-error-message.html>
+          + How to we use Raise_application_error(Oracle PL/SQ...
+            <http://www.cinterviews.com/2009/12/how-to-we-use-raiseapplicationerrororac.html>
+          + Why do stored procedures reduce network traffic ?
+            <http://www.cinterviews.com/2009/12/why-do-stored-procedures-reduce-network.html>
+          + What are Database Triggers and Stored Procedures
+            <http://www.cinterviews.com/2009/12/what-are-database-triggers-and-stored.html>
+          + How many types of Exceptions are there in Pl/sql?
+            <http://www.cinterviews.com/2009/12/how-many-types-of-exceptions-are-there.html>
+          + Procedure to Reverse a String
+            <http://www.cinterviews.com/2009/12/procedure-to-reverse-string.html>
+          + How can I count the number of characters in a LONG...
+            <http://www.cinterviews.com/2009/12/how-can-i-count-number-of-characters-in.html>
+          + What is the difference between a procedure and a f...
+            <http://www.cinterviews.com/2009/12/what-is-difference-between-procedure.html>
+          + What are the various types of parameter modes in a...
+            <http://www.cinterviews.com/2009/12/what-are-various-types-of-parameter.html>
+          + What are the various types of database triggers ?
+            <http://www.cinterviews.com/2009/12/what-are-various-types-of-database.html>
+          + What are the values of :new and :old in Insert/Del...
+            <http://www.cinterviews.com/2009/12/what-are-values-of-new-and-old-in.html>
+          + What is the significance of the & and && operators...
+            <http://www.cinterviews.com/2009/12/what-is-significance-of-and-operators.html>
+          + How to pass a parameter to a cursor ?
+            <http://www.cinterviews.com/2009/12/how-to-pass-parameter-to-cursor.html>
+          + What is the difference between a view and a synony...
+            <http://www.cinterviews.com/2009/12/what-is-difference-between-view-and.html>
+          + What is PL/SQL?
+            <http://www.cinterviews.com/2009/12/what-is-plsql.html>
+          + Is there a limit on the size of a PL/SQL block?
+            <http://www.cinterviews.com/2009/12/is-there-limit-on-size-of-plsql-block.html>
+          + How can I protect my PL/SQL source code?
+            <http://www.cinterviews.com/2009/12/how-can-i-protect-my-plsql-source-code.html>
+          + How Can one use dynamic SQL within PL/SQL? OR Can ...
+            <http://www.cinterviews.com/2009/12/how-can-one-use-dynamic-sql-within.html>
+          + How we can use ARRAYS in PL/SQL
+            <http://www.cinterviews.com/2009/12/how-we-can-use-arrays-in-plsql.html>
+          + Write an Example for autonomous_transaction in Sql...
+            <http://www.cinterviews.com/2009/12/write-example-for-autonomoustransaction.html>
+          + How we can implement Ref Cursors in SQL?
+            <http://www.cinterviews.com/2009/12/how-we-can-implement-ref-cursors-in-sql.html>
+          + What are hints in SQL?
+            <http://www.cinterviews.com/2009/12/what-are-hints-in-sql.html>
+          + What is a global variable in SQL?
+            <http://www.cinterviews.com/2009/12/what-is-global-variable-in-sql.html>
+          + What are locks in SQL?
+            <http://www.cinterviews.com/2009/12/what-are-locks-in-sql.html>
+          + What is SQL profiling?
+            <http://www.cinterviews.com/2009/12/what-is-sql-profiling.html>
+          + Brew GUI Interview question and answers
+            <http://www.cinterviews.com/2009/12/brew-gui-interview-question-and-answers.html>
+          + Brew Networking Interview question and answers
+            <http://www.cinterviews.com/2009/12/brew-networking-interview-question-and.html>
+          + Brew interview questions and answers -P3
+            <http://www.cinterviews.com/2009/12/brew-interview-questions-and-answers-p3.html>
+          + Brew interview questions and answers -P2
+            <http://www.cinterviews.com/2009/12/brew-interview-questions-and-answers-p2.html>
+          + Brew Interview question and answers
+            <http://www.cinterviews.com/2009/12/brew-interview-question-and-answers.html>
+          + How to upload a device configurator file (.qsc) to...
+            <http://www.cinterviews.com/2009/12/how-to-upload-device-configurator-file.html>
+          + How to compile an application In Brew to run on a ...
+            <http://www.cinterviews.com/2009/12/how-to-compile-application-in-brew-to.html>
+          + How to transfer compiled applications to a Brew ph...
+            <http://www.cinterviews.com/2009/12/how-to-transfer-compiled-applications.html>
+          + Symbian Interview Questions,Symbian interview Faqs...
+            <http://www.cinterviews.com/2009/12/symbian-interview-questionssymbian.html>
+          + J2me Interview Questions,J2me Interview Faqs
+            <http://www.cinterviews.com/2009/12/j2me-interview-questionsj2me-interview.html>
+          + Microsoft Written test Questions
+            <http://www.cinterviews.com/2009/12/microsoft-written-test-questions.html>
+          + Project Manager or Technical manager Round Intervi...
+            <http://www.cinterviews.com/2009/12/project-manager-or-technical-manager.html>
+          + Basic Testing concepts Interview questions
+            <http://www.cinterviews.com/2009/12/basic-testing-concepts-interview.html>
+          + Automation Testing Interview Questions
+            <http://www.cinterviews.com/2009/12/automation-testing-interview-questions.html>
+          + Metrics Interview Questions
+            <http://www.cinterviews.com/2009/12/metrics-interview-questions.html>
+          + Six Sigma Interview Questions
+            <http://www.cinterviews.com/2009/12/six-sigma-interview-questions.html>
+          + CMMI Interview Questions
+            <http://www.cinterviews.com/2009/12/cmmi-interview-questions.html>
+          + Testing Techniques Interview Questions
+            <http://www.cinterviews.com/2009/12/testing-techniques-interview-questions.html>
+          + Basic Software testing questions or Fresher QA In...
+            <http://www.cinterviews.com/2009/12/basic-software-testing-questions-or.html>
+          + what is deadlock?
+            <http://www.cinterviews.com/2009/12/what-is-deadlock.html>
+          + C Program to check Weather two tress are identical...
+            <http://www.cinterviews.com/2009/12/c-program-to-check-weather-two-tress.html>
+          + Adobe Technical interview Questions in Written tes...
+            <http://www.cinterviews.com/2009/12/adobe-technical-interview-questions-in.html>
+          + Adobe - Puzzles Questions asked for fresher
+            <http://www.cinterviews.com/2009/12/adobe-puzzles-questions-asked-for.html>
+          + Adobe - Technical round Questions asked for Freshe...
+            <http://www.cinterviews.com/2009/12/adobe-technical-round-questions-asked.html>
+          + Adobe - First round Questions asked
+            <http://www.cinterviews.com/2009/12/adobe-first-round-questions-asked.html>
+          + Adobe - Written test pattern for Fresher
+            <http://www.cinterviews.com/2009/12/adobe-written-test-pattern-for-fresher.html>
+          + Supportted Image formats for Opencv
+            <http://www.cinterviews.com/2009/12/supportted-image-formats-for-opencv.html>
+          + How to Compile Opencv Program
+            <http://www.cinterviews.com/2009/12/how-to-compile-opencv-program.html>
+          + OpenCV naming conventions
+            <http://www.cinterviews.com/2009/12/opencv-naming-conventions.html>
+          + Opencv Modules
+            <http://www.cinterviews.com/2009/12/opencv-modules.html>
+          + Features Of Opencv
+            <http://www.cinterviews.com/2009/12/features-of-opencv.html>
+          + What is OpenCV
+            <http://www.cinterviews.com/2009/12/what-is-opencv.html>
+          + Vector Operations in Matlab- Matlab tutorials
+            <http://www.cinterviews.com/2009/12/vector-operations-in-matlab-matlab.html>
+          + Matlab Matrix Operation - Malab Tutorials
+            <http://www.cinterviews.com/2009/12/matlab-matrix-operation-malab-tutorials.html>
+          + Matrix Functions in Matlab- Matlab tutorials
+            <http://www.cinterviews.com/2009/12/matrix-functions-in-matlab-matlab.html>
+          + How to Define Matrices in Matlab- Matlab Tutorials...
+            <http://www.cinterviews.com/2009/12/how-to-define-matrices-in-matlab-matlab.html>
+          + Windows os Shortcut keys,windows daily useful keys...
+            <http://www.cinterviews.com/2009/12/windows-os-shortcut-keyswindows-daily.html>
+          + Ms Access Interview questions,Faqs
+            <http://www.cinterviews.com/2009/12/ms-access-interview-questionsfaqs.html>
+          + OS(Operating System) Interview questions
+            <http://www.cinterviews.com/2009/12/osoperating-system-interview-questions.html>
+          + Interview questions for database (common database ...
+            <http://www.cinterviews.com/2009/12/interview-questions-for-database-common.html>
+          + Project manager round Interview Questions
+            <http://www.cinterviews.com/2009/12/project-manager-round-interview_01.html>
+          + Lucent Technologies interview questions for Softwa...
+            <http://www.cinterviews.com/2009/12/lucent-technologies-interview-questions.html>
+          + VB interview questions
+            <http://www.cinterviews.com/2009/12/vb-interview-questions.html>
+          + Linux Administrator Interview questions
+            <http://www.cinterviews.com/2009/12/linux-administrator-interview-questions.html>
+          + Interview questions on ASP,ADO,IIS
+            <http://www.cinterviews.com/2009/12/interview-questions-on-aspadoiis.html>
+          + C++ interview questions
+            <http://www.cinterviews.com/2009/12/c-interview-questions.html>
+          + Web Application Developer interview questions
+            <http://www.cinterviews.com/2009/12/web-application-developer-interview.html>
+          + IBM interview questions for ASP DOTNET questions
+            <http://www.cinterviews.com/2009/12/ibm-interview-questions-for-asp-dotnet.html>
+          + Interview Questions for a WEB DESIGNER
+            <http://www.cinterviews.com/2009/12/interview-questions-for-web-designer.html>
+          + Interview Questions for SAS
+            <http://www.cinterviews.com/2009/12/interview-questions-for-sas.html>
+          + List of Some Java Web framework
+            <http://www.cinterviews.com/2009/12/list-of-some-java-web-framework.html>
+          + Alternative ways for job promotion
+            <http://www.cinterviews.com/2009/12/alternative-ways-for-job-promotion.html>
+          + When to ask for your Hike In Career
+            <http://www.cinterviews.com/2009/12/when-to-ask-for-your-hike-in-career.html>
+      o ►  <javascript:void(0)> November
+        <http://www.cinterviews.com/2009_11_01_archive.html> (442)
+      o ►  <javascript:void(0)> October
+        <http://www.cinterviews.com/2009_10_01_archive.html> (185)
+      o ►  <javascript:void(0)> September
+        <http://www.cinterviews.com/2009_09_01_archive.html> (44)
+
+  * ►  <javascript:void(0)> 2008
+    <http://www.cinterviews.com/search?updated-min=2008-01-01T00%3A00%3A00-08%3A00&updated-max=2009-01-01T00%3A00%3A00-08%3A00&max-results=1>
+    (1)
+      o ►  <javascript:void(0)> January
+        <http://www.cinterviews.com/2008_01_01_archive.html> (1)
+
+<http://www.blogger.com/rearrange?blogID=6344606745263664972&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar>
+
+<http://www.blogger.com/rearrange?blogID=6344606745263664972&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar>
+
+ 
+<http://www.blogger.com/rearrange?blogID=6344606745263664972&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=footer>
+
+cinterviews.com <http://www.cinterviews.com/> | interview questions
+<http://cinterviews.blogspot.com> by The interview questions
+<http://cinterviews.blogspot.com> & tutorials
+<http://cinterviews.blogspot.com>
+Top Blogs <http://www.blogtoplist.com/vote.php?u=145585>

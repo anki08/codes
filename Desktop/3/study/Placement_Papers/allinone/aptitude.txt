@@ -1,0 +1,158 @@
+Here are some more  questions:-
+                                                                                                                             
+1) Imagine a disk spinning like a record player turn table. Half of the disk is
+black and the other is white. Assume you have an unlimited number of color
+sensors. How many sensors would you have to place around the disk to determine
+the direction the disk is spinning? Where would they be placed?
+                                                                                                                             
+2)Imagine an analog clock set to 12 o'clock. Note that the hour and minute
+hands overlap. How many times each day do both the hour and minute hands
+overlap? How would you determine the exact times of the day that this occurs?
+                                                                                                                             
+3)Pairs of primes separated by a single number are called prime pairs. Examples
+are 17 and 19. Prove that the number between a prime pair is always divisible
+by 6 (assuming both numbers in the pair are greater than 6). Now prove that
+there are no 'prime triples.'
+
+4)There is a room with a door (closed) and three light bulbs. Outside the room
+there are three switches, connected to the bulbs. You may manipulate the
+switches as you wish, but once you open the door you can't change them.
+Identify each switch with its bulb.
+                                                                                                                             
+5)The SF Chronicle has a word game where all the letters are scrambled up and
+you have to figure out what the word is. Imagine that a scrambled word is 5
+characters long:
+How many possible solutions are there?
+What if we know which 5 letters are being used?
+Develop an algorithm to solve the word.
+                                                                                                                             
+6)There are 4 women who want to cross a bridge. They all begin on the same
+side. You have 17 minutes to get all of them across to the other side. It is
+night. There is one flashlight. A maximum of two people can cross at one time.
+Any party who crosses, either 1 or 2 people, must have the flashlight with
+them. The flashlight must be walked back and forth, it cannot be thrown, etc.
+Each woman walks at a different speed. A pair must walk together at the rate of
+the slower woman's pace.
+Woman 1: 1 minute to cross
+Woman 2: 2 minutes to cross
+Woman 3: 5 minutes to cross
+Woman 4: 10 minutes to cross
+                                                                                                                             
+                                                                                                                             
+For example if Woman 1 and Woman 4 walk across first, 10 minutes have elapsed
+when they get to the other side of the bridge. If Woman 4 then returns with the
+flashlight, a total of 20 minutes have passed and you have failed the mission.
+What is the order required to get all women across in 17 minutes? Now, what's
+the other way?
+
+7)If you have two buckets, one with red paint and the other with blue paint,
+and you take one cup from the blue bucket and poor it into the red bucket. Then
+you take one cup from the red bucket and poor it into the blue bucket. Which
+bucket has the highest ratio between red and blue? Prove it mathematically.
+                                                                                                                             
+8)Implement an algorithm to sort a linked list. Why did you pick the method you
+did? Now do it in O(n) time
+                                                                                                                             
+9)Add numbers in base n (not any of the popular ones like 10, 16, 8 or 2 -- I
+hear that Charles Simonyi, the inventor of Hungarian Notation, favors -2 when
+asking this question).
+                                                                                                                             
+10)Implement an algorithm that takes two strings as input, and returns the
+intersection of the two, with each letter represented at most once. Now speed
+it up. Now test it.
+                                                                                                                             
+11)Implement an algorithm to print out all files below a given root node.
+                                                                                                                             
+12)Given that you are receiving samples from an instrument at a constant rate,
+and you have constant storage space, how would you design a storage algorithm
+that would allow me to get a representative readout of data, no matter when I
+looked at it? In other words, representative of the behavior of the system to
+date.
+                                                                                                                             
+13)The following asm block performs a common math function, what is it?
+cwd xor ax, dx
+sub ax, dx
+
+14)Imagine this scenario:
+I/O completion ports are communictaions ports which take handles to files,
+sockets, or any other I/O. When a Read or Write is submitted to them, they
+cache the data (if necessary), and attempt to take the request to completion.
+Upon error or completion, they call a user-supplied function to let the users
+application know that that particular request has completed. They work
+asynchronously, and can process an unlimited number of simultaneous requests.
+Design the implementation and thread models for I/O completion ports. Remember
+to take into account multi-processor machines.
+                                                                                                                             
+15)How would you print out the data in a binary tree, level by level, starting
+at the top?
+                                                                                                                             
+16)How would you print out the data in a binary tree, level by level, starting
+at the leftmost bottom node (assume the node has pointer to the parent node)?
+optimize it.
+-----------------------------------------------------------------------
+                                                                                                                             
+Applications :-
+                                                                                                                             
+1)How can computer technology be integrated in an elevator system for a hundred
+story office building? How do you optimize for availability? How would
+variation of traffic over a typical work week or floor or time of day affect
+this?
+                                                                                                                             
+2)How would you implement copy-protection on a control which can be embedded in
+a document and duplicated readily via the Internet?
+                                                                                                                             
+3)Define a user interface for indenting selected text in a Word document.
+Consider selections ranging from a single sentence up through selections of
+several pages. Consider selections not currently visible or only partially
+visible. What are the states of the new UI controls? How will the user know
+what the controls are for and when to use them?
+                                                                                                                             
+4)How would you redesign an ATM?
+                                                                                                                             
+5)Suppose we wanted to run a microwave oven from the computer. What kind of
+software would you write to do this?
+                                                                                                                             
+6)What is the difference between an Ethernet Address and an IP address?
+How would you design a coffee-machine for an automobile.
+                                                                                                                             
+7)If you could add any feature to Microsoft Word, what would it be?
+                                                                                                                             
+8)How would you go about building a keyboard for 1-handed users?
+                                                                                                                             
+9)How would you build an alarm clock for deaf people?
+-----------------------------------------------------------------------
+                                                                                                                             
+Thinkers :-
+                                                                                                                             
+1) How are M&Ms made?
+                                                                                                                             
+2)If you had a clock with lots of moving mechanical parts, you took it apart
+piece by piece without keeping track of the method of how it was disassembled,
+then you put it back together and discovered that 3 important parts were not
+included; how would you go about reassembling the clock?
+                                                                                                                             
+3)If you had to learn a new computer language, how would you go about doing it?
+                                                                                                                           
+4)You have been assigned to design Bill Gates bathroom. Naturally, cost is not
+a consideration. You may not speak to Bill.
+                                                                                                                             
+5)What was the hardest question asked of you so far today?
+                                                                                                                             
+6)If MS told you we were willing to invest $5 million in a start up of your
+choice, what business would you start? Why?
+                                                                                                                             
+7)If you could gather all of the computer manufacturers in the world together
+into one room and then tell them one thing that they would be compelled to do,
+what would it be?
+                                                                                                                             
+8)Explain a scenario for testing a salt shaker.
+                                                                                                                             
+                                                                                                                             
+9)Why is it that when you turn on the hot water in any hotel, for example, the
+hot water comes pouring out almost instantaneously?
+                                                                                                                             
+10)Suppose you go home, enter your house/apartment, hit the light switch, and
+nothing happens - no light floods the room. What exactly, in order, are the
+steps you would take in determining what the problem was?
+                                                                                                                             
+11)Interviewer hands you a black pen and says nothing but "This pen is red."

@@ -1,0 +1,20 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.com	TRUE	/	FALSE	1999999999	NID	67=sAPPtkv1yvZTJ0hapi83UVFnIRClaM478QElqwAxpeGIn8MHMFJTONujRxys0DIDeR8GIjN26NSc82FTlKzB2BEC3hbpcMxRztGK2YOsbStkgSfDRSsHhFEQR4K50QcG
+www.flipkart.com	TRUE	/	FALSE	1999999999	cl	IECIEBAK
+live.com	TRUE	/	FALSE	1999999999	RVC	m=0&v=17.304.7531.3000&t=04/21/2014 19:31:08
+.live.com	TRUE	/	FALSE	1999999999	xid	40939919-a67e-48f8-bb56-c5cefc0c2898&&BAY001xxP1W055&149
+.imgur.com	TRUE	/	FALSE	1999999999	__cfduid	d08d67fc0e16d68570095b459945fe2561398109261858
+seat42f.com	TRUE	/	FALSE	1999999999	X-Mapping-elbhlnpj	49938419A6C8E789A6549AF318C95B39
+junebugweddings.com	TRUE	/	FALSE	1999999999	PHPSESSID	aab8886cafb94dbf58a4e3cb1ac7e4f6
+.smsread.com	TRUE	/	FALSE	1999999999	__cfduid	dab6ca8894cbfc2c4e0f304b3b9a084e11398112246762
+.dryicons.com	TRUE	/	FALSE	1999999999	__cfduid	dddae1400440e3e1e9f420d213fe8df9d1398112275410
+.motinetwork.net	TRUE	/	FALSE	1999999999	__cfduid	d1e989fe34ec609ade79fb6bb922676091398112290521
+en.wikipedia.org	TRUE	/	FALSE	1999999999	enwikiSession	c0d7c8b973f24934b79ca13e1676b8af
+en.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	IN:Durgapur:23.4833:87.3167:v4
+.live.com	TRUE	/	FALSE	1999999999	E	P:x6TM9rwr0Yg=:hTXq9/cOtcG+Jf/7ae7CVC85bfKDj+23A66ywnmF2sE=:F
+.live.com	TRUE	/	FALSE	1999999999	xidseq	2
+.live.com	TRUE	/	FALSE	1999999999	wlv	A|_-d:s*RwbcCw.2+1+0+3
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	f892450d77ce6eef063a539f50876e9a
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	IN:Durgapur:23.4833:87.3167:v4
+

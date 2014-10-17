@@ -1,0 +1,488 @@
+Mon, 7 Aug 2000 21:56:37 IST+530
+
+
+From: 
+"ASHISH SINGH" <EE19806@rect.ernet.in> Add to Address Book Add To 
+Spam Block List
+Subject: 
+motorola
+Organization: 
+R.E.C., Tiruchirappalli, INDIA
+To: 
+a.kashyap@angelfire.com
+
+motorola 
+There was a Technical Interview,followed by personal interview.  
+Mainly concetrating on the interesting subjects. 
+write a C code 
+1.to reverse a string using a recursive function, without 
+   swapping or using an extra memory.
+2.To reverse a linked list as above.
+given a macro like
+  #define MAX(A,B) {to return that is larger}
+     what will MAX(i++,j),MAX(i,j++) return.
+Difference between Macro and ordinary definition.
+Difference between Class and Struct.
+Testing and Maintenance.(will you work in it and what are they)
+Give the outputs of a compiler and assembler and loader and linker 
+etc.
+If a new data structure, suppose a queue is to be added like int, 
+long 
+etc.,
+where shall the changes be -- lex or yacc or where.
+what is a Real Time OS.  Name some.
+Describe VRTX in few words.
+How does the scheduler know the time how it should be scheduled.
+sockets, TLI, streams.
+and much about project.
+What is deadlock? How do you avoid it?
+What is a semaphore?
+What exactly happens after each system call in sockets, both at the 
+client and at the server.
+What is the difference between widget & gadget in XWindows?
+Tell about strtok & strstr functions.
+Motorola Interview.
+There was a Technical Interview,followed by personal interview.  
+Mainly concetrating on the interesting subjects. 
+
+there are 45 question . no technical question are asked.time 45 mins.
+2 reasoning question means total 11 questoins.reasoning is not 
+from GRE.   
+1. antonym
+       p....  ans. static
+2.there are 1800 coins.one coin is counterfiet coin.how many minimum 
+weight is required to find counterfiet coin.
+3. there are six question of series.
+   1 2 3 5 8 ?  ans. 
+   102 204 102  ans. 256
+   questions are very easy .you can solve easily there.
+4. word1 : word2 = motorola :    ..... ans . c
+5 . this type are question are asked. 
+            1      2        4
+                10      ?          
+             3      4        ...     
+6.   instruction to add 3 .......     ans. 4
+7.floor problem ......   ans. 11th floor
+motorola questions
+>7.Interchanging strings and numbers          Ans C
+>8. Matricide:Mother:: Homicide:?           Ans Human
+>9.Some Mammels are Vertebrates
+>  Some Vertebrates are.......          Ans d
+>10. Figure patteren: --|--.......etc. direction changes problem.
+>11.  work problem.........etc. (not clear).
+>C TEST_
+>1. main()_
+     {_
+      int arr[100];_
+      int c:_
+      int N;_
+      for(i=-:i<N;i++)_
+      arr[i]=i;_
+      minvalue i = ....._
+      Maxvalue i = .....                    
+     } 
+      Ans 0,100 resp_
+>2. Union Problem .....                  Ans : a or c_
+>3. for n=2 the following fn returning value is_
+>int fun(int n)_
+>{_
+>for(i = 1;i<=n;i++)_
+>for(j=i;j<=i;j++)_
+>sum=sum+j;_
+>return(sum);_
+>}                             Ans 6_
+>4. Calculate sum=1+1+2+1+2+3+1......_
+>              Ans i<=x;j<=i_
+>5. for x=2 y=3 z=1_
+>the following fn return_
+>int fun(int n; int y; int z)_
+>{_
+>int sum_
+>for(i=x;i<=y;i++)_
+>for(j=1;j<=z;z++)_
+>sum=sum+z;_
+>return sum_
+>}       Ans 0(check)_
+>6. The values of sum from above fn
+>for x=0; y=0;z=1   Ans 1
+>7.how can you insert the following values in stack and numbers
+10,20,30,40,50.60
+>stack [][][][][][]
+>numb [][][][][][][]
+>Ans
+>60 50 40 30 20 10
+>10 20 30 40 50 60_
+>check.
+>8. # if ndif XYZ_
+>#include "XYZ.h"_
+>#endif_
+>what is meaning  ?_
+>Ans:_
+>if XYZ is not defined then only include the header file XYZ.h._
+>9. p:malloc(int*sizeof(int));_
+>ans: a_
+>10.a=5 b=10 c=7_
+>(a>c)?a:((b>c)?b:c)     ans 10_
+> 11. debugging eliminates  Ans[c]_
+> ans: both logical & ruin time errors._
+> 12. int term (int x)_
+> { int sum=0;int i;_
+> for(i=0;i<=5;i++)_
+> sum+=x;                     /*problel is wrong but Ans is 650.*/_
+> return(sum);_
+> }             Ans 650_
+> the above fn value for x=150_
+> 13.int x;_
+> scanf("%d",x);_
+> -------------_
+> --------------_
+> what is error in the above program_
+>14.int a[] = { 1,  , 9,2.......}_
+>int *p;_
+>p=&a[2];_
+>printf("%s",p);_
+>a)7    b)2  c)4407    d)none_
+>ans: d_
+>15.a[][] = {1,2},{3,4}_
+>b[] [] ={_
+>void fun(A,B)_
+>int i,j;_
+>for(i=1;i<N;i++)_
+>for(j=1;j<N;j++)_
+>sum=sum+A[i][j];_
+>return sum;_
+>}_
+>what is wrong in the above function?_
+>16. OTHER QUESTIONS ARE MAINLY CONCENTRATED ON ERRORS LIKE_
+>(i)syntax (ii) runtime (iii) logical (iv) debugging._
+>17. A binary tree with depth of '3' has max  kof 20 nodes  ans: no._
+>18. breadth search and depth search in binary tree._
+>       ANALYTICAL_
+>1.20%loss;20 % gain  Ans 4% loss_
+>2.Order problem     Ans : Bo,Ka,A,Tp   Ans Bo_
+>3.10%5+3*2-3  ans:5_
+>4.Calls:Tissus::Atom:?  Ans:Molecules_
+>5.cube problem( 32 bigger+4 smaller cubes)-> R.S.Aggrawal nonverbal_
+>                                               ->pg 92: 5 questions_
+>6 PQRSTU->problem-> Verbal Reasoning -> .......do.......pg 430 : 5_
+question._
+>7 problem -> verbal reasoning -> rs aggrawal pg 207 Quest  17 to 21._
+>                      C TEST_
+>1. malloc ?   2. char * p =" hwllo world " , what is wrong?_
+>3. char *(*(*a(N))())();?_
+>4.*p++ = ?_
+>5 int i=7_
+>printf( "%d \n",i++ i++) o/p =? ans 56_
+>6.n=2  pow((2.0,n),++n)?_
+>7 #define macro for ( i,g) ?_
+>8. int reg=2  is there any wrong ? write a reason_
+>9. #define max 10_
+>  p=&(a+b);_
+>  q=*max;_
+>  }   what is wrong_
+>  10. strcat( string,'O');_
+>  wrong? werite reason?_
+>11.char *s=char * ...._
+>        else (string)....? wrong? write reason?_
+>        PSG PAPER:    ARITHMETICS_
+>1. Venn diagram for white, clothes,flowers_
+>2.Male members ABCDEF,  female members PQRSTU_
+>  This problem is same as in rs aggrawal [5questions]_
+>3.   not clear._
+>4. IMS material    A sales person problem._
+>[5 question]      conditions: M must visit before P&Q_
+>                              R "    "      " MNOPQRS_
+>5. A containor contains 40 lt milk, 8 lt water_
+>ans:( 0.80)^3 * 40 = 20.41lts._
+> 6. direction problem (playing cards)         Ams south-west.
+
+1. antonym
+       p....  ans. static
+3. there are six question of series.
+   1 2 3 5 8 ?  ans.
+   102 204 102  ans. 256
+   questions are very easy .you can solve easily there.
+4. word1 : word2 = motorola :    ..... ans . c
+5 . this type are question are asked.
+            1      2        4
+                10      ?
+             3      4        ...
+6.   instruction to add 3 .......     ans. 4
+7.floor problem ......   ans. 11th floor
+              
+
+
+     
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+"
+
+
+http://www.whowhere.lycos.com/redirects/wwlogo.rdcthttp://www.whowhere.lycos.com/redirects/wwlogo.rdct
+©1995-2000 WhoWhere? Inc. All Rights Reserved.
+©1998-2000 Lycos, Inc. All Rights Reserved.
+Lycos is a registered trademark of Carnegie Mellon University 
+
+
+
+
+Mon, 7 Aug 2000 21:56:37 IST+530
+
+
+From: 
+"ASHISH SINGH" <EE19806@rect.ernet.in> Add to Address Book Add To 
+Spam Block List
+Subject: 
+motorola
+Organization: 
+R.E.C., Tiruchirappalli, INDIA
+To: 
+a.kashyap@angelfire.com
+
+motorola 
+There was a Technical Interview,followed by personal interview.  
+Mainly concetrating on the interesting subjects. 
+write a C code 
+1.to reverse a string using a recursive function, without 
+   swapping or using an extra memory.
+2.To reverse a linked list as above.
+given a macro like
+  #define MAX(A,B) {to return that is larger}
+     what will MAX(i++,j),MAX(i,j++) return.
+Difference between Macro and ordinary definition.
+Difference between Class and Struct.
+Testing and Maintenance.(will you work in it and what are they)
+Give the outputs of a compiler and assembler and loader and linker 
+etc.
+If a new data structure, suppose a queue is to be added like int, 
+long 
+etc.,
+where shall the changes be -- lex or yacc or where.
+what is a Real Time OS.  Name some.
+Describe VRTX in few words.
+How does the scheduler know the time how it should be scheduled.
+sockets, TLI, streams.
+and much about project.
+What is deadlock? How do you avoid it?
+What is a semaphore?
+What exactly happens after each system call in sockets, both at the 
+client and at the server.
+What is the difference between widget & gadget in XWindows?
+Tell about strtok & strstr functions.
+Motorola Interview.
+There was a Technical Interview,followed by personal interview.  
+Mainly concetrating on the interesting subjects. 
+
+there are 45 question . no technical question are asked.time 45 mins.
+2 reasoning question means total 11 questoins.reasoning is not 
+from GRE.   
+1. antonym
+       p....  ans. static
+2.there are 1800 coins.one coin is counterfiet coin.how many minimum 
+weight is required to find counterfiet coin.
+3. there are six question of series.
+   1 2 3 5 8 ?  ans. 
+   102 204 102  ans. 256
+   questions are very easy .you can solve easily there.
+4. word1 : word2 = motorola :    ..... ans . c
+5 . this type are question are asked. 
+            1      2        4
+                10      ?          
+             3      4        ...     
+6.   instruction to add 3 .......     ans. 4
+7.floor problem ......   ans. 11th floor
+motorola questions
+>7.Interchanging strings and numbers          Ans C
+>8. Matricide:Mother:: Homicide:?           Ans Human
+>9.Some Mammels are Vertebrates
+>  Some Vertebrates are.......          Ans d
+>10. Figure patteren: --|--.......etc. direction changes problem.
+>11.  work problem.........etc. (not clear).
+>C TEST_
+>1. main()_
+     {_
+      int arr[100];_
+      int c:_
+      int N;_
+      for(i=-:i<N;i++)_
+      arr[i]=i;_
+      minvalue i = ....._
+      Maxvalue i = .....                    
+     } 
+      Ans 0,100 resp_
+>2. Union Problem .....                  Ans : a or c_
+>3. for n=2 the following fn returning value is_
+>int fun(int n)_
+>{_
+>for(i = 1;i<=n;i++)_
+>for(j=i;j<=i;j++)_
+>sum=sum+j;_
+>return(sum);_
+>}                             Ans 6_
+>4. Calculate sum=1+1+2+1+2+3+1......_
+>              Ans i<=x;j<=i_
+>5. for x=2 y=3 z=1_
+>the following fn return_
+>int fun(int n; int y; int z)_
+>{_
+>int sum_
+>for(i=x;i<=y;i++)_
+>for(j=1;j<=z;z++)_
+>sum=sum+z;_
+>return sum_
+>}       Ans 0(check)_
+>6. The values of sum from above fn
+>for x=0; y=0;z=1   Ans 1
+>7.how can you insert the following values in stack and numbers
+10,20,30,40,50.60
+>stack [][][][][][]
+>numb [][][][][][][]
+>Ans
+>60 50 40 30 20 10
+>10 20 30 40 50 60_
+>check.
+>8. # if ndif XYZ_
+>#include "XYZ.h"_
+>#endif_
+>what is meaning  ?_
+>Ans:_
+>if XYZ is not defined then only include the header file XYZ.h._
+>9. p:malloc(int*sizeof(int));_
+>ans: a_
+>10.a=5 b=10 c=7_
+>(a>c)?a:((b>c)?b:c)     ans 10_
+> 11. debugging eliminates  Ans[c]_
+> ans: both logical & ruin time errors._
+> 12. int term (int x)_
+> { int sum=0;int i;_
+> for(i=0;i<=5;i++)_
+> sum+=x;                     /*problel is wrong but Ans is 650.*/_
+> return(sum);_
+> }             Ans 650_
+> the above fn value for x=150_
+> 13.int x;_
+> scanf("%d",x);_
+> -------------_
+> --------------_
+> what is error in the above program_
+>14.int a[] = { 1,  , 9,2.......}_
+>int *p;_
+>p=&a[2];_
+>printf("%s",p);_
+>a)7    b)2  c)4407    d)none_
+>ans: d_
+>15.a[][] = {1,2},{3,4}_
+>b[] [] ={_
+>void fun(A,B)_
+>int i,j;_
+>for(i=1;i<N;i++)_
+>for(j=1;j<N;j++)_
+>sum=sum+A[i][j];_
+>return sum;_
+>}_
+>what is wrong in the above function?_
+>16. OTHER QUESTIONS ARE MAINLY CONCENTRATED ON ERRORS LIKE_
+>(i)syntax (ii) runtime (iii) logical (iv) debugging._
+>17. A binary tree with depth of '3' has max  kof 20 nodes  ans: no._
+>18. breadth search and depth search in binary tree._
+>       ANALYTICAL_
+>1.20%loss;20 % gain  Ans 4% loss_
+>2.Order problem     Ans : Bo,Ka,A,Tp   Ans Bo_
+>3.10%5+3*2-3  ans:5_
+>4.Calls:Tissus::Atom:?  Ans:Molecules_
+>5.cube problem( 32 bigger+4 smaller cubes)-> R.S.Aggrawal nonverbal_
+>                                               ->pg 92: 5 questions_
+>6 PQRSTU->problem-> Verbal Reasoning -> .......do.......pg 430 : 5_
+question._
+>7 problem -> verbal reasoning -> rs aggrawal pg 207 Quest  17 to 21._
+>                      C TEST_
+>1. malloc ?   2. char * p =" hwllo world " , what is wrong?_
+>3. char *(*(*a(N))())();?_
+>4.*p++ = ?_
+>5 int i=7_
+>printf( "%d \n",i++ i++) o/p =? ans 56_
+>6.n=2  pow((2.0,n),++n)?_
+>7 #define macro for ( i,g) ?_
+>8. int reg=2  is there any wrong ? write a reason_
+>9. #define max 10_
+>  p=&(a+b);_
+>  q=*max;_
+>  }   what is wrong_
+>  10. strcat( string,'O');_
+>  wrong? werite reason?_
+>11.char *s=char * ...._
+>        else (string)....? wrong? write reason?_
+>        PSG PAPER:    ARITHMETICS_
+>1. Venn diagram for white, clothes,flowers_
+>2.Male members ABCDEF,  female members PQRSTU_
+>  This problem is same as in rs aggrawal [5questions]_
+>3.   not clear._
+>4. IMS material    A sales person problem._
+>[5 question]      conditions: M must visit before P&Q_
+>                              R "    "      " MNOPQRS_
+>5. A containor contains 40 lt milk, 8 lt water_
+>ans:( 0.80)^3 * 40 = 20.41lts._
+> 6. direction problem (playing cards)         Ams south-west.
+
+1. antonym
+       p....  ans. static
+3. there are six question of series.
+   1 2 3 5 8 ?  ans.
+   102 204 102  ans. 256
+   questions are very easy .you can solve easily there.
+4. word1 : word2 = motorola :    ..... ans . c
+5 . this type are question are asked.
+            1      2        4
+                10      ?
+             3      4        ...
+6.   instruction to add 3 .......     ans. 4
+7.floor problem ......   ans. 11th floor
+              
+
+
+     
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+"
+
+
+http://www.whowhere.lycos.com/redirects/wwlogo.rdcthttp://www.whowhere.lycos.com/redirects/wwlogo.rdct
+©1995-2000 WhoWhere? Inc. All Rights Reserved.
+©1998-2000 Lycos, Inc. All Rights Reserved.
+Lycos is a registered trademark of Carnegie Mellon University 
+
+
+
+

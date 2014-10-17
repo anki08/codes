@@ -1,0 +1,356 @@
+i shall write about the interview which i had for microsoft.
+there were 4 rounds of technical interview and 
+i'll try to explain in detail. i hope it will help all of you.
+
+Try to be strong in any one language
+ - preferrably "C".
+
+
+Round 1 (they call it prelims!!)
+-------
+
+the problem: you are given 2 sorted linked lists. 
+you are to write a function 
+             which takes in these lists and merges them to a single sorted 
+	     one.
+ you are not supposed to create new nodes.
+             
+
+
+solution: 
+
+version-1 (mine): 
+                  list * merge( list *A, list *B)
+		  
+		  	list *C;
+
+			while(A and B are not exhausted)
+				
+				compare the first elements of them,
+				which one is less, take it.
+				go to the end of C, add it there,
+				delete that from A/B whichever we took,
+				update A/B respectively.
+
+
+			if( A is there)
+				go to the end of C, add a to that end.
+
+
+			if( B is there)
+				go to the end of C, add b to that end.
+
+
+		this was my solution.
+		the complexity is O(n^2).
+
+		he asked me the lower bound. i told it is O(n). he asked me to 
+		optimise!!
+
+version-2 (mine):
+                  
+		  nothing special i did. instead of going to the end of the list  C always, i kept a pointer "end" which always point to the end of  C. so that i needn't travese the list. just update "end" whenever  we add  anything to "C".
+
+		  suddenly the complexity reduces to O(n).
+
+		  he was satisfied with that one.
+
+
+problem-2: A and B wants to communicate. they have a box. each of them 
+           has got a lock and 2 keys of their own. no secure channel is available.
+	
+   if you lock something in the box, it's secure. help them to 
+	   communicate?
+
+solution: 
+          A: puts one of his
+ keys to the box, locks the box with other key,
+	     send it to B. Nobody other than A can open it. so it is secure.
+
+
+	  B: On getting the box, lock it with B's key, send it back to A.
+	     Now nobody in the world can open the box.
+
+	
+  A: on geting the box, unlock using his key. now also it is locked
+	     with B's key - its' secure. send it back to B.
+
+	  
+B: open it, take A's key. now both of them have one key each. cool!!
+	     can have secure communication.
+
+this round was some
+ 30 minutes long.
+
+
+Round 2
+-------
+
+problem-1: you are given a binary tree. tell me whether it is a binary search tree 
+or not. 
+infact, write a function which takes in a pointer to the root of 
+	   the tree and returns true if it is a
+ BST.
+
+solution:
+
+version-1: 
+           simple!!
+	   
+	   do an inorder search.
+	   check whether the resulting sequence 
+is in increasing order. 
+	   if yes - binary tree.
+	   else   - NO!!!!!!!!!!
+
+	   but he found out some drawbacks.
+
+	   1) once you do the search, you get a sequence. you have to go 
+	      thru it completely on a worse case. 
+can't you avoid that?
+
+	      even though the complexity remains the same, the number of  loops increases, number of 
+instruction increases, speed 
+	      decreases.
+
+	   2) suppose the tree is not a BST. why can't you find it out 
+	
+      without going thru the whole tree? 
+
+
+version-2:
+
+	      (first of all i shud say that, eventhough the following 
+solution  will work, he didn't agree with me. i had to argue and show that  it works theoretically!!)
+
+	   
+	   idea: 
+	         have a variable "P" which stans for the element we looked.
+		 once we do the search check whether the value of the element
+		 being examined currently is larger than the "Prev"
+
+		 if this condition is violated, it is not a BST.
+
+		 now set "Prev" = current_element.
+		 go on doing inorder.
+
+	program: 
+	         Prev = -infinity // the smallest element of any set.
+	         int is_a_bst(tree *root)
+			int l, r; 
+			if(root)
+				l  = is_a_bst(root->left)
+
+				if(l == 0)        // left child is not a bst
+					return 0; 
+			 	
+				if(prev >= root->element) // condition vialation
+					return 0;
+
+				prev = root->element;
+
+				r = is_a_bst(root->right)
+
+				return ( l && r )
+
+			else
+				return 1 // any empty tree is a bst.
+
+
+	     
+	     he was not satisfied with the solution - bcoz it was recursive. he didn't  agree that this is corret. i somehow managed to convince him. i think  he deliberately disagreed.
+
+	     he tried his maximum to crash the prog or to find a counter example.  he failed!!!! :)
+
+	
+     as usual he asked me to optimise!! 
+	     but this was the optimal one - O(n)
+
+problem-2:
+
+             write a function which takes in an integer and converts it to a string.
+	     ie, write the code for "itoa". it shud handle positive, negative integers  and zero. even one bit shudn't be wasted.
+
+solution:
+
+	     - you can get the code from K&R - 
+	     i didn't remember the code. i coded it there with some mistakes. again as usual he made me optimise it.
+
+
+Round 3
+-------
+
+
+first question: You work in Linux, right?!! (followed by a smile which had
+                                              n number of meanings!!) 
+
+		this question was repeated 3-4 times. i don't know why? ;)
+		
+
+problem-1: write a funcion which does the same work as the command 'tail' 
+           in UNIX/Linux. 
+
+
+Solution: 
+  
+          first i'll tell you what is 'tail'
+
+	  tail is a utility which prints the last 'n' lines of a file which  we can specify. the value n also we can say.
+
+	  so, i had to take in one file descriptor and the value of n.
+
+	  and as output, i can return the offset from the beginning of 
+	  the file to the point from whic the last n line starts.
+
+version-1: 
+
+		get the fd (file descriptor)
+		duplicate it.
+		take fd1 and fd2.
+		go thru the first n lines of fd1.
+		now go on reading one line each from fd1 and fd2.
+		so the distance between the lines being read is always 'n'
+		once fd1 reaches EOF. print whatever remains in fd2!!
+
+		(courtsey: Balaji - his idea for linked list i modified to this)
+	  
+	        
+		but...... unfortunately this won't work. i'm not going to the reasons  of that. 
+		the problem he pointed out was that, if i have a 4-gigabyte file. i shud go through the whole file even if i'm printing only the last  one line.
+
+		usual dialogue came -------- OPTIMISE!!!
+
+version-2:
+	     1  i = 1
+             2  go to the end of the file.
+	     3  go back by some i*1024 bytes,
+	     4  read 1024 bytes.
+	     5	count the number of '\n's.
+	     6	if the count is n+1, we can go to next phase.
+	     7	else increment 'i', go to line 3
+	     
+	     8  now you have n+1 or more than that number of '\n's.
+	     9  read the characters one by one such that you reach 
+	        the (n+1)th '\n' from the EOF. let the number of characters 
+		you read be j.
+	    10  now you have got the position. 
+	        
+		EOF - i*1024 + j     is the point.
+
+		return that point.
+
+	i haven't discussed about the case where we don't have 'n' lines in the file  which we have to "tail". in my program i had taken care of that also.
+
+
+	Coding: 
+
+	he told me - " the last 2 interviewers told that - you are jumping to the 
+	               solution just when you hear the problem and coming with a 
+		       non-optimal solution, which you modify yo optimise"
+		     " I don't want that - I want you to code the algorithm you gave 
+		       correctly in the first attempt itself. otherwise we won't hire you!!"
+
+        
+	here i'm not writing the code - it's a bit complicated.
+	but i thought for a while, then only i wrote it.
+	you shud be very careful so that you are not mis-using any resources. use the minimum level of resources you can when ou write a sys-prog. i used a temporary array for storing those 1024 bytes which he didn't like. later he made me rectify that error also.
+
+
+problem-2: 
+	    write the code for 
+
+	    char * strstr(char * big, char * sub);
+
+solution: 
+            you can find the solution somewhere in the system library routines of 
+	    a linux system. 
+
+	    actually i gave a solution of complexity O(mn).
+
+	    thank goodness!! he didn't ask me to optimize. it was the best algorithm came to my mind at that time. there is a better algorithm of  complexity O(m+n) which i cudn't recollect. even if i cud recollect, it will take some 2 hours to code it.
+
+
+Question:  what is segmentation fault?
+           
+	   when a program tries to read/write/access any location in the memory  which is not owned by it, the kernel send a signal SIGSEGV to the  process which results in the segmentation fault of the process.
+
+Question:  How is it implemented?
+
+	   I don't know!!  - the right answer to give.
+
+Question:  Okay, How you will implement it?
+
+	   *&*&&^*%^^#% : i got caught!!!
+
+	   my idea i told. 
+	   assume that the memory allcated to a process is in comtiguous locations. then we can always have to addresses of the starting and end of this  allocated region. if the process comes up with an address which is  not in between them, send SIGSEGV.
+
+	   i suppose, he was satisfied.
+
+
+	   (he was the most rough guy. he was not at all cool. but he's the only 
+	    person who gave me tea!!)
+
+
+Round 4
+-------
+         
+problem: you are given 2 linked lists - A and B. write a funcion which 
+         gives you the intersection of A & B, A-B and B-A. 
+	 try to resuse the nodes. 
+
+
+solution: 
+           take an element from A
+	   see whether it is in B
+
+	   if it is there, move it to intersection
+	   delete that from B
+
+	   if we cudn't find it in B, 
+	   move it to A-B
+
+	   do the above for all in A.
+
+	   once you finish that, you have intersection of them and A-B.
+	   now remove each element of the intersection from B
+	   you get B-A.
+
+	   the complexity is O(n^2)
+
+	   he asked me to optimize it to O(n log n). i cudn't do it.
+
+
+	   he asked me to code the above,
+	   i did it.
+
+	   nothing HR was there. but he talked a bit about what 'll make you join MS... ... like that.
+
+
+
+
+that is all about it.
+then i started to get nervous.
+
+BE COOL, CONFIDENT, FRANK.
+
+Be comfortable with atleast one language - preferrably "C".
+Be comfortable with those data-structures from ADSA.
+Know how to say the complexity of a pece of code given to you.
+
+
+I thank all of you for your love and co-operation.
+
+
+
+sandeep.
+
+
+-- 
+-------------------------------------------------------------------------------
+ 1041, Krishna,
+Indian Institute of Technology Madras, 
+Chennai - 600036,
+Tamil Nadu,
+India.
+-------------------------------------------------------------------------------

@@ -1,0 +1,544 @@
+ 
+Q..to shift the DC characteristics left of cmos inverter
+ans...NMOS W/L increased
+
+Q..simlify it
+x.y(bar) + x.z + y.z
+ans. x.y(bar) + y.z 
+
+Q..one AND gate have 2 ns inertial delay
+wave form at i/p's
+0 at 0 ns,1 at 2 ns then remains at 1
+1 at 0 ns,0 at 3 ns then remains at 0
+ans.0 always
+
+Q.. D F/F(qbar connected to i/p)pt.A---xor gate... D F/F(o/p 
+connected to i/p of xor gate.ptB. 
+o/p freq. w r t clock freq
+
+Q..in above qs..D F/F is replaced by latch...with reset 01 what 
+will be the transition to reach 11
+ans..11--01--11--01--11 
+
+Q..
+|-------------------------------------------------------|
+| |
+|---buffer--R----buffer---R----buffer---R---inverter----|
+| | |
+| | |
+cap cap cap
+gnd gnd gnd
+
+
+freq of the ckt....
+f= 1/2 pi RC
+= 1.732/2 pi RC
+= 1.414/2 pi RC
+= 1.732/4 pi RC
+
+Q..
+|----R-----|
+Vin -----R--------|--opamp---|----
+|---R--------| | 
+| 
+cap 
+gnd
+Phase shift for thr low freq signal...
+options...with low RC value
+with high RC value
+
+Q..opamp qs.
+ans Vo/2R
+
+Q..state diagram
+ans. 2's compliment if MSB insert
+
+Q. stae diagram
+ans. 0+--> 1 -->0
+
+Q.. again above qs. ans qs was what type of m/c
+ans moore m/c 
+
+Q.. transition diagram.... 
+ans. 3 bit transition
+
+Q.. adder and multiplier
+options
+a..may be implimented by single state m/c
+b..may be implimented by two different m/c
+c..can't implimented b'coz both are combinational ckt.
+d..may be implimented but multiplier will take different state 
+m/c for different multiplicand 
+vdd
+
+
+(HCL SOFTWARE PAPER)******************************
+> > > >
+> > > >NOTE :  Please check answers once again.
+> > > >
+> > > >            section 1.
+> > > >
+> > > >1.which of the following involves context
+> switch,
+> > > >a) system call b)priviliged instruction
+> > > >c)floating poitnt exception
+> > > >d)all the above
+> > > >e)none of the above
+> > > >ans: a
+> > > >
+> > > >2.In OSI, terminal emulation is done in
+> > > >a)semion b)appl.. c)presenta... d)transport
+> > > >ans: b
+> > > >
+> > > >3....... 25MHz processor , what is the time
+> taken by the
+> > > >instruction which needs 3 clock cycles,
+> > > >a)120 nano secs  b)120 micro secs
+> > > >c)75 nano secs  d)75 micro secs
+> > > >
+> > > >
+> > > >4. For 1 MBmemory no of address lines required,
+> > > >a)11 b)16  c)22   d) 24
+> > > >ans: 16
+> > > >
+> > > >5. Semafore is used for
+> > > >a) synchronization  b0 dead-lock avoidence
+> > > >c)box  d) none
+> > > >ans : a
+> > > >
+> > > >6.  class c: public A, public B
+> > > >
+> > > >a) 2 member in class A,B shouldnot have same
+> name
+> > > >b) 2 member in class A,C    " ''    ''   ''
+> > > >c) both
+> > > >d) none
+> > > >ans : a
+> > > >7. question related to java
+> > > >8. OLE is used in
+> > > >a)inter connection in unix
+> > > >b)interconnection in WINDOWS
+> > > >c)interconnection in WINDOWS NT
+> > > >9.No given in HEX ---- write it in OCTAL
+> > > >
+> > > >10.macros and function are related in what
+> aspect?
+> > > >a)recursion  b)varying no of arguments
+> > > >c)hypochecking d)type declaration
+> > > >
+> > > >11.preproconia.. does not do one of the
+> following
+> > > >a)macro ......  b)conditional compliclation
+> > > >c)in type checking d)including load file
+> > > >ans: c
+> > > >              SECTION B
+> > > >              __________
+> > > >1.enum day = { jan = 1 ,feb=4, april, may}
+> > > >what is the value of may?
+> > > >a)4 b)5 c)6 d)11
+> > > >e)none of the above
+> > > >2.main
+> > > >{
+> > > >int x,j,k;
+> > > >j=k=6;x=2;                           ans x=1
+> > > >x=j*k;
+> > > >printf("%d", x);
+> > > >
+> > > >3. fn f(x)
+> > > >
+> > > >{ if(x<=0)
+> > > >   return;                          ans  fn(5)
+> ....?
+> > > >else f(x-1)+x;
+> > > >}
+> > > >
+> > > >4. i=20,k=0;
+> > > >for(j=1;j<i;j=1+4*(i/j))
+> > > >{
+> > > >k+=j<10?4:3;
+> > > >}
+> > > >
+> > > >printf("%d", k);            ans  k=4
+> > > >5.  int i =10
+> > > >main()
+> > > >{
+> > > >int i =20,n;
+> > > >for(n=0;n<=i;)
+> > > >{
+> > > >int i=10
+> > > >     i++;
+> > > >}
+> > > >printf("%d", i);              ans i=20
+> > > >
+> > > >6. int x=5;
+> > > >     y= x&y
+> > > >( MULTIPLE CHOICE QS)
+> > > >ans :  c
+> > > >
+> > > >
+> > > >7.  Y=10;
+> > > >  if( Y++>9 && Y++!=10 && Y++>10)
+> > > >printf("........ Y);
+> > > >else   printf(""....  )
+> > > >
+> > > >ans : 13
+> > > >8. f=(x>y)?x:y
+> > > >a) f points to max of x and y
+> > > >b) f points to min of x and y
+> > > >c)error
+> > > >d) ........
+> > > >
+> > > >ans  :  a
+> > > >
+> > > >
+> > > >9. if x is even, then
+> > > >
+> > > >(x%2)=0
+> > > >x &1 !=1
+> > > >x! ( some stuff is there)
+> > > >
+> > > >a)only two are correct
+> > > >b) three are correct
+> > > >c), d)  ....
+> > > >
+> > > >
+> > > >ans  :   all are correct
+> > > >
+> > > >10.  which of the function operator cannot be
+> over loaded
+> > > >
+> > > >a) <= b)?: c)== d)*
+> > > >
+> > > >ans:  b and d
+> > > >
+> > > >                          SECTION.C  (PRG
+> SKILLS)
+> > > >                           --------
+> > > >(1)      STRUCT DOUBLELIST
+> > > >       {                              DOUBLE
+> CLINKED
+> > > >         INT DET;                     LIST VOID
+> > > >         STRUCT  PREVIOUS;            BE GIVEN
+> AND A PROCEDURE TO 
+> >DELETE
+> > > >         STRUCT NEW;                  AN
+> ELEMENT WILL BE GIVEN
+> > > >       }
+> > > >      DELETE(STRUCT NODE)
+> > > >      {
+> > > >        NODE-PREV-NEXT  NODE-NEXT;
+> > > >        NODE-NEXT-PREV  NODE-PREV;
+> > > >        IF(NODE==HEAD)
+> > > >        NODE
+> > > >     }
+> > > >      IN WHAT CASE THE PREV WAS
+> > > >      (A) ALL CASES
+> > > >      (B) IT  DOES NOT WORK FOR LAST ELEMENT
+> > > >      (C) IT DOES NOT WORK FOR-----
+> > > >(2)     SIMILAR TYPE QUESTION
+> > > >      ANS: ALL DON'T WORK FOR NON NULL VALUE
+> > > >
+> > > >(3) VOID  FUNCTION(INT KK)
+> > > >     {
+> > > >       KK+=20;
+> > > >     }
+> > > >     VOID FUNCTION (INT K)
+> > > >     INT MM,N=&M
+> > > >     KN = K
+> > > >     KN+-=10;
+> > > >     }
+> > > >                      SECTION D
+> > > >                       --------
+> > > >(1) a=2,b=3,c=6    c/(a+b)-(a+b)/c=?
+> > > >(2) no.rep in hexadecimal, write it in radiv 7
+> > > >(3) A B C D E
+> > > >          * 4
+> > > >    ----------   find E   ANS: 13
+> > > >    E D C B A
+> > > >   ------------
+> > > >(4) GRE-MODEL TEST-1, SECTION-6(19-22)
+> > > >(5) M HAS DOUBLE AMOUNT AS D, Y HAS RS. 3 MORE
+> THAN HALF OF AMOUNT OF D
+> > > >     THE ORDERING  A,B,C        M C D C Y
+> > > >          ANS:DATA INSUFFICIENT    D C M C Y
+> > > >(6)IN STASTIC MEN CAUSE MORE ACCIDENTS THEN ONE
+> CONCLUSION
+> > > >(A) MEN DRIVE MORE THAN  ONCE
+> > > >(B) STASTICS GIVE WRONG INFORMATION
+> > > >(C) WOMEN ARE CAUTION THAN ME  ANS; C(VERIFY)
+> > > >(D)-----ETC
+> > > >(7) P,Q,R,S,T,U  -SECURING GRANT;TWO TOURIST
+> PARTIES AND THEN
+> > > >TWO SECURITY GAURDS SHOULD GO WITH EACH PARTY
+> > > >    
+>
+_________________________________________________________________
+> > > >     P AND R-ARE ENEMIES,            Q DOES NOT
+> GO SOUTH
+> > > >     P&S-ARE WILLING TO BE TOGETHER
+> > > > 
+>
+___________________________________________________________________
+> > > >  THE TWO PARTIES MAY GO SOUTH&NORTH
+> RESPECTIVELY
+> > > >  AT ONE POINT EACH MAY PASS EACH OTHER THEN
+> GAURDS CAN EXCHANGE
+> > > >  6 Q BASED ON THIS
+> > > >  (8)pq-r/s  =2 what is q inference  a,n&d
+> > > >  (a) a can do n units of work in strs,a&b can
+> do n units of work
+> > > >  in 2 hrs in how many hrs n units of work
+> ans:3 hr 30 min
+> > > >  p = (2s+r)/q
+> > > >                                     
+> ____________
+> > > >
+> > > >main()
+> > > >{
+> > > >   int var=25,varp;
+> > > >   varp=&var;
+> > > >   varp p = 10;
+> > > >   fnc(varp)
+> > > >   printf("%d%d,var,varp);
+> > > >}
+> > > >  (a) 20,55(b) 35,35(c) 25,25(d)55,55
+> > > >
+> > > >  [ c++,c,dbms  interview]
+> > > >  [fundamentals]
+> > > >   this is new paper
+> > >
+>
+>______________________________________________________________
+> > > >                              application
+> -software
+> > > >                              
+> ____________________
+> > > >part-1:
+> > > >28-questions
+> > > >(5)ingless  ans:RDMS
+> > > >(1)bit program-ans d
+> > > >(2)c ans
+> > > >(3)+ 0 ans
+> > > >(4)00p--ans linking
+> > > >(5)------
+> > > >(6)-------
+> > > >(9)25--45 even no.  ans--10
+> > > >(10)  >10    <100   ---ans=n+9
+> > > >
+> > > >
+> > > >
+> > > >1]. The following variable is available in
+> file1.c
+> > > >
+> > > >
+> > > >static int average_float;
+> > > >
+> > > >         all the functions in the file1.c can
+> access the variable
+> > > >
+> > > >
+> > > >[2]. extern int x;
+> > > >
+> > > >         Check the answer
+> > > >
+> > > >[3]. Another Problem with
+> > > >
+> > > >         # define TRUE 0
+> > > >
+> > > >         some code
+> > > >
+> > > >         while(TRUE)
+> > > >         {
+> > > >                 some code
+> > > >
+> > > >         }
+> > > >
+> > > >
+> > > >         This won't go into the loop as TRUE is
+> defined as 0
+> > > >
+> > > >
+> > > >[4].   A question in structures where the
+> memebers are dd,mm,yy.
+> > > >
+> > > >         mm:dd:yy
+> > > >         09:07:97
+> > > >
+> > > >[5]. Another structure question
+> > > >
+> > > >         1 Rajiv System Analyst
+> > > >
+> > > >[6].    INFILE.DAT is copied to OUTFILE.DAT
+> > > >
+> > > >
+> > > >[7]. A question with argc and argv .
+> > > >
+> > > >         Input will be
+> > > >
+> > > >         c:\TEMP.EXE Ramco Systems India
+> > > >
+> > > >
+> > >
+>
+>-----------------------------------------------------------------------
+> > > >
+> > > >
+> > > >main()
+> > > >{
+> > > >         int x=10,y=15;
+> > > >         x=x++;
+> > > >         y=++y;
+> > > >         printf("%d %d\n",x,y);
+> > > >}
+> > > >
+> > > >
+> > > >
+> > > >
+> > >
+>
+>----------------------------------------------------------------------
+> > > >
+> > > >
+> > > >int x;
+> > > >main()
+> > > >{
+> > > >         int x=0;
+> > > >         {
+> > > >                 int x=10;
+> > > >                 x++;
+> > > >                 change_value(x);
+> > > >                 x++;
+> > > >                 Modify_value();
+> > > >                 printf("First output:
+> %d\n",x);
+> > > >         }
+> > > >         x++;
+> > > >         change_value(x);
+> > > >         printf("Second Output : %d\n",x);
+> > > >         Modify_value();
+> > > >         printf("Third Output : %d\n",x);
+> > > >}
+> > > >
+> > > >Modify_value()
+> > > >{
+> > > >         return (x+=10);
+> > > >}
+> > > >
+> > > >change_value()
+> > > >{
+> > > >         return(x+=1);
+> > > >}
+> > > >
+> > > 
+> >
+>
+>----------------------------------------------------------------------------
+> > > >
+> > > >main()
+> > > >{
+> > > >         int x=20,y=35;
+> > > >         x = y++ + x++;
+> > > >         y = ++y + ++x;
+> > > >         printf("%d %d\n",x,y);
+> > > >}
+> > > >
+> > >
+>
+>-----------------------------------------------------------------------
+> > > >
+> > > >
+> > > >main()
+> > > >{
+> > > >         char *p1="Name";
+> > > >         char *p2;
+> > > >         p2=(char *)malloc(20);
+> > > >         while(*p2++=*p1++);
+> > > >         printf("%s\n",p2);
+> > > >}
+> > >
+>
+>----------------------------------------------------------------------
+> > > >
+> > > >
+> > > >main()
+> > > >{
+> > > >         int x=5;
+> > > >         printf("%d %d %d\n",x,x<<2,x>>2);
+> > > >}
+> > > >
+> > >
+>
+>--------------------------------------------------------------------
+> > > >
+> > > >#define swap1(a,b) a=a+b;b=a-b;a=a-b;
+> > > >main()
+> > > >{
+> > > >         int x=5,y=10;
+> > > >         swap1(x,y);
+> > > >         printf("%d %d\n",x,y);
+> > > >         swap2(x,y);
+> > > >         printf("%d %d\n",x,y);
+> > > >}
+> > > >
+> > > >int swap2(int a,int b)
+> > > >{
+> > > >         int temp;
+> > > >         temp=a;
+> > > >         b=a;
+> > > >         a=temp;
+> > > >         return;
+> > > >}
+> > >
+>
+>----------------------------------------------------------------------
+> > > >
+> > > >
+> > > >main()
+> > > >{
+> > > >         char *ptr = "Ramco Systems";
+> > > >         (*ptr)++;
+> > > >         printf("%s\n",ptr);
+> > > >         ptr++;
+> > > >         printf("%s\n",ptr);
+> > > >}
+> > > >
+> > >
+>
+>---------------------------------------------------------------------
+> > > >
+> > > >#include<stdio.h>
+> > > >main()
+> > > >{
+> > > >         char s1[]="Ramco";
+> > > >         char s2[]="Systems";
+> > > >         s1=s2;
+> > > >         printf("%s",s1);
+> > > >}
+> > > >
+> > >
+>
+>-----------------------------------------------------------------
+> > > >
+> > > >
+> > > >
+> > > >#include<stdio.h>
+> > > >main()
+> > > >{
+> > > >         char *p1;
+> > > >         char *p2;
+> > > >         p1=(char *) malloc(25);
+> > > >         p2=(char *) malloc(25);
+> > > >         strcpy(p1,"Ramco");
+> > > >         strcpy(p2,"Systems");
+> > > >         strcat(p1,p2);
+> > > >         printf("%s",p1);
+> > > >}
+> > > >
+
+
+
+         
+ 
+ 
+
+

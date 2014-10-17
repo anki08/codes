@@ -1,0 +1,85 @@
+at sun ppl take 1 to 1 interviews, there's no panel system.
+Hence there are multiple rounds.
+Last two rounds were by video conferencing with their US team members
+I don't remember all round 3 and 4 questions.
+
+
+Questions are highly repetitive.
+
+Sun Interview
+
+Round 1.
+
+Lot of Architecture questions
+	MESI protocol
+	Cache coherence
+	What is Register Renaming?
+	How can we pass data values from one stage of pipeline to another stage,
+	before tht value has been written back?
+Data Structures
+	If u hav a function which finds the shortest path
+	how will u find longest path using it?
+C++
+	Question on virtual functions
+C
+	string array
+	array dereferencing
+	assigning a different value to an array name
+
+
+Round 2.
+
+Architecture
+	MESI protocol
+	NUMA Vs. UMA
+	Cache coherence
+	Memory Interleaving
+	why should we keep number of memory banks prime?
+	Why is the num. of sets in a set associative cache a power of 2?
+	Why is the size of cache in a power of 2?
+	Difference between set associative and direct mapped cache. which is preferable
+	Can u name one condition when associative will work better than direct mapped in terms
+	of Hits.
+	some discussion on types of misses
+	What is TLB? Is it flushed every time context switch occurs? is it h/w or s/w?
+
+Data Structures
+
+	Write a function to copy one string to another. [Dontr forget to append a NULL in the end]
+
+	If u have a function to find min spanning tree, how will u find max spanning tree.
+	why cant u find longest path by same logic?
+	Finding cycle in a linked list
+Puzzles
+	There are 5 persons A, B, C, D, E they have to distribute 100 Rs.
+	first E will propose a solution if majority agrees, then it will be
+	distributed, or E will be killed, and D will propose distribution.
+	All of them are greedy, and blood thirsty and everyone wants to save his life.
+	What will be the final distribution.
+	
+	A question on probability(an easy one)
+	
+Round 3.
+Architecture
+	A question on ordering of reads and writes.
+	Pipelining - explain simple pipelining
+	why are temp registers used in pipelining?
+	Out of order issue - pros and cons
+	which branch prediction techniques you know about?
+Data structure
+
+C
+	Gave declaration of a pointer to function taking pointer to integer as argument and returning integer.
+
+Puzzles	
+	Take a 4X4 chess board, remove 2 opposite corners of the board, take a rectangle which
+is equal to 2 sqrs and cover the board using tht piece.
+	Sachcha Jhootha
+	Pills 
+	Socks
+
+Round 4.
+archi.
+	Among Pipelining, Cache coherence, branch prediction which one is your favorite and why?
+	what is the main problem with out of order issue?
+	

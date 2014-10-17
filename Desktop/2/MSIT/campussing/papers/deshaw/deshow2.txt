@@ -1,0 +1,347 @@
+
+              !!! DE Shaw's Question paper!!!                   
+
+Some of questions
+
+ 
+DE-Shaw Software,Hyderabad.
+---------------------------
+                        SECTION-A
+ 
+ you should write the programs for the following problems in C.
+ 
+ 1. swapping two variables x,y without using a temporary variable.
+ 2. a program has been given asking to find the output
+        ans. it is algorithm for finding G.C.D
+ 3. write a program for reversing the given string.
+ 4. the integers from 1 to n are stored in an array in a random
+    fashion. but one integer is missing. write a program to find the
+    missing integer.
+        ans. idea. the sum of n natural numbers is = n(n+1)/2.
+             if we subtract the above sum from the sum of all the
+             numbers in the array , the result is nothing but the
+             missing number.
+ 5. some bit type of questions has been given on pointers asking to
+    to find whether it is correct from syntax point of view. and if
+    it is correct explain what it will do.(around 15 bits).
+ 
+                        SECTION-B
+ 
+   ANSWER AS MANY AS POSSIBLE.
+ 
+ 6.& 7. two programs on pre-processor directions has been given asking
+        to find the output.
+ 8. simple question given on pointer
+    a) kernighan & richie page no. 122
+    b) schaum series  page no. 323
+    try to understand the pointer problems given here he asked to 
+explain
+    in the interview if answer it in exam.
+ 9. write a c program to find whether a stack is progressing in forward
+   or reverse direction.
+ 10. write a c program that reverses the linked list.
+ 
+  GUIDELINES:
+     the interview is very tough he is asking to do the problems in
+   front of him. he is also giving some new problems to solve before 
+him.
+   you should have a very good funda of C language.
+  From iit-kgp only two 2 students have been selected.
+ 
+ 
+ 
+
+Wipro paper(System software)
+July-1997
+------------
+ 
+PART --A
+------------------------------------------------------
+1) abcD+abcd+aBCd+aBCD
+   then the simplified function is
+   ( Capital letters are copliments of corresponding letters
+     A=compliment of a)
+ 
+  [a] a   [b] ab  [c] abc  [d] a(bc)* [e] mone
+  (bc)*=compliment of bc
+ 
+  Ans:  e
+ 
+-------------------------------------
+2) A 12 address lines maps to the memory of
+ 
+ [a] 1k bytes  [b] 0.5k bytes [c] 2k bytes  [d] none
+ 
+ Ans: b
+ 
+----------------------------------------
+3) In a processor these are 120 instructions . Bits needed to impliment
+   this instructions
+   [a] 6  [b] 7  [c] 10  [d] none
+ 
+  Ans: b
+ 
+-----------------------------------------
+4) In 8085 microprocessor READY signal does.which of the following
+   is incorrect statements
+   [a]It is input to the microprocessor
+   [b] It sequences the instructions
+ 
+  Ans : b
+----------------------------------------
+ 
+5) Return address will be returned by function to
+  [a] Pushes to the stack by call
+  Ans : a
+------------------------------------------
+6)
+   n=7623
+   {
+        temp=n/10;
+        result=temp*10+ result;
+       n=n/10
+   }
+ 
+Ans : 3267
+----------------------------------------------
+7) If A>B then
+      F=F(G);
+   else B>C then
+      F=G(G);
+   in this , for 75% times A>B and 25% times B>C then,is 10000 
+instructions
+   are there ,then the ratio of F to G
+   [a] 7500:2500  [b]  7500:625  [c] 7500:625 if a=b=c else
+                                     7500:2500
+--------------------------------------------------
+8) In a compiler there is 36 bit for a word and to store a character 
+8bits are
+needed. IN this to store
+ a character two words are appended .Then for storing a K characters 
+string,
+ How many words are needed.
+ [a] 2k/9  [b] (2k+8)/9  [c]  (k+8)/9 [d] 2*(k+8)/9 [e] none
+ 
+ Ans: a
+---------------------------------------------------------
+9) C program code
+ 
+   int zap(int n)
+   {
+    if(n<=1)then zap=1;
+    else  zap=zap(n-3)+zap(n-1);
+   }
+   then the call zap(6) gives the values of zap
+   [a] 8  [b]  9  [c] 6  [d]  12  [e] 15
+ 
+  Ans: b
+---------------------------------------------------------------
+ 
+ 
+PART-B
+-------
+1) Virtual memory size depends on
+   [a] address lines    [b] data bus
+   [c] disc space       [d] a & c    [e] none
+ 
+ Ans :  a
+-----------------------------------------------
+2) Critical section is
+   [a]
+   [b] statements which are accessing shared resourses
+   Ans : b
+-------------------------------------------------
+ 
+3) load a
+   mul  a
+   store t1
+   load  b
+   mul   b
+   store t2
+   mul t2
+   add t1
+ 
+  then the content in accumulator is
+ 
+Ans : a**2+b**4
+---------------------------------------------------
+4) question (3) in old paper
+5) q(4) in old paper
+6) question (7) in old paper
+7) q(9) in old paper
+------------------------------
+ 
+
+
+
+Honeywell conducted a test in IIT and Interview was in their
+office at B'lore.
+
+Test contained 100 multiple choice questions divided into
+
+		a) Verbal ability  (15 ques)
+		b) Numerical aptitude (15 )
+		c) Logical and analytical ability (15)
+		d) Elementary computer science (10)
+		d) Programming langauages (20)
+		e) Operatins systems and Data structures (25)
+
+Not sure about the number of questions.
+
+Verbal ability questions contained 3 parts. 
+a) One passage is given and U have to answer 5 questions
+b) Some words are given and their synonyms have to be written
+c) 
+
+Numerical aptitude and Logical questions were the usual stuff.
+---------------------------------------------------------------
+I had 4 rounds of interview.
+First round (around 45 minutes) contained, questions from Real-time
+-----------
+Systems (my research area), operating systems and Software Engineering
+
+Explain U'r research work.
+
+What is a Real-Time System ?
+What is the difference between Hard and Soft real-time systems ?
+What is a mission critical system ?
+What is the important aspect of a real-time system ?
+
+Explain the difference between microkernel and macro kernel.
+Give an example of microkernel.
+Why paging is used ?
+Which is the best page replacement algo and Why ?
+
+WHat is software life cycle ?
+How much time is spent usually in each phases  and why ?
+Which one do U want to work if selected in Honeywell ?
+( I said I don't like testing )
+They asked why ? 
+I said it is a boring job. Then they tried to analyse
+the knowledge in testing.
+
+What is testing ?
+Which are the different types of testing ?
+Then they explained the way they do testing. They said that they are
+doing testing in requirement phase and design phase so that if any
+problem comes in those phases it is not ncecessary to go back and change
+the requirement or design. All the test processing is automated.
+
+Why do U want to join Honeywell ?
+Ans : To get a practical feeling of Real-time systems. 
+
+Do U know C++ ?
+How good are U in C and C++ ?
+Rate U'rslef in both C and C++. ( 1 - 10 marks)
+
+Second round (around 45 minutes ) 
+------------
+They wanted a bio-data at the time of inteview. I gave the placement
+office bio-data and in that one there was column 'Major subjects
+studied'. Many of the questions came from those.
+
+Explain U'r research work.
+Lot of questions from it.
+
+What is a distributed system ?
+Some questions about CSP. ( I kept quiet)
+Which languages do U know ?
+What are the differences between Pascal and C.
+I said Pascal is a strongly typed language.
+Then what is typing  and its advantages ?
+Then he asked some questions from Compiler construction and Lisp.
+
+WHich are the different computer architectures ?
+What is the requirement in MIMD ?
+What is the difference between RISC and CISC processors ?
+Difference between loosely coupled and tightly coupled systems ?
+What is an open system ?
+
+Still a lot of questions from software engineering .
+Which are the different phases in Software life cycle (asked again)
+Why is analysis and testing phases very important ?
+Which methodologies are U familiar with ?
+
+Have U worked in windows ? (Yes)
+What is the difference U have seen from a Dos environment ?
+I said it event driven .
+So what do U mean by event driven ?
+How do WinMain look like ?
+How the messages are processed in Windows ?
+(Queue of events)
+What are parameters needed to distinguish an event ?
+
+Have U done any network programming ?
+Why networks are layered ?
+What is the advantage of that ?
+How many layers are there in OSI ?
+WHy is it called OSI model ?
+Are U familiar with network topologies ?
+Which are the different network toplogies ?
+Tell an example of bus type network.
+I said ethernet.
+What is the Bandwidth of ethernet ?
+Explain the advantage and disadvantage of ethernet ?
+Which is the protocol used in ethernet. (CSMA/CD)
+Why is it called so ?
+If all stations tries to communicate at same time, what will happen.
+What is binary exponential backoff algo ?
+
+What is the advantage of Ring network ?
+Compare it with ethernet.
+In a real-time system which one do U prefer and why ?
+What is the basic requirement of a real-time network ?
+Which one is costly - ethernet of ring networks ?
+
+Some questions form OOSD and Digital signal processing.
+What is inheritance, encapsulation etc.
+
+Third Round (15 minutes)
+-----------
+Asked about the percentages and marks during SSC, PDC, B.Tech and MS.
+When can U join ?
+Who is U'r guide ?
+U are from which place ?
+Where is it in Kerala ?
+How do U perform in the first two interviews ?
+WHy have U given Honeywell as dream job ?
+Some more personal questions
+
+Fourth Round (45 minutes)
+------------
+What do U like in Bangalore ?
+I said the weather and all my friends are here.
+Asked about my family members.
+How do  U interact with friends ?
+How do adjust to a new environemnt ?
+Suppose U solve a problem and after that U are getting an almost same
+problem with high complexity ( and lower complexity). How will U
+approach to the next problem. 
+What is U'r approach towards a new subject ?
+How do U prepare for exams ?
+Suppose in a project meeting, somebody fires U, how will U react ?
+Are U patient enought to wait in long queues ?
+Still some more which I don't rememebr.....
+
+- Santhosh
+
+#######################################################################
+#                                                                     #
+#   I Santhoshkumar                     skumar%bronto@iitm.ernet.in   #
+#   Room No: 211,                       skumar@pdc.iitm.ernet.in      #
+#   Tapti Hostel,                                                     #
+#   IIT, Madras - 600 036.                                            #
+#                                                                     #
+#   Ph: 2351892                                                       #
+#                                                                     #
+#######################################################################
+
+
+regards
+Suresh T.B.(teebee)		   sunny@indy.iitm.ernet.in
+     http://www.geocities.com/SiliconValley/Lakes/4344/
+____________________________________________________________
+   308 Brahmaputra, IIT Madras, India - 600036
+
+
+

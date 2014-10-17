@@ -1,0 +1,84 @@
+                                                                                                                              
+Q1)if we have to write a character at location 2000 syntax is
+as char * ptr=(char*)2000 and then write character at this location.what will
+be the sytax to write a function at location 1000 and then call this function.u
+may assume the function.
+                                                                                                                             
+Q2)which operating system produced by the MICROSOFT is the real time operating
+system.how?give examples of soft real time operating system and the hard real
+time Operating system.
+                                                                                                                             
+Q3)if n is the number of processes,which scheduling algorithm
+   should opt for small value of n.why?
+                                                                                                                             
+Q4)A table contains less than 10 elements which one is fastest
+a. bubble sort
+b. selection sort
+c. quick sort
+how?
+                                                                                                                             
+Q5)if n is the number of node ,then .max and avg. height of sorted binary tree
+will be _______&_________respectively how?
+                                                                                                                             
+Q6)write a macro two swap two nibbles of a byte.
+                                                                                                                             
+Q7)how r page faults handled in unix.
+                                                                                                                             
+Q8)linker is use to resolve extenal references.what is the meaning of this
+line?
+                                                                                                                             
+Q9)what is E.F.CODD RULE?
+                                                                                                                             
+Q10). What are the various IPC mechanisms? Why is message passing costlier than
+semaphore?
+                                                                                                                             
+Q11)Give a general algo for converting a m-ary tree to a 2-ary tree.
+                                                                                                                             
+Q12)CPU scheduling, which is best and why?
+        Which will cause starvation?
+                                                                                                                             
+Q13)for an application which exceeds 64k the memory model should be
+> a)medium
+> b)huge
+> c)large
+> d)none
+                                                                                                                             
+Q14)unix system is
+> a)multi processing
+> b)multi processing ,multiuser
+> c)multi processing ,multiuser,multitasking
+> d)multiuser,multitasking
+                                                                                                                             
+Q15)what is the difference b/w scalar and vector datatypes.
+explain with examples?
+                                                                                                                             
+q16)what is the difference b/w function and procedure?
+                                                                                                                             
+q17)what is the stringaise operator and what is the use of it?
+                                                                                                                            
+Q18)what is the meaning of sessions in session layer of osi layer model?(asked
+in hughes interview)
+                                                                                                                             
+Q19)what does bigoh represent in o(n).
+                                                                                                                             
+Q20)how are left and right rotations takes  place in AVL tree.
+                                                                                                                             
+Q21)What is the use of B+ TREES.explain with an example
+                                                                                                                             
+Q22)what is bit slice processor?
+                                                                                                                             
+Q23)which representation in for loop will be fast
+        i)for(i=0;i<n;i++)
+        ii)for(i=n;i>0;i--)
+        why?
+                                                                                                                             
+Q24)what are skewed trees?
+                                                                                                                             
+Q24)if u have the choice to implement the best page replacement algorithm then
+which algorithm u will choose.
+                                                                                                                             
+Q25)if u have name as well as salary(unique 4 everyone) of 10 people in the
+database.write a sql command to find the name of the person having second
+highest salary.
+                                                                                                                             
+Q26)16 bit mantissa and 8 bit exponent can present what maximum value?how?

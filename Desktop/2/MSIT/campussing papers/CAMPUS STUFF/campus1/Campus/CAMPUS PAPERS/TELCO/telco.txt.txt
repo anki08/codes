@@ -1,0 +1,295 @@
+The order of the questions is not the same as in the question 
+paper.There were two sections apti &technical. Both had 40 questions nad the 
+time for each section was 30 minutes.
+
+APTITUDE:
+1. a long expression 164m2n2+…………+300n+225.what is the square root of 
+this expression.
+Ans. (a)8mn--15
+
+2.In a town there are 3 clubs A,B and C having 40,50 and 60 members. 10 
+people are members of all clubs.70 people are 
+members of only one club.and all people are members of at least one 
+club.find how many people are members of exactly two clubs.
+ans : 25
+*******
+3.Two persons are walking towards each otherand then back to there 
+original places.. One is at A and and the other is at B. they meet first 
+time at a distance of 12 km from B and while returning they meet at a 
+distance of 6 km from A.find the distance AB. .
+ans. 30         bakwas.
+*******
+4. value of     . 
+Ans. 3.
+5.one question based on the formula V2-U2=2aS.
+Ans. -1.6m/s2.
+6. pick the odd one out: (a)bull (b)mule(c) bear (d) stag.
+Ans. Mule   
+7. analogy - sly:fox:: fast:?.
+Ans. Cheetah.
+8. find the word which has the meaning : without fear of punishment.
+Ans. Impunity.
+9. Astranaut:cosmonaut::?: ?
+find thw pair which has opposite meaning to the given pair.
+Ans. (c)aviator:navigator.
+
+10.n is the no. of copies in(OF) each book. b is the no. of books. 
+nb<200. if n is decreased by b increases by 3. what is the value of nb?
+
+11.there was a problem on clock. The clock shows 12:15p.m. on march 1. 
+it stops for I min after each hour. What is the actual time whan the 
+clock shows 1:30 p.m.on march 3.  
+                 ANS:   LATE2 :19p.m
+
+12. There are 3 letters and 3 envelopes. In how many ways one can send 
+1 letter wrong. Ans. None of these. ( DO NOT WASTE TIME ON SOLVING THIS 
+QUESTION.) 0
+
+13.2<=x<=4, and 1<=y<=3. Max and min value of x/y.
+Ans. Max 4, min 2/3.
+
+4-5 questions were on assertion reasoning. One question is given. Two 
+sentences are given. Then 4 choices. A if only one statement is needed 
+to answer the question.etc.
+the following 3 questions are of assertion reasoning type.
+
+14.f(x)=2ax2+bx-c. dy/dx=some value(given I forgot). Find b.
+ans.(a)
+
+15.(p-x)/(q+x)=2.  (p…)/(q+x)= some value. 
+Ans. (d) none of these.
+
+16.There are four consecutive even integers. Their average is 12.  can 
+u find the no.s
+then two statements which I have forgotten.
+Ans.(a)
+
+17.There was a reading comprehension. One question was to give a 
+suitable title for the passage.
+ There were 3 other questions from the same passage.
+
+21..Data interpretation. there was a bar chart given for the production 
+and consumption of oil of 6 or 7 countries. There were 6 questions 
+based on the chart.i don't remember the questions exactly. But I remember 
+the ans of some which I am giving.
+
+Ans of first question was 3/2.
+Ans of 2nd ques was 40.
+Ans of 4th was finland.
+
+27. unit of luminous intensity.
+Ans  candela.
+
+28.Find the value of 
+[(1/99)3+(1/100)3+(1/101)3-3*(1/99)*(1/100)*(1/101)]       /    
+[(1/99)2+(1/100)2+(1/101)2-(1/99)*(1/100)-(1/100)*(1/101)-(1/101)*(1/99)]
+
+ans. (1/100)+(1/99)+(1/101).
+
+28. A and B together do a work in 10 days. A is paid thrice than B. 
+Equal wage  is given for equal work. Then in how many days B can do the 
+work alone?
+Ans. 40 days.
+
+29. Subhas works 2 hrs. and Kiran works 5 hrs then half the work is 
+completed. Then they work together for 3 hrs. then 1/20 of the work 
+remains to be done. Then how much time will they take to complete the work 
+alone?
+Ans. Subhas - 12hrs. Kiran -  15 hrs.
+ 
+
+Then there were 6 questions on analytical reasoning. There is an island 
+named kya kya. There only two kinds of people live one who ( aisa hi 
+kuch tha bahut hi bakwas tha. Kuch samajh nahin aaya tah.) for this the 
+BRM (ims) may be helpful.
+
+ 
+30.   there was some question like [(3n+4)(5m+4)]2 = some big 
+ex-pression. 
+Ans: can be found out by multiplying the constants and the first term 
+i.e. (3nX5m)2i.e. work backwards from the answers. This was the first 
+question in our paper
+
+31.  A watch at every hour strikes the pendulum and in this it looses 
+one minute, i.e it looses one minute at 12 o clock, 1.o clock, and so 
+onK If the clock starts exactly at 12:00 then what time will it be when 
+the clock shows 1:30 next day. 
+       ANS : questin was very easy, just find the no. of hours (say x)  
+between the two given times and then add that minutes equal to [x] to 
+the time shown by the clock and u will get the answer.
+
+32.  sqrt(6+„Ï(6+„Ï(6+¡K¡K=Y, where „Ï means square root.FIND Y.
+  ANS :  3  in this question the root is over the whole expression and 
+not just on 6.This was 2nd or 3rd question of our paper.
+
+33. Two cars Ferrari and masserati are heading towards each other on a 
+crash track with speeds 50kmph and 40 kmph respectively. Both the cars 
+started when they were 90 km apart. As soon as the cars starts moving 
+towards each other, a bee sitting on the hood of the Ferrari , starts to 
+move towards the messarati with a speed of 100kmph, and after touching 
+it it flies back towards Ferrari and so on, till they collideK Find the 
+total distance traveled by the bee.
+Ans. 100 km. The answer can be obtained by finding the total time taken 
+to crash, and then multiplying it by the speed of the bee.
+
+34.There was one question on the decelaration of a car, I don't 
+remember the statics, 
+              BUT ANS : the answer was probably V3.***. There will be 4 
+options given 1.***, 3.***, -1.***,-3.***. So it will be easy for you 
+to identify the answer as there will be only one answer with V3.***. 
+Also you can work with the formula v2 ¡V 	u2 = 2as.
+ 35.    It was given that on a  Kya Kya island  there are only two kind 
+of people. One type asked questions whose answer was always yes. While 
+the other asked question whose answer was always no. now there were 
+around 5 questions given on this info.. they were pretty easy. Just use 
+your logic. I don't remember all the question. But just for example,
+I can give you a question:
+U are a visitor  on the island and one person asks you ¡§Am I of the no 
+type?¡¨ now think which type the person is? No , yes or it cannot be 
+determined from the question meaning the question is illogical. All the 
+question could be worked out with such simple logic. 
+
+                                             
+                                                          MECHANICAL 
+QUESTION  
+                                      Now the technical part. I am 
+giving the mechanical paper.
+
+The first FOUR ( 4 ) ques were on calculation of fits and tolerances
+         1.calculate basic deviation.
+         2.maximum clearance.
+         3.tolerance in clearance.
+The dimensions for shaft and hole were given in a picture.(FOR THESE 
+QUESTIONS SEE THE CHAPTER DEALING WITH TOLERANCES IN V B Bhandari or 
+KHURMI GUPTA)
+
+4. The key used in slot is which fit?
+(a)interference, (b)shrink (c)clearance. I don't know the ans.
+   clearance
+
+5. What is the function of MIR command in CNC machine?
+Ans. To give mirror image along a particular axis.
+
+6. What is the part in CNC machine which gives the exact position of 
+the x and y coordinates.? 
+Ans. Interpolater.
+
+7. in an anthromorphic robot there are three motions of the wrist roll, 
+yaw and pitch.
+Determine which one is along y axis, which along z axis and which along 
+x axis.
+  ANS :  ROLL :             PITCH :                 YAW : 
+ 
+ There was a diagram of the cutting tool showing the shear angle and 
+the rake angle.
+8. what is the angle a? Ans. Rake angle. (THE ANGLE IS GIVEN AS a AND 
+NOT ?. SO DO NOT CONFUSE IT WITH THE CLEARANCE ANGLE.)
+9. what is the formula of the chip reduction coefficient?
+Ans. Cos(ß-a)/sinß.(B IS SHEAR ANGLE AND A IS RAKE ANGLE)
+
+10. the order of cope , drag and cheek in the process of moulding.
+(a) drag,cope,cheek (b) cope, cheek, drag.  Etc.  ans. Don't know.
+DRAG,CHEEK,COPE
+
+11. non consumable electrode is used in which welding?
+Ans. TIG welding.
+
+12.In power plant, nuclear plant and space ship what is the method used 
+for maintanence?
+(a) breakdown maintenance (b) preventive maintenance.
+Ans is most probably  (b).
+
+13. Internal gear cannot formed by?(a) shaping (b)broaching (c) milling
+Ans. Shaping.
+
+14. Feed is not associated with any type of motion in which process?
+Ans.  Broaching.
+
+15. The no. of teeth in a milling cutter is 8. the feed per teeth is 
+0.1 mm. The cutter speed is 150 rpm. What is the table speed? 
+Ans.  8*0.1*150=120mm/min. 
+
+16. If aspect ratio of something is more than 50 i.e. 
+length>50*diameter, then by which method will u make the object?
+(a) drill with 1 mm diameter.
+(b) laser machining.
+(c) ultrasonic machining.
+Ans. (b)
+
+17.Match the following.
+Isobaric                                        throttling
+Isentropic                                     slow movement of piston 
+in a cylinder.
+isochoric                                       closed cylinder.
+Isothermal                                     
+ Don't remember the answer.
+
+18.The pitch of a screw in an interpolator is 2 mm. the thread is 
+double start. And there are 200 holes. Find the BLU.
+Ans. (2*2)/200 = 20 micrometers.
+
+19. Then a question on double acting compressor.
+
+There were  6  ( SIX ) questions on assertion reasoning. Two statements 
+are given .
+Then mark (a) if A and R are both correct and  R is the correct 
+explanation for it.
+I remember only two questions from there.
+20. This question was regarding the insulation on a cylinder. Whether 
+it has some critical radius for minimum heat transfer.
+21. A bob is hung with a thread from the ceiling. Another bob moving at 
+speed in x direction hits it. Then  
+                          R . the momentum of both bobs is conserved in 
+x direction. 
+                           A. Kinetic energy of both bobs is conserved.
+
+22. At the point of contact in the meshing of two gears what is same?
+(a) angular velocity (b) linear speed etc.
+Ans. (b).
+23. .Marameter is used for  what? (manometer = 
+24..question related with guage.
+25. .why bolts r made of steel not cast iron? ans. tensile stress.
+26. .fuel quality in CI engine for antiknocking. ans : all of these
+27.a ques. on 3 figure s of U tube & it was to find out which  fig.
+denotes atm,absolute & vaccum pressure. 
+          (pressure mesuring from atm. pressure    Upward = gauage pre. 
+                                                                        
+Downward = vaccum pre. )
+28. a ques relating to some green curve on CNC m/c.
+                                                                                                                                     
+30 . a body given and u asked to find whether when the body is in 
+stable equilibrium 
+ I.E.   CG ,Meta centre and centre of buoyancy relative position(when 
+F(G)=F(B) and CG  below  the center of buoyancy 
+					             F(G)=F(B) and CG and  center of buoyancy at same 
+point) 				
+29.      gyrator is equal to motor 
+          transformer = lever 
+          inertia= mass in the mech system ,,,,,(this is not the answer 
+...u will be asked questions 
+
+on the equivalence of this )
+
+30.    2 gases are mixed suddenly ...would the entropy change /remanin 
+constant /increase /decrease
+	ans: increase
+why does knocking take place..delay /bad fuel mixtures 
+
+31  turbine and compressor inefficiency affecting overall functioning 
+of powerplant
+
+A data interpretation Question would be on exports and imports of 
+various contries and their importing from the other countries                                                                                            
+32 define the point of the absolute pressure,gauge pressure,atmosphere 
+pressure(fig was there to locate the points)                     
+
+33 a question about rotameter.(reasoning assertion)
+
+gd topics
+
+best employer except tatas
+best movie of last millenium
+privatisation and disinvestment
+resumption of cricket relations between india and pak
+
+

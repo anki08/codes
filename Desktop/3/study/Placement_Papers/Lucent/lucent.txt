@@ -1,0 +1,356 @@
+          ----------------------------
+          LUCENT TECHNOLOGIES SOFTWARE
+          ----------------------------
+~~~~~~~~~~~~~~~~~~ Paper - 1 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Following are the some sample questions:
+
+Genaral:
+--------
+1.6*12*15 is the volume of some material.How many cubes can be inserted
+  into that? Ans.40
+2.Two pipes can fill a tank in 10 1nd 12 hours while third pipe will
+  make the tank empty in 20 hours.If all three pipes operate simultaneously,
+  in how many hours the tank will be filled ? Ans.7hours 30 minutes.
+3.Diameter of a beaker is 7cm. Mambler(some instrument) dia is 1.4cm.
+  How many mamblers has to be put to increase the water level by 5.6cm.
+4.Cost of an item is x. It's value increases by p% and decreases by p%
+  Now the new value is 1 rupee, what is the actual value.
+  Ans.(1000)/(1000-p*p).
+5.A right circular cylinder and a cone are there.Base radius of cone is 
+  equal to radius of cylinder.What is the ratio of height to slant side.
+6.Distance between two poles is 50 meters.A train goes by 48 kmph in one
+  minute.How many poles will be crossed by the train.
+7.A pole seen from a certain distance at an angle of 15 degrees and 
+  100 meters ahead by 30 degrees. What is th height of pole.
+8.15 people--each has to pay Rs.20..
+  20 people--each has to pay Rs.18..
+  for 40 people--how much has to pay ?
+9.if p=2q then q=r*r,
+  if p-odd then q is even,
+  whether we decide r is even or odd ?
+  choices:a)first condition is sufficient
+          b)second condition is sufficient
+          c)both are sufficient
+          d)both are not sufficient
+10.What is the value of m given that
+   i) m is devided by 2
+   ii) m is devided by 5
+Ans: none of these
+11.If he sells 40 magoes, he will get the selling price of 4 mangoes
+   extra, What is his % increse in profit ? Ans: 25%
+12.100 glasses are there. A servant has to supply glasses to a person
+   If he supplies the glasses without any damage he will get 3 paise
+   otherwise he will loose 3 paise.At the end of supplying 100 glasses
+   if he gets 270 paise, how many glasses were supplied safely.Ans: 95
+
+*** Some questions on reasoning 
+
+Electronics.
+------------
+1.Fastest logic ..Ans: ECL
+
+2.202.141.65.62 type of IP address belong to which class. Ans:class B
+
+3.Mod K ring counter requres how many number of flipflops.Ans:K
+
+4.ftp is in application layer.
+
+5.Problem related to Ternary operations. Ans:3
+
+6.Problem related to macro # define square x x*x. Ans:11
+
+7.Problem related to 5 pointers..refer Page.123 of C prog.,by Keringan
+  and Ritchie.
+
+8.Ideal op-amp CMRR. Ans: infinity.
+
+9.13-bit DAC MSB resistance 2kohms.
+             LSB resistance ?
+  Ans: 2k * 2 to the power of 12.
+
+*** Few question related to C++
+~~~~~~~~~~~~~~~~~~~~` Paper -2 ~~~~~~~~~~~~~~~~~~~~~~~~
+
+s paper was contributed by Mr. Thejo Prakash pillai 
+I am thankful to him for this
+
+ Paper Model:
+  Section I:   computer awareness(i.e general things about computer)   Q.15
+  											             -ve marks: 1/4
+            
+  Section II:  Simple  C- language  		Q. 15     &amp;  -ve marks: -1/4 
+
+  Section III: On pointers &amp; structures
+                and C++,JAVA( only 1 on this)  Q.10    each quetion -&gt;2 marks
+													   -ve marks: -1
+  Section IV:   Analytical                   Q.20     each quetion -&gt; 2 marks. 
+													   -ve marks: -1/4
+
+
+Murthy from each section I am giving one are to quetions also because for
+checking whether the same paper or not.
+    And for doubtful answers also I am writing quetions but not writing answers
+for these quetions.
+
+
+								Section-I
+
+1). Piggy backing is a technique for 
+
+a) Flow control b) sequence  c) Acknowledgement   d) retransmition
+
+ans:   c    piggy backing
+
+
+2). The layer in the OST model handles terminal emulation
+
+a) session  b) application  c) presentation  d) transport
+
+ans: b  application
+
+3)  ans:  a		odd numbers of errors
+
+
+5) c		20
+
+6) a		120
+
+7) b		synchronise the access
+
+
+9) b		the operating system
+
+10) a		177333
+
+11) d   	used as a network layer protocall in network and windows system
+
+12) b		has to be unique in the sub network 
+
+13)Q. there is an employer table with key feilds as employer no. data in every
+ n'th row are needed for a simple following queries will get required results.
+
+  a) select A employe no. from employe A , where exists from employe B
+where A employe no. &gt;= B employe having (count(*) mod n)=0 
+  b) select employe no. from employe A, employe B where
+A employe no. &gt;= B employ no.   grouply employe no. having (count(*) mod n=0 )
+  c) both a&amp; b
+  d)none of the above
+
+14)Q. type duplicates of a row in a table customer with non uniform key feild
+customer no. you can see
+
+a) delete from costomer where customer no. exists 
+( select distinct customer no. from customer having count )
+b) delete customer a  where customer no. in
+(select customer  b where custermer no. equal to b custemor no. ) and a rowid &gt;
+b rowid
+c) delete customer a where custermor no. in 
+( select customer no. from customer a, customer b )
+d) none of the above
+
+
+
+----------   Section I over with 15 quetions   -------------------
+
+
+
+ 						SECTION-II
+
+Section II is not covered completly But it is very very easy. You can do it 
+ very easely.
+
+
+1)   ans: recursion 
+
+2) long int size 
+   a) 4 bytes  b) 2 bytes  c) compiler dependent  d) 8 bytes
+ans: compiler dependent
+note: order of a,b,c,d are doubt but answer is correct.
+
+3) x=2,y=6,z=6
+x=y==z;
+printf(%d&quot;,x)    ?
+
+4) if(x&gt;2)?3:4  
+
+5)
+
+6) 
+
+
+8) ----
+---
+---
+--
+14)  c : class A,B and C can have member  functions with same name.
+
+
+
+
+
+
+
+
+
+                       SECTION-III
+
+
+1) ans: b		It  does not work when rp is the last element in the linked list
+
+2) ans: a   	always
+
+3) ans: b 		13
+
+4) ans: b       16
+
+
+7)  ---
+
+8) ans:d		4
+
+9) ans: c		5
+
+10)ans: c       semicolon missing
+
+
+
+ 						SECTION-IV
+
+
+
+
+following are not in order:
+
+ 2. M &gt; D &gt; Y        ans: (a)
+ 
+ 6. 10 in 4 seconds,
+     ? in 6 minutes         = 10x6x60/4  = 900    ans: (a)
+
+ 8. 100(100000000+100000000)/10000 = 2x1000000 (ans).
+
+
+ 10. Q is not equal to zero   and  k = (Q x n - s)/2    find  n?
+    (a) (2 x k + s)/Q  (b) (2 x s x k)/Q   (c) (2 x k - s)/Q
+    (d) (2 x k + s x Q)/Q   (e) (k + s)/Q
+
+
+
+
+  (from GRE book page no:411)
+    data:
+     A causes B or C, but not both
+     F occurs only if B occurs
+     D occurs if B or C occurs
+     E occurs only if C occurs
+     J occurs only if E or F occurs
+     D causes G,H or both
+     H occurs if E occurs
+     G occurs if F occurs
+
+NOTE: check following answers.
+
+ 11. If A occurs which of the following must occurs
+     
+      I. F &amp; G
+     II. E  and H
+    III. D
+
+    (a) I only   (b) II only  (c) III only  (d) I,II, &amp; III
+    (e) I &amp; II (or) II &amp; III but not both             ans: (e)
+
+ 12. If B occurs which must occur
+
+    (a)  D   (b) D and G  (c) G and H  (d) F and G  (e) J   ans: (a)
+
+ 13. If J occurs which must have occured
+
+    (a) E  (b) either B or C  (c) both E &amp; F  (d) B  (e) both B &amp; C  ans: (b)
+
+ 14. which may occurs as a result of cause not mentioned
+
+    (1) D   (2) A   (3) F
+
+    (a) 1 only  (b) 2 only  (c) 1 &amp; 2  (d) 2 &amp; 3  (e) 1,2,3    ans: (c)
+
+ 15. E occurs which one cannot occurs
+
+    (a) A   (b) F   (c) D   (d) C   (e) J              ans: (b)
+
+ 11 to 15:-    -----------  e , a , b , c , b ---------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~ Paper - 3 ~~~~~~~~~~~~~~~~~
+lucnet - 99
+          ----------------------------
+          LUCENT TECHNOLOGIES SOFTWARE
+          ----------------------------
+Following are the some sample questions:
+
+Genaral:
+--------
+1.6*12*15 is the volume of some material.How many cubes can be inserted
+  into that? Ans.40
+2.Two pipes can fill a tank in 10 1nd 12 hours while third pipe will
+  make the tank empty in 20 hours.If all three pipes operate simultaneously,
+  in how many hours the tank will be filled ? Ans.7hours 30 minutes.
+3.Diameter of a beaker is 7cm. Mambler(some instrument) dia is 1.4cm.
+  How many mamblers has to be put to increase the water level by 5.6cm.
+4.Cost of an item is x. It's value increases by p% and decreases by p%
+  Now the new value is 1 rupee, what is the actual value.
+  Ans.(1000)/(1000-p*p).
+5.A right circular cylinder and a cone are there.Base radius of cone is 
+  equal to radius of cylinder.What is the ratio of height to slant side.
+6.Distance between two poles is 50 meters.A train goes by 48 kmph in one
+  minute.How many poles will be crossed by the train.
+7.A pole seen from a certain distance at an angle of 15 degrees and 
+  100 meters ahead by 30 degrees. What is th height of pole.
+8.15 people--each has to pay Rs.20..
+  20 people--each has to pay Rs.18..
+  for 40 people--how much has to pay ?
+9.if p=2q then q=r*r,
+  if p-odd then q is even,
+  whether we decide r is even or odd ?
+  choices:a)first condition is sufficient
+          b)second condition is sufficient
+          c)both are sufficient
+          d)both are not sufficient
+10.What is the value of m given that
+   i) m is devided by 2
+   ii) m is devided by 5
+Ans: none of these
+11.If he sells 40 magoes, he will get the selling price of 4 mangoes
+   extra, What is his % increse in profit ? Ans: 25%
+12.100 glasses are there. A servant has to supply glasses to a person
+   If he supplies the glasses without any damage he will get 3 paise
+   otherwise he will loose 3 paise.At the end of supplying 100 glasses
+   if he gets 270 paise, how many glasses were supplied safely.Ans: 95
+
+*** Some questions on reasoning 
+
+Electronics.
+------------
+1.Fastest logic ..Ans: ECL
+
+2.202.141.65.62 type of IP address belong to which class. Ans:class B
+
+3.Mod K ring counter requres how many number of flipflops.Ans:K
+
+4.ftp is in application layer.
+
+5.Problem related to Ternary operations. Ans:3
+
+6.Problem related to macro # define square x x*x. Ans:11
+
+7.Problem related to 5 pointers..refer Page.123 of C prog.,by Keringan
+  and Ritchie.
+
+8.Ideal op-amp CMRR. Ans: infinity.
+
+9.13-bit DAC MSB resistance 2kohms.
+             LSB resistance ?
+  Ans: 2k * 2 to the power of 12.
+
+*** Few question related to C++
+
+
+

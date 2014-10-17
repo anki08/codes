@@ -1,0 +1,107 @@
+Hello Bhaskar Garu,
+  Please kindly pass the following matter to Anil
+                                Kishore
+Dear Anil,
+        I am here with giving you the Trigent paper which i recollected
+Paper critriea
+        Section A       20 bits  10 minutes     Quantative
+        Section B       20 bits  15 minutes     Analytical
+        Section C       20 bits   5 minutes     Verbal
+        Section D       15 bits  30 minutes     Flowcharts
+In every section the order of the questions may change
+They will maintain time very perfect for every individual section.
+Section A: Out of 20 bits here i recollected only 18 bits
+1. A lending library charges C cents for the first week that a book is
+loaned and F cents for each day over one week.What is the cost for taking
+out a book for D days,where D is greater than 7. Ans: C+F(D-7)
+2.In a fig. ABlBc,BClCA,AB=8,BC=5,CD=4 then the shortest distance between
+A and D is                                       Ans: 13
+3.In a class composed of X girls and Y boys.What part of the class is
+composed of girls                                Ans: X/(X+Y)
+4.There are 200 questions on a 3hr examination.Among these questions are 50
+mathematics problems.It is suggested that twice as much time be allowed for
+each other question.How many minutes should be spent on the mathematics
+problem                                          Ans: 72 minutes
+5.If r=Sqrt((3*v)/(Pi*h)) by what number must we multiply V in order to
+multiply r by 9?                                 Ans: 81
+6.If 13 = ((13*w)/(1-w)) then sqr(2w)=           Ans: 1
+7.If a and b are positive integers and (a-b)/3.5 = 4/7 then  Ans: b < a
+8.A train covers the distance d between two cities in h hours arriving 2 hrs
+late.What rate would permit the train to arrive on schedule?
+                                                 Ans: d/(h-2)
+9.To which of the following (a/b)-(a/c) equals   Ans: (ac-ab)/bc
+10.A triangular plot with sides of 28 feet,35 feet, and 56 feet is to be
+surrounded by a fence built on posts set 7 feet apart.After posts are placed
+at each corner how many additional posts will be needed? Ans:14
+11.If 9x-3y=12 and 3x-5y=7 then 6x-2y=           Ans:8
+12.A rectangular fish tank 25" by 9" has water in it to a level of 2".This
+water is carefully poured into a cylindrical container with a diameter of 10"
+How high ( in terms of Pi) will the water reach in the cylindrical container?
+                                                 Ans:18/Pi
+13.(146x117)+(173x146)+(146x210)=                Ans:73000
+14.If 7x-5y=13, and 2x-7y=26, then 5x+2y=        Ans:-13
+15.In right triangle ABC, if A>B and B>C then    Ans:Angle A = 90
+16.A piece of cloth y yards long had f feet cut from one end and i inches
+from the other end.The present length(in feet) of the piece of cloth is
+                                                 Ans: 3y-(f+i/12)
+17.Th expression (6/x)/(3/x) is equivalent to    Ans: 2
+18.If a and b are positive integers and (a-b)/3.5=(4/7) then  Ans:b<a
+
+Section B
+I) The letters A,B,C,D,E,F and G not necessarily in that order,stand for
+seven consecutive integers from 1 to 10
+        D is 3 less than A.
+        B is the middle term.
+        F is as much less than B as C is greater than D.
+        G is greater than F.
+  1. The fifth integer is
+  2. A is as much greater than F as which integer is less than G
+  3. If A=7,the sum of E and G is
+  4. A-F=
+  Like the above questions you may expect other
+  Ans: The order of the integers is E F D B C A G By this order you can
+  answer to the above questions.
+II)The organizer of Local 58 of the hospital workers is forming a five-person
+team to leaflet a nearby hospital.The team must contain two persons to distr-
+ibute leaflets,one speaker to address the workers who stop,and a two person
+defence squad.A,B and C are possible leafletters;C,D and E are possible
+speakers;F,G and H are possible memebers of the defence guard.A and C prefer
+to work with each other on the same team.E prefers to only if F works.
+ 1.Which choice of personnel is impossible if all prefernces are respected?
+ Ans:B and C as leaflets
+ 2.If A and B are leafletters and all preferencec are respected which are
+ true? I.C is the speaker II.F is on defence III.Either F or G is on defence
+ Ans:I and III only
+ 3.Which is the possible team if all preferences are respected?
+ Ans:A,B,C,F,G
+ 4.If A is chosen as a memeber of the team and all pregerences are respected
+ ,which must be true?
+ Ans:Any of the three defence personnel may go
+ 5.How many different possible teams can the organizer assemble,if all
+ prefrences are respected? Ans:8
+ 6.Which person(s) must be chosen as part of any team,if all preferences are
+ respected? I A II E III F
+ Ans:I only
+ 7.Which person can be part of the smallest number of different possible teams
+ , if everyone's preferences are respected? Ans:E
+ III)All A's,B's,C's,D's,E's and F's are Q's
+ All A's are B's
+ No B that is not an A is an F
+ Some C's are A's
+ All D's are C's
+ Some C's are not B's
+ No D is an A
+ All Q's and only Q's that are neither B's nor C's are E's
+ 1.Which of the following can be deduced from the information given
+ Ans:All F's are A's,C's,or E's
+ 2.Which must be false if the information given is true?
+ Ans:Some Q's are neither B's nor E's
+ 3.Which cannot be shown to be true or false on the basis of the information
+ Given?
+        I       No B or C is an E
+        II      Some C's are B's but not A's
+        III     No B is both an A and a D
+   Ans:II only
+ 4.P is not a B.Which of the following must be true?
+ Ans:If P is a Q,it is an E or a C.
+                        

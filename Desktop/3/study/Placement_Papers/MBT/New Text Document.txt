@@ -1,0 +1,76 @@
+M.B.T:paper pattern only
+
+__________________________
+
+Section-1. Passage (10 min reading ,5 questions)
+
+Section-2. English (error finding,15 questions)
+
+Section-3. Number series (Letter series also)
+
+Section-4. Analytical ability (5 questions)
+
+Section-5 Numerical ability (additions,multiplications etc)
+
+note: -marking 1:1
+
+Intergraph:paper pattern only
+
+________________________________
+
+Analytical. 1.seating arrangement
+
+2.Inferences
+
+(Ref. GRE book)
+
+C-language. 48 questions - 45 min.
+
+
+1. Diff.between inlinefunction((++)-macns(c)
+
+2. 3 to 4 questions on conditional operator :?:
+
+3. Write a macro for sqaring no.
+
+4. Trees -3 noded tree ( 4 to 5 questions fundamentals)
+
+Maximum possible no.of arrnging these nodes
+
+5. Arrange the nodes in depth first order
+
+breadth first order
+
+6. Linked lists Q) Given two statments
+
+1. Allocating memory dynamiccaly
+
+2. Arrays
+
+Tree the above both and find the mistake
+
+7. Pointers (7 to 8 questions) Schaum series
+
+Pointer to functions, to arrays
+
+4 statements ->meaning,syntax for another 4 statements
+
+8. Booting-def(When you on the system the process that takes place is ------
+
+9. -----Type of global variable can be accessible from any where in the 
+
+working environment ( external global variable)
+
+10. Which of the following can be accessed randomly
+
+Ans. a. one way linked list
+
+b. two way "
+
+c. Arrays
+
+d. Trees
+
+11. Write a class for a cycle purchase(data items req.)
+
+ 

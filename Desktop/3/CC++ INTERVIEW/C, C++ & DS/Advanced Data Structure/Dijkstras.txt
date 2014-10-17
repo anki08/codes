@@ -1,0 +1,16 @@
+0.4.4 Dijkstra's Algorithm - Shortest Path 
+While Floyd's algorithm determines the lowest-cost path between all vertices in a graph, Dijkstra's was designed to find the lowest cost path between a single starting vertex and all of the other vertices in a graph. Dijkstra's can, clearly, be used to obtain the same information as Floyd's algorithm if it is called repeatedly for every vertex in a graph.   
+
+Dikjstra's algorithm is a greedy algorithm which     means, if given a choice, it operates by choosing the biggest or most valuable alternative. 
+
+The first step of this algorithm is to "label" the starting vertex with an ordered pair, (-,0), and initialize a distance counter to one. Next, look at all edges between labeled vertices and unlabeled vertices. If the cost of a particular edge added to the second item in the ordered pair of the initial vertex is equal to the distance counter, label the terminal vertex of this edge (name_of_starting_vertex, distance_counter) and continue this process, incrementing the distance counter by one at each iteration and continuing until all vertices in the graph are labeled. The second member of the ordered pair at each vertex is the lowest cost walk from it to the starting vertex. The first member of the ordered pair of the ordered pair is the node immediately preceding the current node on the shortest path from source to destination. 
+
+The algorithm actually coded is implemented in a slightly different manner. Because it is inefficient to store the distance counter and look at every edge at every increment, I choose to begin at the starting vertex and traverse to all nodes reachable from it. Each node is labelled with a distance from the start and a previous vertex. Each node is also enqueued for later processing. 
+
+Once all nodes adjacent to the starting vertex are processed, labelled and enqueued, the algorithm dequeues the first node. All nodes adjacent to this vertex that have not been visited are labelled and enqueued. Additionally, any node that has been visited but can be reached more cheaply is re-labelled and enqueued. 
+
+This process continues until the queue is empty. The shortest path to a given vertex n is labelled on that vertex. The path can be determined by examining the prior steps recursively back to the starting node.
+
+Dijkstra's algorithm has a complexity of O(N2).
+
+

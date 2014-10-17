@@ -1,0 +1,285 @@
+Round 1:
+--------
+                                                                                                                             
+1) General questions about operations on stacks and queues were asked.
+2) Implementing a queue using an array - just mentioned the circular
+mode of insertions and deletions into the array along with the
+initializations for front and rear pointers.
+3) Implementing a queue using stacks (same solution as Meghana's).
+Error conditions like null pointer dereferencing should be explicitly
+checked for in the code.
+                                                                                                                             
+                                                                                                                             
+Round 2:
+--------
+                                                                                                                             
+1) The n gas station problem mentioned by Meghana. It is given that
+        Total Fuel >= Total Distance
+  We are to find the station from which we are to start, so that we
+can cover all the stations and return to the initial station.
+                                                                                                                             
+Answer: Initially, I gave a O(n^2) answer which tried each of the
+stations in order and tried to get back to the initial node. But, say
+we start from station 1 and get stuck at station 4 (i.e. we can't go
+from 4 to 5) , then we need not restart our search from stations 2, 3
+or 4. So, we restart the search from station 5. Atmost 2n visits will
+be required. Complexity = O(n).
+                                                                                                                             
+I was asked to derive test cases for testing the above algorithm. Some
+cases which were expected were:
+- Increasing number of stations (n) from 0 onwards and checking the
+results.
+- Trying configurations where fuel quantities are all equal and then
+decreasing one of the fuel values and seeing if it fails.
+                                                                                                                             
+2) Give test cases for the atoi function.
+                                                                                                                             
+Answer: Some cases I mentioned were:
+- try out with strings of digits, with different lengths of such
+strings (when the highest int value is exceeded, the output should be
+observed)
+- strings starting with 0X or O and having hexadecimal or octal characters
+- strings with +, -, decimal points, other punctuation marks
+- strings with white spaces, letters and combinations of all the above
+                                                                                                                             
+        Regular expressions for all these were expected (something like lex
+syntax will do)
+                                                                                                                             
+                                                                                                                             
+Round 3:
+-------
+                                                                                                                             
+(This round started off with a general discussion about my MTP topic,
+its feasibility and accuracy of the involved approaches. Some other
+general questions like "What would you like to change about the
+interviews you went through till now?" were asked.)
+                                                                                                                             
+1) Reverse the order of words in a sentence.
+                Ex: This_is__a_tree.
+   becomes          tree_a__is_This.
+   _ is a space here and what I want to convey is that number of
+spaces between any two words must be preserved.
+                                                                                                                             
+Answer:
+        Reverse the string in-place.
+        Reverse each word (detected by a token-delimiter, a space in this case)
+                                                                                                                             
+        Complete C code was expected for this question.
+                                                                                                                             
+2) Check if a binary tree is a binary search tree.
+                                                                                                                             
+Answer: Result of inorder traversal of the tree should be checked to
+see if the  o/p is sorted or not. But, if memory is not available for
+storing the o/p of the traversal, we should do the comparisons online.
+Every left node is compared with its parent and right node is compared
+with its inorder successor (apply rthread concept).
+                                                                                                                             
+                                                                                                                             
+Round 4:
+--------
+                                                                                                                             
+1) A puzzle: There are 2 robots which can execute only one of the 4
+instructions( Move left, Move right, Am I on a parachute?, Have I met
+my buddy?). The code which runs on these is exactly the same. These
+are dropped from a plane one after the other. They land sideways (i.e.
+when they land, they face a direction perpendicular to the flying
+direction). Write the code for both the robots, so that they
+eventually meet each other.
+Answer: The parachutes will be disentangled from the robots once they
+land. So, if the robots were to both move in the same direction (say,
+left), one of them will step over the other's parachute. This fact
+should be used effectively. Since both can't be allowed to move in the
+same direction, we make the robots move i steps in either direction
+where i is incremented by 1 in every iteration, until either of the
+following conditions are met:
+        - the robot steps on the second parachute in say, the left direction or
+        - the robot meets its buddy.
+So, one of the robots will step over the other's parachute and stop
+and the second one will eventually come back to its own parachute and
+meet its buddy.
+                                                                                                                             
+(In fact, the movement of the robots in left direction by i steps and
+i+1 steps in right direction is unnecessary. Every time, the robot can
+move in the left direction by i steps and return to its parachute. (-
+Idea suggested by Mugdha))
+                                                                                                                             
+2) If a fifth instruction "Now, run" was added to the robot's
+instruction set, how will the answer to 1 change?
+                                                                                                                             
+Answer: Make both robots move in same direction (Ex: left). When a
+robot, encounters a parachute, it issues "Now, run" and runs and meets
+its buddy :)
+                                                                                                                             
+3) You are given a character buffer of some MAX size. Count the number
+of 1-lettered words, 2-lettered words and so on.
+                                                                                                                             
+Answer: Make both robots move in same direction (Ex: left). When a
+robot, encounters a parachute, it issues "Now, run" and runs and meets
+its buddy :)
+                                                                                                                             
+3) You are given a character buffer of some MAX size. Count the number
+of 1-lettered words, 2-lettered words and so on.
+                                                                                                                             
+Answer: A MAX sized array can be used and the number of i-lettered
+words will be stored in array[i] and incremented as the buffer is
+scanned. But, this approach is space-consuming, since most of the
+entries will be empty.
+        I refined the solution by suggesting a hash table with say 7 or some
+prime no. of entries. Every word is hashed with the help of the number
+of letters in it and those which hash into the same entry are chained
+as a linked list. This will be efficient in terms of space and time.
+                                                                                                                             
+                                                                                                                             
+4) A domino is a block which can cover 2 adjacent squares of a
+chessboard. Given 31 dominoes, cover the squares of a standard 8x8
+chessboard, in such a way that both squares left uncovered are of the
+same color.
+                                                                                                                             
+Answer: As every domino covers one black and one white square, we can
+never cover the squares as required
+
+Interview 1:
+Duplicate removal from an unsorted array.
+Code the counting version of it, using a single bit to keep track of
+whether a
+number was duplicated or not. Given that the numbers will be in a
+fixed range.
+                                                                                                                             
+Question on test case generation for this.
+                                                                                                                             
+how many times do the two hands of a clock coincide? and why?
+Ans. 11 times in 12hrs-1mins. from 12 o clock.
+                                                                                                                             
+Interview 2:
+                                                                                                                             
+Difference between process and thread.
+                                                                                                                             
+Can a single processor have many processes? How does an OS manage multiple
+processes?
+                                                                                                                             
+Question with circular road having a number of gas stations. Limited tank
+capacity of car. Limited quota (different) at each gas station. Different
+distance between consecutive gas stations. How do you find a gas station
+from where you can start and get around the entire road back to start
+point?
+                                                                                                                             
+Code iterative function for reversal of linked list.
+Many test cases for this. What will be cases for a black box function
+of the
+same. What cases or things to look for if given 3rd party black box
+function
+may be a bad/rogue function.
+                                                                                                                             
+Interview 3:
+                                                                                                                             
+What is stack and heap of a program.
+                                                                                                                             
+Need to make a test environment to test functions. Come up with
+specifications
+for the same. What should be features of that and issues there might be in
+implementing it.
+                                                                                                                             
+Test cases of strcpy function. He specifically was looking for the case of
+overlapping source and destination.
+                                                                                                                             
+Given an array 'a' of size n, and 3 indexes i,j,k such that 0<i<j<k<N
+rotate the part a[i] to a[k] right so that a[j] comes at location i.
+e.g if a = { 1,2,3,4,5,6,7,8,9,10}
+then i=4,j=7,k=9 will give {1,2,3,7,8,9,4,5,6,10} after rotation.
+Write any simple (non-optimized) code for this. Should have no mistakes.
+                                                                                                                             
+Interview 4:
+                                                                                                                             
+2 Robots puzzle: 2 robots fall out of the sky onto a number line, on
+integral
+coordinates. They have to run the exact same program in a syncronized
+manner.
+You have primitives for moving left by one unit, moving right by one unit,
+check whether standing on parachute, check whether met robot, halt.
+                                                                                                                             
+Writing code for solution.
+Assume that you dont have any memory in robot, and no loop constructs,
+just gotos and one conditional construct : ifonparachute then goto
+___. Now make a solution.. assume that robot can change its speed of
+moving.
+Round 1:
+                                                                                                                             
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+                                                                                                                             
+Q1: Write data structure and functions on a queue.
+Expected: Add, delete with prototype and a node structure.
+                                                                                                                             
+Implement them using stacks.
+Expected: Take 2 stacks. Use one always for addition, one for deletion.
+When deletion stack is empty, and you get a delete, empty the contents of
+addition stack into this one.
+                                                                                                                             
+Q2: Given 3 vending machines. One gives apples only, one oranges only
+and the third gives apples as well as oranges. All of them are wrongly
+labelled. Find the correct labelling.
+                                                                                                                             
+Expected: Take 1 coin and insert it into m/c labelled apples and oranges.
+Whatever it vends, label it as that. Swap the other 2 labels.
+Round 2:
+                                                                                                                             
+Q1: Given n gas stations and a directed circular path amongst them.
+Each one has a limited amount of fuel. Also you have been given the
+distance between 2 stations. Assume 1 unit of fuel consumed per unit of
+distance covered. But a station may have only 5 lits and you may have to
+cover 7 km from that to reach next stn. So if you start there you get
+stuck.
+                                                                                                                             
+You have to find a starting point, from where if you start, you can
+complete
+the whole trip and come back without getting stuck for fuel.
+Also find condition in which the you will be able to have a feasible
+solution.
+                                                                                                                             
+My Answer: Necessary condition (obvious) : Total Fuel >= Total Distance.
+I said it is also sufficient. Tried to prove it informally, think its
+correct.
+                                                                                                                             
+Algo to find starting point: Start with a random node, when you get stuck,
+start at a node prior to current starting point. If above condition is
+sufficient, you will get an O(n) algo.
+                                                                                                                             
+Donno if its correct fully.
+                                                                                                                             
+Q2: Given 9 balls, 8 of which are of the same weight. One of them is
+either lighter or heavier. Find which one using a weighing pan.
+Answer: Can be done with 3 - 5 comparisions.
+                                                                                                                             
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Round 1 :
+                                                                                                                             
+1. Difference between Process and threads. Synchronization between
+them. Various types of synchronization. Why sync is required ?    Why
+deadlock happens ? Deadlock avoidance methods. Semaphore implementation.
+                                                                                                                             
+2. Remove duplicate elements in an array. C code
+                                                                                                                             
+3. 2 Puzzles . 1 with apples and oranges and one of clock. Already
+mentioned in other files.
+                                                                                                                             
+Round 2 :
+                                                                                                                             
+1. How will you replace # define debug 0
+ with # define debug 1
+                                                                                                                             
+ and this new definition of debug should be available throughout the
+program ie you have to consider undef and ifdefs also.
+                                                                                                                             
+ C code
+                                                                                                                             
+2. How will you determine whether given binary tree is binary search
+tree. C code.
+all the questions were exactly same as those of anupama, but in the
+4th round, i was asked abt my btech project and that robot problem.

@@ -1,0 +1,76 @@
+
+
+hi,
+   ibm went away from becollege taking 5( 3cse( 2 magis and 1 boy) and 2 it). 
+they didnt take anybody from mca or ece. 
+about 60 were eligible and 17 were selected for final interview. 
+no negative marking. 
+in the written, the apti was easy and tech was very tough. 
+all the boys gave 'gamma' in the tech part.
+the cutoff was fairly high.
+also plz consult the mail sent to kajal and also with soumyadipto.
+WRITTEN:
+25 apti and 15 tech.
+1. 7 to the power 173. find the digit in the unit's place.
+ans: 7 pow 1:....7.
+       7 pow 2.....9
+       7 pow 3.....3
+       7 pow 4......1
+  this gets repeated in the cycle of 4.
+     so ans is 7
+2. scanning of 1 digit takes 1 sec.
+find total time to scan 10 to the power 10 to the power 10.
+ans: 101 sec
+3. there are 2 glasses initially containing 1/4th and 1/3rd of milk respectively.
+rest is filled with water.find the % of milk overall.
+ans: 29.1%  i.e. ( 7/24 of 100 %)
+4. a man travels uphill at 24 km/hr and 36 km/hr downhill. find his avg velocity.
+5. two numbers A and B.
+A-B=1365
+A/B=6(quotient) and 15 (remainder)
+find the value of B. ans 270.
+6.logical reasoning(5 questions) question nos.21-25.
+fair
+intelligent
+weak
+fat
+tall
+relations on arrangements of seat
+ans: intelligent-weak-fat-tall-fair
+7) 9 hr/day .....arithmetic problem on time and work......ans: 15
+8)3 different crossing
+signal changes.....42,76,108
+at 8:20 the signal changes
+next time when altogether will all signal change
+9)heap sort,quick sort,merge sort..........time complexity
+10)17th match---87 runs......avg increases by 3 runs.......total avg?
+11)puzzle.......language: German,Russian,English.......set theory and vien diagram problem....
+ans.....24
+12)in a sphere, radius increases by 10%......what is the increase in volume in percentage.
+13)main( ){
+  printf("Hello");
+  main( );
+  }
+how many times hello will be printed?
+ans: infinite loop....till stack overflows.
+14) SQL query....2 problems
+selection of correct one among alternatives
+15)in 1915 son's age-15 and father's age-65... total 80
+ans: 1865
+16) 907.....find the number of checkings required to test whether it is prime.
+17) 2 trains each with speed 12 miles/hr are coming towards each other.
+initial difference between them is 24 miles .
+speed of fly is 18 miles/hr.
+fly is moving in between the trains to and fro. find the total distance covered by the fly.
+ans: 18 miles.
+hints: speed*time(24/24)
+TECH:
+ CPP...2 QUESTIONS.( THEY WILL GIVE PROGRAMS)
+  C.....OUTPUTS OF 'GAMBAT' PROGRAMS.
+  POINTERS IN C AND EXPLORE IN C.
+INTERVIEW: avg 20 mins per student...4 PANELS......tech was easy...no difficult questions........C, data structure specially searching and sorting....be absolutely thorough with it......and little bit dbms......for ece students on mainly communication ....
+hr quesions like why u have taken IT
+differnce between it and cse
+do u have any gfriend
+BEST OF LUCK
+ 

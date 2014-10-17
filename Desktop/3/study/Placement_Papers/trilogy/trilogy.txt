@@ -1,0 +1,79 @@
+Written test contained some questions on data structures.
+and the Interview is long (say 3-4 hrs). It also contained
+only questions on Data structures. So prepare well
+in data structures.
+Note: Some questions may have simple answers, but they
+are stressing on efficiency.
+
+
+Exam questions
+--------------
+
+1) Given m-n sequence of numbers. Now assume that one number
+between m-n is missing and another number is repeated twice.
+How do you find the missing number and the repeated number.
+
+2) Convert a given double linked list into a tree. 
+with some constraints on how you should form a left child
+and a right child and the print the numbers in ascending order.
+
+
+3) Given a array which represents a tree. Find out
+the distance between two elements.
+
+
+4) Given two trees, you have to identify whether they
+are isomorphic.
+
+5) Given a binary tree create a circular linked list
+such that the numbers should be in order.
+
+
+ 
+Interview Questions
+-------------------
+Round 1
+
+Q1. C program was given, asked to find output.
+
+main()
+{
+int *a=new int;
+*a=6;
+foo(a);
+cout << *a;
+}
+foo(int *a)
+{
+ a=new int;
+ *a=7;
+}
+
+Q2. Array of size N is given. Random no. generator function was given
+that can generate numbers in range 1...K. You need to fill array with
+values between 1 and K (no duplicates) and there should not be any 
+pattern (or relation) between values stored and indices at which values 
+are stored. Extra memory should not be used.
+
+Q3. Linked list is need to be split into two lists such that alternate
+elements need to go into different lists. Write program for this.
+
+Round 2
+=======
+Q1. Write binary search program, but instead of returning boolean,
+function needs to return the minimum index of value that is being
+searched. What is the complexity?
+eg: 1,2,8,8,8,1 and search value=8 should return 3.
+
+Q2. Array of size n is given, and one value in array is repeated n/2 times, 
+where n is even. Write algo to find the value. Complexity? The remaining 
+n/2 elements are unique.
+
+Q3. Implement insert and delete operations of queue using stacks. What is 
+the complexity?
+
+Q4. A sorted array of size A is given. Another array of size A+B is given 
+and there are only B elements in that array in sorted order. (Remaining A
+elements are empty). Now you need to fill A remaining elements from first
+array and resultant array should be in sorted order. Provide algo for this.
+What is the complexity?

@@ -1,0 +1,86 @@
+INFOSYS TEST
+------------
+67% cutoff
+all branches
+13k salary
+200+ wrote
+21 selcted for interview
+11 made it(5 ec,5 cs ,1 mca)
+-------------
+TEST - ANALYTICAL 10 qns 1 hour
+---------------------------------
+                   ( **=DOUBT)
+1.A frog in a well 30 ft deep jumps 3 ft slips 2 ft each day.
+How many days does take on the whole?(Ans: 28 days)(**)
+
+2.A man travels from A to B .He sleeps when there is yet twice 
+the distance than already travelled to be covered.He wakes up 
+half way thro' the journey he again sleeps when there is still 
+half the distance than already travelled left to be covered.
+he wakes up after reaching B.For what time of the journey did he sleep?
+(Ans:Half the journey)
+
+3.The letters below stand for numbers 0,1,2,3,4,5,6.Decipher them
+DADCB
+-EBEG
+------- 
+ BFEG
+-------
+???not 
+4.100 kgs of potato contains 99% water.Its kept in the sun.
+The water evaporates and now amount of water is 98 %.
+Whats the weight of the potatoes?(50 kg)
+
+5.
+     2 men are walking towards each other at constant speeds.
+A train starting at one end crosses the first man in 18 seconds.
+After 10 minutes it meets the other man and crosses him in 12 seconds.
+(i am not sure of the values).Find the time when the 2 men meet after 
+the train has crossed the second man .
+
+6.
+	Analytical puzzle like the ones in George Summers
+there are 4 people A,B,C,D with names upto 8 syllables.
+(no 2 people have the same numberof syllables in their name.)
+1 person has no vowel sounds.2 persons have 1 vowel sounds and 
+1 has 2 vowel sounds.Some conditons are given and u have to figure 
+out who's who.(i dont remember the conditions)
+
+7.
+	Analytical puzzle like the ones in George Summers
+mr pathak has 4 sons .Pradeep is the oldest.all are less than 
+10 years old.......................
+8.
+	Analytical puzzle like the ones in George Summers
+4 people Alpha,beta,gamma and delta win 4 differnt competitions.
+'A' thinks that B has won poetry.G thinks D has won dramatics.
+D thinks that A has not won sports..................only the winner 
+of sports and painting are right in their speculations and the other 
+2 are wrong.who' won what?(The problem was something like that i don't 
+remember exactly what)
+
+9.
+	Shakuntala devi problem on escalator.
+(something like :a man climbs down a moving escalator(moving down)in 
+34 steps................)
+
+10
+Aalytical puzzle from Barron's Guide
+(supposedly the first worked example on poets Coleridge,Foster,Elliot,.........
+--------------------------------------------------------------------------
+I answered 5 question correctly.Note that the questions don't carry equal marks and no -ve marking,and not multiple choice type.
+Interview 1 puzzle tech cum personal--utmost importance to sslc and 2nd puc marks and cet rank.interviwers technically excellent->no fooling around.but very nice people.Ask favourite subject and quiz mainly on that
+------------------------------------------------------------------
+PUZZLES IN INTERVIEW
+1.
+	'A' has a set of lock and its key.'B' has a set of lock and its key.A needs to send a letter to B in a Box .How do they do it if they dont part with their keys?
+
+2. A 12*12 feet carpet is to be used for a 16*9 feet floor with just 1 cut.how?
+
+3.
+3 boxes are labelled 2B,2R,1R 1B.They contain 2 blue,2 red and 1 red and i blue ball.all 3 boxes are labelled wrongly.With just one pick from any 1 box label the 3 boxes correctly.
+
+4.
+there was some qn on 3 planes travelling around the world with some fuel...........
+5
+

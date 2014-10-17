@@ -1,0 +1,24 @@
+#include<iostream>
+#include<iomanip>
+#include<math.h>
+using namespace std;
+main(void){
+  float sine;
+  int star,ang;
+  cout<<"\nEnter the angle(in degrees divided by 10) upto which the graph must extend:";
+  cin>>ang;
+  cout<<endl<<endl;
+  cout<<"<"<<setfill('-')<<setw(60)<<">";
+  for(int i=0;i<=ang;i++){
+      sine=sin(i*10*(3.14)/180);
+      star=sine*20;
+      if(i%36>=0 && i%36<=18){
+        cout<<setfill(' ')<<setw(30)<<""<<setfill('*')<<setw(star)<<""<<endl;
+      }
+      else{
+        star=(-1)*star;
+        cout<<setfill(' ')<<setw(30-star)<<""<<setfill('*')<<setw(star)<<""<<endl;
+      }
+    }
+    return 0;
+}

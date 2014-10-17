@@ -1,0 +1,106 @@
+From mpscrs@uohyd.ernet.in Thu Aug 12 17:38:55 1999
+Date: Mon, 9 Aug 1999 16:00:19 -0500 (GMT)
+From: Prof MP's Group <mpscrs@uohyd.ernet.in>
+To: ssrik@iitk.ac.in
+Cc: sganand@yahoo.com
+Subject: bisu presents...millenium ORACLE
+
+
+dear anand and srikant,
+i am sending here the ORACLE paper for this year, hope this will be
+helpful to an extent...let me know if u want anything else, if within my
+reach i will definitely do that...anyway thanx a lot...for the congrats u
+sent...
+dear srikant i don't have this cognizant tech. paper moreover infosys
+didn't come here and TCS is online and is the same the one which u sent
+omly with a small change, that in the verbal and the quant. section
+different words may also come....
+anyway all the best for the exams ahead...
+in case i get anything i will definitely let u know...
+love and prayers 
+BISU...
+please acknowledge the receipt of this paper...
+ALL THE BEST...
+
+
+This is the ORACLE question paper for the year 1999. There were a total of
+32 questions.Some of the questions i am sending is exactly the same and
+some of them are from that area. This time they conmcentrated more on
+PL/SQL.So its advisable to prepare accordingly...
+>>question 1:Identify error if any...
+f()
+{
+ int a=0;
+ const int c=3;
+ const int *p1=&a;
+ const int *p2=&c;
+ int *p3=&a;
+ int *p4=&c;
+}
+  
+>>question 2:Access specifiers in java...
+
+>>question 3:How many times i will be printed and what will be the
+value...
+int i =0;
+printf("%d",i++);
+fork();
+printf("%d",i++);
+fork();
+printf("%d",i++);
+fork();
+printf("%d",i++);
+
+>>question 4: what is virtual function?
+
+>>question 5: Algorithm for deleting a record from a linked list...(this
+is one of the two question at the end of the paper...)
+
+>>question 6:Job scheduler and cpu scheduler...(its better u know in
+details about both...)
+
+>>question 7:What are the different states of a process?
+
+>>question 8:What is a transaction?
+
+>>question 9:What is a process?
+
+>>question 10:What are cursor forloops?
+
+>>question 11:Difference between multicasting and broadcasting?
+
+>>question 12:total 10 questions from PL/SQL...
+
+>>question 13: Expand CSMA/CD, its better u know more about it....
+
+>>question 14:Scheduling algorithms...
+
+>>question 15:Function pointer and specification...
+
+>>question 16:this is one of the last questions....
+ class student{
+ student()
+ ~student()
+protected
+ student name;
+ student id;
+}
+declare and define a constructor and an '='operator.
+
+>>question 17:What is row ID?
+ 
+>>question 18:SQL (groupby)...
+
+>>question 19:MAC address...
+
+>>question 20:How do u declare a variable of type table name...
+
+>>question 21:Premptive and non-preemptive scheduling...
+
+>>question 22:Which type of switching gives dedicated line with max
+bandwidth...
+
+
+
+WORK IT OUT AND GET THRO ORACLE...
+

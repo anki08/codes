@@ -1,0 +1,90 @@
+___________________________________________________________________________________
+
+COMPANY NAME : ACCENTURE
+------------------------------------------------------------
+DATE OF TEST : 11 Jan 2004
+------------------------------------------------------------
+PLACE OF TEST: St. Joseph, Museum road, B'ore
+------------------------------------------------------------
+MODE 	   : Off-Campus
+------------------------------------------------------------
+DURATION     : 1 hour
+___________________________________________________________________________________
+
+
+Accenture Pattern : (consists of 4 rounds- all  are elimination rounds)
+1) Written Test:-(3 sections)-60 ques, 60 mins.
+  
+    section 1:(20 questions)--Verbal (Refer barron's GRE)- 5 ques on reading comprehensions
+                  (i.e passage reading),5 ques on sentence completion,5 synonoms, 5 antynoms.
+    section 2:(20 questions)--Aptitude (refer R.S. Aggarwal)- just refer these chapters
+              (profit & loss,percentage,time &work,time & distance, allegation&mixtures,
+               ratio & proportion,average,simplification(q. no-76 to 95). that's enough!!!!!
+   
+    section 3:(20 questons)--Logical reasoning(10ques) and analytical reasoning
+                  questions(10ques)-(for analytical refer barron's GRE).
+(Note: hi guys/gals!!!  for all the above ques(i.e. verbal,aptitude and reasoning), u can 
+refer newly arrived monthly magazine( s.chands COMPETITION WORLD(Rs.30/-) --available in
+majestic(opp.to Saagar Theatre)
+
+2)GD(Group Discussion):- Any  general topic picked(topic that i got-- do you prefer chatting 
+                         in office or not!!!)-speak confidentlly for 2-3 minutes and make 
+                         urself heard in a grp of 10 people. Then u can easily get thru!
+3)HR interview:-        (formal questions such as tell me abt ur self, family background,
+                        strengths and weeknesses, about accenture,why should we hire u?,where
+                        do you want to see urself in next 5 yrs, do u prefer team work or 
+                        individuality etc.)
+4)TECH interview:-    (about ur final sem project and field of interest/favourite subject--
+                      i picked up C.)Be thorough with ur final sem project. they may go deep
+                      into ur project also,be ready to explain it very clearly and confidently,
+                      they just need clearcut description of ur project. For me luckily no
+                      technical ques,only asked to explain final sem project which i explained
+                      it for 20 mins & got selected,but anyhow some of the technical ques in C
+                      that u can expect are:
+ 1)pointer to a function.
+ 2)pointer to structure.
+ 3)static variable and difference b/w(const char *p,char const *p,const char* const p).
+ 4)pass by value & reference.
+ 5)string library functions(syntax).
+ 6)Write a program to compare two strings without using the strcmp() function. 
+ 7)Write a program to concatenate two strings. 
+ 8)Write a program to interchange 2 variables without using the third one. 
+ 9)Write programs for String Reversal & Palindrome check .
+10)Write a program to find the Factorial of a number. 
+11)Write a program to generate the Fibinocci Series. 
+12)searching and sorting alogorithms with complexities.
+---------------------------------------------------------------------------------------------------------
+Hi friends!!! bottom line is that u should be very a good communicator and have to show ur
+confidence infront of the interviewer.!!!!.
+
+Actaully i applied to this id in 1st week of december(of which the message was posted on 
+this wonderful group!!!).& got a call from accenture(not through reference) 
+to take test on 11th jan.  I cleared all  the 4 rounds and got selected as Jr.Software Engineer 
+and i am now waiting for the offer letter!!!!
+           
+THAT's ALL!!!FRIENDS, OK!!!!!,  BYE FOR NOW!!!!!!!!!!!!!!!!!
+DON'T  LOSE HOPE!!! JUST KEEP TRYING,TRYING!!!
+ALL THE BEST!!! FOR JOB HUNTERS!!!!!!!!!!!!!
+
+(you can't achieve the success if u fear for failure!!!!,just try! try! try!)
+WITH CHEERS AND WARM WISHES!!!!
+Regards,
+Malllikarjun. V.H.
+
+-------------------------------------------------
+
+___________________________________________________________________________________
+Visit: "www.chetana-jobs.com" for Previous Papers
+--------------------------------------------------------------------
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

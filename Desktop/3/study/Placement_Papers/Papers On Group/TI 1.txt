@@ -1,0 +1,39 @@
+STM came for both IC design and embedded system
+groups. The paper for embedded systems group is
+already posted.
+
+TI came to iitm only for Analog jobs..though they
+allowed CSE ppl also to the test, they didnt take any.
+The written test consisted of 3 sections. We have to
+answer any two. One on analog design, two on digital
+design and third on Data structures and algos. As i am
+from CSE, i can tell u only Data Structure and Algo
+questions.
+
+1) Some OS related question..what signal to caputure
+Ctrl+C in some application.
+Ans: SIGINT not SIGKILL
+
+2) Some code for transposing a matrix is given..we
+have to answer what it does.
+
+3) One tree is given. Write the topological sort
+output.
+
+4) Some code with ANDing operation and right shift.
+The ans is it prints the binary equivalent of the
+number.
+
+5) Inorder traversal on binary search tree gives what?
+ans: the sorted order as the output.
+
+There are 5 more and all are very simple. To my
+knowledge, the above questions are the only toughest.
+
+Next was an aptitude test. All the questions are very
+easy but time consuming..I remember a little about it
+since i didnt write it seriously.
+
+Good luck.
+The pay for STM was 4.35 Gross and 5L CTC.
+For TI, some 4.5 Gross.

@@ -1,0 +1,66 @@
+
+
+kan....
+*1    A is in 7th position from left and B is in 9th position from      
+right, a and b are interchanged, a will be in the 11 th position 
+     from left, find the total no of elements.(19)
+*2    instead of multiplying a no by 3 he divided it by three and got  
+   the answer as 2, what was the initial no.
+*3    how many prime no of 2 digits which give remainder 2 after     dividing by 7,
+    ans is 4
+*4    find the sum of nos which r divisible by 17 (0 to 1000).
+    ans 29087 (check out,it is zigma 17, x ranging from 1 to 58)
+*5    2x+3y=6 and 3x+2y=8 : find x and y.
+    simultaneous eqn
+*6    male and female population of a city is some no.after one year 
+    male population increases by 4%and female population increases  
+   by 6%, then it becomes some other no. find the initial male  
+ &nb! sp; population or so.
+*7    comlete..        256,128,_,32,16,8
+    ans 64
+*8    complete   1, 27, 125, _ , 729, 1331...
+    ans 343 ( cube of odd no)
+*9    a person gives some amount to person a and aome to person b,   
+  after some period he gets interest amount as rs 90. what is the    
+ rate of interest he charges.
+*10    a no is there of form abxy, where x and y are lcm, (i dont knoe
+     the full question)probably ans is (d) none of these.
+*11    a q on hcf and lcm; lcm is 20, and hcf +lcm is some no,
+    ans is 45.
+*12    a box of certain dimension is given,how many balls with rad 2cm   
+  can be placed in it.
+*13    the carpet qn which was in patni paper with slight modifocation   
+   !   was asked, we have to find the total amount for the carpet.
+*14    a 500 litre mixture contains water and milk in ratio 3:7, how   
+  much of water must be added to it to make the ratio 7:3.
+*15    a person has cost price of oranges as 60 and seeling price is   
+  75, what is % of profit.
+*16    a has got mote marks than b and b has got more marks than c by  
+   certain amount, what is the individual marks of so.
+*17    there are some balls , what is the probability of picking them  
+   without replacements.
+*18    12 men and 18 nwomen complete work in 5 days,
+    15 men and 21 women cmplete in 13 days or so,
+    what is work ratio done by men and women.
+*19    complete     abc_b_c_c_b_bc  or abc_c_c_ba_ba
+*20    classroom problem ! , certain conditions r given, find the noo of    
+    boys.
+*21    on an item discount is given,,.... 
+    ans 30%
+*22    some alphabets r given , all except one relates an animal, odd      
+  man out the alphabet that doesnt relate an animaal.
+*23    2 trains ........
+    ans 120 min (calculate once miore in the test)
+*24    analogy, day:night::light:darkness
+*25    a problem on father's and son's age,,,..
+    ans, fah\ther is 40 yr old.
+*26    one more q regarding relationship,.. 
+    ans cousin
+*27    one more q regarding relationship,.. 
+    ans uncle
+*28    a sq abcd,rotated one time, what is the relationship between    
+ the points(i.e whether they r northwest ! to one other...)
+
+
+
+

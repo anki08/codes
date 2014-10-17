@@ -1,0 +1,40 @@
+mentor itbhu
+paper was easy... timing is more imp.. more concentrate on digital....
+there was three sections-apti, hardware and programming..8 ques each section
+
+
+hardware
+1. design rising edge and falling edge detector.
+2. sequential ckt on jk flipflop, given present state and determine the next state..(simple one)
+3.a question on state diagram 
+4.2x1 mux
+5.Simplify a boolean fn. : (A+B)(AB'+AC).....sth like that
+6.
+
+
+
+programming
+1.
+int x,y,z,i;
+i=x<y<z;
+printf("%d"; i);
+
+output?1
+
+2. one ques. frm test ur c skills -chap 5 q no. 5.1
+
+
+
+
+
+
+
+apti
+1. n red balls, m blue balls , 2 boxes. how to arrange sothat the probability of drawing a red ball is max.
+
+2. a mother has 90 eggs. she gave 10 to her most clever elder daughter, 30 to younger and 50 to youngest daughter to sell. both 3 gals has to agree on some price and then fix to it. finally elder one got the same money for 10 eggs as younger got for 30 and youngest got for 50. the min total money is 90 kronos. at what rate the 3 girls sold the eggs?
+
+3. a group of boys and girls. quite easy one... calculate no of boys
+ans-40 boys and 50 girls
+
+4. a man has to carry 5 boys across the riveron the boat .the boys were of diff. age and at the max 2 boys can sit on the boat along with man at a time.no two boys of adjacent age diff. can remain on one side.how will the man solve the problem. 

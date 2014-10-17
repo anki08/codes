@@ -1,0 +1,157 @@
+CTS Sample Test For Campus RecruitmentCTS Sample Test Paper#3Home
+
+Back To CTS Page
+Analogies
+
+1. slur : speech : : smudge :?
+Ans. writing 
+2. epaulet : shoulder : : ring :? 
+Ans.finger 
+3. vernacular : place : :  fingerprint : ?
+Ans.identical 
+ 
+Opposites
+
+Q. corpulent 
+Ans: emaciated 
+Q. officious
+Ans: pragmate 
+Q. dextrous
+Ans: clumsy 
+
+The following sentences are broken into 4 sections- A, B, C, D
+Choose the part which has a mistake
+Mark (E) if you find no mistake.
+Q.A)psychologists point out that  B)there are human processes C)which does not 
+involve D) the use of words
+Ans. (C) which does not involve (do)
+
+Q.A)jack ordered for B)two plates of chicken C)and a glass D)of water 
+Ans. (A)jack ordered for
+
+The following is a group of questions is based on a passage or a set of 
+conditions for each question.
+Select the best answer choice given.
+(i). If it is fobidden by law if the object of agreement is the doing of an act,
+that is forbidden by law the agreement is void.
+(ii). If it is of the nature that,it would defeat the provision of any law 
+is the agreement is void.if the object of agreement is such that thing got 
+directly forbidden by law it would defeat the provision of statuary law.
+(iii). If the object of agreement is fraddulent it is void.
+(iv). An object of agreement is void if it involves or implies to the personnal 
+property of another.
+(v). An object of agreement is void where the constant regards as ignored.
+(vi). An object of agreement is void where the constant regards is as opposed to 
+public policy.
+
+Q. An algorithm follws a six step process za,zb,zc,zd,ze,zf, it is governed by 
+the following
+(i) zd should follow ze
+(ii) the first may be za,zd or zf
+(iii) zb and zc have to be performed after zd
+(iv) zc must be immediately after zb
+
+Q. If za is the first set zd must be
+a) 3rd 
+b) 5th 
+c) 2nd 
+d) 4th
+ 
+Q. If zb must follow za then za can be
+a) third or fourth
+b) first or second 
+c) can not be third 
+d) fouth or fifth 
+e) none
+
+Q. If ze is third term the number of different operations possible are
+
+The following questions are based on the given statements
+Ravi plants six seperate saplings -- x,y,z,w,u,v in rows no 1 to 6 ,according to 
+the follwing conditions
+He must plant x before y and u
+He must plant y and w
+The third has to be z
+Q. Which of the following is acceptable
+a) xuywzv 
+b) xvzyuw 
+c) zuyxwv 
+d) zvxuwy 
+e) wyzuvx
+Q. Which of the following is true
+a) z before v 
+b) z before x 
+c) w before u 
+d) y before u
+e) x before w
+Q. If he plants v first, then which can be planted second
+a) x
+b) y
+c) z
+d) w
+e) u
+
+Q. Which of the following describes a correct combination of sapling and row?
+a)  x,3 
+b) y,6 
+c) z,1 
+d) w,2 
+e) u,6
+
+Q. If he plants b 6th which would be planted first and second
+a) x and w 
+b) x and y 
+c)y and x 
+d)w and z 
+e) w and u
+
+Q. If he plants w before u and after v he should plant w at 
+a) first 
+b) second 
+c) fourth 
+d) fifth 
+e) sixth
+
+Q. At a certain moment a watch shows 2 min lag although it is running fast.
+    If it showed a 3 min lag at that moment, but also gains by 1/2 min more a 
+day than its current speed
+    it would show the true time one day sooner than it usually does. 
+    How many mins does the watch gain per day.
+a).2 
+b).5 
+c).6 
+d).4 
+e).75
+Q. In 400m race A gives B a start of 7 sec and beats him by 24 sec.
+     In another race A beats B by 10 sec.the speeds are in the ratio
+a)8:7 
+b)7:6 
+c)10:8 
+d)6:8 
+e)12:10
+
+Q. 3x+4y=10
+      x3 + y3=6 
+What is the minimum value of 3x+11y=?
+
+Q. There are 600 tennis players 
+4% wear wrist band on one wrist
+Of the remaining, 25% wear wrist bands on both hands 
+How many players don't wear a wrist band?
+Ans. 432
+
+Q. Three types of tea the a,b,c costs Rs. 95/kg,100/kg and70/kg respectively.
+     How many kgs of each should be blended to produce 100 kg of mixture worth 
+Rs.90/kg,
+     given that the quntities of band c are equal
+a)70,15,15 
+b)50,25,25 
+c)60,20,20 
+d)40,30,30 
+Ans. (b)
+
+Q. Two distinct no's are taken from 1,2,3,4......28 
+    Find the probability that their sum is less than 13
+
+
+Back to top

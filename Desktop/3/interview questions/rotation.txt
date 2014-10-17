@@ -1,0 +1,119 @@
+what i understood from this question is that we will give number of words as input and rotation will be done on based of it.
+For example if string is
+"My name is Khan"
+and user gives 2 words as input so out put shall be
+" is Khan My name"
+
+algorithm i have used is repetitive rotation by rotatelength
+a[0] is displaced by a[rotatelength] and a[rotatelength] is displaced by a[2*rotatelength]
+this algorithm is linear in nature.
+Please refer to "programming Pearls" by Jon Bentley for detail on this algorithm
+
+#include<stdio.h>
+#include<stdlib.h>
+int gcd(int a,int b)
+{
+while(a!=b)
+{
+if(a>b)
+a=a-b;
+else
+b=b-a;
+}
+return a;
+}
+void rotate(char *a,int size,int rotatelength)
+{
+int i;
+int t,j,k;
+for(i=0;i<gcd(size,rotatelength);i++)
+{
+t=a[i];
+j=i;
+while(1)
+{
+k = j+rotatelength;
+if(k>=size)
+k=k-size;
+if(k==i)
+break;
+a[j]=a[k];
+j=k;
+}
+a[j]=t;
+}
+}
+int main()
+{
+char a[]= "My name is Khan ";
+printf("%s \n",a);
+int n;
+printf("How many words do u want to rotate\n");
+scanf("%d",&n);
+fflush(stdin);
+int i=0,tempn;
+tempn=n;
+while(a[i]!='')
+{
+if(a[i]==' ')
+tempn--;
+if(tempn==0)
+break;
+i++;
+}
+int size = sizeof(a)/sizeof(a[0]);
+rotate(a,size-1,i);
+printf("%s",a);
+getchar();
+}
+
+
+sachinism 
+Member	
+Posted 4 months ago # 
+
+
+#include<stdio.h>
+#include<stdlib.h>
+#include<conio.h>
+#include<string.h>
+
+int main()
+{
+
+char s[40],nos[20];
+int len,i,j,inp;
+j=0;
+printf("enter the string\n");
+gets(s);
+len=strlen(s);
+
+printf("counting number of spaces\n");
+for(i=0;i<len;i++)
+{
+
+if(s[i]== ' ')
+{
+nos[j]=i;
+j++;
+}
+}
+
+for(i=0;i<j;i++)
+printf("%d ",nos[i]);
+
+printf("\nenter how to rotate about word\n");
+scanf("%d",&inp);
+
+for(i=nos[inp-1]+1;i<len;i++)
+{
+printf("%c",s[i]);
+}
+printf(" ??????");
+for(i=0;i<=nos[inp-1]-1;i++)
+printf("%c",s[i]);
+
+getch();
+return 0;
+}
+

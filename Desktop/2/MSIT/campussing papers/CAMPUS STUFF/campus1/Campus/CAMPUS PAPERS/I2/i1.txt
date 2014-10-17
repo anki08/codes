@@ -1,0 +1,167 @@
+
+                         I2:
+
+     This paper mainly consists of two parts,one hour each. First
+part consists of mainly reasoning q's and artificial inteligence
+q's. Second paper consists ofprogramming skills, includes some tough
+q's( CS standard) and other q's are related to 'C' .
+
+Here I am giving  some Q's.
+
+Part .1
+
+time - 1 hr.
+
+ Here in  the reasonig q's they have given some pasages and asked
+find best assumptions, asked find better conclusion drawn from the
+passage. They are all multiple chice q's. This paper is relatively
+easy. But you have to read and understand q's as quickl
+y as possible . Time is sufficient.
+
+part - 2.
+
+ time- 1 hr
+
+sec-1 : 20 q's  60 marks    ( one  -ve mark for the wrong ans).
+
+1. convert 0.9375 in to binary form. ( prepare these conversoin well).
+
+2.parameters are passed to functions only by value (y/n).
+
+3.if a&b are int arrays then the expression a==b  can never evaluate to true.(y
+/n).
+
+4. The expression (a+b)*c*d)-e is represented as an exp.tree. the
+tree is threaded for inorder to traversal left to right. What does
+the right child pointer of 'd' point to
+  a. -node  b. null c.*node  d. +node          ans: may be B.
+
+5.   #include< stdio.h>
+      void swap(int *, int *);
+      main()
+2      {
+        int arr[8]= { 36,8,97,0,161,164,3,9};
+        for(int i=0; i < 7; i++)
+          for(int j=i+1; j<8; j++)
+          if (arr[i]<arr[j]) swap (&arr[i],&arr[j]);
+        }
+
+        viod swap (int *x , int *y){
+        
+         int tmp;
+         static int cnt=0;
+         tmp=*x; *x=*y; *y=tmp;
+         cnt++;
+         }
+
+
+  What is the value of cnt after end of the programe.
+
+  asn : 15 (chek it).
+
+6. int foo(int a, int b){
+    if(a&b) return 1;
+    return 0;
+    }
+2
+  a) a or b =0, ret - 0   b) a&b != 0 , ret 1  c)a&b = -ve , ret 1 d)a&b of dif
+f signs ,ret 0.
+
+7. main()
+   {
+    FILE *fp;
+    fp= fopen ("test.dat","w");
+    fprintf(fp,"Hello");
+    fclose (fp);
+    fp= fopen("test.dat", "w");
+    fprintf(fp,"world");
+    fclose(fp);
+    return 0;
+
+   Assuming that the file test.dat existing already, What is the
+size of the file at the end of the programme.
+
+8.  #include<stdio.h>
+    int f1(int *x, int flag)
+    {
+      int *y;
+      y=(int *)malloc(size of(int));
+      *y= *x +3;
+
+      swith(flag){
+      case 0: break;
+      case 1:*x=*y ; break;
+      case 2: x=y; break;
+2      }
+      return;
+      }
+      main(){
+      int *x,*y,*z;
+      int i,j,k;
+      x=(int *)malloc(size of(int));
+      *x=5;
+      i=f1(x,0); j=f1(x,1);
+      printf("%d %d %d ",i.j,*x);
+      }
+
+    ans:888
+
+
+9. the function ttt is ment to swap orguments. what change is needed
+to it in the folloing programe.
+
+   void ttt(int a,int b){
+   int t; t=a;a=b;b=t;
+   --------
+   -------
+
+   asn: change a and b to *a and *b through out.
+
+
+section - 2
+
+time-20 min         20 marks.
+
+here only one q's is asked that is to write a programe for the following
+problemin C++, if you know. otherwise you can write in C also.
+
+
+1. A school management is having two schools. but they wanted to
+club the two schools to a new big school such that the students standard
+and division is not changed( for ex the std of 7f i.e 7 standard
+and f division remain on 7f in the new school also).
+ given the information like different standards asd divisions and
+their respective strengths of each school is having and that is terminated by $
+ symbol.
+
+1A 30,1B 25,2A 20,2B 45,2C 30,.....$1A 15,1B 20,1C 20,1D 30,2A 35,2B 25,3A 20..
+.....$
+
+
+read information and print the out put  as above, of the new school.and
+print the total strength of that also.
+
+   constraints given:
+
+
+
+
+
+
+          Dont use the limit for the classes( i.e we dont need to
+use the array so here use linked lists and define a structure for
+class name and strength. try it in this approach.)
+
+______________________  END ____________________________
+
+
+the information givin in brackets is not in paper that is only for your informa
+tion.
+
+
+Regarding interview
+            HE is asking personal, languages like c, c++, java etc and other ge
+neral q's.
+
+        
+

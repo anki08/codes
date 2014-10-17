@@ -1,0 +1,143 @@
+
+
+l&t question
+
+
+here with i am sending the questions of technical and the interview.
+
+aptitude: S-I Technical(questions 45, time 30min)
+
+sub. covered: Linear integrated circuits,microprocessors(major part). 
+digital,analog elec., control sys. communication sys., d/a, a/d converter
+
+1. characters of sound wave.
+2. In transmission what is the max. bandwidth
+3. Diff b\w up & uc . Advantage of uc over up.
+4. Identify the circuit 
+
+ans: LPF
+
+5. adder circuit o/p
+
+6.op-anp followde by diode ans: rectifier ckt.
+
+7. why diode is used in relay driver circuits. 
+
+8. o/p of a full wave rectifier when diode D2 is open and the i/p is 
+full
+sine wave  ans: o/p is half sine wave
+
+
+9. why we are using PROM ans: Relatively permanent storage
+
+10. One question in which o/p voltage of the opamp goes to saturation.
+
+11. what is the component that is needed to save the transistor from 
+high currents?
+
+12.which is brighter of the two bulbs if connected in series.ratings 
+
+1. 230V,500W.  2. 230V,50W.
+
+13.slew rate 2v/us, then what is maximum gain for  change in .5v in 10us.
+ans. 40
+
+14.DAC. max 10v, 10bits, find resolution.
+ans.   10mv
+15.the i/p to black box is square wave and its o/p is impulse. what 
+is the bl ack box. (ans. high pass filter)
+16 the technique used by doordarshan
+17 frequency used by doordarshan
+18 in changing  sample -rate which  will change
+a. quantise error ,b c d
+19. error due to ad conversion ans -0.1%
+20. which have higher bandwidth - ans optical fibre
+21 what is reason for higher bandwidh of optical fibre..
+22.which controller is used for type-0 system ans.- p controller
+23   ina circuit supply voltage is v , and two capacitor  1 uf, 2uf in series, 
+which have  charges more
+a. c1, b c2, c same d. don't say
+ans. same
+24. why darlington pair is used ?
+high current gain..
+25. one question on pulse amplitude modulation
+26 op-amp circuit  - act as .. ans- unity follower
+   with Rf=0.
+27.which key is used in 8085 for slower devices
+ans. rdy
+28 memory size of 8085
+and 64Kb
+29. which rating of voltmeter willbe used 
+( some rating given as v/i, i/v ...)
+
+rest is out of memory.....
+   
+
+
+S-II. general comprehension(36 questions, time 40min)
+
+in this test u have to complete the next figure in the series
+
+S-III. mechanical comprehension(60 questions, time 40min).
+
+question based on gear-wheel arrangement(around 10), pulley-tension, moment of 
+force, and wind velocity,
+
+interview:
+
+1. working if ammeter (moving coil galvanometer)
+2. shunt in an ammeter (derivation & explanation)
+3. Ammeter internal resistance-range.
+4. some easy programs in up8085 for ddebugging 
+5. optimised code for cal ling four sub-routines depending on the 
+value of accumulator 
+(use PCHL)
+
+ans:
+Eg:
+        Mvi a, data
+Mvi l,00
+mov h,a
+pchl
+hlt
+
+A=01 jumps to 100
+A=02 jumps to 200
+......
+6. draw the ckt. for the unity gain non-inverting amplifier.
+7. then draw the same ckt. for the 0.1 gain.
+(ans: use the potential divider at the input.)
+8. find out the er ror in the ADC characteristics.
+many questions in AtoD and DtoA convertors.
+
+9.   
+mvi a,00h
+     jz loop1
+     mvi a,12h
+sta yyyy
+hlt
+loop1:  mvi a,66h,
+sta yyyy
+hlt
+
+what is the output of the above program
+ans:error
+we have to add a statement(ie. XRA a for the JZ to work) before mvi 
+a,00h.
+
+10.what is an instrumentation amplifier?
+11.why do we need it.
+12.diff. between floating gnd. and referenced gnd.
+13. what is relation between  accuracy and resolution
+
+
+
+
+
+
+ the technical part for ece -ice   are same but for electrical  it is completely based on electric machine and 
+
+power electronics... and in interviews too...
+
+ so prepare for that... i   have no question for that...  
+ 

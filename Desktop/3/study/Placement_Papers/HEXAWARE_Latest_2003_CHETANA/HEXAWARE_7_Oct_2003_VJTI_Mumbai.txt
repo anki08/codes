@@ -1,0 +1,107 @@
+___________________________________________________________________________________
+
+COMPANY NAME : HEXAWARE
+------------------------------------------------------------
+DATE OF TEST : 7 Oct 2003
+------------------------------------------------------------
+PLACE OF TEST: VJTI, Mumbai
+------------------------------------------------------------
+MODE 	   : Campus
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+-----Original Message-----
+From: T.V.NIRANJAN.RAO 
+Sent: Tuesday, October 07, 2003 12:09 AM
+To: CHETANA-JOBS@yahoogroups.com
+Subject: [CHETANA] (Paper) Hexaware technologies
+
+
+hi'
+today i had given hexaware tech on-campus test from v.j.t.i mumbai
+it was same pattern as the previous paper
+the verbal and quant part was repeated.
+some from synonyms were
+1.hostile.
+2.vigour.
+3.abate
+4.acrimonous
+5.bland
+6. lighten
+7.insipid
+
+some from odd man out were
+1.file edit view insert explore ans: explore
+2 for switch ...printf
+ans:printf
+3.stack queue tree array....
+
+computer awareness
+
+1.SIM fullform
+2.beta testing
+3.CMM full form
+4.OLE object linking and embedding(not sure)
+5.rs232c
+6.storage program was invented by....
+7.GAAP
+8.risc
+9.density of mercury
+10.ph value of water
+
+the coding was same as the previous paper.
+1  if((2a+b)<100)...... 5 ques were given with different values of a and b.
+2. int a==4
+  sqrt(a);
+  printf("%d",a);
+  1.2.0 2. 2 3. 4.0 4. 4
+  ans :2
+3 int x==2
+  {x==x+2}
+  printf("%d",x);
+
+some from apti
+most of the questions were repeated from previous papers
+i am giving only those which r not repeated
+
+1. if x is an integer x^2-x-1 is options ..always odd
+2.a number is given and find the missing digits in that no if it is divisible by 75.
+3.if a number is increased by 10% then which of the following will not have the value ans:7.5(check it).
+4.if 3/10 of x is y is 10 what is the value of x.(something like that)
+5. two questions on diameter of a rectangle is 4 mts and the angle b/w diameter and side is 30 degrees find the area and perimeter.
+6.product of two numbers is 900.
+  the sum of two numbers is 30 greater than te difference of two numbers. ans 60.
+7.a+2b=
+  5a+4b= what is the average of a and b 
+ans a:-4 b:9 avg:2.5
+8.mean of a data set and the standard deviation of that data set is given.u have to find out 1.5 times S.D that of the given mean 
+
+9.anand is ten years older than ram.after 5 years anand is twice than the age of ram. find anand's age after 3 years ans:18
+
+10.find the total no of palindromes between 100 and 1000
+
+11.if 0 
+12.if X is the set of prime numbers less than 6 and Y is set of odd numbers less than 6 . if x is from X and y is from Y then the total no of combinations of x*y are .. ans :9
+
+13.ques on probability
+  a dice is thrown three times what is the prabability of NOT getting    6 on the face of the dice.
+
+14.how many four digit numbers can be written if all the four digits are even
+
+___________________________________________________________________________________
+Visit: "www.chetana-jobs.com" for Previous Papers
+--------------------------------------------------------------------
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

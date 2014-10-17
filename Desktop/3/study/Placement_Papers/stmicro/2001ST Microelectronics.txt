@@ -1,0 +1,103 @@
+
+Hi ,
+
+The stm (MLNR 2001) paper is as follows:
+Paper consists of determining the o/p of c/c++ prog.
+Of c u can do it but for c++ part
+Go thoroughly through it .
+It consists of 2 sections in 1 section u have to write
+the o/p & in 2 section more than 1 answer are
+correct.
+
+1.the entity which keep the address which the compiler
+uses to call by seeing the content of pointer.( it
+was question of late binding u have to tell the entity
+which keep the address)
+a.one argument constructor
+b.one argument destructor
+c.v table
+d.symbol table
+
+2.
+char newchar=’1’;
+char &a=newchar,b=newchar,c=newchar;
+
+a a,c,b,are character
+b.a is a reference to char,c,b are charater
+c.error
+d.
+
+3question on virtual fn
+
+4. question on this pointer
+a.
+b.
+c.
+d.
+
+5. destructer
+a.cannot have return type
+b.can accept argument
+c.virtual destructer
+d.
+
+6.diagram of gates consists of NAND OR gates u have to
+tell the o/p
+
+7.voltage across capacitor with laps
+a.v(t)=s(t)*l(t)
+b.c.d.
+
+8.no of nodes in full binary tree of depth of 3
+3 4 8 15
+
+9.no of nodes in a complete binary tree of depth 3
+5 8 15 3
+
+10. o/p of printf(“%d”,printf(“hello”));
+
+11. using namespace
+main(argc,argv)
+{
+if(int x=150)
+{
+cout<<”x is 150”;
+x=100;
+}
+else
+cout<<”x is 100”;
+
+a.code will not compile
+b.150
+c.100
+d.code will give run time error
+
+12. const int *ptr
+which is correct
+a.a pointer to integer constant
+b.
+c.
+d.
+
+13.what is wrong about binary tree
+a.every non-root node has exactly one parent
+b.
+c.
+d.
+
+after that we have two section we have to choose one I
+go for section a.it consists of 5 question (multiple
+choice question)
+1.diagram of gates are given we have to tell the
+o/;p.so go through the NAND OR gates.
+2.a Boolean expression x+ x(x+y)(y+z) something like
+that given we have to convert it to SOP form.
+3.no. of address & o/p lines for 20 X 32
+4. no. of sequence for k bit Johnson counter( ans k
+check it)
+5..
+.
+
+
+
+

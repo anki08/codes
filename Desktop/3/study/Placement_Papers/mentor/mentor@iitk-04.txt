@@ -1,0 +1,69 @@
+They check your problem solving abilities. No HR interviews. I would suggest
+you to prepare 2 subs( DS and Digital)
+                                                                                                                             
+I had scored well in S/w and puzzles section but didn't do well in H/W so
+mostly they had asked me in H/w.
+                                                                                                                             
+1)Design a ckt whose o/p is high for one clock pulse, after every 6th clock
+pulse.
+                                                                                                                             
+I gave 2 solutions.. one is mod 6 counter. I drew the ckt also. Then he said
+do the same without using any gates. I said use ring counter of 6 regester
+and initial state should be  000001 and then apply clock pulses. the last
+bit reprents the desired o/p.
+                                                                                                                             
+2) if(cond==1)
+       Z=x+01
+   else
+      Z=y+10
+                                                                                                                             
+x is 2 bit number and y is 3 bit number.
+Draw a ckt that code given above( actual code was in Verilog,but then he
+wrote me same code in C as above because I don't know verilog). Assume 2 bit
+adder or 3 bit adder as a black box.
+                                                                                                                             
+Ans:  take three 2x1 mux , i/p of mux is o/p of each adder and the "cond"
+signle goes to slection i/p of all mux.
+                                                                                                                             
+Then he asked me to solve soem Questions from the written test which I left
+untouched.
+I did solve almost all. the were having diagrams so I can't write them here.
+SOFTWARE.
+SOL: take 1 chocoalte from 1st factory 2 from 2nd and so on and weigh them.
+Now subtract this wigh from weigh of 55 chcolates( sigma(1 to 10))
+that gives you the number of factory whcih is producing lighter chocolates.
+                                                                                                                             
+Hope that Helps
+ALL THE BEST
+~Kuldip
+                                                                                                                             
+
+Mostly they ask in data structure.
+                                                                                                                             
+How to detect a cycle in a link list.
+Ans: if we are allowed to modify the list then reverse the link while
+traversing, and if we come back to the HEAD node then there is a cycle in a
+LL otherwise not.
+and if we are not allowed to modify the list then take two pointers say P
+and Q. P will visit all the elements in the list and Q will visit alternate
+elements. so at some point in time they will meet if there is a cycle in the
+linked list.
+P=P->next
+Q=Q->next->next
+                                                                                                                             
+both the algos are O(n) time and O(1) space complexity..
+                                                                                                                             
+How to detect a cycle in a graph.
+I said do DFS and if we reach at the same node then there is a cycle in the
+list. but the  sol is not efficienent, so he was asking another one. I
+couldn't give the same.
+                                                                                                                             
+He also asked me to solve the Qs in s/w part which I left untouched/wrong.
+So ask to anshu to mail some Q from written test.
+                                                                                                                             
+He asked one puzzle also that was very easy.
+                                                                                                                             
+There are 10 factoreis of chocolates. one factroy manager is cheating by
+making chocolates of his factory little lighter than those of rest.
+
+

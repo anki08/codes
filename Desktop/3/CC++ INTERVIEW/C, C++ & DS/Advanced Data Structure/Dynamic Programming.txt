@@ -1,0 +1,122 @@
+Dynamic Programming 
+This paradigm is most often applied in the construction of algorithms to solve a certain class of 
+
+
+Optimisation Problem 
+That is: problems which require the minimisation or maximisation of some measure. 
+
+One disadvantage of using Divide-and-Conquer is that the process of recursively solving separate sub-instances can result in the same computations being performed repeatedly since identical sub-instances may arise. 
+
+The idea behind dynamic programming is to avoid this pathology by obviating the requirement to calculate the same quantity twice. 
+
+The method usually accomplishes this by maintaining a table of sub-instance results. 
+
+Dynamic Programming is a 
+
+
+Bottom-Up Technique 
+in which the smallest sub-instances are explicitly solved first and the results of these used to construct solutions to progressively larger sub-instances. 
+
+In contrast, Divide-and-Conquer is a 
+
+
+Top-Down Technique 
+which logically progresses from the initial instance down to the smallest sub-instances via intermediate sub-instances. We can illustrate these points by considering the problem of calculating the Binomial Coefficient, "n choose k", i.e. 
+
+ 
+
+Using this relationship, a rather crude Divide-and-Conquer solution to the problem of calculating the Binomial Coefficient `n choose k' would be: 
+
+
+function bin_coeff (n : integer;
+                                k : integer)
+                                return integer is
+   begin
+      if k = 0 or k = n then
+         return 1;
+      else
+         return 
+         bin_coeff(n-1, k-1) + bin_coeff(n-1, k);
+      end if;
+   end bin_coeff;
+
+By contrast, the Dynamic Programming approach uses the same relationship but constructs a table of all the (n+1)*(k+1) binomial coefficients `i choose j' for each value of i between 0 and n, each value of j between 0 and k. 
+
+These are calculated in a particular order: 
+
+First the table entries corresponding to the coefficients `i choose 0' and `1 choose 1' are fixed to the value 1. 
+The remaining table entries corresponding to the binomial coefficient `i choose j' are calculated in increasing order of the value of i+j. 
+It should be noted that since the coefficient `i choose j' requires only the values of `i-1 choose j-1' and `i-1 choose j', computing the table entries in the order of increasing i+j ensures that the table entries needed for ``i choose j' have already been calculated, i.e. 
+
+
+(i-1)+(j-1) < (i-1)+j < i+j
+
+
+The Dynamic Programming method is given by: 
+
+
+
+function bin_coeff (n : integer;
+                                k : integer)
+                                return integer is
+type table is array (0..n, 0..k) of integer;
+bc : table;
+i, j, k : integer;
+sum : integer;
+begin
+   for i in 0..n loop
+     bc(i,0) := 1;
+   end loop;
+   bc(1,1) := 1;
+   sum := 3; i := 2; j := 1;
+   while sum <= n+k loop
+      bc(i,j) := bc(i-1,j-1)+bc(i-1,j);
+      i := i-1; j := j+1;
+      if i < j or j > k then
+         sum := sum + 1;                     
+         if sum <= n+1 then      
+            i := sum-1; j := 1;            
+         else                           
+            i := n; j := sum-n;          
+         end if;                      
+      end if;                        
+    end loop;
+   return bc(n,k);
+end bin_coeff;
+
+The section of the function consisting of the lines: 
+
+
+
+if i < j or j > k then
+   sum := sum + 1;                     
+   if sum <= n+1 then      
+      i := sum-1; j := 1;            
+   else                           
+      i := n; j := sum-n;          
+   end if;                      
+end if;                        
+
+
+is invoked when all the table entries `i choose j', for which i+j equals the current value of sum, have been found. The if statement increments the value of sum and sets up the new values of i and j. 
+
+Now consider the differences between the two methods: The Divide-and-Conquer approach recomputes values, such as "2 choose 1", a very large number of times, particularly if n is large and k depends on n, i.e. k is not a constant. 
+
+It can be shown that the running time of this method is 
+
+ 
+
+Despite the fact that the algorithm description is quite simple (it is just a direct implementation of the relationship given) it is completely infeasible as a practical algorithm. 
+
+The Dynamic Programming method, since it computes each value "i choose j" exactly once is far more efficient. Its running time is O( n*k ), which is O( n^2 ) in the worst-case, (again k = n/2). 
+
+It will be noticed that the dynamic programming solution is rather more involved than the recursive Divide-and-Conquer method, nevertheless its running time is practical. 
+
+The binomial coefficient example illustrates the key features of dynamic programming algorithms. 
+
+A table of all sub-instance results is constructed. 
+The entries corresponding to the smallest sub-instances are initiated at the start of the algorithm. 
+The remaining entries are filled in following a precise order (that corresponds to increasing sub-instance size) using only those entries that have already been computed. 
+Each entry is calculated exactly once. 
+The final value computed is the solution to the initial problem instance. 
+Implementation is by iteration (never by recursion, even though the analysis of a problem may naturally suggest a recursive solution). 

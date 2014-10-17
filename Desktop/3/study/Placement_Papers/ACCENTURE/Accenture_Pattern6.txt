@@ -1,0 +1,66 @@
+___________________________________________________________________________________
+
+COMPANY NAME : ACCENTURE
+------------------------------------------------------------
+DATE OF TEST : 2003
+------------------------------------------------------------
+PLACE OF TEST: 
+------------------------------------------------------------
+MODE 	   : Off-Campus (Java, J2EE Experienced Category)
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+
+-----Original Message-----
+From: Vasudevan Mogan 
+Sent: Wednesday, November 26, 2003 5:59 PM
+To: CHETANA-JOBS@yahoogroups.com
+Subject: [CHETANA] (Pattern) Accenture
+
+Hi all,
+
+Many people are asking about the accenture qn
+pattern....So here are some details...
+
+The written test on java is very simple and definitly
+u can get thro if u have basic idea about java.
+only 2 to 3 questions in EJB rest all from core java
+and servlets and JSP.
+
+The GD was about "worm in Cadburys chocolate....who
+was at fault??" ....u need not worry here also if u
+have basic communication skill....... but dont fight
+in GD.... if someone interuppts just listen to him/
+her and then place ur point across.
+
+HR interview is just to know ur intention and what
+idea u have about accenture.
+
+Technical round, i was asked about the difference
+between sendredirect and forward. Then about iplanet
+server. Also 2 to 3 basic questions thats all.
+
+[There is no specific order for HR or Technical round
+...all depends on the availability of interviewrs]
+
+All the best ..
+
+regards,
+Vasu
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

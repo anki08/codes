@@ -1,0 +1,199 @@
+Ver 0.3
+-------
+
+Veritas Test Paper / IIT Kanpur / 01-08-03
+------------------------------------------
+
+/*Objective Questions: 30 questions*/
+
+Time duration: 30 minutes.
+
+1. What is the output of the following operation?
+	0x7e00e9 % 0x7
+
+2. What does a sticky bit do and why?
+
+3. 
+
+/* Question is how many processes are created when this program is run */
+
+int main()
+{
+	forkthem(5);
+}
+
+void forkthem(int n)
+{
+	if (n>0)
+	{
+		fork();
+		forkthem(n-1);
+	}
+	else return;
+}
+		
+4. preorder and inorder was given, asked which of the options was postorder
+
+/* Please complete */
+
+5. Which of the following representations do not need braces or parenthesis 
+   - prefix, postfix & infix;
+
+6. Give the grammar - E -> E*E | E+E | n, 
+is it ambiguous? left recursive? none?
+
+7. given the following code in two threads, what will be the range of possible values of n?
+
+/* First Thread */
+sum = 0;
+for(i = 1;i<5;i++)
+{
+	sum++;
+}
+
+/*Secdond thread */
+sum = 0;
+for(j=1;j<5;j++)
+{
+	sum++;
+}
+
+8. The regex in bourne shell to find all files except those starting with 
+. and ..
+
+The choices involved a lot of [!.] based regexes.
+
+9. One question on 
+        - true hits & true misses 
+	- conflict misses 
+	- cache line ping pong
+on a SMP 2 processor machine. 
+
+10. You are logged in on a system. Somebody mounts a file system on /home. 
+a) Would you remain logged in?
+b) You logout and you login back again. Would you be able to do that?
+
+11. Some question on sorting algorithms (?) 
+	which of the following algorithms is least dependent on the original ordering of the numbers:
+	Bubble, insertion, merge & quicksort
+	 
+
+12. Why recursion not possible in Fortran?
+	a) No Stack structure
+	b) No Dynamic Allocation etc etc
+
+13. Some CFG is given and asked to choose the string accepted by this grammar.
+
+14. 
+--------------------
+
+/* Subjective Questions: 3. Each with 2/3 sub parts. */
+Time duration: 20 + 5minutes extra.
+1. Fill in the blanks:
+
+Part A
+------
+/* The following program aims to check whether "a" is a power of 2.
+
+int power2(int a)
+{
+	int b;
+	b = _____;
+	if ((a^b)>>1 == b) return 1;
+	else return 0;
+}
+
+Part B
+------
+
+/*Following is used to find if a 32-bit number is divisible by 3 */
+
+int div3(int n)
+{
+	int i;
+	int sum = 0;
+	for(i = 0;i<32;i++)
+	{	
+		if(i & 1)
+			sum += n&i;
+		else
+			sum -= n&i;
+		n>>=1;
+	}
+
+	if(sum == 0) return sum;
+	if(sum <0) sum = -sum;  /*  changed. */
+	if(sum <3) return sum;
+
+	return ______;
+}
+
+
+
+
+2. Following is used for mutual exclusion:
+
+Part A
+------
+
+while(1)
+{
+	while(________);
+	if (!test_and_set(lock)) break;
+}
+
+Part B
+------
+
+A program is given, and to say what it prints:
+
+char *p = "char *p=%c%s%c;main(){printf(p,34,p,34);}";main(){printf(p,34,p,34);}
+
+Part C
+------
+
+main()
+{
+	printf("%d",f(8));
+}
+
+int f(int i)
+{
+	return ((--i>1)? f(i) - f(i-1):0);
+}
+
+
+
+3. Find whether the following programs have any compilation errors?
+
+Part A
+------
+#define SRP1 struct record *
+typedef struct record * SRP2;
+
+SRP1 p1, p2;
+SRP2 p3, p4;
+
+swap()
+{
+	SRP2 temp1, temp2;
+	temp1 = p1;
+	p1 = p3;
+	p3 = temp1;
+	temp2 = p2;
+	p2 = p4;
+	p4 = temp2;
+}
+
+Part B
+------
+#define EIGHT 08
+
+main()
+{
+	int nine;		
+	char *string="abcdefgh"
+	nine= EIGHT;
+	printf("%d",string[nine]);
+}
+	

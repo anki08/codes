@@ -1,0 +1,4790 @@
+Subject: wipropaper
+
+1.For  ralish(check) EX-OR gate ,how many NAND gates
+are required?
+Ans: 3
+
+2.A Master glare (check) FF circuit …………………..
+Ans: 1.S-RFF       2.J-K
+
+3. Program to find output of an assembly language
+program………..
+Ans. It finds out the greatest of two no. & stores it
+in the memory.
+
+4.The time required for the data to setting, before
+the triggering  
+edge of 
+the clock.
+Ans. Setup Time.
+
+5. How many diffusion(check) are required to make a
+monolathic 
+transistor
+Ans: 3
+
+6. A diagam with 2 AND & 1 OR gate .........
+Ans : B
+
+7.The p.substrate  that will be connected in chip 
+is………..
+Ans. Most positive
+
+8.How can we change DFF to TFF
+Ans  no we cannot change.
+
+9.There will be a C program involving  pointer
+Ans. A
+
+10.We use SiO2 in the chip as…..
+Ans. To allow diffusion
+
+11.What is meubim(unclear)cycle
+
+12.Program in C
+Ans. Compilation Error
+13. How many flag are in 8085.
+
+14. How can we    change SRFF to JKFF
+
+15.Minimum no.of 2:1maltiplex will be  needed for 16:1
+multiplex.
+
+_______________________________________________________________________
+1) abcD+abcd+aBCd+aBCD
+>    then the simplified function is
+>    ( Capital letters are copliments of corresponding
+letters
+>      A=compliment of a)
+> 
+>   [a] a   [b] ab  [c] abc  [d] a(bc)* [e] mone
+>   (bc)*=compliment of bc
+> 
+>   Ans:  e
+> 
+> -------------------------------------
+> 2) A 12 address lines maps to the memory of
+> 
+>  [a] 1k bytes  [b] 0.5k bytes [c] 2k bytes  [d] none
+> 
+>  Ans: b
+> 
+> ----------------------------------------
+> 3) In a processor these are 120 instructions . Bits
+needed to impliment
+>    this instructions
+>    [a] 6  [b] 7  [c] 10  [d] none
+> 
+>   Ans: b
+> 
+> -----------------------------------------
+> 4) In 8085 microprocessor READY signal does.which of
+the following
+>    is incorrect statements
+>    [a]It is input to the microprocessor
+>    [b] It sequences the instructions
+> 
+>   Ans : b
+> ----------------------------------------
+> 
+> 5) Return address will be returned by function to
+>   [a] Pushes to the stack by call
+>   Ans : a
+> ------------------------------------------
+> 6)
+>    n=7623
+>    {
+>         temp=n/10;
+>         result=temp*10+ result;
+>        n=n/10
+>    }
+> 
+> Ans : 3267
+> ----------------------------------------------
+> 7) If A>B then
+>       F=F(G);
+>    else B>C then
+>       F=G(G);
+>    in this , for 75% times A>B and 25% times B>C
+then,is 10000 instructions
+>    are there ,then the ratio of F to G
+>    [a] 7500:2500  [b]  7500:625  [c] 7500:625 if
+a=b=c else
+>                                      7500:2500
+> --------------------------------------------------
+> 8) In a compiler there is 36 bit for a word and to
+store a character 8bits are
+> needed. IN this to store
+>  a character two words are appended .Then for
+storing a K characters string,
+>  How many words are needed.
+>  [a] 2k/9  [b] (2k+8)/9  [c]  (k+8)/9 [d] 2*(k+8)/9
+[e] none
+> 
+>  Ans: a
+>
+---------------------------------------------------------
+> 9) C program code
+> 
+>    int zap(int n)
+>    {
+>     if(n<=1)then zap=1;
+>     else  zap=zap(n-3)+zap(n-1);
+>    }
+>    then the call zap(6) gives the values of zap
+>    [a] 8  [b]  9  [c] 6  [d]  12  [e] 15
+> 
+>   Ans: b
+>
+---------------------------------------------------------------
+> 
+> 
+> PART-B
+> -------
+> 1) Virtual memory size depends on
+>    [a] address lines    [b] data bus
+>    [c] disc space       [d] a & c    [e] none
+> 
+>  Ans :  a
+> -----------------------------------------------
+> 2) Critical section is
+>    [a]
+>    [b] statements which are accessing shared
+resourses
+>    Ans : b
+> -------------------------------------------------
+> 
+> 3) load a
+>    mul  a
+>    store t1
+>    load  b
+>    mul   b
+>    store t2
+>    mul t2
+>    add t1
+> 
+>   then the content in accumulator is
+> 
+> Ans : a**2+b**4
+> ---------------------------------------------------
+> 4) question (3) in old paper
+> 5) q(4) in old paper
+> 6) question (7) in old paper
+> 7) q(9) in old paper
+> ------------------------------
+> 
+
+
+
+
+1.distance D=rt where r & t are +ve and r is
+constant,as t increses then
+   D_________
+
+ans:D increses irrespective of r & t
+
+2.E=I*I*R what is the effect of E when I becomes I/2
+
+ans:1/4E(E decreses by 4 times)
+
+3.out of 55 eggs 5 are defective. what is % of
+defective eggs
+
+ans:9/11%
+
+4.salary is 's' per month,'x'% of salary is given as
+bonus, if 3 months
+salary is s1,s2 & s3 then what is his salary.
+
+ans:s1*x/100 + s2*x/100 + s3*x/100
+
+5.consider expresion 'ab' . what happens when 'a' is
+divided by 'c' & 
+'b' is
+  multiplied by 'c'.
+
+ans:value remains same.
+
+6.area of triangle=1/2*b*h base incresed by 4 times &
+height is devided 
+by
+  2, the net effect of area.
+
+ans:twice the the original area.
+
+7.in base representation for a rupee 100 paise,then
+base 8 
+representation
+  what is rupee value .
+
+ans:144
+
+8.A>B,B>C,C=D,D>E,then which is greatest
+  a)A/B  b) A/C  c) A/E d)none
+
+ans: c
+
+9.to travel 'm' miles the time is 'h' hours,then what
+is the time taken 
+to
+  travel M miles.
+
+ans:M*h/m
+
+10.a sum 's' is devided into 4 parts.second person
+gets Rs 10 more than
+  first.3rd person is Rs 10 more than second, 4th is
+10 more than 3rd.
+  how much amount do 1st person get.
+
+ans;(s-60)/4
+
+11.fridge cost R Rs,cover value is 5,discount d% then
+its new cost
+
+ans:R-R*d/100-5(1-d/100)
+
+12.1/8 is devided by 's' , if 's' is incresed by 2
+times, what is the
+result.
+
+ans:increses two times.
+  section 2.  letter series
+  -------------------------
+    1. a c b d f e g i __    ans: h
+    2. x y z u v w r s t __  ans: o
+    3. a c f j o __        ans:u
+ section 3.   numerical ability
+-------------------------------
+  1. 10099+99=10198
+  2. 31 - 29+2/33=__   ans:64/33
+  3. 2.904+0.0006=___  ans: 2.9046
+  4. 55/1000=___     ans:.005
+  5. 0.799*0.254= 0.202946
+  6. 200/7*5.04=144
+  7. 842.8 +602=1444.8
+  8. 5.72% of 418= 23.9096
+  9. 625% of 7.71=48.1875
+ 10. 25% of 592=148.00
+ 11. 665+22.9=687.9
+ 12. 15% of 86.04=12.906
+section 4 :  DIAGRAMMING
+--------------------------
+each flowchart contains 5 questions .
+in each flow chart,there will be 5 numbered(1,2,3,4&5)
+boxes(cells).each cell we have to fill with the
+conditions given below.
+
+1. 400 employee(not complete question)
+   different categories based on age,salary,lenth of
+expereince in years
+  ANSWER.
+ cell 1-c,cell2-a,cell3-b,cell4-e,cell5-d.
+
+2. 10 balls,red,black balls.
+     2 points for red balls etc.. 3 points for a ball
+    if it is of the same colour as preceeding one..
+ANSWER:
+       cell 1-c,cell 3-d,cell 5-d,cell 2-e,cell 4-e.
+                         <ceded>
+3.
+     30 coins. these are divided into 3 groups:A,B,C
+to find
+     the only largest weight coin,other 29 coins are
+of lower weight.
+  ANSWER:
+         D A C A C.
+
+ 4.
+ totally there are 100 numbers to find
+largest(LNUM).smallest(SNUM).
+ANSWER:
+     A _ D _ _ _
+          HINT;;
+                feed problem to adjust temperature and
+pressure for
+optimal production.
+                   (answer not known exactly.).
+
+5.bag red,black balls,different condition
+                                odd,red etc
+                ANSWER:
+                        c_c__
+ 
+1.a system is taken from p1,v1 to p2,v2. delQ 
+is heat given 
+& delW is work done .if this done through 
+different 
+processes then what is constant . 
+a)delW 
+b)delQ 
+c)delW + delQ 
+d)|delW - delQ| 
+ 
+2.what is the direction of motion of an electron 
+kept in an 
+electromagnetic field. 
+ 
+3.in a transistor, the saturation current can be 
+controlled by 
+changing 
+a)anode potential 
+b)grid potential 
+c)cathod potential 
+d)non of the above 
+ 
+another 7(atleast) quens from physics which none 
+of us had done 
+ 
+4.infix expretion-->postfix expretion 
+ 
+5.which of the following sorts has the best & 
+worst case time 
+complexity O(n logn ) 
+ans..mergesort 
+ 
+6.given a sequence of codes for some 
+alphabet,what will be the 
+code for MOON 
+ans..most prob.2778 
+ 
+one similar problem like this(above) one 
+ 
+7.same but opposite type of hints as above.what 
+aill be the 
+word 
+for a given code. 
+ans..FEAT 
+ 
+8.first sequence (17,21,25,...) 
+second sequence (16.21,26,...) 
+what will be the sum of first 100 common terms 
+ans..101100 
+ 
+9. integrate [(2x+3)/(sqr(sqr(x)+cx+d))]dx c,d 
+was given 
+ 
+one more integratoin 
+ 
+10.probability for speaking truth for A ->75% 
+for B 
+->80% 
+what is the probability that both of them will 
+tell lie for a 
+given fact 
+ 
+11. what will be order of SURITI in the 
+dictionary if the 
+letters of the word is arranged in 
+lexicographical order 
+ 
+12.two persons are select any number from 1 to 
+25. they win if 
+they select the same one.whatis the probability 
+that they will 
+win . 
+ 
+13.a member of 6 is to be selected from 5 men & 6 
+women, taking 
+at most 4 from each how many possible groups can 
+be formed 
+ans..200 
+ 
+14.%composition was given. find the molecular 
+formula 
+ans..CH2O 
+ 
+15.arrange the given organic acid in increasing 
+order of 
+acidity 
+ 
+ 
+ram starts walking from point A move to 2 km. 
+north and then 
+turns right and walks 4 km. and then turns right 
+and walks 4km. 
+and then turns right and walks 4km. 
+ 
+16.In which direction he was moving after first 
+turn? 
+ans..east 
+ 
+17.What was his final displacement? 
+ans..2km 
+ 
+Two sol. schemes are given as hint for the given 
+problem 
+select (a) if first hint is sufficient 
+select (b) if second hint is sufficient 
+select (c) if both hints are required 
+select (d) if none is sufficient 
+ 
+18. (1) x*x-1=0; 
+(2) x*x*x-1=0; 
+which one implies x is +ve. 
+ 
+19.Two trains A & B are moving with const speed 
+and approaching 
+towards each other, C is a STATION between them. 
+Which of 
+them reachs C first? 
+(1) C is closer to A. 
+(2) B is moving faster than A. 
+ 
+20.Ram do tghe whole work in 60 days .Sam do that 
+in how many 
+days 
+(1)if they combinedly do the work, they do in 42 
+days. 
+(2)if Y portion is done by Ram & rest by Sam in X 
+days 
+( X,Y,Z was given ) 
+ 
+21.Same atomic no. & atomic mass 
+(a) isotone 
+(b) isomer 
+(c) isobar 
+(d) isomar. 
+ 
+ 
+22.Reasoning 
+you touch a bee. 
+it will bite you. 
+(a) A bee will byte a man. 
+(b) A bee may or may not byte a man. 
+ans..(b) 
+ 
+23.one more quen. of this(above) type 
+ 
+24.f(x)=(1-cos(x)(1-cos(x)))/(x*x*x) 
+What is the value of f(x) at x=0, so that it is 
+continious 
+ 
+In a farm 4 people are reqired among them 2 are 
+seniors & 2 are 
+juniors.if the senior set is {x,y,z} & junior set 
+is {a,b,c,d} 
+and some conditions was given like 
+1)x & z can't work togather 
+2)y & c can't work togather 
+3)a & d can't work togather 
+ 
+25.26.27. 
+there was three quens like, if z & d is in the 
+team who are the 
+others 
+a)ya 
+b)xb 
+c)yb 
+d)yc 
+ 
+28.29. 
+there was two differenyial equn. 
+you simply differentiate the results and see which 
+one matches 
+ 
+30.from a series of organic solutions which one 
+was not a proper 
+solution 
+ 
+31.one reaction with toluene 
+ 
+32.to find the n-th term of a series 
+ 
+33.to find the sum of a series 
+ 
+34.one more problem of limit 
+ 
+ 
+________________________________________________ 
+Get your own "800" number - Free 
+Free voicemail, fax, email, and a lot more 
+http://www.ureach.com/reg/tag 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		      TCS 
+ 
+Hi guys, 
+Sending u the TCS papers that i could lay my hands
+upon here. Please 
+distribute it around. 
+ 
+Nikhils... 
+ 
+ 
+Dear friend, 
+In the paper I am sending,there r about 40 vocabulary
+questions.But 
+this year's paper has only 20 of them.Time 5 min.Marks
+10.Do only 
+15 or 16 bits correctly. 
+ 
+Quantitative aptitude:I am sending 15 questions.In the
+latest paper 
+we got, 
+there r only 10 of them r present.Time 10 min.Marks
+20.Do all the 
+problems correctly. 
+ 
+ 
+Reasoning:All answers r given.Remember them.In the
+exam, u willnot be 
+having time to read the passages.So remember the
+answers. 
+I dont remember twohe passages (R and Q).U can read
+these passages 
+in the exam and answer them.Remember: don't answer all
+questions.Write 
+7 or 8 incorrect answers.Time 45 min.Total 70
+questions and Marks 70. 
+ 
+ 
+Your ultimate aim is to get 75 to 85 marks.Because if
+u get high 
+marks, 
+they may assune that u know the paper beforehand and u
+may be 
+disqualified. 
+So don't get morethan 90 marks. 
+ 
+ 
+WISH U ALL THE BEST. 
+ 
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ 
+~~ 
+> > 
+> > Vocabulary 
+> > ---------- 
+> >
+Admonish-usurp,meager-scant,alienate-estrange,merry-gay,brim-
+
+boarder,obstinate-stubbourn 
+> >
+solicit-urge,subside-wane,furtive-stealthy,misery-distress,volume-
+
+quantity, 
+> >
+veer-diverge,stiffle-snithy,adhesive-sticky,hamper- 
+obstruct,belief-co 
+> >
+nviction,lament-wail,incentive-spur,innert-passive,baffle-
+
+frustrate,confiscate-appropriate,covert-crave,caprice-whim,concur-
+
+acquiesce,cargo-frieght,dispel-scatter,divulge-reveal,tomerit-
+
+todeserve,discreation-prudence,emancipate-liberate,efface-obliterate,
+
+> > 
+> > hover-linger,heap-to 
+> >
+pile,instigate-incite,latitude-scope,latent-potential,lethargy-
+
+stupor 
+> >
+momentary-transient,pretentious-ostentatious,embrace-effigy
+
+> > 
+> > Apptitude 
+> > --------- 
+> > 1)2 pencils costs 8 cents,then 5 pencils cost how
+much 
+> > a)20c 
+> > 2)a work is done by the people in 24 min.one of
+them can do this 
+work 
+> > a lonely in 40 min.how much time required to do
+the same work for 
+the 
+> > second person 
+> > a)60min 
+> > 3)a car is filled with four and half gallons of
+oil for full round 
+> > trip.fuel is taken 1/4 gallons more in going than
+coming.what is 
+the fuel 
+> > consumed in coming up. 
+> > a)2 gallons 
+> > 4)low temperature at the night in a city is 1/3
+more than 1/2 
+hinge as 
+> > higher temperature in a day.sum of the low temp
+and high temp is 
+100 c. 
+> > then what is the low temp. 
+> > a)40 centigrade 
+> > 5)a person who decided to go weekend trip should
+not exceed 8 
+hours 
+> > driving in a day average spped of forward journey
+is 40 mph.due to 
+> > traffic insundays the return journey average speed
+is 30 mph.how 
+far he 
+> > can select a picnic spot. 
+> > a)120 miles 
+> > 6)a sales person multiplied a number and get the
+answer is 3 
+> > instead of that number divided by 3.what is the
+answer he actually 
+> > has to get. 
+> > a)1/3 
+> > 7)a ship started from a port and moving with I mph
+and another 
+ship 
+> > started from L and moving with H mph.at which
+place these two 
+ships 
+> > meet. 
+> > a)between I and J and close to J 
+> > 8)a building with height D ft shadow upto G.A
+neighbour building 
+> > with what height shadow C ft is 
+> > a)B ft 
+> > 9)a person was fined for exceeding the speed limit
+by 
+10mph.another 
+> > person was also fined for exceeding the same speed
+limit by twice 
+the same 
+> > if the second person was travellling at a speed of
+35 mph.find the 
+> > speed limit 
+> > a)15mph 
+> > 10)a bus started from bustand at 8.00am and after
+30min staying at 
+> > destination it returned back to the bustand.the
+destination is 27 
+> > miles from the bustand the speed of the bus
+50percent fast speed 
+at what 
+> > time it returns to the bustand. 
+> > a)11.00am 
+> > 11)in a mixture,R is 2 parts,s is 1 part in order
+to make s to 
+25% of the 
+> > mixture,howmuch r is to be added 
+> > a)one part 
+> > 12)wind flows 160 miles in 330min.for 80 miles how
+much time 
+required 
+> > a)--- 
+> > 13)with 4/5 full tand vehicle travels 12 miles,
+with 1/3 full 
+tand how 
+> > much distance travels 
+> > a)5 miles 
+> > 14)2 trees are there.one grows at 3/5 of the
+other.In 4 years 
+> > total growth of the trees is 8 ft.what growth will
+smaller tree 
+will have 
+> > in 2 years. 
+> > a)2 ft 
+> > 15)a storm will move with a velocity of ---
+towards the center 
+in --- 
+> > at the same rate how much far will it move in hrs 
+> > a)8/3 or 2 2/3 
+> > 15 not clear 
+> >
+> > A. 
+> > my father had no brothers but his 3 sisters are
+all married and 
+each has 2 
+> > children.my grandfather has 2 sons. 
+> > 1.mu father was an only child F 
+> > 2.3 of my aunts have sons C 
+> > 3.i have six cousins on my mother's side C 
+> > 4. i have only one uncle F 
+> > 
+> > B. 
+> > Senior managers in a leading company said that new
+japanese 
+investment 
+> > in india was transforming the car industry and
+warned that jobs 
+were 
+> > under threat from japanese competition. they
+stated that 
+increasing 
+> > competition would be coupled with an in evitable
+downturn i the 
+car market 
+> > and the recent rise in interst rates whaich had
+already hit 
+demand. 
+> > 5.some senior managers said that more people will
+want to buy new 
+cars in 
+> > the future. F 
+> > 6.managers told workers that japanese workers are
+taking jobs 
+away from 
+> > indian workers in the car industry. F 
+> > 7.the managers issued their warning after a rise
+in interest 
+rates. T 
+> > 8.the increased rate of the interest will mean
+that japanese 
+firms will 
+> > cease to operate in this country. C 
+> > 
+> > C.Researchers in mumbai have found that certain
+types of 
+gallstones can be 
+> > dissolved by injecting them with a gasoline
+additive in the form 
+of ether 
+> > the ether is injected through a tube directly into
+a tube 
+directly into 
+> > the gallbladder.the one day treatment works only
+on cholesterol- 
+based 
+> > stones.not those composed largely o
+calcium.however as the 
+clolesterol 
+> > stones are by far the most common typefor millions
+of gallstones 
+> > sufferers the treatment should offer a welcome
+alternative 
+tosurgery 
+> > the commonest option in nost hospitals. 
+> > 9.injecting ether into the gallbladder dissolves
+most gallstones T 
+> > 10.surgery is the only treatment for calcium
+stones T 
+> > 11.hundreds of peoplecontains calcium stones C 
+> > 12.calcium stones will be cured in one day F 
+> > 
+> > D.organising the home can be perceived as
+conferring power so 
+large 
+> > numbers of women are unwilling to let go of
+chores,even when they 
+have 
+> > careers.a survey found that,out of 65 new
+marriages not one 
+single wife 
+> > expected her husband to share work
+equally.according to the 
+family policy 
+> > studies center 81% working wives return home to do
+all th 
+cooking.The 
+> > average male has nearly half as much more tfree
+time at weekends 
+> > than his wife and the typical new father spends
+just 37 seconds a 
+day 
+> > talking to his baby. 
+> > 13.most working wives do not expect their husbands
+to share chores 
+> > equally. T 
+> > 14.the average wife has half as much free time at
+weekends as her 
+husband. 
+> > F 
+> > 15.some women collude in the unequal distribution
+of house hold 
+work 
+> > because they want to retain control C 
+> > 16. 39% of all men with working wives do the
+cooking and all the 
+cleaning 
+> > F 
+> > 
+> > E.confucius said that to know the future we have
+to understand 
+the pasthis 
+> > time transport ,communications and scientific
+knowledge were less 
+> > developed than they are today.news took weeks to
+travel where as 
+today 
+> > satellite links connect the continents virtually 
+instantaneously.but 
+> > our technological advances in the field of
+communications seem 
+not to have 
+> > improved our capacity to understand one another 
+> > 17.in confucius daay people were more intelligent
+C 
+> > 18.we understand each otheer better now than in
+confucius time 
+because 
+> > we can travel more quickly. F 
+> > 19.we have made great improvements in transport
+since confucius 
+day T 
+> > 20.none of our scientific discoveries has really
+improved our 
+lives C 
+> > 
+> > F.words in totalitarian systems have an unhealthy
+importance and 
+in such 
+> > states now attempting to return to a more
+democratic normality 
+there has 
+> > been a natural inevitable and healthy devaluation
+of words whereas 
+> > previouslu a single word used in a sppech or even
+a play or poem 
+could be 
+> > a serious political event now the words come
+cheaper almost free. 
+> > politics is politics again and poetry only poetry 
+> > 21.totalitarian state devalue words T 
+> > 22.only non-totalitarian regimes produce poetry of
+political 
+importance 
+> > T 
+> > 23.writers under totalitarian regimes have to
+choose their words 
+care 
+> > fully T 
+> > 24. the democratic political system is healthier
+than others C 
+> 
+> 
+> G.statistics show that millions of vehicals have
+beencarried by 
+shuttle 
+> over the past 30 years through alpine tunnels
+withouty one ever 
+catching 
+> tire.in the alpine tunnels.drivers and passengers
+sit in 
+theirvhehicals on 
+> the shuttle trains.only one vehical has evercaught
+fire on the bussy 
+> french motorail equivalent system.this sort of
+accidents is not 
+possible 
+> in a closed shuttle. assertinos that a vehical fire
+will lead to 
+> catastophe have no basis. since the resoures exit do
+detect,control 
+and 
+> extingush a fire and to remove any persons present
+safely to an 
+adjoning 
+> wagon, leaving any surviving fire facing rapid
+extinction within a 
+wagan 
+> built to contain fire for 30 minutes. catastrophe
+seems very 
+unlikely. 
+> 
+> 25. if a car cauget fire in a rail shuttle, probably
+none would be 
+killed. 
+> 
+> (T) 
+> 26.at least one vehical has cauht fire in an alpine
+tunnel.(f) 
+> 27.if a fire started in a wagon, it would be allowed
+to burn itself 
+out in 
+> 30 minutes.(f) 
+> 28.if would theoreticaly be possible for a car to
+cath fire in 
+aclosed 
+> shuttle system.(F) 
+ 
+> 
+> H)every form of art is protected by copy write,upon
+the expiration 
+> 
+> of whitch the property passes into the public domain
+and becomes 
+freely 
+> available to any one wishing to exploit it
+commercialy. the time 
+has come 
+> when all treasures shoud pass to the controled of a
+trust,and by 
+this made 
+> readily available to anyone on pament of a fee or
+royality.the 
+income 
+> fromthe works of tagore would alone be
+enarmous.these who now main 
+> financialbenifit from his genius should make some
+contribution to 
+the 
+> welfare of the arts in general. 
+> 29.tagore's plays are not protected by copyright. F 
+> 30.tagore's decendants should be asked to make some
+contribution to 
+the 
+> arts C 
+> 31.instead of buying a ticket , theatregoers should
+pay a fee to 
+trust for 
+> the benefit of the arts. C 
+> 32. More people could go to the theatre if copy
+rightwere abolished 
+C 
+ 
+ 
+> I. Hacking is a crime made possible by a relatively
+new technology, 
+> which one of the reasons it is often poorly
+understood and reported. 
+> Many computers, but no means all,are now linked
+togetherin networks 
+which 
+> allow users on one computer to communicate with
+others on the same 
+> network.If a computer is not networked,no
+manipulation of its 
+datafrom 
+> another machine is possible.So long as users are
+authorised, 
+networking 
+> is just a way of making work easier and more
+productive.Hacking on 
+the 
+> other hand,is the unauthorised use of networks or
+unauthorised 
+entty 
+> into the computers themselves.Most people do not
+need to break into 
+the 
+> networks they use,since they are already accredited
+users. 
+> 33. Most hackers are authorised to break into
+networks F 
+> 34. Computers are only vulerable to the unauthorised
+manipulation of 
+> their data via another computer if they are
+networked T 
+> 35.The main reason why it is relatively easy to
+break into a 
+computer is 
+> that few people understand the technology. C 
+> 36.Hackers do not work fot the firms whose networks
+they break 
+into. T 
+ 
+ 
+> J.Although invaders represent a threat to the
+conservation of flora 
+and 
+> fauna,there are two special cases in which invasion
+have been 
+deliberately 
+> brought about.One is the desire to control presents
+by natural 
+predators, 
+> whichmay have to be brought in from other
+countries.The second is 
+> releasing organisms into the wild(or on to
+farms,from which they 
+might 
+> escape)that are completely novel,beacause they have
+been genetically 
+> engineered.There is nothing intrinsically sinister
+about engineered 
+> organisms,but any novelty must be regarded as a
+potential invader. 
+> 37.Pest control does not threat the conservation of
+flora and 
+fauna. T 
+> 38.Genetically engineered organisms must always be
+regarded as 
+poten- 
+> tially dangerous. F 
+> 39.Natural predators are work harmful than pests.T 
+> 40.Genetically engineered organisms escaped from the
+farm,they will 
+be 
+> pose a threat to wildlife. T 
+> 
+ 
+> > 
+> > K.electronics technology is coming to the rescue
+of helicopters 
+which can 
+> > be grounded or crash in icy conditions the
+machines are especially 
+> > vulnerable to the build up of ice on both their
+rotors and engine 
+air 
+> > intake when operating in cold damp conditions.the
+problem is 2 
+fold 
+> > ice increases the weight and the build upp makes
+the aerofoils 
+> > less efficient .now at last a detector has been
+devised which the 
+company 
+> > hopes will mean safer flightsand less frequent
+grounding.unlike 
+most 
+> > devices in use at present it can detect the liquid
+water content 
+of cloud 
+> > above freezing level.so the warning is ginven
+before the 
+potential hazard 
+> > is encountered. 
+> > 
+> > 39.an electronic device has been invented which
+will prevent the 
+build 
+> > up of ice on helicopter rotors F 
+> > 40.helicopters are sometimes grounded because in
+cold damp 
+weather their 
+> > engine air intakes and rotors malfuntion owing to
+the formatrion 
+of ice. 
+> > T 
+> > 41.only one device can at present detect the
+liquid water content 
+of 
+> > cloud above freezing level C 
+> > 42.in future fewer helicopters will crash or have
+to grounded T 
+> > 
+ 
+ 
+> > L.anyone whos has systematically examined faces
+will have 
+perceived a 
+> > prepondreance although not a proliferation of
+asymmtry.whether or 
+not 
+> > the expression is volitinal and self controlled or
+spontaneous 
+appears 
+> > to predict facial asymmetry as does the type of
+emotion 
+protrayed.positive 
+> > emotions are usually displayed symmetrically
+although a left 
+sided 
+> > representation of a negative emotion is more
+common.posed 
+expressions and 
+> > negative emotions are less likely to be
+symmetrically represented. 
+> > 43.an angry person is more likely to have a
+lopsided expression 
+than 
+> > someone who is smiling T 
+> > 44.a deliberately assumed facial expression will
+always be 
+asymmetrical F 
+> > 45.an actor is likely to smile symmetrically when
+acting C 
+> 46.more self conscious people are likely to have
+less asymmetrically 
+> facial expressions than those who are less aware of
+themselves T 
+> 
+ 
+ 
+> M. human existence is not susceptible of arbitary
+division between 
+> consciousness and unconsciousness.the conscious
+world invades and 
+shapes 
+> the activities of the unconscious while many of the
+great 
+achievements of 
+> humanity's waking hours were wholly or partly
+inspires bu 
+dreams .even if 
+> it could be argued that dreams precede experience
+such a dichotomy 
+could 
+> not be drawn as the influence of dreaming on the
+waking state would 
+remain 
+> unclear but as yet no common vocabulary exists to
+record the 
+substance 
+> of prenatal dreaming 
+> 47.sleep can be a creative state. T 
+> 48.it is difficult to tell whether a sleeper is
+dr3eaming or not C 
+> 49. if we knew what babies dream about before they
+are born we could 
+> show that conscious and unconscious mond influence
+one another F 
+> 50. it is untrue to claim that the conscious and
+unconscious worlds 
+never 
+> impinge on one another F 
+> 
+ 
+> New twenty questions 
+> -------------------- 
+> N. disease x succeeds lung disease.it may also occur
+helthy persons 
+the 
+> person looks healthier from outside.the number of
+red blood cells 
+in 
+> the blood increased and this leads to thickness fo
+the blood as a 
+result 
+> of which blood lacks inside the vessels .the person
+suffers heart 
+attact. 
+> one possible solution is to remove a litre of blood
+or to control 
+the 
+> growth of red blood cells. 
+> 53.lung disease precedes the disease x T 
+> 54.a person who gets heart attack always has disease
+x F 
+> 55.people suffering from disease x look healthier C 
+> 56.one litre of blood must be removed to cure this T
+
+> 
+ 
+ 
+> O.a starfire engine has been designed to work only
+for unleaded 
+> petrol.this crossfire engine is designed for both
+1500 and `1800 cc 
+> they internally and externally look alike except for
+the difference 
+> in wheels ----,2000 cc is differentr from the
+above.two in terms of 
+3 
+> features --- ----- ---- on the bumber. 
+> 57.the engine run only on the leaded petrol F 
+> 58.1500 and 1800 cc look alike F 
+> 59.apart from cross fire engines they manfacture
+---- F 
+> 60.internal structure of the 2000cc is same as that
+of both 1500 and 
+> 1800 cc C 
+> 
+ 
+ 
+> P.a weed killer to kill the weeds has been
+developed.the weed killer 
+> solution has to be applied to the growing tips. it
+need not to be 
+applied 
+> to all the tips.the solution has to be prepared in a
+can in one hand 
+> and the plants are taken in the other hand with a
+glove and are 
+immersed 
+> in the solution if we cannot immerse them in the
+solution the 
+solution 
+> can be applied to the roots with a brush.it used
+without care it can 
+> pose danger to other plants. 
+> 61.the solutions has to applied to growing leaves 
+> 62.to use the weedkiller first take the plants in
+the cn as then 
+pour the 
+> solution into it. 
+> 63.it is sufficient to apply it only to some roots 
+> 64.it effects to the other plants. 
+> 
+ 
+ 
+> Q. 
+> 65.flora 3 sofa set gives value to ur money 
+> 66.padding is used to increase durablity 
+> 67.flora will made all other products other than
+sofa sets 
+> 68.can we use wood as ----- T 
+> 
+ 
+> R. 
+> 
+> 69.the length of the cracker will be less than 12 cm
+F 
+> 70.the center part of the crackers is 4cm T 
+> 
+>---------------------------------------------------------------------
+
+---------- 
+> 
+> 
+> these are the questions given from tcs paper 
+> dont answer all questions. 
+> 
+> In reasoning test at the end of each question we
+indicated 
+> F,T,C 
+> where F represents False 
+> " T " True 
+> " C " cant say. 
+>---------------------------------------------------------------------
+
+--------- 
+> Aafter this test,psychmetry test will be there.dont
+bother about it. 
+it is just 
+> formal.they will not consider it.But answer all 150
+questions in 30 
+> minutes 
+ 
+ 
+
+
+
+.For  ralish(check) EX-OR gate ,how many NAND gates
+are required?
+Ans: 3
+
+2.A Master glare (check) FF circuit …………………..
+Ans: 1.S-RFF       2.J-K
+
+3. Program to find output of an assembly language
+program………..
+Ans. It finds out the greatest of two no. & stores it
+in the memory.
+
+4.The time required for the data to setting, before
+the triggering  
+edge of 
+the clock.
+Ans. Setup Time.
+
+5. How many diffusion(check) are required to make a
+monolathic 
+transistor
+Ans: 3
+
+6. A diagam with 2 AND & 1 OR gate .........
+Ans : B
+
+7.The p.substrate  that will be connected in chip 
+is………..
+Ans. Most positive
+
+8.How can we change DFF to TFF
+Ans  no we cannot change.
+
+9.There will be a C program involving  pointer
+Ans. A
+
+10.We use SiO2 in the chip as…..
+Ans. To allow diffusion
+
+11.What is meubim(unclear)cycle
+
+12.Program in C
+Ans. Compilation Error
+13. How many flag are in 8085.
+
+14. How can we    change SRFF to JKFF
+
+15.Minimum no.of 2:1maltiplex will be  needed for 16:1
+multiplex.
+
+
+
+
+
+__________________________________________________
+
+hi 
+here is what aztec asked here.
+i have compiled it after asking those who had appeared in that.
+it is 
+GEORGE SUMMER'S PUZZLE BOOK'S
+PAGE NUMBERS 10,15,31,34,39,63,57,84
+IN C, THEY ASKED
+ 1. REVERSING   A LINKED LIST.
+ 2. COMBINING 2 CIRCULAR LINKED LISTS INTO ONE CIRCULAR LINKED LIST
+ 3. OF AN ARRAY ,ADDING NOS. ADD ODD PLACES AND EVEN PLACES SEPARATELY AND
+    GETTING THE DIFFERENCE
+ 4.NODE INSERTION IN LINKED LIST WHERE NOS. ARE IN ASCENDING ORDER
+ 5. MAKING A SERIES IN WHISH EVERY NO. IS EQUAL TO THE DIFFERENCE OF LAST
+    TWO ELEMENTS
+IN C++
+ 1. STRUCTURE,INHEROTANCE OF STRUCTURE
+ 2. STRUCTURES AND UNIONS.
+ 3. PRIVATE, PUBLIC, INHERITANCE AND ACCESS OF PUBLIC, PRIVATEMEMBERS ETC.
+
+SEND ME THE PAPERS OF HCL , ETC OR WHATEVER U HAVE
+LUV
+KESARI
+
+              
+
+
+
+
+
+
+
+DEAR ANURAG,
+		wipro visited our campus on the 3rd of august and took 52
+people from our univ. From the non E&C/CST/Elec. it took only 8 students.
+We had a different paper. I am sending you the paper. Plesae give this
+paper also to manoj.
+
+Q1.
+Convert 972 decimal to hex.
+Q2.
+What are the advantages of a doubly linked list over a singly liked list?
+Q3.
+Write a C program to compute log x.
+Q4.
+what is a volatile variable?
+Q5.
+What is the largest number that can be stored in an unsigned 16 bit
+integer?
+Q6.
+Debug the following program
+
+main()
+{
+char *p;
+strcpy(p,"will this program work?");
+printf("%s",p);
+}
+
+Paper was of  half an hour duration.
+
+bye
+
+
+
+
+************************************************************************
+SET 1st tcs
+************************************************************************
+
+ Dear friend,
+ In the paper I am sending,there r about 40 vocabulary questions.But
+ this year's paper has only 20 of them.Time 5 min.Marks 10.Do only
+ 15 or 16 bits correctly.
+         
+  Quantitative aptitude:I am sending 15 questions.In the latest paper we got,
+   there r only 10 of them r present.Time 10 min.Marks 20.Do all the 
+   problems correctly.
+
+
+   Reasoning:All answers r given.Remember them.In the exam, u willnot be
+   having time to read the passages.So remember the answers.
+   I dont remember twohe passages (R and Q).U can read these passages
+   in the exam and answer them.Remember: don't answer all questions.Write
+   7 or 8 incorrect answers.Time 45 min.Total 70 questions and Marks 70.
+
+
+   Your ultimate aim is to get 75 to 85 marks.Because if u get high marks,
+   they may assune that u know the paper beforehand and u may be disqualified.
+   So don't get morethan 90 marks.
+
+
+            WISH U ALL THE BEST.
+   
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+> > 
+> > Vocabulary
+> > ----------
+> > Admonish-usurp,meager-scant,alienate-estrange,merry-gay,brim-boarder,obstinate-stubbourn
+> > solicit-urge,subside-wane,furtive-stealthy,misery-distress,volume-quantity,
+> > veer-diverge,stiffle-snithy,adhesive-sticky,hamper-obstruct,belief-co 
+> > nviction,lament-wail,incentive-spur,innert-passive,baffle-frustrate,confiscate-appropriate,covert-crave,caprice-whim,concur-acquiesce,cargo-frieght,dispel-scatter,divulge-reveal,tomerit-todeserve,discreation-prudence,emancipate-liberate,efface-obliterate,
+> > 
+> > hover-linger,heap-to
+> > pile,instigate-incite,latitude-scope,latent-potential,lethargy-stupor
+> > momentary-transient,pretentious-ostentatious,embrace-effigy
+> > 
+> > Apptitude
+> > ---------
+> > 1)2 pencils costs 8 cents,then 5 pencils cost how much
+> > a)20c
+> > 2)a work is done by the people in 24 min.one of them can do this work
+> > a lonely in 40 min.how much time required to do the same work for the
+> > second person
+> > a)60min
+> > 3)a car is filled with four and half gallons of oil for full round
+> > trip.fuel is taken 1/4 gallons more in going than coming.what is the fuel
+> > consumed in coming up.
+> > a)2 gallons
+> > 4)low temperature at the night in a city is 1/3 more than 1/2 hinge as
+> > higher temperature in a day.sum of the low temp and high temp is 100 c.
+> > then what is the low temp.
+> > a)40 centigrade
+> > 5)a person who decided to go weekend trip should not exceed 8 hours
+> > driving in a day average spped of forward journey is 40 mph.due to
+> > traffic insundays the return journey average speed is 30 mph.how far he
+> > can select a picnic spot.
+> > a)120 miles
+> > 6)a sales person multiplied a number and get the answer is 3
+> > instead of that number divided by 3.what is the answer he actually
+> > has to get.
+> > a)1/3
+> > 7)a ship started from a port and moving with I mph and another ship
+> > started from L and moving with H mph.at which place these two ships
+> > meet.
+> > a)between I and J and close to J
+> > 8)a building with height D ft shadow upto G.A neighbour building
+> > with what height shadow C ft is
+> > a)B ft
+> > 9)a person was fined for exceeding the speed limit by 10mph.another
+> > person was also fined for exceeding the same speed limit by twice the same
+> > if the second person was travellling at a speed of 35 mph.find the
+> > speed limit
+> > a)15mph
+> > 10)a bus started from bustand at 8.00am and after 30min staying at
+> > destination it returned back to the bustand.the destination is 27
+> > miles from the bustand the speed of the bus 50percent fast speed at what
+> > time it returns to the bustand.
+> > a)11.00am
+> > 11)in a mixture,R is 2 parts,s is 1 part in order to make s to 25% of the
+> > mixture,howmuch r is to be added
+> > a)one part
+> > 12)wind flows 160 miles in 330min.for 80 miles how much time required
+> > a)---
+> > 13)with 4/5 full tand vehicle travels 12 miles, with 1/3 full tand how
+> > much distance travels
+> > a)5 miles
+> > 14)2 trees are there.one grows at 3/5 of the other.In 4 years
+> > total growth of the trees is 8 ft.what growth will smaller tree will have
+> > in 2 years.
+> > a)2 ft
+> > 15)a storm will move with a velocity of --- towards the center in ---
+> > at the same rate how much far will it move in hrs
+> > a)8/3 or 2 2/3
+> > 15 not clear
+> > 
+> > 
+> > Reasoning
+> > ----------
+> > A.
+> > my father had no brothers but his 3 sisters are all married and each has 2
+> > children.my grandfather has 2 sons.
+> > 1.mu father was an only child     F
+> > 2.3 of my aunts have sons         C
+> > 3.i have six cousins on my mother's side   C
+> > 4. i have only one uncle   F
+> > 
+> > B.
+> > Senior managers in a leading company said that new japanese investment
+> > in india was transforming the car industry and warned that jobs were
+> > under threat from japanese competition. they stated that increasing
+> > competition would be coupled with an in evitable downturn i the car market
+> > and the recent rise in interst rates whaich had already hit demand.   
+> > 5.some senior managers said that more people will want to buy new cars in
+> > the future.  F
+> > 6.managers told workers that japanese workers are taking jobs away from
+> > indian workers in the car industry.  F
+> > 7.the managers issued their warning after a rise in interest rates.  T
+> > 8.the increased rate of the interest will mean that japanese firms will
+> > cease to operate in this country.  C
+> > 
+> > C.Researchers in mumbai have found that certain types of gallstones can be
+> > dissolved by injecting them with a gasoline additive in the form of ether
+> > the ether is injected through a tube directly into a tube directly into
+> > the gallbladder.the one day treatment works only on cholesterol-based
+> > stones.not those composed largely o calcium.however as the clolesterol
+> > stones are by far the most common typefor millions of gallstones
+> > sufferers the treatment should offer a welcome alternative tosurgery
+> > the commonest option in nost hospitals.
+> > 9.injecting ether into the gallbladder dissolves most gallstones   T
+> > 10.surgery is the only treatment for calcium stones   T
+> > 11.hundreds of peoplecontains calcium stones    C
+> > 12.calcium stones will be cured in one day  F
+> > 
+> > D.organising the home can be perceived as conferring power so large
+> > numbers of women are unwilling to let go of chores,even when they have
+> > careers.a survey found that,out of 65 new marriages not one single wife
+> > expected her husband to share work equally.according to the family policy
+> > studies center 81% working wives return home to do all th cooking.The
+> > average male has nearly half as much more tfree time at weekends
+> > than his wife and the typical new father spends just 37 seconds a day
+> > talking to his baby.
+> > 13.most working wives do not expect their husbands to share chores
+> > equally.   T
+> > 14.the average wife has half as much free time at weekends as her husband.
+> > F
+> > 15.some women collude in the unequal distribution of house hold work
+> > because they want to retain control    C
+> > 16. 39% of all men with working wives do the cooking and all the cleaning
+> > F
+> > 
+> > E.confucius said that to know the future we have to understand the pasthis
+> > time transport ,communications and scientific knowledge were less
+> > developed than they are today.news took weeks to travel where as today
+> > satellite links connect the continents virtually instantaneously.but
+> > our technological advances in the field of communications seem not to have
+> > improved our capacity to understand one another
+> > 17.in confucius daay people were more intelligent    C
+> > 18.we understand each otheer better now than in confucius time because
+> > we can travel more quickly.  F
+> > 19.we have made great improvements in transport since confucius day  T
+> > 20.none of our scientific discoveries has really improved our lives  C
+> > 
+> > F.words in totalitarian systems have aN Unhealthy importance and in such
+> > states now attempting to return to a more democratic normality there has
+> > been a natural inevitable and healthy devaluation of words whereas
+> > previouslu a single word used in a sppech or even a play or poem could be
+> > a serious political event now the words come cheaper almost free.
+> > politics is politics again and poetry only poetry
+> > 21.totalitarian state devalue words  T
+> > 22.only non-totalitarian regimes produce poetry of political importance
+> > T
+> > 23.writers under totalitarian regimes have to choose their words care
+> > fully   T
+> > 24. the democratic political system is healthier than others   C
+  > 
+> 
+>    G.statistics show that millions of vehicals have beencarried by shuttle
+> over the past 30 years through alpine tunnels withouty one ever catching
+> tire.in the alpine tunnels.drivers and passengers sit in theirvhehicals on
+> the shuttle trains.only one vehical has evercaught fire on the bussy
+> french motorail equivalent system.this sort of accidents is not possible
+> in a closed shuttle. assertinos that a vehical fire  will lead to
+> catastophe have no basis. since the resoures exit do detect,control and
+> extingush  a fire and to remove any persons present safely to an adjoning
+> wagon, leaving any surviving fire facing rapid extinction within a wagan
+> built to contain fire for 30 minutes. catastrophe seems very unlikely.
+> 
+> 25. if a car cauget fire in a rail shuttle, probably none would be killed.
+>    
+>     (T)    
+> 26.at least one vehical has cauht fire in an alpine tunnel.(f)
+> 27.if a fire started in a wagon, it would be allowed to burn itself out in
+>    30 minutes.(f)
+> 28.if would theoreticaly be possible for a car to cath fire in aclosed
+>     shuttle system.(F)
+
+> 
+> H)every form of art is protected by copy write,upon the expiration
+> 
+>  of whitch the property passes into the public domain and becomes freely
+> available to any one wishing to exploit it commercialy. the time has come
+> when all treasures shoud pass to the controled of a trust,and by this made
+> readily available to anyone on pament of a fee or royality.the income
+> fromthe works of tagore would alone be enarmous.these who now main
+> financialbenifit from his genius should make some contribution to the
+> welfare of the arts in general.
+> 29.tagore's plays are not protected by copyright.  F
+> 30.tagore's decendants should be asked to make some contribution  to the 
+> arts C
+> 31.instead of buying a ticket , theatregoers should pay a fee to trust for
+> the benefit of the arts.  C
+> 32. More people could go to the theatre if copy rightwere abolished  C
+
+
+> I. Hacking is a crime made possible by a relatively new technology,
+> which one of the reasons it is often poorly understood and reported.
+> Many computers, but no means all,are now linked togetherin networks which
+> allow users on one computer to communicate with others on the same
+> network.If a computer is not networked,no manipulation of its datafrom
+> another machine is possible.So long as users are authorised, networking
+> is just a way of making work easier and more productive.Hacking on the
+> other hand,is the unauthorised use of networks or unauthorised entty 
+> into the computers themselves.Most people do not need to break into the 
+> networks they use,since they are already accredited users.
+> 33. Most hackers are authorised to break into networks  F
+> 34. Computers are only vulerable to the unauthorised manipulation of
+>   their data via another computer if they are networked  T
+> 35.The main reason why it is relatively easy to break into a computer is
+> that few people understand the technology.  C
+> 36.Hackers do not work fot the firms whose networks they break into.  T
+
+
+> J.Although invaders represent a threat to the conservation of flora and
+> fauna,there are two special cases in which invasion have been deliberately
+> brought about.One is the desire to control presents by natural predators,
+> whichmay have to be brought in from other countries.The second is
+> releasing organisms into the wild(or on to farms,from which they might
+> escape)that are completely novel,beacause they have been genetically
+> engineered.There is nothing intrinsically sinister about engineered
+> organisms,but any novelty must be regarded as a potential invader.
+> 37.Pest control does not threat the conservation of flora and fauna. T
+> 38.Genetically engineered organisms must always be regarded as poten-
+> tially dangerous.  F
+> 39.Natural predators are work harmful than pests.T
+> 40.Genetically engineered organisms escaped from the farm,they will be
+> pose a threat to wildlife. T
+> 
+
+> > 
+> > K.electronics technology is coming to the rescue of helicopters which can
+> > be grounded or crash in icy conditions the machines are especially
+> > vulnerable to the build up of ice on both their rotors and engine air
+> > intake when operating in cold damp conditions.the problem is 2 fold
+> > ice increases the weight and the build upp makes the aerofoils
+> > less efficient .now at last a detector has been devised which the company
+> > hopes will mean safer flightsand less frequent grounding.unlike most
+> > devices in use at present it can detect the liquid water content of cloud
+> > above freezing level.so the warning is ginven before the potential hazard
+> > is encountered.
+> > 
+> > 39.an electronic device has been invented which will prevent  the build
+> > up of ice on helicopter rotors   F
+> > 40.helicopters are sometimes grounded because in cold damp weather their
+> > engine air intakes and rotors malfuntion owing to the formatrion of ice.
+> > T
+> > 41.only one device can at present detect the liquid water content of
+> > cloud above freezing level  C
+> > 42.in future fewer helicopters will crash or have to grounded   T
+> > 
+
+
+> > L.anyone whos has systematically examined faces will have perceived a
+> > prepondreance although not a proliferation of asymmtry.whether or not
+> > the expression is volitinal and self controlled or spontaneous appears
+> > to predict facial asymmetry as does the type of emotion protrayed.positive
+> > emotions are usually displayed symmetrically although a left sided 
+> > representation of a negative emotion is more common.posed expressions and
+> > negative emotions are less likely to be symmetrically represented.
+> > 43.an angry person is more likely to have a lopsided expression than
+> > someone who is smiling  T
+> > 44.a deliberately assumed facial expression will always be asymmetrical  F
+> > 45.an actor is likely to smile symmetrically when acting   C
+>   46.more self conscious people are likely to have less asymmetrically
+> facial expressions than those who are less aware of themselves   T
+> 
+
+
+>  M. human existence is not susceptible of arbitary division between
+> consciousness and unconsciousness.the conscious world invades and shapes
+> the activities of the unconscious while many of the great  achievements of
+> humanity's waking hours were wholly or partly inspires bu dreams .even if
+> it could be argued that dreams precede experience such a dichotomy could
+> not be drawn as the influence of dreaming on the waking state would remain
+> unclear but as yet no common vocabulary exists to record the substance
+> of prenatal dreaming
+> 47.sleep can be a creative state.   T
+> 48.it is difficult to tell whether a sleeper is dr3eaming or not   C
+> 49. if we knew what babies dream about before they are born we could
+> show that conscious and unconscious mond influence one another   F
+> 50. it is untrue to claim that the conscious and unconscious worlds never
+> impinge on one another  F
+> 
+
+> New twenty questions
+> --------------------
+> N. disease x succeeds lung disease.it may also occur helthy persons the
+> person looks healthier from outside.the number of red blood cells in 
+> the blood increased and this leads to thickness fo the blood as a result
+> of which blood lacks inside the vessels .the person suffers heart attact.
+> one possible solution is to remove a litre of blood or to control the
+> growth of red blood cells.
+> 53.lung disease precedes the disease x   T
+> 54.a person who gets heart attack always has disease x   F
+> 55.people suffering from disease x look healthier   C
+> 56.one litre of blood must be removed to cure this   T
+> 
+
+
+> O.a starfire engine has been designed to work only for unleaded
+> petrol.this crossfire engine is designed for both 1500 and `1800 cc
+> they internally and externally look alike except for the difference
+> in wheels ----,2000 cc is differentr from the above.two in terms of 3
+> features --- ----- ---- on the bumber.
+> 57.the engine run only on the leaded petrol   F
+> 58.1500 and 1800 cc look alike   F
+> 59.apart from cross fire engines they manfacture ----  F
+> 60.internal structure of the 2000cc is same as that of both 1500 and
+> 1800 cc     C
+> 
+
+
+> P.a weed killer to kill the weeds has been developed.the weed killer
+> solution has to be applied to the growing tips. it need not to be applied
+> to all the tips.the solution has to be prepared in a can in one hand
+> and the plants are taken in the other hand with a glove and are immersed
+> in the solution if we cannot immerse them in the solution the solution
+> can be applied to the roots with a brush.it used without care it can
+> pose danger to other plants.
+> 61.the solutions has to applied to growing leaves  
+> 62.to use the weedkiller first take the plants in the cn as then pour the 
+> solution into it.
+> 63.it is sufficient to apply it only to some roots
+> 64.it effects to the other plants.
+> 
+
+
+> Q.
+> 65.flora 3 sofa set gives value to ur money
+> 66.padding is used to increase durablity
+> 67.flora will made all other products other than sofa sets
+> 68.can we use wood as -----  T
+> 
+
+> R.
+> 
+> 69.the length of the cracker will be less than 12 cm    F
+> 70.the center part of the crackers is 4cm   T
+> 
+>------------------------------------------------------------------------------- 
+> 
+> 
+> these are the questions given from tcs paper
+> dont answer all questions.
+> 
+> In reasoning test at the end of each question we indicated
+> F,T,C
+> where F represents    False
+> "     T   "           True
+> "     C    "           cant say.
+>------------------------------------------------------------------------------ 
+> Aafter this test,psychmetry test will be there.dont bother about it.
+ it is just
+> formal.they will not consider it.But answer all 150 questions in 30 
+> minutes
+ 
+-------------------i------
+
+************************************************************************
+*********************************************************************
+set 2nd
+*********************************************************************
+
+TCS
+
+
+1]   depreciation = deflation,depression,devaluation,fall,slump
+2]   Depricate = feel and express disapproval
+3]   Incentive = thing one encourages one to do
+4]   Echelon = level of authority or responsibility
+5]   Innovation = make changes or introduce new things
+6]   Intermittant = externally stopping and then starting
+7]   Detrimental = harmful
+8]   Mesotiate = ...
+9]   Conciliation = make less angry or more friendly
+10]  orthodox = conventional or superstitious
+11]  Fallible = liable to err
+12]  Volatile = ever changing
+13]  Manifestion = clear or obvious
+14]  Cannotation =
+15]  Reciprocal = reverse, opposite
+16]  Agrarian = related to agriculture
+17]  Vacillate = undecided or dilemma
+18]  Experdent = fitting proper , desirable
+19]  Simulate = produce artificially resembling an existing one
+20]  Access = to approach
+21]  Compensation= salary
+22]  Truncate = shorten by cutting
+23]  Adherance = stick
+24]  Heterogenous = non-similar things
+25]  Surplus = excessive
+26]  Assess = determine the amount or value
+27]  Cognezance = knowledge
+28]  Retrospective = review
+29]  Naive = innocent , rustic
+30]  Equivocate = tallying on both sides
+31]  Postulate = frame a theory
+32]  Latent = dormant,secret
+33]  Fluctuate = wavering
+34]  Eliminate = to reduce
+35]  Affinity = strong liking
+36]  Expidite = hasten
+37]  Console = to show sympathy
+38]  Adversary = opposition
+39]  Affable = lovable,approchable
+40]  Decomposable = rotten
+41]  Agregious = apart from crowd,especially bad
+42]  Conglomeration = group
+43]  Aberration = deviation
+44]  Erudite = ....
+45]  Augury = prediction
+46]  Credibility = ability to common belief,quality of being credible
+47]  Coincident = incidentally
+48]  Constituent = accompanying
+49]  Differential = having or showing or making use of
+50]  Distention = act out,strtching out ,swelling out
+51]  Litigation = engaging in a law suite
+52]  Moratorium = legally or officially determined period of delay before
+	  the fulfilment of the agrement or payment of debts
+53]  Negotiate = discuss or bargain
+54]  Preparation = act of preparing
+55]  Preponderant = superiority of power or quality
+56]  Relevance = quality of being relevant
+57]  Apparatus = appliance
+58]  Ignorance = blindness or inexperiance
+59]  Obsession = complex enthusiasm
+60]  Precipitate = ...
+
+QUANT
+
+*]  420% OF 7.79 = 32.718
+*]  3427 / 95 = 115.7365
+*]  10995 / 95 = 115.7365
+*]  43 + 557 -247 = 357
+*]  31070 * 3.082 = 9591.39
+*]  48.7 + 24.9 - 8.7 = 64.90
+*]  525.8 / 47.8 = 11
+*]  ( 135 - 30 -14) /7 - 6 + 2 = 3
+]  3 / 8 * 5.04 = 1.89
+*]  697 / 219 = .0316
+*]  8 / 64 + 64 / 16 = 4.14
+*]  298 * 312 / 205 = 453.54
+*]  .33 * 1496 /13
+*]  .26 +1/8 = .385
+*]  66.07 + 1/3 = 67.03
+*]  284 + 1/4 = 3.09
+*]  33 % OF 450 = 1.485
+*]  907.54 / .3073 =  3002
+
+Flow Charts Answers-
+  [1]      [2]      [3]      [4]      [5]       [6]
+
+
+  IMR
+
+  Pagr 618- strengths and stresses def
+			coding , compiling  , linking   ,   debugging
+			eXe cution   , documentation  , implementation
+************************************************************************
+
+************************************************************************
+set 3 - tcs
+************************************************************************
+
+1. You start to work on new project with a greet deal of enthusiasm.
+2. You would rather plan an activity than take part in it.
+3. You have more than once taken the lead in organizing a project of a group of same kind.
+4. You like to entertain guest.
+5. your interests change quickly from onething to another .
+6. When you eat a meal with others you are usually one of the last to finish.
+7. You believe in the ideas that we should eat, drink, and be merry for tomorro e die.
+8. when you find that something you have bought is defective you hesitate to demand an exchange or a refund.
+9. You find it easy to make new acquitances.
+10. you are sometimes budding over with energy and sometimes very sluggish.
+11. you are happiest when you get involved in some project that comes for rapid action.
+12. other people think of you as being very serious minded.
+13. in being thrown by chance you wait for the person to introduce him or herself.
+14. you like to take part in many social activities.
+15. you sometimes feel "just miserable" for no good reason at all.
+16. you are often so much "on the go" that sooner or later you may wear yourself out.
+17. you like parties (you parties) you attend to be lively.
+18. if you hold a opinion that is radically different from that expressed by a lecturer you are likely to tell the person about it either during or arguer the lecture .
+19. it is difficult for you of char about things in general with people.
+20. you give little thought to your failures after they are past.
+21. you often wonder where other get all the axess energy they seem to have.
+22. you are inclined to stop to think things over before you act.
+23. you avoid arguing over a pace with a clerk or sales person.
+24. you would do like very much to work alone in some isolated place.
+25. you often find difficult to go to sleep at night because you keep thinking of what happened during the day.
+26. you find yourself hurrying to get to places even when there is plenty of time .
+27. you like work that requires considerable altercation to details.
+28. you are satisfied to let someone else take the lead in group activities.
+29. you enjoyed getting acquainted with people.
+30. it takes a lot to get you emotionlly stirred up or excited.
+31. you work more slowly and deliberately than most people of your sex or age.
+32. you are carefree individual.
+33. when people do not fair you hesitate to say anything about it to them.
+34. it bothers you to have people watch you at your work.
+35. you have usually been optimistic about your future. 
+36. you like to have plenty of time to stop and rest.
+37. you take life very seriously.
+38. you enjoy applying for a job in person.
+39. you would like to be host or hostless to parties at a club.
+40. you often fear grouchy.
+41. you are kind of person who is "on the go" all the time.
+42. you often crave excitement.
+43. the thought of macking a speech fighters you.
+44. you find it easy to start conversation with strangers.
+45. you often feel guilty without a very good reason for it.
+46. people think you are a very energetic person.
+47. you sometimes make quick decisions that you later wish you hadn't made.
+48. you find a difficult to ask people for money or other donations even for a cause in which you are interested.
+49. you are so naturally friendly that people immediately feel at base with you.
+50. you daydream a great deal.
+51. you are of your actions 
+52. you have a habit of starting things and then losing interest in them.
+53. when you were a child many of your playmates naturally expected you to be the leader.
+54. you sometimes avoid social contacts for fear of doing or saying the wrong thing.
+55. you have frequent ups and downs in mood, sometimes with, sometimes without apparent cause.
+56. you always seem to have plenty of vigor and vitality.
+57. it is difficult for you to understand people who get very concerned about things.
+58. when a clerk in a store waits on others who come after you. you call  his or her attention to fact.
+59. you would be very unhappy if you were prevented from making numerous social contacts.
+60. there are times when your future looks very dark. 
+61. you sometimes wish that people would slow down a bit and give you a chance to catch up.
+62. many of your friends think you take your work very seriously.
+63. you hesitate to walk into a meeting when you know that everyone's eyes will be upon you.
+64. you limit your friendships mostly to members of your own sex.
+65. you almost always feel well and strong. 
+66. you seem to lack the drive necessary to get as much done as other people do.
+67. you make decisions on your spur of the moment.
+68. you are rather good at buffing when you find yourself in difficulty.
+69. after being introduced to someone. you just cannot think of things to say make good conversation.
+70. you feel lonesome even when with other people.
+71. you are able to work for unusually long hours without feeling tried.
+72. you often act on the first thought that comes into your head.
+73. at the scene of an accident you take an active part in helping out. 
+74. you have difficult to making new friend.
+75. your mood often changes from happiness to sadness of vice versa without knowing why.
+76. you talk more slowly than most people.
+77. you like to play practical jokes on others.
+78. you take the lead inputting life into a dulf party.
+80. there are times when your mind seems to work veryslowly and others times when it works very rapidly.
+81.you like to do things slowly and deliberately.
+82.you are happy of luckily individual.
+83.when you are served state or inferior food in a restaurent,you say nothing about it.
+84.you would rather apply for a job by writing a letter than by going through with a personal interview.
+85.you are often in few serifs.
+86.you are indeed to rush from one activity to another without pausing  enough for rest.
+87.you are so concerned about the future that you do not get as much as fun out of the present as you might.
+88.when you are attractedto a person whom you haven't met,you make an   active attempt to get acquainted even though it may be quiet difficult.
+89.you are ind
+90.you seldom sieve your past mistakes a second thought.
+91.you are less energetic than many people you know.
+92.you often stop to analyze your thoughts and feelings.
+93.you speak out in meetings to oppose those who you feel sure are wrong
+94.you are so shy it bothers you.
+95.you are sometimes bothered by having a useless thought comes into    your mind over and over.
+96.you are things done in a hurry.
+97.it is difficult for you to understand how some people can be so      unconcerned about the future.
+98.you like to sell things(that is to act as a salesperson).
+99.you are often live the life of a party.
+100.you find daydreaming very enjoyable.
+101.at work or at day other people find it hard to keep us with the pace you set.
+102.you can listen to a lecturer without restless.
+103.you would rather work for a good beesthan yourself.
+104.you can express yourself more easily in speech than writing.
+105.you keep in fairly uniform spinets.
+106.you dislike to be burned in your work.
+107: you sometimes find yourself "crossing bridges before you come to them."
+108: you find it somewhat difficult to say "no" to asalesperson who tries to sell you something you do not need.
+109: ther are only afew frieands wwith whom you can reliesand have a good time.
+110: you usually keep cheerfull inspite of trouble.
+111: people sometime tell you to "slow down" or "take it easy".
+112: you are one of those who drink or smoke more than they know the should.
+113: when you think you recognise people in public place you ask them whether you met them befor.
+114: you prefer to work alone.
+115: disappointments  allocate you so late that you seldom think about them twice.
+116: you are slow and deliberate in movement.
+117: you like wild enthusiasm sometimes to a point boring on rewdysm at afootball or basketball game.
+118: you feel self concious in presences of important people.
+119: people think of you as avery social type of person.
+120: you have often lost your sleep over your worries.
+121: you can turn out a large amount of work in a short time.
+122: you keep at atask until it is done,even after nearly everyone else has given up.
+123: you can think of good excuse when you need one.
+124: other people say that it is difficult to know you well.
+125: your daydreams are often about things that can never comes true.
+126: you often run upstairs taking two steps at atime.
+127: you seldom let your responsibility interfer with your having a good time.
+128: you like to take an important responsibility such as organising a new business.
+129: you have hesitate to make or accept "dates" because of shyness.
+130: your moped is easily infdlunced by the people around ypou.
+131: other are often amazed by the amount of work you turn out.
+132: you generally feel as though you haven't a care in the world.
+133.you find diificult to get rid of a salesperson to whom you do not   care to listen or give your time.
+134.you are a listener than a talker in social conversations.
+135.you almost always feel that life is very much worth living.
+136.it imitates you to you have to wait at a crossing for a long freight train to pass.
+137.you usually say that you feel like saying at the moment.
+138.you like to be speak in public or you like to be with people.
+139.you generally keep cool and think clearly in exiting situations.
+140.other people regard you as a lively individual.
+141.when you get angry if you let yourself go you feel better.
+142.you seek to avoid all trouble with other people.
+143.people seem to enjoy being with you.
+144.you sometimes feel restless and tired for no good reason.
+145.it is hard to understand why many people are so slow and get so     little done.
+146.you are fond of betting on horse races and games whether you can    afford it or not.
+147.if someone you know has been spreading untrue and bad stories about you ,you see the person as soon as possible and have a talk about it.
+148.shyness keeps you being as popular as you should be.
+149.you are generally free from worry about possible misfortunes.
+
+
+
+************************************************************************
+***********************************************************************
+set 4 - tcs
+***********************************************************************
+
+  SECTION 1 INTURN CONSISTS OF THREE PARTS.
+  PART 1
+  VERBAL---
+		IT CONSISTS OF 40 WORDS WHICH HAS 5 MULTIPLE ANSWERS
+	FOR THEM.THE MAIN WORDS WHICH I REMEMBER ARE AS FOLLOWS FOR WHICH
+	YOU SHOULD LEARN THE SYNONYMS OF THESE---
+  merry= gay
+  alienate= estrange
+  solicit= beechat
+  heap= to pile
+  cargo= freight
+  momentary= transient
+  volume= quantity
+  veer= diverge
+  dispel= dissipate
+  admonish= cautious
+  meager= scanty
+  latitude= scope
+  latent= potential
+  covet= crave
+  discretion= prudence
+  latent= potential
+  emanicipate= liberate
+  lethargy= stupor
+  concur= acquiesce
+  confiscate= appropriate
+  baffle= frustrate
+  subside= wane
+  misery= distress
+  pretentious= ostentatious
+  tranquil= serene
+  efface= obliterate
+  obstinate= stubborn
+  hover= linger
+  caprice= whim
+  belate= too late
+  renounce= reject
+  brim= border
+  divulge= reveal
+  lament= wail
+  bileaf= conviction
+  adhesive= tenacious
+  furtive= stealthy
+  hamper= obstruct
+  to merit= to deserve
+
+  SECTION 1        PART B        20MIN    30 marks 15 QUANTITATIVE.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  THESE ARE SOME PROBLEMS :
+
+1.)  two pencils cost 8 cents. then 5 pencils cost?
+  (20 cents)
+
+  2. A work is done by the people in 24 minutes.  One of them can do
+  this workalonely in 40 minutes.  How much time to do the same work
+  for the second person?
+  (60 minutes)
+
+  3. A car is filled with four and half gallons of fuel for a round trip.
+  Fuel is taken 1/4 more in going then coming.  What is the fuel
+  consumed in coming up? (2 gallons)
+
+  4.Low temperature at the night in a city is 1/3 more than 1/2 high as
+  higher temperature in a day.  Sum of the low tem. and highest temp.
+  is 100 degrees.  Then what is the low temp? (40 deg.)
+
+  5. A person, who decided to go to weekened trip should not
+  exceed 8 hours driving in a day.  Average speed of forward journey
+  is 40 m/h. Due to traffic in sundays, the return journey average speed
+  is 30 m/h. How far he can select a picnic spot?
+	a) 120 miles
+	b) between 120 and 140 miles
+	c) 160 miles
+  ans: 120 miles
+
+  6. A salesperson multiplied a number and get the answer 3,
+  instead of that number devided by 3.
+  what is the answer he actually has to get?
+		1 x 3 = 3
+		so number = 1
+	devided by 3, the ans. is 1/3.
+
+  7. A ship started from port and moving with I miles per hour and another
+  ship started from L and moving with H miles per hour.
+  At which place these two ships meet? (between I and J, nearer to J)
+	  |----|----|----|----|----|----|
+	port	 G    H    I    J    K    L
+
+  8. A building with height D shadow upto G. A neighbour building with
+  what height shadows C feet.   (height = B ft)
+	  |----|----|----|----|----|----|----|
+	  A    B    C    D    E    F    G    H
+
+	9. A person was fined for exceeding the speed limit by 10 mph.
+  Another person was also fined for exceeding the same speed limit
+  by twice the same.  If the second person was travelling at a
+  speed of 35 mph, find the speed limit.  (15 mph)
+
+  10.A bus started from bustand at 8.00am, and after 30 minutes staying
+   at destination, it returned back to the busstand.  The destination
+   is 27 miles from the busstand.  The speed of the bus is 18mph.  In
+   return journey bus travels with 50% fast speed.
+   At what time it returns to the busstand? (11.00am).
+
+11.In a mixture, R is 2 parts, S is 1 part. In aoder to make S to
+   25% of the mixture, howmuch R is to be added?  ( one part of R)
+
+12. wind flows 160 miles in 330 min, for 80 miles how much time required.
+
+13. with 4/5 full tank vehicle travels 12 miles, with 1/3 full tank
+	how much distance travels    ( 5 miles )
+
+14. two trees are there. one grows at 3/5 of the other in 4 years,
+	total growth of trees is 8 ft. what growth will smaller tree will have
+	in 2 years  (  &lt; 2 ft. )
+
+15. A storm will move with a velocity of     towards the centre in   hours,
+	 At the same rate how much far will it move in hrs.
+	  ( but the answer is 8/3 or 2 2/3  )
+
+ SECTION-1   PART-3	marks-50  questions-50  30 min
+
+ CRITICAL REASONING
+
+  1.  My father has no brothers. he has three sisters who has two childs each.
+	  My grandfather has sons.
+	a) my grandfather has two sons (false)
+	 b) three of my aunts have two sons (can't say)
+	 c) my father is only child to his father (false)
+	 d) i have six cousins from jmy mother side (can't say)
+	 e) i have one uncle (false)
+
+ 2. Ether injected into gallablader to dissolve galstones. this type oneday
+  treatment is enough for gallastones not for calcium stones. this method is
+  alternative to surgery for millions of people who are suffering from this
+  disease.
+ a) calcium stones can be cured in oneday (false)
+	 b) hundreds of people contains calcium stones (can't say)
+	 c) surgery is the only treatment to calcium stones (true)
+	 d) Eather will be injected into the gallblader to cure the
+		cholostrol based gall stones (true)
+
+   3. Hacking is illegal entry into other computer. this is done mostly because
+  of lack of knowledge of computer networking with networks one machine can
+  access to another machine. hacking go about without knowing that each network
+  is accredited to use network facility.
+	a) Hacking people never break the code of the company which they
+	   work for (can't say)
+	b) Hacking is the only vulnerability of the computers for the usage
+	   of the data. (false)
+	c) Hacking is done mostly due to the lack of computer knowledge. (false)
+ (there will be some more questions in this one)
+
+   4. Alphine tunnels are closed tunnels. in the past 30 years not even a single
+  accident has been recorded for there is one accident in the rail road system.
+  even in case of a fire accident it is possible to shift the passengers into
+  adjacent wagons and even the living fire can be detected and extinguished
+  with in the duration of 30 min.
+	a) no accident can occur in the closed tunnels (false)
+	 b) fire is allowed to live for 30 min. (false)
+	 c) all the care that travel in the tunnels will be carried by rail
+		shutters. (true)
+	 d)
+
+   5. In the past helicopters are forced to ground or crash because of the
+	formation of the ice on the rotors and engines. a new electronic device
+	has been developed which can detect the watercontent in the atmosphere and
+	warns the pilot if the temp. is below freezing temp. about the formation
+	of the ice on the rotors and wings.
+	  a) the electronic device can avoid formation of the ice on the wings(false)
+	  b) there will be the malfunction of rotor &amp; engine because of formation
+		 of ice (true)
+	  c) the helicopters are to be crashed or down (true)
+	  d) there is only one device that warn about the formation of ice. (true)
+
+	  6. In the survey conducted in mumbai out of 63 newly married house wives
+	not a single house wife felt that the husbands should take equal part in the
+	household work as they felt they loose their power over their husbands.
+	inspite of their careers they opt to do the kitchen work themselves after
+	coming back to home. the wives get half as much leisure time as the husbands
+	get at the week ends.
+	  a) housewives want the husbands to take part equally in the household(false)
+	   b) wives have half as much leisure time as the husbands have (false)
+	   c) 39% of the men will work equally in the house in cleaning and washing(
+can'tsay)
+	   d)
+
+	 7. In confucius days the technology development was less and it took weeks
+	to communicate a message. wherein we can send it through satellite with in
+	no time........ even with this fast developments it has become difficult to
+	understand each other.
+	   a) people were not intelligent during confucius days (false)
+	   b) transport facilities are very much improved in now-a-days(true)
+	   c) even with the fast developments of the technology we cannot live
+		  happily. (can't say)
+	   d) we can understand the people very much with the development of
+		  communication. (false)
+
+	  8. Senior manager in a big company said that new japanies company invades
+	in India for transfering the cars from industrial and warned that jobs were
+	under threat from japanies company.  They stated that increasing competence
+	would be coupled with an inevitable down term in car market and recent rise
+	in interest rate which has already hit demand.
+	 a) manager issue their warning after a rise in interest rate (true)
+	  b) manager told workers that japanies workers are taking jobs away from
+		 indian workers (false)
+	  c) manager said that more people want to buy new cars in future (false)
+	  d) increasing rate of interest mean that japanies firm will create into
+		 operate in the country
+
+	  9. Human existence is suspecious of arbitrary divide between concise and
+	   unconcise. The concise world invades shape activity of the unconcise, while
+	   many of great activity of humanity waking as whole or partially improved
+	   by dreams. Even it could be ignored that dreams precede exceptional such a
+	   dichotomy could not be drawn as the influence of dream on waking state would
+	   reamin unclear. But as yet no company rebuilt exists to record the substitute
+	   of prendtl dreaming.
+			 a) sleepy can be creative state (true)
+		 b) it is difficult to tell whether a sleeper is dream or not (true)
+		 c) if we know what babies would dream about before they are born we could
+			show that the concise and unconcise mind influence on one another
+		 d) it is untrue claim that concise and unconcise world never impinge
+		  one another (true)
+
+		 10. Any one who has has systematic exam phases will have perceived a
+	   profound although not a prolif of asymmetry whether or not the exception
+	   is volitions and self control of spontoneous appeal to predict facial as
+ symmetry as does the type of emotion potrayed. position can not displace
+ symmetric at left side regret of a negative emotion is more common posed
+ expression negation emotions are likely to be symmetric representation
+and where as symmetric occurs relative left sided expression is more common.
+   a) any angry person is more likely to have left sided expression than
+	   some one who has smiling (true)
+	b) an actor is likely to smile symmetric when acting (false)
+	c) delecious facial expression will always be as symmetrical
+
+  11. In the totalitariturian days, the words have very much devalued. In the
+ present day, they are becoming domestic that is the words will be much more
+ devalued.  In that days, the words will be very much effected in political
+ area. but at present, the words came very cheap, we can say they come free
+ at cost.
+
+	  a) totalitarian society words are devalued (true)
+	  b) totalitarian    will have to come much about words
+	  c) the art totalitarian society the words are used for the political
+		 speeches (true)
+	  d)
+
+   12. There should be copyright for all arts. the rule has come that all the
+ arts has come under one copy right society, they were use the money that
+ come from the arts for the developments.  There may be a lot of money will
+ come from the Tagore works. we have to ask the benifiters from Tagore work
+ to help for the development of his works.
+	 a) Tagore works are come under this copy right rule (false)
+	 b) people gives to theater and collect the money for development(can't say)
+	 c) people are free to go to the      because of the copy right rule
+					(can't say)
+	 d) we have ask the Tagore residents to help for the developments of art.
+				  (can't say)
+
+	Regarding Interview:
+  you should say everything confidentially, whatever you say tell them
+ frankly and confidentially i.e. I will do this, I will definetely learn
+ within this period, now I am learning etc. regarding C-language, COBOL, etc.
+   they will ask, how can you be best suited to our TCS (or soft ware field)?
+  ans:   some of my seniors told that TCS is doing consultancy business in
+ soft-ware field, this requires some sort of programming skills, knowledge of
+ programming languages, in addition to this it requires a sort of aptitude
+ skill  which I am sure of possing it, this I can say based on my past
+ academic ahcievements.     Also now I am learning C, I learned up to ....
+ (say arrays or functions) I will go through Pointers etc. also I am learning
+ COBOL, I am preparing for TCS  C, COBOL test.
+  question: Why are you shifting from your mechanical field to software field?
+  ans: I am interested in soft-ware field, because of its bright &amp; prosperous
+ future and quick recogniton of talent leading to faster growth.
+  They will ask about your family members and you, you just simply answer
+ the truth frankly, they donot bouther about your father occupation i.e business
+ studies, etc.
+   question: how can you compete with a computer background student as you
+			 are a pure mechanical student?
+	ans:  actually I have taken Fortran as one of my courses in B.Tech. degree
+ course, now here in IIT I learned --------- languages( something about what
+ you learned in IITB), initially I found slightly difficulty to compete with
+ a student having computers background, but now I am confident of learning
+ programming skills as once I am in the process of learning I am sure of
+ achieving this.
+here we have first about family, then about 4 minutes talk on my project
+ then they questioned on the project, then they asked about soft-ware i.e
+ do you know about INTERNET, Y2K problem, etc. I frankly told that I donot know
+ about INTERNET, I know a little bit about Y2K problem and explained about
+ Y2K problem i.e now in all computers year is indicated by two digits only,
+ finally after the 99th year (1999) the computer will treat as 00 year(1900)
+ instead of considering it as 2000.   meanwhile one or two question on my
+ academic record, about my refrigeration companies, etc.
+ if you have a good topic on your project, you tell about that one and
+ have a little knowledge on it so you can answer well their questions.
+
+***********************************************************************
+***********************************************************************
+set 5 - tcs
+***********************************************************************
+
+	Source : University of Roorkee
+	Dated  : 31/07/97
+	 1. VOCABULARY.(SYNONYMS)               40 BITS.    20 MARKS. 20MIN.
+	 2. QUANTITATIVE APTITUDE               15 BITS     30 MARKS  15 MIN.
+	 3. CRITICAL REASIONING.(COMPREHENSION) 50 BITS     50 MARKS  25 MIN.
+	 4. PSYHOMETRIC TEST.                   150 BITS    150 MARKS 30 MIN
+						--------  ------
+							   250 MARKS   90 MIN
+							--------  -------
+			   THE PSYCHOMETRIC TEST IS SIMPLE  AND THERE IS NO
+	NEED OF OF PREPARATION. IT SIMPLY TEST YOUR PSYCHOLOGY. GIVE MOST
+	POSITIVE  ANSWERS TO THIS SECTION. I AM SENDING SOME QUESTIONS TO
+	YOU. THE VOCAB. IS SAME. BUT THERE IS SOME CHANGES IN PASSAGES.BUT
+	THE IDEA IS SAME.
+	 TAKE FOLLOWING PRECAUTIONS WHILE ANSWERING TEST.
+	 -------------------------------------------------------------
+
+	1.  DON'T WRITE FULL ANSWERS  TO VOCAB. SECTION. DO ONLY 36 to 37
+	QWUE's.BECAUSE THEY DISQUALIFIED SOME CANDIDATES HERE.
+	2.  WE ARE SENDING ANSWERS TO THIS SECTION. SO YOU SIMPLY MUG UP
+	ANSWERS.
+	3.  FOR CRITICAL REASONING SECTION WE ARE  SENDING ANSWERS.BUT
+	SOME OF THESE ANSWERS MAY CHANGE. SO YOU PLEASE CHECK IN
+	EXAMINATION. THE ANSWERS IS SIMPLY (TRUE) OR (FALSE) OR
+	(CAN'T SAY) TYPE.  FOR THIS SECTION YOU HAVE READ AS FAST
+	AS YOU CAN. IT SIMPLY TEST YOUR COMPREHENSION ABILITY.
+	 4.  EVENTHOUGH  WE ARE SENDING ANSWERS TO MATHEMATICAL ABILITY.
+	 SECTION. YOU DO &quot; ROUGH &quot; WORK BACK OF YOUR PAGE. IT IS ALSO
+	 ONE OF IMPORTNANT CAUTION.
+	 5.  IN PSYCHOLOGY SECTION THE QWE'S MAY REPEATE AT LEAST FOUR
+	 TIMES. BY SIMPLY CHANGING SENTENCE FORMATION. SO BECAREFUL
+	 GIVE SAME ANSWERS TO THOSE QWE'S.
+	 THERE WILL BE NO NEGATIVE MARKING. TIME 90 Min., APPEARED FOR EXAM =255 STUDENTS
+
+SELECTED FOR INTERVIEW =122,        FINALLY SHORT LISTED = 55 STUDENTS.
+SECTION I   VOCABULARY (SYNONYMS) TIME :15 Min.   MARKS: 20.
+DIRECT ANSWERS :
+-----------------------------------------------------------------
+Admonish : usurp         Meager :scanty         Alienate : estrange
+Merry : gay              Brim : Boarder         obstinate : stubborn
+Pretention:pretentioius  Tranquil:serene        solicit : urge
+subside : wane           furtive :stealthy      misery : disstress
+volume :quantity         veer : diverge         stiffle :sniths
+adhesive : ---           Hamper : obstruct      belief : conviction
+lament : wail            to merit :to deserve   incentive : ----
+inert: passive           Baffle : Frustrate     Confiscate : appropriat
+Covet : crave            Caprice : whim         Concur :acquiesce
+Cargo :freight           Dispel :  Scatter      Divulge : -----
+Discretion: prudence     Emancipate : liberate  Efface : obliterate
+Hover : linger           Heap : to pile         Instigate : incite
+latitude : scope         latent : potential     lethergy : stupor
+momentary : transient
+ ----- means , for these words we are not able to reproduce answers.
+
+PART II   QUANTITATIVE APTITUDE ,TIME 20 Min. MARKS :30.
+-----------------------------------------------------------------
+	1. Two pencils costs 8 cents, then 5 pencils cost how much
+	(Ans:20 cents).
+	2. A work is done by the people in 24 min. one of them can do
+	this work a lonely in 40 min. how much time required to do the same
+	work for the second person.
+	 (ans:60 min.)
+	3. A car is filled with four and half gallons of oil for full round
+	trip. fuel is taken 1/4 gallons mor3 in going than coming. what is
+	the fiel consumed in coming up? (2 gallons)
+	4. low temperature at the night in a city is 1/3 more than 1/2
+	hinge as higher temperature in a day. sum of the low temp and
+	higherst temp is 100C. then what is the low temperature (40 C)
+	5. A person who decided to go weekend trip should not exceed 8 hours
+	 driving in a day Average speed of forward journy is 40 mph. due to
+	 traffic in sundays, the return journey average speed is 30 mph.
+	 how far he can select a picnic spot (120 miles).
+	6. A sales person multiplied a number and get the answer is 3,
+	instead of that number divided by 3. what is th answer he actually
+	has to get ? (1/3).
+	7. A ship started from port and moving with I mph and another ship
+	started from L and moving with H mph. At which place these two ships
+	 meet ?  ( Ans is between  I and J and close to J)
+		 !_____!_____!_____!_____!_____!_____!
+		port   G     H     I     J     K     L
+	8. A building with hight D ft shadow upto G A neighbour building with
+	 what height shadow C ft is      (B ft.)
+	  !_____!_____!_____!_____!_____!_____!_____!
+	  A     B     C     D     E     F     G     H
+
+	9. A person was fined for exceeding the speed limit by 10 mph.Another
+	 person was also fined for exceeding the same speed limit by twice
+	 the same.  If the second person was travelling at a speed of 35 mph.
+	 find the speed limit (15 mph)
+	10. A bus started from bustand at 8.00a m and after 30 min staying at
+	destination, it returned back to the bustand.  the destination is 27
+	 miles from the bustand. the  speed of the bus 50 percent fast speed.
+	  at what time it retur4ns to the bustand (11.00)
+	11.in a mixture, R is 2 parts, S is 1 part. in order to make S to 25%
+	of the mixture, howmuch R is to be added   ( one part).
+	12. wind flows 160 miles in 330 min, for 80 miles how much time
+	required.
+	13. with 4/5 full tank vehicle travels 12 miles, with 1/3 full tank
+	how much distance travels  ( 5 miles).
+	14. two trees are there. one grows at 3/5 of the other. in 4 years,
+	total growth of trees is 8 ft.  what growth will smaller tree will
+	have in 2 years.  (&lt;2ft)
+	15. A storm will move with a velocity of    towords the center in
+	 hours. At the same rate how much far will it move in hrs.
+	 (but Ans is 8/3 or 2 2/3).
+PART III: TIME 25 Min, MARKS :50.
+-----------------------------------------------
+CRITICAL REASONING : THERE WILL BE 13 PASSAGES WITH 50 QUESTIONS TIME 30 MIN.
+HERE I AM SENDING ONLY SOME OF THE PASSAGES (these will give only rough idea)
+(ANSWERS WILL BE AS  YES/NO/CAN'T SAY we are giving our answers, please check.)
+1. My father has no brothers. he has three sisters who has two childs each.
+	  1 my grandfather has two sons (f)
+	  2 three of my aunts have two sons(can't say)
+	  3 my father is only child to his father(f)
+	  4 i have six cousins from my mother side(f)
+	  5 i have one uncle(f)
+2. Ether injected into gallablader to dissolve galstones. this type oneday
+treatment is enough for gallstones not for calcium stones. this method is
+alternative to surgery for millions of people who are suffering from this
+disease.
+	  1 calcium stones can be cured in oneday (f)
+	  2 hundreds of people contains calcium stones(can't say)
+	  3 surgery is the only treatment to calcium stones(t)
+	  4 Eather will be injected into the gallbleder to cure the cholestrol
+	  based gall stones(t).
+
+3. Hacking is illigal entry into other computer. this is done mostly
+because of lack of knowledge of computer networking with networks one
+machine can access to another machine. hacking go about without knowing
+that each network is accredited to use network facility.
+1 Hacking people never break the code of the company which they
+work for (can't say).
+2 Hacking is the only vulnerability of the computers for the usage
+of the data.(f)
+3 Hacking is done mostly due to the lack of computer knowledge (f).
+  (there will be some more questions in this one )
+4. alphine tunnels are closed tunnels. in the past 30 yrs not even a single
+accident has been recorded for there is one accident in the rail road
+system. even in case of a fire accident it is possible to shift the passengers
+into adjacent wagons and even the living fire can be detected and extinguished
+with in the duration of 30 min.
+1 no accident can occur in the closed tunnels (True)
+2 fire is allowed to live for 30 min.  (False)
+3 All the care that travel in the tunnels will be carried by rail
+shutters.(t)
+
+5. In the past helicopters are forced to ground or crash because of the
+formation of the ice on the rotors and engines. a new electronic device has
+been developed which can detect the watercontent in the atmosphere and warns
+the pilot if the temp.is below freezing temp. about the formation of the ice
+on the rotors and wings.
+1 the electronic device can avoid formation of the ice on the wings (False).
+2 There will be the malfunction of rotor &amp; engine because of formation of ice
+(t)
+3 The helicopters are to be crashed or down (t)
+4 There is only one device that warn about the formation of ice(t).
+
+6.In the survey conducted in mumbai out of 63 newly married house wives not a
+single house
+wife felt that the husbands should take equal part in the household work as
+they felt they loose their power over their husbands. inspite of their careers
+they opt to do the kitchen work themselves after coming back to home. the
+wives get half as much leisure time as the husbands get at the week ends.
+1 housewives want the husbands to take part equally in the household(f)
+2 wives have half as much leisure time as the husbands have(f)
+3 39% of the men will work equally in the house in cleaning and washing
+
+7. copernicus is the intelligent. In the days of copernicus the transport and
+technology
+development was less &amp; it took place weeks to comunicate a message at that
+time.wherein we can send it through satellite with in no time ----------.
+even with this fast developments it has become difficult to understand each
+other.
+1 people were not intelligent during Copernicus days (f).
+2 Transport facilities are very much improved in noe a days (can' say)
+3 Even with the fast developments of the techonology we can't live
+happily.(can't say)
+4 We can understand the people very much with the development of
+communication(f).
+
+Q8) senior managers warned the workers that because of the intfoductors
+	of japanese industry in the car market. There is the threat to the workers.
+	They also said that there will be the reduction in the purchase of the
+	sales of
+	car in public.the interest rates of the car will be increased with the
+	loss in demand.
+1 japanese workers are taking over the jobs of indian industry.(false)
+2 managers said car interests will go down after seeing the raise in inte
+rest rates.(true)
+3 japanese investments are ceasing to end in the car industry.(false)
+4 people are very much interested to buy the cars.(false)
+
+Q9) In the totalitariturican days,the words have very much devalued.In
+   the present day,they are becoming domestic that is the words will be much
+  more devalued.
+ In that days, the words will be very much effected in political area.but
+ at present,the words came very cheap .we can say they come free at cost.
+1 totalitarian society words are devalued.(false)
+2 totalitarian       will have to come much about words(t)
+3 The art totalitatian society the words are used for the political
+speeches.
+
+Q10) There should be copyright for all arts. The reele has came that all
+the arts has come under one copy right society,they were use the money that
+come from the arts for the developments . There may be a lot of money will
+come from the Tagore works. We have to ask the benifiters from Tagore work
+to help
+for the development of his works.
+1 Tagore works are came under this copy right rule.(f)
+2 People are free to go to the because of the copy right rule.(can't say)
+3 People gives to theater and collect the money for development.(can't say)
+4 We have  ask the Tagore resedents to help for the developments of
+art.(can't say)
+
+NOTE :  DO 1,2,3,4,5 PASSAGES WHICH ARE EASY. LAST BUT ONE ALSO. DO THAT
+PASSAGES CAREFULLY. TIME WILL BE INSUFFICIENT. PASSAGES ARE NOT AS EXACTLY
+AS ABOVE. THERE IS HIGHLEVEL ENGLISH IN ALL THE PASSAGES, WE ARE GIVING
+IN OUR OWN WORDS , U CANNOT EXPECT THE SAME TYPE OF ENGLISH THERE. WHILE
+ANSWERING U SHOULD BE VERY FAST, DO NOT WASTE TIME, IT IS INSUFFICIENT,TRY TO
+ANSWER AS MANY AS POSSIBLE.
+
+SECTION 4.  PSYCHOMETRIC TEST.
+----------------------------------------
+
+DO NOT BOTHERE ABOUT MUCH ABOUT THIS TEST. BE OPTIMISTIC WHILE ANSWERE.
+THERE WILL BE 150 QUESTIONS IN 30 MIN. THE QUESTIONS IN THIS SECTION MAY
+REPEATED WITH SLIGHT VARIATIONS ANSWER SHOULD BE SAME IN BOTH THE CASES.
+(ans will be as yes/no/can't say)
+
+for example
+you will be interested in social activities.
+2 while going upstairs you will move two steps at a time.
+
+3 you will be making friendship with same sex or with opposite sex also.
+4 your friends will consider u as a leader in your group
+5 people think that your'e serious minded.
+6 some times you feel dull without any reason.
+7 your'e host or hostes for several parties.
+8 relatives come to your house you will entertain them.
+9 you will do work for longtime without tireness.
+10 in your company you want lead the organasition.
+etc..  the qwestions may repeate several times so becareful and give same
+ans's.
+***********************************************************************
+************************************************************************
+set 6 - tcs
+************************************************************************   
+   In the recently conducted anna uni. TCS exam here with iam sending more passage that we have written you please care fully stydy the all things in this paper eventhough the formatting clarity here is not good .
+      Thinking same paper will appear for you also .Best wishes and hope that you will be one of the future TCS executive.
+--------------------------------------------------------------------------
+         I passage
+1  Pests invites floara and fauna.In special cases pests controllers are introduced in two instanses are is desire to control pests by natural pedetors.Second instance is wrong crigged pest controls but both should be regarded as potential invitors
+Q): Engg post controllers can be regarded as potential invadors
+
+ 2:Every form of litarature is protects by copyright upon expoilation
+ which it passes in public demand and can be used for commercials but better is to form a trust . So that any one can exploit it for fee(or)royalty. Income from togore works are enormous. People having togore works are acruing benifits.
+Q):Togores descendents are benifitting from togore works
+----------------------------------------------------------------------
+3I) Words in tolaretain system have unhealthy importance . Many of the countries are reverting in to democrotic system . Hence devalation of words is taking place. Into tolaration system each words has political meaning but reverting to democroting system has led to false usage of words.2
+
+senior manager in a big company said that new japanes company invades india for transfering the cars from industrial and warned that jobs were under threat from japanes company .They stated that increasing competence can be coupled with an inevitable down term in a car market and resent rise in interest rates which has already hit demand
+Q. 1) Manager issues the warning after rise in interest rate
+   2) Manager told workers that japanes workers are taking jobs away from indian workers
+   3) Manager said that more people want to bye new cars inthe future.
+   4) Increasing rate of interest mean that japanes firm will create to operate in the human existence suspicious of arbitary divide between concise and unconsice
+--------------------------------------------------------------------
+III passage:
+
+The concise world invades the shape activity of the unconsice .While many of the great activity of the humanity waking as whole or partially improved by dreams. Even it could be ignored that dreams precede exeptional such a dictionary could not be drawn as the influence of dream on waking state would reamin unclear but as yet no company rebuilts exists to record the substitute of prendtl dreaming.
+Q 1) sleepy can be creative state
+  2) It is different to tell whether a sleeper is dream or not
+  3) If we know what babies would dream about before they are born we could show that the consice and unconsice mind influence on one onnother
+  4) It is untrue that consice and unconsice world never impringe on one another
+----------------------------------------------------------------------
+IV passage 
+   Any one Whom has systematic exam phases will have percieved a profound although not a prolif of assymetry .Wheter or not the exeception is violitions and self control of spontaneous appeal to predict facial as symmetry as does the type of emotion Portrayed position can not displace symmetric atleftside regret of a negative emotion is more common posed expression negative emotions are likely to symmetric representation and where as symmetric occurs relative left sided expression is more common
+Q 1) Any angry person is more likely to have leftsided expression than some one who has smiling
+  2) An act is likely to smile symmetric when acting 
+  3) Delicious facial expression will always be symmetrical
+
+************************************************************************
+***********************************************************************
+set 1
+***********************************************************************
+> This is infosys...
+> -------------
+> 1) There are two balls touching each other circumferencically.
+> The radius of the big ball is 4 times the diameter of the small
+> ball.The outer small ball rotates in anticlockwise direction
+> circumferencically over the bigger one at the rate of 16 rev/sec.
+> The bigger wheel also rotates anticlockwise at Nrev/sec. what is
+> 'N' for the horizontal line from the centre of small wheel always
+> is horizontal.
+> 
+> 2)     1 2 3 4
+>      + 3 4 5 5
+>      ----------
+>        4 6 8 9
+>      - 2 3 4 5
+>      ----------
+>        2 3 4 4
+>      + 1 2 5 4
+>      ------------
+>        3 6 9 8
+> 
+>  Q)  Strike off any digit from each number in seven rows (need not
+>  be at same place) and combine the same operations with 3 digit numbers
+>  to get the same addition. After this strike off another digit from all
+>  and add all the No.s to get the same 2 digit No. perform the same
+>  process again with 1 digit No.s. Give the ' no.s in 7 rows at
+>  each stage.
+> 
+> 3) there is a safe with a 5 digit No. The 4th digit is 4 greater than
+> second digit, while 3rd digit is 3 less than 2nd digit. The 1st digit
+> is thrice the last digit. There are 3 pairs whose sum is 11. Find
+> the number.  Ans) 65292.
+> 
+> 4) there are 2 guards Bal and Pal walking on the side of a wall of a
+> wearhouse(12m X 11m) in opposite directions. They meet at a point and
+> Bal says to Pal " See you again in the other side". After a few moments
+> of walking Bal decides to go back for a smoke but he changes his 
+> direction again to his previous one after 10 minutes of walking in
+> the other(opposite) direction remembering that Pal will be waiting
+> for to meet.If Bal and Pal walk 8 and 11 feet respectively, how
+> much distance they would have travelled before meeting again.
+> 
+> 5)          xxx)xxxxx(xxx
+>                 3xx
+>                 -------
+>                  xxx
+>                  x3x
+>                  ------
+>                   xxx
+>                   3xx
+>                   ------
+> 
+>    Q) Find the 5 digit No.
+>     Hint: 5 is used atleast once in the calculation.
+> 6) Afly is there 1 feet below the ceiling right across a wall length
+> is 30m at equal distance from both the ends. There is a spider 1 feet
+> above floor right across the long wall eqidistant from both the ends.
+> If the width of the room is 12m and 12m, what distance is to be 
+> travelled by the spider to catch the fly? if it takes the shortest
+> path.
+> 
+> 7) Ramesh sit around a round table with some other men. He has one 
+> rupee more than his right person and this person in turn has 1 rupee
+> more than the person to his right and so on, Ramesh decided to give
+> 1 rupee to his right & he in turn 2 rupees to his right and 3 rupees
+> to his right & so on. This process went on till a person has 
+> 'no money' to give to his right. At this time he has 4 times the
+> money to his right person. How many men are there along with Ramesh
+> and what is the money with poorest fellow.
+> 
+> 
+> 8)Question related to probabilities of removing the red ball from a
+> basket,given that two balls are removed from the basket and the other
+> ball is red. The basket contains blue,red,yellow balls.
+> 
+> 
+> 9)Venkat has 1boy&2daughters.The product of these children age is 72.
+> The sum of their ages give the door numberof Venkat.Boy is elder of
+> three.Can you tell the ages of all the three.
+> 
+>                            ANALYTICAL
+>                            ----------
+> 1)L:says all of my other 4 friends have money
+> M:says that P said that exact one has money
+> N:says that L said that precisely two have money
+> O:says that M said that 3 of others have money.
+> P:Land N said that they have money.
+>    all are liers.Who has money&who doesn't have?
+> 
+> 2)A hotel has two,the east wing and the west wing.some east wing rooms
+> but not all have an ocean view(OV).All WW have a harbour view(HV).The
+> charge for all rooms is identical, except as follows
+> * Extra charge for all HV rooms on or above the 3rd floor
+> * Extra charge for all OV rooms except those without balcony
+> * Extra charge for some HV rooms on the first two floor&some EW rooms
+> without OV but having kitchen facilities. (GRE modrl Test 3-question
+>                                                  1J-22)
+> 3)Post man has a data of name surname door no.pet name of 4 families.
+> But only one is correct for each family.There are a set of statements
+> &questions.
+> 4)4 couples have a party.Depending on the set of statements,find who
+> insulted whom and who is the host of the party.
+> 5)5 women given some of their heights(tall,medium,short)Hair( long,
+> plainted),stards(Black or Brown), sari,2 medium,2-short.Tall->no
+> sari.Plainted->medium.Answer the combinations.
+> 
+> 
+> 1) A person has to go both Northwards&Southwards in search of a job.
+> He decides to go by the first train he encounters.There are trains for
+> every 15 min both southwards and northwards.First train towards south 
+> is at 6:00 A.M. and that towards North is at 6:10 .If the person arrives
+> at any random time,what is the probability that he gets into a train
+> towards North.
+> 2) A person has his own coach&whenever he goes to railway station he
+> takes his coach.One day he was supposed to reach the railway station
+> at 5 O'clock.But he finished his work early and reached at 3 O'clock.
+> Then he rung up his residence and asked to send the coach immediately.
+> He came to know that the coach has left just now to tje railway station.
+> He thought that the coach has left just now to the railway station.He
+> thought that he should not waste his time and started moving towards
+> his residence at the speed of 3mi/hr.On the way,he gets the coach and
+> reaches home at 6 o'clock.How far is his residence from railway
+> station.
+> 
+> 3)Radha,Geeta&Revathi went for a picnic.After a few days they forgot the
+> date,day and month on which they went to picnic.Radha said that it was 
+> onThursday,May 8 and Geeta said that it was Thursday May 10.Revathi
+> said Friday Jun 8.Now one of them told all things wrongly,others one
+> thing wrong and the last two things wrongly.If April 1st is tuesday
+> what is the right day,date and month?
+> 
+> 
+> 
+> 
+> 
+> > INFOSYS
+> > 
+> > > There are 5 q papers  with them. this is only one of those.
+> > > All otheres were more or less of the same model but different
+> > > qs. This is just to give U an idea.
+> > > 
+> > >     The questions are not in order.
+> > > 
+> > > 1)A,B,C,D,E related.4 of them made these statements each.
+> > >   i)C is my son in law's brother.
+> > >  ii)B is my father's brother.
+> > >  iii)E is my mother in law.
+> > >  iv)A is my brother's wife.
+> > >  who made these statements?(person mentioned is one of A,B,C,D,E)(10 mar         ks).
+> > > 2)e means belong.
+> > >   All members of E e D.
+> > >   All members of D e A.
+> > >   Not all members of D e E.
+> > >   Not all members of A e D.
+> > >   All members of C e both A and B.some questions are asked about relatio          n.use venn diagram.(5 marks).  
+> > > 
+> > > 3)complete the table.
+> > > 
+> > >     Played  won lost draw  goals  goals
+> > >                             for    against
+> > > A    2       2                     1
+> > > B    2                 1    2      4
+> > > C    2                      3      7
+> > > 
+> > >   A,B,C are 3 hockey teams.(2 marks).
+> > > 
+> > > 4) A says Party was held on :Thursday ,May 8th.
+> > >    B says Party was held on :Tuesday,May 10th.
+> 
+>    C says party was held on :Friday ,June 8th.   
+> > >    Given April 1 st was Tuesday.one of A,B,C says 1 correct.one says 1
+> > >    wrong.and one was completely wrong of date,Month and day. Find the 
+> > >    Day  the party held.   (5marks).
+> > > 
+> > > 5) A ship is away from the shore by 180 miles.A plane is travelling at 
+> > >    10 times speed of the ship.How long from the shore will they meet?
+> > >    (2marks)
+> > > 
+> > > 6) Every station in N railroad issue everyother station's ticket.
+> > >    some stations are added.Now they have to issue 46 more tickets.
+> > >    say the No.of stations after and before added.(5 marks).
+> > > 
+> > > 7) 3 persons say these statements.
+> > >    A says either Democratic or liberal wins the elections.
+> > >    B says Democratic wins.C says neither democratic nor liberal wins
+> > >    the election.of these only one is wrong.who wins the election?
+> > >    (5 marks).
+> > > 
+> > > 8) A clock showing 6 o'clock takes 30 secs to strike 6 times.How long 
+> > >    will it take to strike 12 at midnight?Ans.66 secs.(2marks)
+> > > 
+> > > 9) Only boys aged > 16 wear coats.
+> > >    Boys aged > 15 go to watch football.some more statements are given.
+> > >    What can be said about those who are watching football ? (age and 
+> > >    costume)
+> > >    (5 marks).
+> > > 
+> > > 10) There are 3 societies A,B,C having some tractors each.
+> > >     A Gives  B and C as many tractors as they already have.
+> > >     After some days B gives A and C as many tractors as they have.
+> > >     After some days C gives A and B as many tractors as they have.
+> > >     Finally each has 24 tractors.what is the original No.of 
+> > >     tractors each had in the beginning?
+> > >             Ans.A -39.
+> > >                 B- 21.
+> > >                 C- 12.(7 marks).
+> > > 11) 4,5 statements.From that find the answer.(7 marks).
+> > > 
+> > > 
+> > > Reference books
+> > > 1.) Puzzles and teasers by summer's
+> > > 2.) Shakuntala Devi. (puzzles).
+> > > 
+> Now MailCity offers forwarding so you can check your MailCity messages and other e-mail all in one place.  Go to http://www.mailcity.com
+
+***********************************************************************
+*********************************************************          
+set 2
+*********************************************************          
+	  QUESTIONS FROM SELECTION TEST OF VARIOUS COMPANIES
+
+------------------------------------------------------------------------
+This questions were obtained from Sanjay Kumoar Dutta, Manish Srivastava
+Vishal Pandey. Mudit Agrawal and many others.
+------------------------------------------------------------------------
+                       INFOSYS QUESTION ( 1997 )
+
+                   10 Questions.  Time 90 min.
+
+ 1.There are twelve consecutive flags at an equal interval of distance.
+   A man passes the 8th flag in 8 seconds. How many more seconds will he
+   take to pass the remaining 4 flags ?
+
+2. A person has to cover the fixed distance through his horses.There are
+   five horses in the cart. They ran at the full potential for the 24 
+   hours continuously at constant speed and then two of the horses ran
+   away to some other direction. So he reached the destination 48 hours
+   behind the schedule. If the five horses would have run 50 miles more,
+   then the person would have been only 24 hours late.Find the distance
+   of the destination.
+
+3. A boat M leaves shore A and at the same time boat B leaves shore B.
+   They move across the river. They met at 500 yards away from A and
+   after that they met 300 yards away from shore B without halting at
+   shores. Find the distance between the shore A & B.
+
+4. A person was going through train from Bombay to Pune. After every
+   five minutes he finds a train coming from opposite direction.Velocity
+   of trains are equal of either direction. If the person reached Pune
+   in one hour then how many trains he saw in the journey ?
+
+5. Food grains are to be sent to city from godown. Owner wants to reach
+   the food grains at 11 O' Clock in the city. If a truck travels at
+   a speed of 30km/hr then he will reach the city one hour earlier. If
+   the truck travels at a speed of 20km/h then he will reach the city
+   one hour late. Find the distance between the godown to city.Also
+   with which speed the truck should travel in order to reach at exactly
+   11 'O clock.
+
+  6. There are two tribes living in village.These two tribes are sachha
+     and jothaa. A person went there to interview a group of five people
+     in the village. Sachha always speaks truth whereas jootha speaks 
+     invariably lie. Interview taken are :
+       villager 1 : More of us are sachaa then jothaa.
+       villager 2:  More of us are jootha then sachaa.
+       villager 3:  Only two of us are sachaa.
+       villager 4:  only three of us are jothaa.
+       villager 5:  I am a sachaa.
+   then identify the villagers who were the sachaa and who were joothaa.
+
+   7.  Praveen,Ranjan,Shiva went to  dinner in the city. (There were
+    some conditions  given as someone always take tea after dinner
+    where as some take cofee  after dinner whereas someones choice is
+    inspired by the choise of others. One question of this type is given
+    given in the MIND TEASURES -By Summers.) 
+    Ans: Ranjan & Shiva
+
+  8. There are five persons A,B,C,D,E whose birthdays occur at the consecutive
+  days. Birthday of A is some days or day before C & birthday of B is
+  exactly the same days or day after E.  D is two days older than E. If
+  birth day of C is on wednesday then find out the birthdays of other.
+
+------------------------------------------------------------------------
+
+ /* dear friends this information is about some comp.*/
+ Going through all the feats in wipro &info i got 2 gpl from them.
+ in wipro i cleared all the rounds & in the final interview they 
+ indicated that they are not interested in the non-crkt. people.
+ hope that you don't face such a problem.here is something more 
+usefull to you:
+   wipro:
+written was a 1.5 hr test with 4sections;each has it's cut-off though 
+they dont'mention it explicitly:
+verbal reasoning:eg.if x is proportional to y &z&all are incremented 
+to 3 times.what is the final expr?(30qns)easyisit(exptd. time 15min.)
+ quantitative:very easy .speed.eg. 3/10 * 10/3/3 = .(time20min)
+ letter series : a,b,c,d,....     1) e,f,g,h 2)e 3)d,c,b,a4)a,b,c,d
+ ans. 1)
+ flowcharts : 1)finding a heavy ball from 9 equal sized ones .
+  imp...  attempt all sections equally good & score high in apti .
+tech interview : pointers , linked list,structures ,dynamic 
+allocation, binary tree.
+  Hr interview: projects preffered &acads matter .confidence.self 
+assesment.
+       infosys : vishal has 1 set of papers .
+IBM global : ctest, unix, machine, aptitude(anals).
+ apti score matters.
+  rest afterwards : interview today in I2 TECHNOLOGIES .
+------------------------------------------------------------------------
+*********************************************************          
+**********************************************************************
+set 3
+**********************************************************************
+
+> We do not remember the questions exactly, here we just tried to cover 
+> the major areas.
+> 
+> Paper consists of two sections : 1. analytical (20 marks)
+>                                  2. C skills (20 marks)total time 45 min
+> 
+> Analytical:
+> -------------
+> 
+> 1. Given a cube, with different colors on its faces, and then is cut
+> into 64 pieces, and the questions relate to the colors of different 
+> colored small cubes.
+> 
+> 2. A few ladies and gents sit around table in some given order and 4
+> questions are about their seating arrangement with some restrictions.
+> 
+> 3. Draw a venn diagram for 3 items : white, flowers, cloth
+> 
+>  Ans : draw 3 circles each intersecting the other , with white kept in the
+> middle.
+> 
+> 4. A problem related to seating arrangement of 4 people ( 2 ladies and
+> 2 gents) with some restrictions
+> 
+> 5. problem related to milk with water added to it for three times
+> 
+> Ans: 20.5 litres
+> 
+> 6. Problem related to diagrams . Five diagrams were given and asked to
+> find the sixth one.
+> 
+> C-Skills:
+> --------
+> 
+> 1. Max number of nodes in a binary tree with height 3 is 20 : Ans: False
+> 
+> 2. 10,20,30,40,50,60 : give the order when put in a queue and in a stack
+> 
+> Ans : Queue : 10,20,30,40,50,60
+>       stack : 60,50,40,30,20,10
+> 
+> 3. Debugging is the process of finding
+> 
+> Ans : logical and runtime errors
+> 
+> 4. trace the error:
+> 
+>    void main(){
+>             int &a;
+>              /* some other stuff here */
+>                }
+> Ans: syntax error
+> 
+> 5. a problem with a function named 'myValue' will be given and asked to
+> find the value of main() for an argument of 150,
+> 
+> Ans : 150
+> 
+> 6. Some problems related to 'for' loops.
+> 
+> 7. problem on conditional inclusion.
+> 
+> 8. problem related to depth first and breadth first search (DSA subject)
+> 
+> 9. study the syntax of malloc function
+> 
+> 10. locate the error
+> 
+>     int arr (20);
+>    Ans: syntax error.
+> 
+**********************************************************************
+*****************************************************************
+set 4 
+*****************************************************************
+INFOSYS
+========
+PART 1
+
+1). A beggr collects cigarette stubs and makes one ful  cigarette
+with every 7 stubs.  Once he gets 49 stubs .  How many cigarettes
+can he smoke totally.
+	  Ans. 8
+
+2). A soldiar looses his way in a thick jungle  at  random  walks
+from his camp but  mathematically  in  an  interestingg  fashion.
+First he walks one mile east then half mile to north.   Then  1/4
+mile to west, then 1/8 mile to south and so  on  making  a  loop.
+Finally hoe far he is from his camp and in which direction.
+ans: in north and south directions
+   1/2 - 1/8 + 1/32 - 1/128 + 1/512 - and so on
+				= 1/2/((1-(-1/4))
+	  similarly in east and west directions
+	 1- 1/4 + 1/16 - 1/64 + 1/256 -    and so on
+			 = 1/(( 1- ( - 1/4))
+   add both the answers
+
+3). hoe 1000000000 can be written as a  product  of  two  factors
+neither of them containing zeros
+   Ans   2 power 9 x 5 ppower 9  ( check the answer )
+
+4). Conversation between two mathematcians:
+  first : I have three childern. Thew pproduct of their ages is  36
+.  If you sum their ages . it is exactly same as  my  neighbour's
+door number on my left. The  sacond  mathematiciaan  verfies  the
+door number and says that the not sufficient  .  Then  the  first
+says &quot; o.k one more clue is that my youngest is the youngest&quot;
+immmediately the second mathematician answers . Can  you  aanswer
+the questoion asked by the first mathematician?
+What are the childeren ages?        ans  2 and 3 and 6
+
+5). Light glows for every 13 seconds .  How  many  times  did  it
+ between 1:57:58 and 3:20:47 am
+	   ans : 383 + 1 = 384
+
+
+6. 500 men are  arranged in an array of 10 rows and 50 columns .
+ ALL tallest among each row aare asked to   fall  out  .  And  the
+ shortest among THEM is A. Similarly after resuming that to  their
+ originaal podsitions that the shorteest  among  each  column  are
+ asked to fall out. And the longest among them is B . Now  who  is
+ taller among A and B ?
+	   ans  A
+
+7). A person spending out 1/3 for cloths , 1/5 of the  remsaining
+ for food and 1/4 of the remaining for travelles  is left with
+ Rs 100/- . How he had in the begining ?
+	ans    RS 250/-
+
+8). there are six  boxes containing 5 , 7 , 14 , 16  ,  18  ,  29
+balls of either red or blue in colour. Some  boxes  contain  only
+red balls and others contain only blue . One sales man  sold  one
+box out of them and then he says &quot; I have the same number of  red
+balls left out  as that of blue &quot;. Which box is the one he  solds
+out  ?
+Ans : total no of balls  =  89 and (89-29 /2 = 60/2 = 30
+	 and also 14 + 16 = 5 + 7 + 18 = 30
+
+9).  A  chain  is  broken  into  three  pieces  of  equal  lenths
+conttaining 3 links each. It is taken to a backsmith to join into
+a single continuous one . How many links are to  tobe  opened  to
+make it ?
+	Ans : 2.
+
+10). Grass in lawn grows equally thickand in a uniform  rate.  It
+takes 24 days for 70 cows and 60 for 30 cows . How many cows  can
+eat away the same in 96 days.?
+	Ans : 18 or 19
+
+11). There is a certain four digit number whose fourth  digit  is
+twise the first digit.
+   Third digit is three more than second digit.
+   Sum of the first and fourth digits twise the third number.
+   What was that  number ?
+  Ans : 2034 and 4368
+	If you qualify in the first part then you have to appear for
+the second i.e the following part.
+
+Part 2.
+
+1.  From  a  vessel  on  the  first  day,  1/3rd  of  the  liquid
+evaporates.  On the second day  3/4th  of  the  remaining  liquid
+evaporates.  what fraction of the volume is present at the end of
+the II day.
+
+2. an orange galss has orange juice.  and white glass  has  apple
+juice.  Bothe equal volume 50ml of the orange juice is taken  and
+poured into the apple juice.  50ml from the white glass is poured
+into the orange glass.  Of the  two  quantities,  the  amount  of
+apple juice in the orange glass and the amount of orange juice in
+the white glass, which one is greater and by how much?
+
+3.  there is a 4 inch cube painted on all  sides.   this  is  cut
+into no of 1 inch cubes.  what is the no of cubes which  have  no
+pointed sides.
+
+4. sam and mala have a conversation.  sam says i am vertainly not
+over 40.  mala says i am 38 and you are  atleast  5  years  older
+than me.  Now sam says you are atleast 39.  all the sattements by
+the two are false.  How hold are they realy.
+
+5.  ram singh goes to his office in the city, every day from  his
+suburbun house.  his driver mangaram drops  him  at  the  railway
+station in the morning and picks him up in  the  evening.   Every
+evening ram singh reaches the station  at  5  o'clock.   mangaram
+also reaches at the same time.  one day  ramsingh  started  early
+from his office and came  to  the  station  at  4  o'clock.   not
+wanting to wait for the car he  starts  walking  home.   Mangaram
+starts at normal time, picks him up on the way and takes him back
+house, half an hour early.  how much time did ram singh walk.
+
+6.  in a railway station, there are tow trains going.  One in the
+harbour line and one in the main line, each having a frequency of
+10 minutes.  the main line service  starts  at  5  o'clock.   the
+harbour line starts at 5.02a.m. a man goes to the  station  every
+day to catch the first train.  what is  the  probability  of  man
+catchinhg the first train
+
+7.  some people went for vaction.  unfortunately it rained for 13
+days when they  were  there.   but  whenever  it  rained  in  the
+morning, they had clean afternood and vice versa.   In  all  they
+enjoyed  11 morning and 12 afternoons.  how many  days  did  they
+stay there totally
+
+8. exalator problem repeat
+
+9. a survey was taken among 100 people to firn  their  preference
+of watching t.v. programmes.  there are 3 channels.  given no  of
+people who watch
+at least channel   1
+&quot;         &quot;        2
+&quot;         &quot;        3
+no channels at all
+atleast channels  1and 3
+&quot;     &quot;           1 and 2
+&quot;        &quot;        2 and 3
+find the no of people who watched all three.
+
+10. albert and fernandes they have two leg swimming  race.   both
+start from opposite and of the pool.  On the first leg, the  boys
+pass each other at 18 mt from the deep end of the  pool.   during
+the II leg they pass at 10 mt from the shallow end of  the  pool.
+Both go at const speed.  but one of them  is  faster.   each  boy
+rests for 4 sec to see at the end of the  i  leg.   what  is  the
+length of the pool.
+11. T  H  I  S                Each  alphabet  stands  for  one
+		I S                   digit, what is the maximum value T
+--------------                can take
+	X F X X
+  X X U X
+--------------
+  X X N X X
+--------------
+
+1.. an escalator is descending at constant speed.   A  walks  down
+and takes 50 steps to reach the bottom.  B runs down and takes 90
+steps in the same time as A takes 10 steps.  how many  steps  are
+visible when the escalator is not operating.
+
+2. evvery day a cyclist meets a train at a  particular  crossing.
+the road is straignt before the crossing and both are  travelling
+in the same direction.  cyclist travels with a speed of 10  Kmph.
+One day the cyclist comes late by 25 min. and meets the train 5km
+before the crossing.  what is the seppd of the train.
+
+3. five persons muckerjee, misra, iyer,  patil  and  sharma,  all
+take then first or middle names in the full names.  There  are  4
+persons having I or middle name of kumar, 3 persons with mohan, 2
+persons withdev and 1 anil.
+--Either mukherjee and patil have a I or middle name  of  dev  or
+misra and iyer have their  I or middle name of dev
+--of mukherkjee and misre, either both of them have  a  first  or
+middle name of mohan or neither have a first or  middle  name  of
+mohan
+--either iyer of sharma has a I or middle name of kumar  hut  not
+both.
+who has the I or middle name of anil
+
+4. reading conprehension
+
+5. a bird keeper has got Ppigeon, M mynas and  S  sparrows.   the
+keeper goes for lunch leaving his assistant to watch the birds.
+a. suppose p=10, m=5, s=8 when the bird keeper  comes  back,  the
+assistant informs the x birds  have  escaped.   the  bird  keeper
+exclaims oh no! all my sparrows are gone.  how  many  birds  flew
+away.
+   b. when the bird keeper come back, the assistand told him that
+x birds have escaped.  the keeper realised that atleast2 sparrows
+have escaped.  what is minimum no of birds that can escape.
+
+6.  select from the five alternatives A,B,C,D,E
+   AT THE end of each question ,two  conditions  will  be  given.
+the choices are to filled at follows.
+a. if a definete conclusion can be drawn from condition 1
+b. if a definete conclusion can be drawn from condition 2
+c. if a definete conclusion can be drawn from condition 1 and 2
+d. if a definete conclusion can be drawn from condition 1 or 2
+e. no conclusion can be drawn using both conditions
+1. person 1 says N&lt;5
+   person says n&gt;5
+	 person 3 says 3N&gt;20
+	 person 4 says 3n&gt;10
+	person 5 says N&lt;8
+whaT IS value of N
+a) 1. no of persons who speak false being less than no of persons
+who tells the truth.
+   2. person 2 is telling the truth.
+b)  1. no of persong telling the truth  is  greater  than  no  of
+persons telling lies
+	2. person 5 is telling the truth.
+
+7.  there are N coins on a table.  there  are  two  players  A&amp;B.
+you can take 1 or 2 coins at a time.  the person  who  takes  the
+last coin is the loser.  a always starts first
+--1. if N=7
+	 a) A can always win by taking two coins in his first chanse
+	 b) B can win only if A takes two coins in his first chance.
+	 c) B can always win by proper play
+	 d) none of the above
+--2.  A can win by proper play if N is equal to
+ a) 13   b) 37  c) 22 d) 34   e) 48      ans. e.
+--3. B can win by proper play if N is equal to
+a) 25   b)26    c) 32   d) 41  e) none
+--4. if N&lt;4, can A win by proper play always
+
+8. Two turns have vertain pecular charcteristics.   One  of  them
+always lies on Monday, Wednesday, Friday.  \the other always lies
+on Tuesdays, thursdays and saturdays.  On the other days they tel
+the truth.  You are given a conversation.
+	person A--  today is sunday my name is anil
+	person B-- today is tuesday, my name is bill
+answers for selected questions
+2.  equal                          1. 150
+3.  8                              2. 60 kmph
+4. 37(M),41(S)                     3.  Mukherjee
+5.   45 min.                       8. today is tuesday
+6.   0.8
+7.   18
+
+11.   T max value = 4
+
+*****************************************************************
+ *************************************************************
+ set 5
+ *************************************************************
+
+		       INFOSYS 1997.           TIME 1hr.
+
+		       PAPER CODE Q/A.        marks 50. 
+
+--------------------------------------------------------------
+
+1)At 6'o clock clock ticks 6 times.  The time between first and
+last ticks was 30sec.  How much time it takes at 12'o clock.
+Ans. 66 sec.                 2 marks.
+
+2)Three friends divided some bullets equally.  After all of them
+shot 4 bullets the total no.of remaining bullets is equal to that of
+one has after division.  Find the original number divided.
+Ans. x          x       x
+	 x-4        x-4     x-4
+	 3x-12 = x
+	 x= 6
+	 ans is 18                  2 marks
+
+3)A ship went on a voyage after 180 miles a plane statrted with 10 times
+speed  that of the ship.  Find the distance when they meet from
+starting point.
+Ans.  180 + (x/10) = x
+	   x = 20
+	   ans is 180+20=200miles.             2 marks
+
+4) Fill the empty slots.
+  Three FOOTBALL teams are there. Given below the list of maches.
+		played  won     lost    draw    Goals for       Goals against
+A        2       2       *0      *0        *7                 1
+B        2       *0      *1       1        2                    4
+C        2       *0      *1      *1        3                   7
+the slots with stars are answers.   4 marks
+BC drew with  2-2
+A won on B by 2-0
+a won on C by 5-1
+( YOU HAVE TO FILL THE BLANKS AT APPROPRIATE STAR SYMBOLS.)`
+
+5) There are 3 societies a,b,c.  a lent tractors to b and c as many
+as they had.  After some time b gave as many tractors to a and c
+as many as they have.  After sometime c did the same thing.
+At the end of this transaction each one of them had 24.
+Find the tractors each orginally had.
+Ans a had 39, b had 21, c had 12,          4 marks
+
+6) There N stations on a railroad. After adding x stations 46 additional
+tickets have to be printed. Find N and X.
+Ans. let N(N-1) = t;
+ (N+x)(N+x-1)       = t+46;
+  trail and error method   x=2  and N=11   4 marks
+
+7)Given that April 1 is tuesday. a,b,c are 3 persons told that their
+farewell party was on
+  a  - may 8, thursday
+  b  - may 10,tuesday
+  c  - june 8, friday
+Out of a,b,c one is only correct one of the regarding month,day,date.
+Other told two correct and the third person told all wrong.What is
+correct date,month,day.                 5 marks
+(ans may be MAY 10 SUNDAY. check once again)
+
+8)There are 4 parties.  df,gs,dl(depositloss),ew ran for a contest.
+Anup,Sujit,John made the following statements regarding results.
+Anup said either df or ew will definitely win
+sujit said he is confident that df will not win
+John said he is confident that neither ew nor dl will win
+the result has come.  only one of the above three has made a correct
+statement.  Who has made the correct statement and who has won
+the contest.                    5 marks.
+  (ans DL )
+
+9)Five people a,b,c,d,e are related to each other.  Four of them make
+one true statement each as follows.
+i) b is my father's brother.       (ans. d said this)
+ii)e is my mother-in-law.          (     b          )
+iii)c is my son-in-law's brother.  (     e  )
+iv)a is my brother's wife.          (c)
+										10 marks.
+
+10) All members of d are also members of a
+	All   ''       e   ''                d
+	all    ''      c    ''               both a and b
+	not all ''     a  are members of d
+	not all ''     d   ''            e
+Some questions on these conditions.(5questions 5 marks)
+
+11)
+   boys are allowed to watch football at c.v.Raman auditorium subjected to
+   conditions.
+   i)the boy over age 16 can wear overcoat
+   ii)no boy over age  15 can wear cap
+   iii)to watch the football either he has to wear overcoat or cap
+		or both
+   iv) a boy with an umberella or above 16 or both cannot wear sweater.
+   v)  boys must either not watch football or wear sweater.
+   What is the appearence of the boy who is watching football.
+   Try to solve this question................
+YOU HAVE TO DO SOME ROUGH WORK FOR EACH QUESTION . IT WILL
+  CARRY SOME GRACE MARKS.
+
+				 INFOSYS PAPER 1997.
+	 +++++++++++++++++++++++++++++++++++++++++++++=
+		 PAPER CODE Q/C.
+
+1a)   BE * BE = ACB
+	 A,B,C,E   ARE NON ZERO NUMBERS FIND B,E.
+	 ANS)  B=1   E=9
+2)   A,B,C,D,E  ARE HAVING NUMERICAL VALUES. THERE ARE SOME CONDITIONS
+GIVEN
+   a)  A=C  &lt;===&gt;  B!=E
+  b) DIFFERENCE BETWEEN A AND C AS SAME AS DIFFERENCE BETWEEN C AND B
+	  AS SAME AS DIFFERENCE BETWEEN A AND D
+   c)  C&lt;A  AND  C&gt;D
+  THEN FIND A,B,C,D,E
+
+3)   THERE ARE SIX CARDS IN WHICH IT HAS TWO KING CARDS. ALL CARDS ARE
+TURNED DOWN AND TWO CARDS ARE OPENED
+  a) WHAT IS THE POSSOBILITY TO GET AT LEAST ONE KING.
+  b) WHAT IS THE POSSIBILITY TO GET TWO KINGS.
+
+4) A PERSON WENT TO A SHOP AND ASKED FOR CHANGE FOR 1.15PAISE.
+BUT HE SAID THAT HE COULD NOT ONLY GIVE CHANGE FOR ONE RUPEE.
+ BUT ALSO FOR 50P,25P,10P  AND 5P. WHAT WERE THE COINS HE HAD
+	ans) 1--&gt;50   4---&gt;10P      1---&gt;25P
+
+ 5)  THERE ARE 3 NURSES AND THEY WORK ALTOGETHER ONLY ONCE IN A WEEK.
+ NO NURSE  IS CALLED TO WORK FOR 3 CONSECUTIVE DAYS.
+   NURSE 1 IS OFF ON TUESEDAY,THURSDAY AND SUNDAY.
+   NURSE 2 IS OFF ON SATURDAY.
+   NURSE 3 IS OFF ON THURSDAY,SUNDAY.
+   NO TWO NURSES ARE OFF MORE THAN ONCE A WEEK.
+	 FIND THE DAY ON WHICH ALL THE 3 NURSES WERE ON WORK.
+
+ 6)  THERE ARE 5 PERSONS A,B,C,D,E AND EACH IS WEARING A BLOCK OR WHITE
+ CAP ON HIS HEAD. A PERSON CAN SEE THE CAPS OF THE REMAINING 4 BUT CAN'T
+ SEE HIS OWN CAP. A PERSON WEARING WHITE SAYS TRUE AND WHO WEARS BLOCK
+ SAYS FALSE.
+   i) A SAYS I SEE 3 WHITES AND 1 BLOCK
+  ii) B SAYS I SEE 4 BLOCKS
+ iii) E SAYS I SEE 4 WHITES
+ iiii) C SAYS I SEE 3 BLOCKS AND 1 WHITE.
+	 NOW FIND THE CAPS WEARED BY A,B,C,D AND E
+
+7) THERE ARE TWO WOMEN, KAVITHA AND SHAMILI AND TWO MALES SHYAM, ARAVIND
+ WHO ARE MUSICIANS. OUT OF THESE FOUR ONE IS A PIANIST, ONE FLUTIST,
+ VIOLINIST AND DRUMMER.
+	 i) ACROSS ARAVIND BEATS PIANIST
+	ii) ACROSS SHYAM IS NOT A FLUTIST
+   iii) KAVITHA'S LEFT IS A PIANIST
+  iiii) SHAMILI'S LEFT IS NOT A DRUMMER
+  V)    FLUTIST AND DRUMMER ARE MARRIED.
+
+ 8) 1/3 ED OF THE CONTENTS OF A CONTAINER EVAPORATED ON THE 1 ST DAY.
+	3/4 TH OF THE REMAINING CONTENTS OF THE CONTAINER EVAPORATED THE
+	SECOND DAY. WHAT PART OF THE CONTENTS OF THE CONTAINER ARE LEFT AT
+	THE END OF THE SECOND DAY.
+
+ 9) A MAN COVERED 28 STEPS IN 30 SECONDS BUT HE DECIDED TO MOVE FAST AND
+ COVERED 34 STEPS IN 18 SECONDS. HOW MANY STEPS ARE THERE ON THE
+ ESCALATOR WHEN STATIONARY.
+
+ 10)  ALL FAIR SKINNED, RICH, HANDSOME, MUSCULAR, LEAN AND EMPLOYED ARE
+ TALL MEN
+  1) ALL LEAN MEN ARE MUSCULAR.
+   2) NO FAIRSKINNED PERSON WHO IS NOT RICH IS HANDSOME.
+   3) SOME MUSCULAR MEN ARE HANDSOME.
+   4) ALL HANDSOME ARE FAIRSKINNED.
+   5) NO PERSON WHO IS NEITHER FAIR SKINNED NOR MUSCULAR IS ENPLYED.
+ *************************************************************
+************************************************************************
+set 6
+************************************************************************
+
+				Infosys
+
+ 1.  A person was collecting end pieces of Cigerettes.  He was managed to collect 49
+     pieces.  We need 7 such pieces to make new one.  So how many Cigerettes he can
+     make?                                                              (2 marks)
+ 2. A person moving from a place(camp)., towards East one mile, then towards North 
+    half mile, towards West 1/4 the mile, towards South 1/8th mile and again
+    towards East 1/16th mile and so on.  That is the distance between him and the
+    starting point.                                                     (3 marks)
+ 3.  500 men were arranged in 10 rows and 50 columns.  They picked the oldest person
+     from each row and the tallest of these persons is 'A'.  They replace them in 
+     their places and again picked tallest person from each column and the shortest
+     of these persons is 'B'. Assume A & B are different people. Who is the 
+     tallest person among A & B?                                        (5 marks)
+
+ 4.  The product of two nonzero numbers is 1,000,000,000.  What are the 
+     numbers ?                                                          (5 marks)
+ 5.  There is Mathematician.  He met his friend and asked about his children.
+     His friend told in the form of a problem that he has three children. The
+     product of their ages is 36. The addition of their ages is the door number
+     of his left side house.  Mathematician went and checked the door number
+     He told that the clues are not sufficient.  He gave another clue that
+     is his younger daughter is clearly younger.  What are their ages ?  (6 marks)
+ 6.  There is a light glows in the interval of 13 sec.  It glows first at one
+     hour 54 minutes 50 seconds and the last glow is at 3 hour 17 minute and 49
+     seconds.  How many times is that light glow, with in these two times ?
+                                                                        (2 marks)
+ 7.  After spending 1/3 of money and then 1/4th of what remained and finally 1/5th  
+     of what remained, I found that I had Rs.100/- left.  How much money I had
+     at first ?                                                         (3 marks)
+ 8.  A Black Smith was given a chain torn into equal sections of 3 links
+     each and asked to fix it.  How many links(minimum) would he has to open
+     up and reforge ?                                                   (1 mark)
+ 9.  There are six boxes, of which some boxes contain only red balls and some other 
+     boxes contain only Black balls.  The number of balls in six differnet boxes are
+     5,6,12,14,23,and 29.  If he sells
+
+
+
+
+  Another Set:
+  ************
+
+ 1.  1/3rd liquid in a container evaporates in first day. In the second day 3/4th 
+     remaining avaporates. How much is left over at the end of second day ? 
+ 2.  first person :  I am sure you are at least 40 years old and I am 5 years 
+     younger than you.
+     second person : I am 35 and you are atleast 5 years elder than me.  None
+     of these persons spoke truth. What are their ages ?
+
+ 3.  Orange cup has Orange Juice.  White cup has apple Juice.  %0 ml of
+     Orange Juice is taken and mixed with Apple Juice.  From that mixture
+     50 ml is taken and poured into Orange cup.  Now whether apple Juice
+     in Orange Cupis more or Orange Juice in White cup is more and by what amount?
+
+ 4.  Ms. Sheela goes her home by car from Station.  Her driver comes and
+     picks her up daily at 5.00 p.m.  One day Sheela arrives at Station one 
+     hour earlier and starts walking towards  home.  On the way driver
+     picked her up. By this they reached home 30 minutes earlier.  For how
+     long she was walking ? 
+
+ 5.  Some students went on a trip to Goa in holidays.  Unfortunately it 
+     rained on some days.  In a surprising manner if it rained in the
+     morning, they had a good afternoon and vice versa.  They had 11 morning
+     visits and 12 afternoon visits.  Altogether it rained for 13 days
+     during their stays.  What is the duration of Holidays ?
+
+ 6.  A survey was conducted for 100 people by Door Darshan 
+     1.  44 people watched channel I
+     2.  43  "       "       "     II
+     3.  27  "       "       "     III
+     4.  17  "       "       "     I & II
+     5.  14  "       "       "     I &III
+     6.  13   "      "       "     II &  III
+     7. 23 watched none.
+     How many watched I II & III ?
+
+ 7.  Two Swimmers at different rate but at constant Speed were swimming.
+     They met at 18 meters from deep end.  Both swimmers took rest for 
+     4.5 seconds.  During their return they crossed at 10 meters from
+     ashlor end.  What is the length of the pool ?
+
+ 8. Mr. Raj goes to Office by Train.  First train in Main line Starts at 
+    5:02:0.  In Harbour Line it starts at 5:10:0.  Every Ten minutes there
+    is one train.  What is the probability that Raj travels in harbour line
+    at a random time of Driving      the Station?
+
+
+PART 1
+
+1). A beggr collects cigarette stubs and makes one ful  cigarette 
+with every 7 stubs.  Once he gets 49 stubs .  How many cigarettes 
+can he smoke totally.
+                     Ans. 8
+2). A soldiar looses his way in a thick jungle  at  random  walks 
+from his camp but  mathematically  in  an  interestingg  fashion.  
+First he walks one mile east then half mile to north.   Then  1/4 
+mile to west, then 1/8 mile to south and so  on  making  a  loop. 
+Finally hoe far he is from his camp and in which direction.
+ans: in north and south directions 
+   1/2 - 1/8 + 1/32 - 1/128 + 1/512 - and so on 
+                = 1/2/((1-(-1/4))
+      similarly in east and west directions
+     1- 1/4 + 1/16 - 1/64 + 1/256 -    and so on 
+             = 1/(( 1- ( - 1/4))
+   add both the answers
+3). hoe 1000000000 can be written as a  product  of  two  factors 
+neither of them containing zeros
+   Ans   2 power 9 x 5 ppower 9  ( check the answer )
+4). Conversation between two mathematcians:
+  first : I have three childern. Thew pproduct of their ages is  36 
+.  If you sum their ages . it is exactly same as  my  neighbour's 
+door number on my left. The  sacond  mathematiciaan  verfies  the 
+door number and says that the not sufficient  .  Then  the  first 
+says " o.k one more clue is that my youngest is the youngest"
+Immmediately the second mathematician answers . Can  you  aanswer 
+the questoion asked by the first mathematician?
+What are the childeren ages?        ans  2 and 3 and 6
+5). Light glows for every 13 seconds .  How  many  times  did  it 
+between 1:57:58 and 3:20:47 am
+      ans : 383 + 1 = 384
+
+6). 500 men are  arranged in an array of 10 rows and 50 columns . 
+ALL tallest among each row aare asked to   fall  out  .  And  the 
+shortest among THEM is A. Similarly after resuming that to  their 
+originaal podsitions that the shorteest  among  each  column  are 
+asked to fall out. And the longest among them is B . Now  who  is 
+taller among A and B ?
+      ans  A  
+7). A person spending out 1/3 for cloths , 1/5 of the  remsaining 
+for food and 1/4 of the remaining for travelles  is left with
+Rs 100/- . How he had in the begining ?
+    ans    RS 250/-
+8). there are six  boxes containing 5 , 7 , 14 , 16  ,  18  ,  29 
+balls of either red or blue in colour. Some  boxes  contain  only 
+red balls and others contain only blue . One sales man  sold  one 
+box out of them and then he says " I have the same number of  red 
+balls left out  as that of blue ". Which box is the one he  solds 
+out  ?
+Ans : total no of balls  =  89 and (89-29 /2 = 60/2 = 30 
+     and also 14 + 16 = 5 + 7 + 18 = 30
+9).  A  chain  is  broken  into  three  pieces  of  equal  lenths 
+conttaining 3 links each. It is taken to a backsmith to join into 
+a single continuous one . How many links are to  tobe  opened  to 
+make it ?
+    Ans : 2.
+10). Grass in lawn grows equally thickand in a uniform  rate.  It 
+takes 24 days for 70 cows and 60 for 30 cows . How many cows  can 
+eat away the same in 96 days.?
+    Ans : 18 or 19
+11). There is a certain four digit number whose fourth  digit  is 
+twise the first digit.
+   Third digit is three more than second digit.
+   Sum of the first and fourth digits twise the third number.
+   What was that  number ?
+  Ans : 2034 and 4368 
+
+
+	If you qualify in the first part then you have to appear for 
+the second i.e the following part.
+
+Part 2.
+
+1.  From  a  vessel  on  the  first  day,  1/3rd  of  the  liquid 
+evaporates.  On the second day  3/4th  of  the  remaining  liquid 
+evaporates.  what fraction of the volume is present at the end of 
+the II day.  
+2. an orange galss has orange juice.  and white glass  has  apple 
+juice.  Bothe equal volume 50ml of the orange juice is taken  and 
+poured into the apple juice.  50ml from the white glass is poured 
+into the orange glass.  Of the  two  quantities,  the  amount  of 
+apple juice in the orange glass and the amount of orange juice in 
+the white glass, which one is greater and by how much?
+3.  there is a 4 inch cube painted on all  sides.   this  is  cut 
+into no of 1 inch cubes.  what is the no of cubes which  have  no 
+pointed sides.
+4. sam and mala have a conversation.  sam says i am vertainly not 
+over 40.  mala says i am 38 and you are  atleast  5  years  older 
+than me.  Now sam says you are atleast 39.  all the sattements by 
+the two are false.  How hold are they realy.
+5.  ram singh goes to his office in the city, every day from  his 
+suburbun house.  his driver mangaram drops  him  at  the  railway 
+station in the morning and picks him up in  the  evening.   Every 
+evening ram singh reaches the station  at  5  o'clock.   mangaram 
+also reaches at the same time.  one day  ramsingh  started  early 
+from his office and came  to  the  station  at  4  o'clock.   not 
+wanting to wait for the car he  starts  walking  home.   Mangaram 
+starts at normal time, picks him up on the way and takes him back 
+house, half an hour early.  how much time did ram singh walk.
+6.  in a railway station, there are tow trains going.  One in the 
+harbour line and one in the main line, each having a frequency of 
+10 minutes.  the main line service  starts  at  5  o'clock.   the 
+harbour line starts at 5.02a.m. a man goes to the  station  every 
+day to catch the first train.  what is  the  probability  of  man 
+catchinhg the first train
+7.  some people went for vaction.  unfortunately it rained for 13 
+days when they  were  there.   but  whenever  it  rained  in  the 
+morning, they had clean afternood and vice versa.   In  all  they 
+enjoyed  11 morning and 12 afternoons.  how many  days  did  they 
+stay there totally
+8. exalator problem repeat
+9. a survey was taken among 100 people to firn  their  preference 
+of watching t.v. programmes.  there are 3 channels.  given no  of 
+
+people who watch
+at least channel   1
+"         "        2
+"         "        3
+no channels at all
+atleast channels  1and 3
+"     "           1 and 2
+"        "        2 and 3
+find the no of people who watched all three.
+10. albert and fernandes they have two leg swimming  race.   both 
+start from opposite and of the pool.  On the first leg, the  boys 
+pass each other at 18 mt from the deep end of the  pool.   during 
+the II leg they pass at 10 mt from the shallow end of  the  pool.  
+Both go at const speed.  but one of them  is  faster.   each  boy 
+rests for 4 sec to see at the end of the  i  leg.   what  is  the 
+length of the pool.
+11. T  H  I  S                Each  alphabet  stands  for  one 
+        I S                   digit, what is the maximum value T 
+--------------                can take
+    X F X X
+  X X U X
+--------------
+  X X N X X
+--------------
+
+
+1. an escalator is descending at constant speed.   A  walks  down 
+and takes 50 steps to reach the bottom.  B runs down and takes 90 
+steps in the same time as A takes 10 steps.  how many  steps  are 
+visible when the escalator is not operating.
+2. evvery day a cyclist meets a train at a  particular  crossing.  
+the road is straignt before the crossing and both are  travelling 
+in the same direction.  cyclist travels with a speed of 10  Kmph.  
+One day the cyclist comes late by 25 min. and meets the train 5km 
+before the crossing.  what is the seppd of the train.
+3. five persons muckerjee, misra, iyer,  patil  and  sharma,  all 
+take then first or middle names in the full names.  There  are  4 
+persons having I or middle name of kumar, 3 persons with mohan, 2 
+persons withdev and 1 anil.
+--Either mukherjee and patil have a I or middle name  of  dev  or 
+misra and iyer have their  I or middle name of dev
+--of mukherkjee and misre, either both of them have  a  first  or 
+middle name of mohan or neither have a first or  middle  name  of 
+mohan
+--either iyer of sharma has a I or middle name of kumar  hut  not 
+both.
+who has the I or middle name of anil
+4. reading conprehension
+5. a bird keeper has got Ppigeon, M mynas and  S  sparrows.   the 
+keeper goes for lunch leaving his assistant to watch the birds.
+a. suppose p=10, m=5, s=8 when the bird keeper  comes  back,  the 
+assistant informs the x birds  have  escaped.   the  bird  keeper 
+exclaims oh no! all my sparrows are gone.  how  many  birds  flew 
+away.
+   b. when the bird keeper come back, the assistand told him that 
+x birds have escaped.  the keeper realised that atleast2 sparrows 
+have escaped.  what is minimum no of birds that can escape.
+6.  select from the five alternatives A,B,C,D,E
+   AT THE end of each question ,two  conditions  will  be  given.  
+the choices are to filled at follows.
+a. if a definete conclusion can be drawn from condition 1
+b. if a definete conclusion can be drawn from condition 2
+c. if a definete conclusion can be drawn from condition 1 and 2
+d. if a definete conclusion can be drawn from condition 1 or 2
+e. no conclusion can be drawn using both conditions
+1. person 1 says N<5
+   person says n>5
+     person 3 says 3N>20
+     person 4 says 3n>10
+    person 5 says N<8
+whaT IS value of N
+a) 1. no of persons who speak false being less than no of persons 
+who tells the truth.
+   2. person 2 is telling the truth.
+b)  1. no of persong telling the truth  is  greater  than  no  of 
+persons telling lies
+    2. person 5 is telling the truth.
+7.  there are N coins on a table.  there  are  two  players  A&B.  
+you can take 1 or 2 coins at a time.  the person  who  takes  the 
+last coin is the loser.  a always starts first
+--1. if N=7
+     a) A can always win by taking two coins in his first chanse
+     b) B can win only if A takes two coins in his first chance.
+     c) B can always win by proper play
+     d) none of the above
+--2.  A can win by proper play if N is equal to 
+ a) 13   b) 37  c) 22 d) 34   e) 48      ans. e.
+--3. B can win by proper play if N is equal to
+a) 25   b)26    c) 32   d) 41  e) none
+--4. if N<4, can A win by proper play always
+
+8. Two turns have vertain pecular charcteristics.   One  of  them 
+always lies on Monday, Wednesday, Friday.  \the other always lies 
+on Tuesdays, thursdays and saturdays.  On the other days they tel 
+the truth.  You are given a conversation.
+    person A--  today is sunday my name is anil
+    person B-- today is tuesday, my name is bill
+
+
+answers for selected questions
+2.  equal                          1. 150
+3.  8                              2. 60 kmph
+4. 37(M),41(S)                     3.  Mukherjee
+5.   45 min.                       8. today is tuesday
+6.   0.8
+7.   18
+11.   T max value = 4
+
+            3. Anil kumar Mukherjee
+               Kumar Misra dev
+               Mohan iyer dev
+               kumar patil mohan
+               mohan sharma kumar
+
+{THIS HAS BEEN SENT TO ME BY GOPI AND IT IS IN LATEX VERSION SORRY I COULD NOT
+COMPILE IT AND SEND IT PROPERLY BUT YOU CAN EASILY FOLLOW IT. TOPICS LIKE THIS 
+I.E VIRUS, UNIX,DOS,MOUSE ETC SORRY I COULD REMEMBER THE TOPICS I WILL SEE IF 
+i HAVE THE LIST IN THE ROOM AND WRITE AGAIN. THEY MAY ASK YOU TO TALK ON THESE
+TOPICS FOR 5MINUTES IN INTERVIEW}
+
+\documentstyle [12pt]{report}
+\title{Seminar: COMPUTER VIRUS}
+\begin{document}
+\newpage
+
+\chapter{INTRODUCTION}
+
+\section { What is VIRUS ?}
+\\
+
+   Virus is software program which infects other programs by modifying
+them to include an exact version of itself or possibly an evolved
+version , a mutation or another generation.The virus can act as
+carrier  of any code the attacker wishes to use.The code in the virus 
+may spread through the system or network and thereby causing arbitrary
+changes in program and data.
+\\
+
+\section{What is a Trojan Horse?}
+
+              It is a program that does something
+undocumented which the programmer intended, but that the user
+would not approve of if he knew about it.  According to some
+people, a virus is a particular case of a Trojan Horse, namely
+one which is able to spread to other programs (i.e., it turns
+them into Trojans too).  According to others, a virus that does
+not do any deliberate damage (other than merely replicating) is
+not a Trojan.  Finally, despite the definitions, many people use
+the term "Trojan" to refer only to a *non-replicating* malicious
+program, so that the set of Trojans and the set of viruses are
+disjoint.
+\\
+\section{TYPES OF VIRUSES:}
+\begin{enumerate}
+\item FILE INFECTORS:
+\\
+                This type of viruses attach themselves to ordinary
+program files.  These usually infect arbitrary .COM and/or .EXE
+programs, though some can infect any program for which execution is
+requested, such as .SYS, .OVL, .PRG, & .MNU files.
+
+File infectors can be either DIRECT ACTION or RESIDENT.  A direct-
+action virus selects one or more other programs to infect each time
+the program which contains it is executed.  A resident virus hides
+itself somewhere in memory the first time an infected program is
+executed, and thereafter infects other programs when *they* are
+executed (as in the case of the Jerusalem) or when certain other
+conditions are fulfilled.  The Vienna is an example of a direct-action
+virus.  Most other viruses are resident.
+
+\item SYSTEM or BOOT-RECORD INFECTORS:
+\\
+                                  Boot record or System viruses
+ infect executable code found in certain system areas on a disk
+which are not ordinary files.   On DOS systems, there are ordinary
+boot-sector viruses, which infect only the DOS boot sector, and MBR
+viruses which infect the Master Boot Record on fixed disks and the DOS
+boot sector on diskettes.  Examples include Brain, Stoned, Empire,
+Azusa, and Michelangelo.  Such viruses are always resident viruses.
+
+Finally, a few viruses are able to infect both (the Tequila virus is
+one example).  These are often called "MULTI-PARTITE" viruses, though
+there has been criticism of this name; another name is "BOOT-AND-FILE"
+virus.
+\end{enumerate}
+ \\
+\em{\bf{A CASE STUDY:}\bf}\em
+\\
+\em{\bf{BRAIN VIRUS:}\bf}\em
+\\
+           This is example for boot sector virus.This was originated
+in january, 1986,in Lahore, Pakistan.It is one of the most prolific
+viruses which has infected hundreds of thousands of disks.This virus
+infects only 5.25-inch floppies and it cannot infect the hard disk.
+The virus stores the original boot sector, and five extension sectors 
+containing the main body of the virus, in available sectors which are
+then flagged as bad so that DOS or any other program does not use
+them.
+
+    On Brain infected computer, total memory available will be 7K less
+than the actually available. One of the most visible effects of the
+virus is that when Brain infects a floppy,it puts a volume label of 
+"@Brain". A DIR command on an infected floppy in drive A will show the
+first line as
+\\
+              \em{\bf{  Volume in drive A is @ Brain }\bf}\em
+\\
+Effects:
+        The original code has no destructive code. Due to its
+replication cycle, the virus slows the access of the floppy drive 
+and makes 3K of unusable sectors in the disk and 7K in system memory.
+
+Removal:
+        As this is a boot sector virus, elimination of the virus from
+a floppy requires the overwriting of the boot sector of the infected
+disk with a clean boot sector.Elimination is quick and easy by using 
+one of the commercial programs. This is especially required if you wish
+to recover the 3K  of sectors marked bad by Brain.
+\\
+\chapter
+\em{THINGS VIRUSES CAN DO:}\em
+\begin{enumerate}
+\\
+\item  Fill up your computer with garbage: 
+                                      The virus can fill up your disk,
+or your available memory, with copies of itself.Or perhaps just with
+zeros. 
+
+\item  Mess up files:
+                Computer files are stored in standard ways.Therefore
+it is very easy to alter things so that parts of files can't be
+located even though they may  still be there.
+
+\item  Mess up FAT:
+              File Allocation Table, contains information about where
+things are stored on your disk, as well as other information. Changing
+some of these items of information can cause you no end of grief.
+
+\item  Mess up the boot sector: 
+				The boot sector is a special bit of information
+on a disk. If it's altered , your computer may not be run at all.
+
+\item  Format a disk or diskette.
+\item  Display a message:
+                    The MACMAG virus just displayed a
+message, harmlessly.
+
+\item Put message into printouts.
+\item Reset a computer.
+\item Slow things down.
+\item Redefine keys:
+               Your computer has to be told what a signal from the
+keyboard means. A virus could change the definitions in the keystroke
+definition table.
+
+\item Lock the keyboard:
+                    If the virus deleted the keyboard definitions, the
+computer would not respond at all.
+\item Change data in program or files:
+                                     Some viruses have made random
+changes to data files, and you might not notice this for a long
+time. Even worse, they could change random data in memory(RAM), causing
+erratic program results.
+\item Physically damage hard drive or other parts of the machine.
+\item Copy data you have access to for another user who shouldn't have
+access: 
+        This type of problem applies mostly to systems with many
+users. If you have access to, say, payroll information or confidential
+medical records, a virus could copy it to a place where someone else
+without your access level can get at it.                           
+\end{enumerate}
+\chapter
+\em{\bf{ Symptoms of presence of a Computer Virus in Your System }\bf}\em
+
+   How do we know when there is a computer virus  in the system?
+Although many of the anti-virus products will warn about an illegal 
+operation,it may be signs of equipment malfunctions.
+  The following are some of the indicators of computer virus attack:
+\begin{enumerate}
+\item The number of files on the disk has increased.:
+       Every time you add
+ a program or subdirectory on your hard disk, it is safe procedure to
+obtain a printout of the disk's directory. Keep it handy for reference.
+If you use the DIR command at some stage during operation and find
+that number of files has increased,then compare the two directories 
+and search for new file names.Are they familiar? Examine the contents 
+of suspect files using the Norton Utilities or PC Tools.
+
+\item The message " 1 File(s) copied " appears even though no COPY command
+ was invoked :
+               Have you used a .BAT file which invokes the COPY
+command as part of its procedure?Is there a program or utility that
+creates a file or files?If we decide to make PC Tools a RAM-resident
+file it creates a new file in the root directory. If none of these are 
+the causes , there is a good chance that a virus is in the system.
+
+\item The amount of RAM space in he system becomes smaller:
+                                                       At boot time
+run CHKDSK or the utility or any special utility to determine the
+system's RAM size. Make a note of this number. Periodically during
+operations run CHKDSK or the utility and find the number of bytes
+available in RAM. If the size has decreased, stop! Unless you have
+added a TSR earlier during operations, chances are that a decrease 
+in available RAM space spells trouble.
+
+\item A file's date/time stamp has been changed :
+                                             Give a quick glance
+at date and time of executable programs. Unless you or new program
+created recently dated files, chances are very high that there is a
+computer virus in the system.
+
+\item The size of an executable program has increased:
+                                                   Before you execute
+a program, take a directory listing. Compare the size of the program 
+with the original listing. Any change in the program size should be
+suspected. Executable programs do not change in size unless they have
+become infected or otherwise corrupted. Do not execute the program 
+until the system has been examined and the program replaced from an
+original protected copy.
+
+\item A program normally run will not load because of insufficient RAM
+space: 
+     If you have not added a TSR other than yhose usually installed by
+the AUTOEXEC.BAT file on the system.Find the amount of RAM size
+available. If it has been decreased, stop! If the size of RAM has not
+been changed, use a directory listing to check the guilty program's
+size and date/time stamps and compare them with original.If there is a
+change in size, date,and or time, chances are the program is infected
+and the system might be as well.
+
+\item Programs take longer than normal to load:
+                                     Few of us can be aware of minor
+time changes in program loading. However, if loading is noticeably 
+longer or you feel that longer loading time, terminate program
+execution.Obtain a dictionary listing of the disk and compare the 
+program's size in bytes and its date and time with the original
+listing. Even if there is no change in these data power down.
+Run a diagnostic test to determine its operation. If nothing is
+physically wrong with the disk drive, chances are that you were 
+impatient.
+
+\item Execution time of a program takes longer than usual:
+                                                      Sure you are not
+impatient? If not, follow the steps taken for longer program loading
+in the indicator above.
+
+\item A disk drive light goes on when that disk is not being accessed for
+read or write during the current operation?:
+                                             This most often means
+danger. Yet if you are working with the drive B as the default drive
+and take a directory of a disk in drive A, the light on drive B will
+go on after the directory appears on the screen.This is normal since
+drive B is the default drive.
+
+\item A TSR program fails to operate properly:
+                                            Did it work properly under
+the same conditions before? We have some TSR programs that cannot be
+called by hotkeys when other TSR programs are active. Know your system
+and the TSR operations before you call for help.
+
+\item Hard disk access time has increased appreciably:
+                                                   Again this might be
+your time perception. Although something might be physically wrong
+with the drive ,you could possibly have a virus in the system Power
+down and restart with a write protected disk drive in A.
+
+\item Program stops in the middle of execution and no disk lights are on:
+      The system has apparently crashed;it can be caused by many
+things . After you have safely rebooted the system, examine the suspect
+program. Also run diagnostics on the disk drives. If nothing is found
+it could have been an equipment malfunction.
+
+\item Hard disk drive fails to boot the system:
+                                            Try booting the system
+with a write protected floppy disk in drive A and obtain a directory
+of drive C. Possibly the master boot record,partition table or file
+allocation have been altered. Or possibly there is something
+physically wrong,such as the hard disk's heads.
+
+\item Bad clusters appear on a disk:
+                                 Almost all hard disks normally come
+from producers to the users with some bad clusters. Obtain a printout
+of the map of your hard disk and keep the location of the bad
+clusters.Periodically obtain a map on the monitor screen and compare
+it with the original. Any change should be suspect.
+\end{enumerate}
+\chapter{Prevention Techniques}
+\begin{enumerate}
+ Three things are involved in coping with viruses:
+\item   Avoiding them in the first place.
+\item Discovering them and getting rid of them.
+\item Repairing the damage.
+ \end{enumerate} 
+     To avoid viruses to enter into the system:
+\begin{enumerate}
+\item To be safest, purchase all your programs, shrink wrapped, from a
+reputable dealer.
+\item Write-protect original diskette before inserting  it into a drive.
+\item Make a back up copy, using the original write-protected diskette 
+    as the input. Write protect the back up copy to avoid infection.
+\item Test any software you downloaded,particularly if it is downloaded
+from bulletin boards, before running it.
+\end{enumerate}
+     There are virus protection programs available in the
+market. Vaccine is a program or group of programs, that provides some
+kind of protection against computer viruses. It can scan  files for
+known viruses and enable users to look for suspicious text in program
+files. (such as the apocryphal \em{(HA HA GOTCHA)}\em)Naturally a new virus
+won't be found in this way, unless vandal is kind enough to include
+funny messages in the code in readable format. The vaccine might
+include a memory resident program that traps system calls, TSR calls,
+ attempts to format a disk, or attempts to modify a program or system
+file. It might also include an automated or manual signature, checksum
+or some form of encryption so that programs with altered signatures or
+checksums are blocked by the the protection program. For this purpose
+some antiviral programs, when loaded first time in the system
+calculates checksum to all the files and maintain the list. But if
+checksum is calculated for already infected program, it cannot detect.
+
+\chapter{CONCLUSIONS:}
+
+     Since the last decade,software threats have increased and are
+spreading exponentially because of improved communications 
+(LAN,WAN) , we should be aware of these threats and their
+devastating effects. Use one or more antiviral products to
+protect the system from virus infection. Update the antiviral
+products as and when new viruses are found. But no antiviral
+pruduct presently available in the market can offer 100 percent
+ foolproof protection. So the best way to avoid viruses is
+don't use unknown software. Test the downloaded software
+before executing it. Back up your data and files to recover
+from the loss due to virus attack.
+
+ \end{document}
+
+
+
+
+
+
+TCS paper
+**********
+
+sectionI and Section II: same fromprevious paper
+
+
+section III:
+
+1.   30 poles are planted in a field such that the distance 
+     between each pair is 15mts. What is the distance between 
+     1st and 30th pole?
+
+
+2.   In a company there are 50 A grade employees and 100 B
+     grade employees.  The total amount which company gives
+     salaries per month is Rs.5,00,000/-.  If A grade employee
+     is given double the salary of C grade employee and B
+     grade is given 3/2 times the salary of C grade employee.
+     what is the amount that A gets more than C.
+
+3.  In a class there are 120 students 60% of them speak French.
+    And remaining speak English. 25% of the students are 
+    capable of speaking French and can also speak English.
+    Find the total number of English speaking students.
+
+4.  There are two tanks X and Y with some fluid. X is having 
+    600 gallons of more fluid than Y at present.  When 100 
+gallons
+    of fluid is removed from both X and Y , X will have 3 times
+    that of Y. Find the volume of fluid in X and Y.
+
+5.  Given that n= 15*24*28.  which of the following is not
+    an Integer.
+    a. n/7  b. n/14  c. n/21  d. n/39
+
+
+section IV:
+
+Inequalities - 5 minutes - 30 questions
+
+data    inference    True   False     Data insufficient
+
+1.
+
+.
+.
+30.
+
+
+Section V:
+
+
+8 questions 25 minutes   30 marks
+
+
+1.  A,B,C,D and E are the men who individually are capable of
+    talking in two languages.  On whole the no. of people who 
+    speak  the various languages as follows.
+    spanish -3,  Italian - 3, English-2, French-2.
+    
+   A.  Who can speak with D other than E.   Ans.(All others)
+
+   B.  Two persons(A & B) have to talk. Who can mediate them.
+       clue: See who other can speak, language of those two
+       persons
+ 
+   C. I f a new person has to enter, what languages should
+      he know , So that he can talk to as many people as 
+      possible.     ans: Spanish and Italian.
+
+2.  There are three programmers A,B and C. There are 5 
+programming 
+    assistants D,E,F,G and H.  Management is planning to open
+    a new office in another city using 3 assistants and 2 
+    programmers of the present strength.  To do so, they planned
+    to seperate certain individuals who do not function well
+    together.  The following guide lines were established to 
+    set up the new Office.
+
+   a.  Programmers A and C are constantly finding fault with 
+       one and another and should not be sent as a team
+       to the new office.
+   
+   b.  C and E function well alone but not as a team, They
+       should be seperated.
+ 
+   c.  D and G have not bbeen on speaking terms for many months
+       They should not go together.
+
+   d.  Since D and F have been competing for promotion, they 
+       shall not be a team.
+
+ 
+   D.  If A is to be moved as one of the programmers, which of
+       the following cannot be a possible working team?
+       i.  ABDEH  ii.  ABDGH  iii.  ABEFG  iv. ABEGH v. ABFGH
+       ans: ii.
+
+   E.  If C and F are moved to the new office, How many
+       combinations are possible? 
+       i. 1  ii.2   iii.3  iv. 4  v.5    ans: i
+   
+   F.  If C is sent to the new office , which member of the
+       staff cannot go with C?
+       i.B  ii. D   iii.   F    iv.  G   v. H
+
+
+
+3.  Flowers Problems:
+    
+    G.  ans:  C
+    H.  ans: D
+
+
+SECTION  VI:
+
+1.  The loop has to be executed as follows.
+             
+     i=20   
+     if log i=0  then stop
+     else sum=sum+i
+     continue
+
+  a.  If i[0]=1 and log operand is >=. What is i[f].
+      1. 9  ii. 10   iii.  11   iv   12    ans: iii.
+  
+  b.  if i[0]=1 and i[f]=10  what should be the
+      log operand?
+      i. =  i. >    iii.<   iv.  <=     ans: B
+
+  c.  if i=i-1, what is i[f] if loop is <
+      ans: i[f]=0; i[0]=10.
+
+2.  function func(x)
+if(n=1) return;
+else
+func(n) = (n+1)*func(n-1)
+
+then func(5) = ?    ans : 360
+
+5.  n=0
+Do i=1,2
+Do j=1,3
+DO k=1,2
+If((I+J-K)>=2) n=n+1
+Print n
+end do
+
+ans : 8
+
+6.  Given the quadratic equation ax*x+bx+c =0, Find the 
+logical error in the given program and suggest the 
+correction.
+
+7.  The alphabets A,B....Z arte asigned as numbers 1,2...26.
+    What is the expression to find vowels
+    The function below returns Boolean
+    func()
+    Do I = 1,26
+    If (expression) the true
+    else false
+    
+
+    What is the expression? i=1 or 5 ii. i= 15 or 21.
+
+8.  To convert a real to integer by rounding off
+    ans: exp: x+0.5
+
+9.  To check the given number m is prime or not, it
+    is enough to check the division factors from 2 to ____
+
+10  A 3by3 matrix is to be determined from the following logic.
+    State true of False. Whether the logic works. If false
+    write the necessary corrections
+    a11+a12+a13=magic-total
+    loop1:  Do i=2,3
+            If(ai1+ai2+ai3#magic-total) go to failure
+            end loop1.
+
+    loop2:  Do j=1,2,3
+            If(a1j+a2j+a3j#magic-total) go to failure
+            end loop 2.
+         printf("the matrix is magic")
+         printf("the matric is not a magic") 
+    Ans: The diagonals are not checked.
+    After loop2 the following two statements should be added.
+    if(a11+a22+a33#magic-total) go to failure
+    if(a31+a22+a13# magic-total) go to failure
+
+11. A logic is given to determine the change given to the 
+    customers in a shop. Tell whether the logic is false or true?
+    and tell the reason?
+
+   int change;
+   i=50,25,10,5,2,1
+   change=change-i
+   if(change>=0) printf("change to be given"i);
+   else
+   change=change+i;
+   end do loop
+   ans:  The logic doesnot work for change less than 50
+         as change takes -ve value and the loop is ended
+         without giving change
+
+12.  A program is used to change Octal to decimal. If n is
+     no of digits and are entered into the program. The digits
+     are entered from minimum to maximum.
+
+    int oct;
+    dec=0;
+    do i=1 to n
+    input=oct;
+    dec = (exp)
+    end do
+ what is the expression to be written?
+
+  ans:  dec = dec+(8**(i-1)*oct)
+
+13.  The logic below is bound to go into endless loop for some
+     compilers, state the reason?
+    
+     do(x<=4.0)
+     printf("%d%c",x,sin(x))
+     x = x+0.1
+     end do
+
+     ans: X should be in radians,x cannot take other than -phi to 
+phi
+     therefor for x>3.14 will hang for some compilers.
+
+14.  The program given below is to print the radius and area
+     of a circle.  For large values of n, the execution is found 
+     to take long time. State reasons? How do you reduce the time
+     of execution.
+     int r,n
+     do
+     pi=3.14159
+     else
+     .
+.    .    
+     .
+     ans:  Assignments can be done outside.
+           write subroutines to calculate the repeated 
+calculations.
+************************************************************************
+***********************************************************************
+set 7
+***********************************************************************
+
+This is infosys paper which was held recently in B'lore.
+There were 10 questions to be solved in 1 hour.
+
+
+1. BE * BE = ACB. Identify A,B,C. Ans : BE = 19
+2. 1/3 of water gets evaporated from a fully filled jar on the first day.
+    On the second day 2/3 rd of the left portion gets evaporated. What is 
+    the amt of water left.
+    
+3.  There are 9 cards in three rows and three columns. There is a Red card 
+   either in the first or second row. There are Three yellow cards occupying
+   3 columns. There are three green cards one in each row, and one being in 
+   the last column. There are two Blue cards one being in the last row. 
+   Identify their locations. 
+   
+4. I was in one of the 9 Aero-planes packed in a single rowIf the product 
+    of my place from right and the planes to my left is lesser by three than
+    the product when I was shifted by 3 position towards right. 
+    What is my position? (The figures in this pbm may not be exact).
+    
+5.  M, T, K, E, and A went to collect berries. Only M collected 40 berries. 
+     She distributed them among all others, keeping nothing for her. On the 
+     way T found 2 berries, K lost 2, E doubled her qty, and A lost half of 
+     what she had. Then all of them were left with equal berries.How many 
+     beries did M give to each of them. 
+     
+6. I walk down the escalator. If I walk 24 steps I require 34 min. If I walk 
+  down 36 steps I need 26 min. What are the no of steps on the escalator.
+  ( Puzzle no 27 of PUZZLES TO PUZZLE YOU by Shakuntala Devi)
+  
+7. There are five people. Each one has a coin on his fore head. It is black 
+   if he is a liar else it is white. A says I can see four Blacks. B says I 
+   can see 2 black and 2 whites. WHo is lieing.
+   
+8. It is something like this. There are 80 intellegent persons. 60 educated 
+  persons. 50 are illeterate. 30 belong to rural area. The problem definition 
+  goes on like this by defining different combinitions. Totally confusing you. 
+  Then there are 5 questions asked. Try get such puzzle. 
+ 
+ 
+***********************************************************************
+	
+	Tata Infotech
+********************************
+
+TIL paper
+WHAT WILL BE AFTER
+
+  1. ACBDFGI ----- I H K J L(H)
+  2. AIZBEYCIXDI ----- GENJW (W)
+  3. ADGJMP------RWTSU(U)
+  4.ABCEFGIJK-----MLONP(M)
+  5.ABFGKLPQ------TSVUW(U)
+  6. ZWXUVST---APSET
+  7.ARHXYTDTWST---NPJKR(P)
+  8.FMVIPZVIEB---IRYOU
+  9.NZIYCXWF--JFVMY( )
+ 10.AACASPASPKA---RQTSU(S)
+ 11.AECPS----TRUE(U)
+ 12.BBPRDDLNFFIK---HQJIK(H)
+ 13.AZEXIVMT----RQNSO(Q)
+ 14.ABDEKP----LIWUX(U)
+ 15.ABDFDIGM -----LKMNO
+ 16.BIDAEGHIFJMN ---LKNMO(K)
+ 17. LOXWEFGVUHIJK----PNSRT(T)
+18.OOJTOPQNOERTO-----QOUBW(O)
+ 19.PRNUUPEJRBB------HVUNE(E)
+ 20.LULMGMNFNPS-------ONQPS(P)
+ 21.SWIMMERS-------FDBCEA
+ 22. SUNFLOW------CCBAEBG
+			set 2   TATA INFOTECH
+			*********************
+VERBAL
+1.Depreciation:  deflation, depression, devaluation, fall, slump
+
+2.Depricate : feel and express disapproval,
+
+3. incentive : thing one encourages one to do (stimulus)
+
+4. Echelon : level of authority or responsibility'
+
+5.  Innovation : make changes or introduce new things
+
+6. Intermittent : externally stopping and then starting
+
+7. Detrimental: harmful
+
+8. Conciliation : make less angry or more friendly
+
+9. orthodox: conventional or traditional, superstitious
+
+10. fallible : liable to error
+
+11. volatile : ever changing
+
+12. manifest: clear and obvious
+
+13.connotation : suggest or implied meaning of expression
+
+14. Reciprocal: reverse or opposite
+
+15. Agrarian : related to agriculture
+
+16. vacillate : undecided or dilemma
+
+17. expedient : fitting proper, desirable
+
+18. simulate : produce artificially resembling an existing one.
+
+19. access : to approah
+
+20. compensation: salary
+
+21. Truncate : shorten by cutting
+
+22. adherence : stick
+
+23. Heterogenous: non similar things
+
+24. surplus : excessive
+
+25. Assess : determine the amount or value
+
+26.Congnizance : knowledge
+
+27. retrospective : review
+
+28.naive : innocent,rustic
+
+29. equivocate : tallying on both sides, lie, mislead
+
+30. Postulate : frame a theory
+
+31. latent : dormant, secret
+
+32. fluctuation : wavering,
+
+33. eliminate : to reduce
+
+34. Affinity : strong liking
+
+35. expedite : hasten
+
+36. console : to show sympathy
+
+37. adversary : opposition
+
+38.  affable : lovable or approachable
+
+39. Decomposition : rotten
+
+40 agregious : apart from the crowd, especially bad
+
+41. conglomaration: group, collection
+
+42. aberration: deviation
+
+43. aurgury : prediction
+
+44. crediability : ability to common belief, quality of being credible
+
+45.coincident: incidentally
+
+46.Constituent : accompanying
+
+47. Differential : having or showing or making use of
+
+48. Litigation : engaging in a law suit
+
+49.Maratorium: legally or offficiallly determined period of dealy before
+   fulfillment of the agreement of paying of debts.
+
+50. negotiate : discuss or bargain
+
+51. preparation : act of preparing
+
+52. Preponderant : superiority of power or quality
+
+53.  relevance : quality of being relevant
+
+54. apparatus : applianes
+
+55. Ignorance : blindness, in experience
+
+56. obsession: complex enthusiasm
+
+57. precipitate : speed,active
+
+Section III
+
+Letter Series
+These are too tough. Maintain time     26 questions ----- 10min
+
+1. A C BDEFGI   -  I  H K J L    ANS:  H
+
+2. AIZBEYCIXDI  -  GENJW     ANS;W
+
+3. ADGJMP   - RWTS    ANS; S
+
+4. ABCEFGIJK - MLONP    ANS; M   nOTE: MLONP ARE GIVEN OPTIONS
+
+5. ABFGKLPQ - TSVUW   ANS;U
+
+6 JWXUVST  -  QPSET   ANS; Q
+
+7. ARHXYTDTWST   - NPTKR   ANS; P
+
+8.FMBIPZVIEV  - IRYOU   
+
+9. NZI YCX KWF - JFVMY  ANS;V
+
+10. AASASPASPKA - RQTSU  ANS;S
+
+11. AECPS - TRUE ANS;U
+
+12. BBPRDDLNFFIK - HQJIK   ANS'H
+2C mislead
+
+30. Postulate : frame a theory
+
+31. latent : dormant, secret
+
+32. fluctuation : wavering,
+
+33. eliminate : to reduce
+
+34. Affinity : strong liking
+
+35. expedite : hasten
+
+36. console : to show sympathy
+
+37. adversary : opposition
+
+38.  affable : lovable or approachable
+
+39. Decomposition : rotten
+
+40 agregious : apart from the crowd, especially bad
+
+41. conglomaration: group, collection
+
+42. aberration: deviation
+
+43. aurgury : prediction
+
+44. crediability : ability to common belief, quality of being credible
+
+45.coincident: incidentally
+
+46.Constituent : accompanying
+
+47. Differential : having or showing or making use of
+
+48. Litigation : engaging in a law suit
+
+49.Maratorium: legally or offficiallly determined period of dealy before
+   fulfillment of the agreement of paying of debts.
+
+50. negotiate : discuss or bargain
+
+51. preparation : act of preparing
+
+52. Preponderant : superiority of power or quality
+
+53.  relevance : quality of being relevant
+
+54. apparatus : applianes
+
+55. Ignorance : blindness, in experience
+
+56. obsession: complex enthusiasm
+
+57. precipitate : speed,active
+
+Section III
+
+Letter Series
+These are too tough. Maintain time     26 questions ----- 10min
+
+1. A C BDEFGI   -  I  H K J L    ANS:  H
+
+2. AIZBEYCIXDI  -  GENJW     ANS;W
+
+3. ADGJMP   - RWTS    ANS; S
+
+4. ABCEFGIJK - MLONP    ANS; M   nOTE: MLONP ARE GIVEN OPTIONS
+
+5. ABFGKLPQ - TSVUW   ANS;U
+
+6 JWXUVST  -  QPSET   ANS; Q
+
+7. ARHXYTDTWST   - NPTKR   ANS; P
+
+8.FMBIPZVIEV  - IRYOU   
+
+9. NZI YCX KWF - JFVMY  ANS;V
+
+10. AASASPASPKA - RQTSU  ANS;S
+
+11. AECPS - TRUE ANS;U
+
+12. BBPRDDLNFFIK - HQJIK   ANS'H
+lly are capable of
+    talking in two languages.  On whole the no. of people who 
+    speak  the various languages as follows.
+    spanish -3,  Italian - 3, English-2, French-2.
+    
+   A.  Who can speak with D other than E.   Ans.(All others)
+
+   B.  Two persons(A & B) have to talk. Who can mediate them.
+       clue: See who other can speak, language of those two
+       persons
+ 
+   C. I f a new person has to enter, what languages should
+      he know , So that he can talk to as many people as 
+      possible.     ans: Spanish and Italian.
+
+2.  There are three programmers A,B and C. There are 5 
+programming 
+    assistants D,E,F,G and H.  Management is planning to open
+    a new office in another city using 3 assistants and 2 
+    programmers of the present strength.  To do so, they planned
+    to seperate certain individuals who do not function well
+    together.  The following guide lines were established to 
+    set up the new Office.
+
+   a.  Programmers A and C are constantly finding fault with 
+       one and another and should not be sent as a team
+       to the new office.
+   
+   b.  C and E function well alone but not as a team, They
+       should be seperated.
+ 
+   c.  D and G have not bbeen on speaking terms for many months
+       They should not go together.
+
+   d.  Since D and F have been competing for promotion, they 
+       shall not be a team.
+
+ 
+   D.  If A is to be moved as one of the programmers, which of
+       the following cannot be a possible working team?
+       i.  ABDEH  ii.  ABDGH  iii.  ABEFG  iv. ABEGH v. ABFGH
+       ans: ii.
+
+   E.  If C and F are moved to the new office, How many
+       combinations are possible? 
+       i. 1  ii.2   iii.3  iv. 4  v.5    ans: i
+   
+   F.  If C is sent to the new office , which member of the
+       staff cannot go with C?
+       i.B  ii. D   iii.   F    iv.  G   v. H
+
+
+
+3.  Flowers Problems:
+    
+    G.  ans:  C
+    H.  ans: D
+
+
+SECTION  VI:
+
+1.  The loop has to be executed as follows.
+             
+     i=20   
+     if log i=0  then stop
+     else sum=sum+i
+     continue
+
+  a.  If i[0]=1 and log operand is >=. What is i[f].
+      1. 9  ii. 10   iii.  11   iv   12    ans: iii.
+  
+  b.  if i[0]=1 and i[f]=10  what should be the
+      log operand?
+      i. =  i. >    iii.<   iv.  <=     ans: B
+
+  c.  if i=i-1, what is i[f] if loop is <
+      ans: i[f]=0; i[0]=10.
+
+2.  function func(x)
+if(n=1) return;
+else
+func(n) = (n+1)*func(n-1)
+
+then func(5) = ?    ans : 360
+
+5.  n=0
+Do i=1,2
+Do j=1,3
+DO k=1,2
+If((I+J-K)>=2) n=n+1
+Print n
+end do
+
+ans : 8
+
+6.  Given the quadratic equation ax*x+bx+c =0, Find the 
+logical error in the given program and suggest the 
+correction.
+
+7.  The alphabets A,B....Z arte asigned as numbers 1,2...26.
+    What is the expression to find vowels
+    The function below returns Boolean
+    func()
+    Do I = 1,26
+    If (expression) the true
+    else false
+    
+
+    What is the expression? i=1 or 5 ii. i= 15 or 21.
+
+8.  To convert a real to integer by rounding off
+    ans: exp: x+0.5
+
+9.  To check the given number m is prime or not, it
+    is enough to check the division factors from 2 to ____
+
+10  A 3by3 matrix is to be determined from the following logic.
+    State true of False. Whether the logic works. If false
+    write the necessary corrections
+    a11+a12+a13=magic-total
+    loop1:  Do i=2,3
+            If(ai1+ai2+ai3#magic-total) go to failure
+            end loop1.
+
+    loop2:  Do j=1,2,3
+            If(a1j+a2j+a3j#magic-total) go to failure
+            end loop 2.
+         printf("the matrix is magic")
+         printf("the matric is not a magic") 
+    Ans: The diagonals are not checked.
+    After loop2 the following two statements should be added.
+    if(a11+a22+a33#magic-total) go to failure
+    if(a31+a22+a13# magic-total) go to failure
+
+11. A logic is given to determine the change given to the 
+    customers in a shop. Tell whether the logic is false or true?
+    and tell the reason?
+
+   int change;
+   i=50,25,10,5,2,1
+   change=change-i
+   if(change>=0) printf("change to be given"i);
+   else
+   change=change+i;
+   end do loop
+   ans:  The logic doesnot work for change less than 50
+         as change takes -ve value and the loop is ended
+         without giving change
+
+12.  A program is used to change Octal to decimal. If n is
+     no of digits and are entered into the program. The digits
+     are entered from minimum to maximum.
+
+    int oct;
+    dec=0;
+    do i=1 to n
+    input=oct;
+    dec = (exp)
+    end do
+ what is the expression to be written?
+
+  ans:  dec = dec+(8**(i-1)*oct)
+
+13.  The logic below is bound to go into endless loop for some
+     compilers, state the reason?
+    
+     do(x<=4.0)
+     printf("%d%c",x,sin(x))
+     x = x+0.1
+     end do
+
+     ans: X sho
+
+
+Send FREE Greetings for Father's Day--or any day!
+Click here: http://www.whowhere.lycos.com/redirects/fathers_day.rdct
+
+
+--------------4589A94A56B707B2D569C226--
+
