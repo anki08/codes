@@ -1,0 +1,6 @@
+main()
+{
+
+printf(" %d mod %d is  %d \n",0x7e00e9,0x7,0x7e00e9 % 0x7);
+}
+
